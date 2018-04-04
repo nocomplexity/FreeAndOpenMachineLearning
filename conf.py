@@ -63,7 +63,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'Free and Open Machine Learning'
-copyright = '2018,<a target="_blank" href="https://www.bm-support.org">BM-Support.org</a> and all contributors'
+copyright = '2018, BM-Support.org and all contributors'
 author = 'Maikel Mardjan and contributors'
 
 # The version info for the project you're documenting, acts as replacement for
