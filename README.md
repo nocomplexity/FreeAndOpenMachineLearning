@@ -8,19 +8,24 @@ This project is an open research project. It is open for all to join.
 Since this project is a decentralized open learning project, to drive innovation, it is supported by BM-Support Foundation (https://www.bm-support.org/ ) If you are an open company, consider to join this Foundation! https://www.bm-support.org/open-company-principles/ 
 
 This project is in alpha stage. However already planned spin-offs from this project are:
-* Creating one or more open publications (cc-by-sa). Yes, there is an 99% chance that an book with all lessons learning will be published. This to share knowledge developed.
+* Creating one or more open publications (cc-by-sa). Yes, lessons learned should be published or shared.
 * Workshop and Tutorials
 * Creating and developing a must known list of FOSS Machine Learning Frameworks and Tools available.
 
 ## Goals of the project
 
-One of the goals of the project is to develop and harvest ml-knowledge that is not (easily) available elsewhere or not available under an open license
+One of the goals of the project is to develop and harvest ml-knowledge that is not (easily) available elsewhere or not available under an open license.
+
+## The Free and Open Machine Learning Book
+
+We are in the process of writing a book Machine Learning that motivates people to learn machine learning concepts and how machine learning can be used or tried. This book is not intended to cover all advanced (mathematical) machine learning techniques or explaining ml specific software platforms. There are already some books doing this. Instead, we aim to provide the necessary knowledge that is required to start applying machine learning with success in large or small enterprises. 
+
 
 ### Research questions
 
 The main research questions this project is resolving are:
 * What problems can be more easily solved using machine learning applications?
-* What are the main security and privacy concerns when machine learning is applied and used?
+* What are the main security,privacy and safety concerns when machine learning is applied and used?
 
 The to able to answer this questions an architecture framework is developed, where answers on the following questions will be harvested:
 * Why is Free and Open Machine learning important?
