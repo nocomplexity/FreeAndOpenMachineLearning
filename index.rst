@@ -26,6 +26,7 @@ Table of Contents
    preface
    introduction
    whyossml
+   catalogue
    references
    help
    license
