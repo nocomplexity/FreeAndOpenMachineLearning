@@ -1,3 +1,6 @@
+[![Documentation Status](http://readthedocs.org/projects/freeandopenmachinelearning/badge/?version=latest)](http://freeandopenmachinelearning.readthedocs.io/en/latest/?badge=latest)
+
+                
 # Free and Open Machine Learning
 
 Great that you are interested in this open collaboration project.
