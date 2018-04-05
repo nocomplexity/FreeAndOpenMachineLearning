@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Free and Open Machine Learning Book
-===============================================
+Free and Open Machine Learning Book
+=====================================
 
 This book is all about how to applying open machine learning solutions for real.
 
