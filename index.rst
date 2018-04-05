@@ -23,6 +23,7 @@ Table of Contents
    :numbered:
    :caption: Contents:
 
+   preface
    references
    help
    license
@@ -35,7 +36,6 @@ Table of Contents
    Collaboration is fun, so help by contributing !
    Other Chapters currently in alfa stage are:
    
-   - Preface
    - Introduction
    - What is machine learning
    - ML in business
