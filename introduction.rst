@@ -31,5 +31,56 @@ This book aims to cover the high level machine learning concepts and gives you i
 
 So this book is concentrated on machine learning aspects where software, business and technology touch each other.
 
+.. image:: /images/domains.png
+   :width: 400px
+   :alt: Domains touching
+   :align: center 
+
 (* When we write Open Source Software or OSS in this report we explicitly mean FOSS as defined by the Free Software Foundation - FSF.org )
+
+Who should read this book?
+---------------------------
+
+This book is created for IT professionals who wants to learn of machine learning without being already forced into a specific solution. So I you like architecture, concepts to create your own solution, than this publication if for you.
+
+This book is primary written with IT managers, directors, business owners, system engineers, quality managers and IT architects in mind. 
+
+This book crucial outlines concepts, but will not go into too much mathematical or technical details.  However after reading this book you should have a more complete and realistic overview of the possibilities applying machine learning (ML) or artificial intelligence (AI) for your use cases.
+
+Why another book on Machine Learning?
+---------------------------------------
+
+There are many books and courses developed to learn you what machine learning is. Most of these books and courses are focused on hands on learning and require you to program. However not many books and resources are focused on explaining the concepts with a clear focus on real business use cases. 
+
+Despite the enormous buzz and attention for machine learning currently it is proven to be hard to apply machine learning for real profitable use cases. Applying machine learning starts with a broad overview of the concepts, the architecture, the technology components and pitfalls that are present. 
+
+Is Machine Learning complex?
+-----------------------------
+
+You might get the impression when visiting presentations from commercial vendors that machine learning is simple. The hard work is already done and all you have to do is get your credit card and make use of the incredible machine learning cloud offering. This machine learning as a service (MaaS) will take your company to the next level and  the advise of the sales consultant is clear: Using their MaaS service is so simple that entering your credit card number is probably the hardest part.  Maybe it will take a minute, maybe more. But you will find out that things are maybe not that simple after all.  And you are right. The great offerings of many large and small vendors selling MaaS from a fantastic cloud offering will not solve your business problem in a simple way. As with all new technologies and especially IT technology: There are over promises on advantages and getting the return on your investments is not that simple. You will be confronted with complex terminology, a machine learning back-box from your vendor that is of course great at billing, data collection and data cleaning problems you had never heard of, and security, privacy and even safety issues. And if you think it can not get worse also legal and ethical issues will slow your project down. By using an 100% open approach (tools, methods) for machine learning a lot of risks can be mitigated. E.g. it is easier to control spending in the important ramp up phase of your project. If needed for production and scalability you can always move calculation to a cloud platform in a later stage.
+
+There have been tremendous advances made in making machine learning more accessible over the past few years. This book outlines some great OSS applications ready to be used, even if you really hate difficult mathematical formulas. Multiple developments are in progress that now really make it possible to drop your data and let a complex ML algorithm do the hard work. 
+
+But don’t be fooled. Machine learning remains a relatively ‘hard’ problem. Solving soft problems with machine learning requires far more than a good computer scientist alone. Using ML for soft problems requires a variety of disciples and creativity, experimentation and tenacity.
+
+Organization of this book
+------------------------------
+
+The topics explored in this book include:
+Chapter ‘tbd ’ outlines why openness and OSS is so important for machine learning.
+Chapter ‘tbd ’ dives into the basic concept and terms that come with machine learning.
+
+.. todo::
+  
+  Complete this when all chapters are clear and ready!
+
+Errata, updates and support
+------------------------------
+
+We have made serious efforts to create a first readable version of this book. However if you notice typos, spelling and grammar errors please notify us so we can improve this book. Since the world of machine learning is rapidly evolving some parts of this book will needs updates to present to you the latest machine learning solution building blocks. That’s why there is also an on-line version of this book available that will incorporate the latest updates.
+
+If like to contribute to make this book better: Please CONTRIBUTE! See [chapter contribution]
+
+If you need support for your business use case and need some guidance with your pilot or project using machine learning: Please see our sponsor list [chapter consultancy] 
+
 

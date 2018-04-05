@@ -24,6 +24,8 @@ Table of Contents
    :caption: Contents:
 
    preface
+   introduction
+   whyossml
    references
    help
    license
