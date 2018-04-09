@@ -26,6 +26,7 @@ Table of Contents
    preface
    introduction
    whyossml
+   whatisml
    catalogue
    references
    help

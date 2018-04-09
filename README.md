@@ -43,10 +43,15 @@ The to able to answer this questions an architecture framework is developed, whe
 
 # Contributing
 
+If you like your name stated here: This publication is open source. Issues and pull requests are welcome.
+
+All contributors will be added to this list. 
+
+*So get involved in the discussions and make IT better!*
+
 The following people have contributed to this project:
  [name] [OPTIONAL email] [Optional Organization name ]
 
-If you like your name stated here: This publication is open source. Issues and pull requests are welcome. All contributors will be added to this list. So join the discussions and make IT better!
 
 # Licensing
 
