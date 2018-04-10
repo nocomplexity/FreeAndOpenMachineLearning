@@ -15,6 +15,17 @@ This book is all about taking advantage of the new OSS machine learning technolo
 
 This book also gives an overview of all important OSS machine learning frameworks and OSS support tools that you can use for prototyping with machine learning or when using machine learning for real production use cases.
 
+
+.. warning::
+
+   This document is in alfa-stage!!
+   Collaboration is fun, so :ref:`Help Us <Help>`.  by contributing !
+   There are some chapters currently written and editing work (typos,spelling) is yet to be done!
+   Some more background information of the project can be found in `the readme on github.com <https://github.com/nocomplexity/FreeAndOpenMachineLearning>`_.
+   And do not forget to join the `ROI movement! <https://www.bm-support.org/projects/>`_
+
+   
+
 Table of Contents
 ==================
 
@@ -34,21 +45,6 @@ Table of Contents
    license
 
 
-
-.. note::
-
-   This document is in alfa-stage. 
-   Collaboration is fun, so help by contributing !
-   Other Chapters currently in alfa stage are:
-   
-   - Introduction
-   - What is machine learning
-   - ML in business
-   - NLP in business
-   - ML Reference Architecture
-   - Security and Privacy aspects
-   - Future of ML
-   - Catalog of Open ML frameworks and applications
 
 
 
