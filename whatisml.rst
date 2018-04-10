@@ -80,7 +80,7 @@ To really understand machine learning a new view on how software can be created 
 Determining the exact context of a car in traffic and in order to make a decision within milliseconds to go left or right is very hard programming challenge. It will take you decades and you will never do it right. 
 This is why a paradigm shift in creating software for the next phase of automation is needed. 
 
-Programming computers the traditional way made it possible to put a man on the moon. To break new barriers in automation in our daily lives and science requires new ways of thinking about creating intelligent software. Machine learning is a new way to ‘program’ computers. When a programming challenge is too large to solve with traditional programming methods (requirements, getting input, etc) a program for a computer should be ‘generated’. Generated based on some known desired output types. But knowing all desired output types in front is impossible. So your new ‘program’ will get it wrong sometimes. Large amount of input data will increase the quality of the generated prediction model. In the old traditional paradigm called ‘the program’. 
+Programming computers the traditional way made it possible to put a man on the moon. To break new barriers in automation in our daily lives and science requires new ways of thinking about creating intelligent software. Machine learning is a new way to ‘program’ computers. When a programming challenge is too large to solve with traditional programming methods (requirements, getting input, etc) a program for a computer should be ‘generated’. Generated based on some known desired output types. But knowing all desired output types in front is impossible. So your new ‘program’ will get it wrong sometimes. Large amounts of input data will increase the quality of the generated prediction model. In the old traditional paradigm called ‘the program’. 
 
 
 .. image:: /images/whatisml.png
@@ -138,9 +138,10 @@ Reinforcement Learning is close to human learning. Reinforcement learning differ
 
 Reinforcement learning (RL) is learning by interacting with an environment. An RL agent learns from the consequences of its actions, rather than from being explicitly taught and it selects its actions on basis of its past experiences (exploitation) and also by new choices (exploration), which is essentially trial and error learning. 
 
-In reinforcement learning (RL) there’s no answer key, but your reinforcement learning agent still has to decide how to act to perform its task. In the absence of existing training data, the agent learns from experience. It collects the training examples (“this action was good, that action was bad”) through trial-and-error as it attempts its task, with the goal of maximizing long-term reward.
+In reinforcement learning (RL) there's no answer key, but your reinforcement learning agent still has to decide how to act to perform its task. In the absence of existing training data, the agent learns from experience. It collects the training examples (“this action was good, that action was bad”) through trial-and-error as it attempts its task, with the goal of maximizing long-term reward.
 
 RL methods are employed to address the following typical problems:
+
 * The Prediction Problem and 
 * the Control Problem. 
 

@@ -27,6 +27,7 @@ Table of Contents
    introduction
    whyossml
    whatisml
+   architecture
    catalogue
    references
    help
