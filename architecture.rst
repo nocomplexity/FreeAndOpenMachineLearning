@@ -3,11 +3,11 @@ Machine learning reference architecture
 
 When you are going to apply machine learning for your business for real you should develop a solid architecture. A good architecture covers all crucial concerns like business concerns, data concerns, security and privacy concerns. And of course a good architecture should address technical concerns in order to minimize the risk of instant project failure.
 
-Unfortunately it is still not common practice for many companies to share architectures as open access documents. So most architectures you will find are more solution architectures published by commercial vendors. 
+Unfortunately it is still not a common practice for many companies to share architectures as open access documents. So most architectures you will find are more solution architectures published by commercial vendors. 
 
 Architecture is a minefield. And creating a good architecture for new innovative machine learning systems and applications is an unpaved  road. Architecture is not by definition high level and sometimes relevant details are of the utmost importance. But getting details of the inner working on the implementation level of machine learning algorithms can be very hard. So a reference architecture on machine learning should help you in several ways. 
 
-Unfortunately there is of course no de-facto single machine learning reference architecture. Architecture organizations and standardization organizations are never the front runners with new technology. So there are not yet many mature machine learning reference architectures that you can use. You can find vendor specific architecture blueprints, but these architecture mostly lack specific architecture areas as business processes needed and data architecture needed. Also the specific vendor architecture blueprints tend to steer you into a vendor specific solution. What is of course not always the most flexible and best fit for your business use case in the long run. 
+Unfortunately there is no de-facto single machine learning reference architecture. Architecture organizations and standardization organizations are never the front runners with new technology. So there are not yet many mature machine learning reference architectures that you can use. You can find vendor specific architecture blueprints, but these architecture mostly lack specific architecture areas as business processes needed and data architecture needed. Also the specific vendor architecture blueprints tend to steer you into a vendor specific solution. What is of course not always the most flexible and best fit for your business use case in the long run. 
 
 In this section we will describe a (first) version of an open reference architecture for machine learning. Of course this reference architecture is an open architecture, so open for improvements and discussions. So all input is welcome to make it better! See section  :ref:`Help <Help>`. 
 
@@ -85,7 +85,7 @@ Principles are commonly used within business design and successful IT projects. 
 
 
 
-The key principles that are used for the reference machine learning architecture are:
+The key principles that are used for this reference machine learning architecture are:
 
 1. The most important machine learning aspects must be addressed.
 #. The quality aspects: Security, privacy and safety require specific attention.
@@ -118,7 +118,7 @@ Conceptual overview of machine learning reference architecture
 
 Since this simplified machine learning reference architecture is far from complete it is recommended to consider e.g. the following questions when you start creating your solution architecture where machine learning is part of:
 
-* Do you just want to experiment and play with some models? 
+* Do you just want to experiment and play with some machine learning models? 
 * Do you want to try different machine learning frameworks and libraries in to discover what works best for your use case? Machine learning systems never work directly. You will need to iterate, rework and start all over again. Its innovation!
 * Is performance crucial for your application? 
 * Are human lives direct or indirect dependent of your machine learning system?
