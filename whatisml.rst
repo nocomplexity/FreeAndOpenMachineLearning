@@ -175,6 +175,15 @@ Every technology will be evolving continuously. So when you have mastered machin
 
 AutoML can be defined as: the automated process of algorithm selection, hyperparameter tuning, iterative modelling, and model assessment. AutoML will accelerate the model building process, the time consuming ‘human’  part within ML.
 
+So with the current machine learning we have:
+    
+    Solution = ML expertise + data + computation
+
+With AutoML the challenge is to turn this into:
+    
+    Solution = data + 100X computation
+
+
 Other common terms used in the ML world
 -----------------------------------------
 

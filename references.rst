@@ -30,6 +30,11 @@ Adversarial Examples that Fool both Human and Computer Vision, https://arxiv.org
 
 Mathematics for Machine Learning, https://mml-book.github.io/ (note: Still in early draft)
 
+Statistical Modeling: The Two Cultures, Leo Breiman, 2001, https://projecteuclid.org/download/pdf_1/euclid.ss/1009213726 
+
+AI Now Institute, The AI Now Institute produces interdisciplinary research on the social implications of artificial intelligence and acts as a hub for the emerging field focused on these issues.  https://ainowinstitute.org/ 
+
+
 Learning resources
 ========================
 
@@ -40,3 +45,8 @@ NLP concepts with spaCy ,Allison Parrish (http://www.decontextualize.com/ ),  ht
 Great introduction course on ML created by Google:
  https://developers.google.com/machine-learning/crash-course/ 
 
+Interpretable Machine Learning,A Guide for Making Black Box Models Explainable,Christoph Molnar, https://christophm.github.io/interpretable-ml-book/ 
+
+A Tutorial for Encrypted Deep Learning, https://iamtrask.github.io/2017/03/17/safe-ai/ 
+
+Educative blog on Cryptography and Machine Learning, with sample code on github, see https://mortendahl.github.io/ 
