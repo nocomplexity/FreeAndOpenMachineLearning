@@ -101,7 +101,7 @@ Important concerns for this machine learning reference architecture are the aspe
 
 * Business aspects (e.g capabilities, processes, legal aspects, risk management)
 * Information aspects (data gathering and processing, data processes needed)
-* Machine learning applications and frameworks needed (e.g. type of algoritme, easy of use)
+* Machine learning applications and frameworks needed (e.g. type of algorithm, easy of use)
 * Hosting (e.g. compute, storage, network requirements but also container solutions)
 * Security, privacy and safety aspects
 * Maintenance (e.g. logging, version control, deployment, scheduling)
@@ -109,7 +109,7 @@ Important concerns for this machine learning reference architecture are the aspe
 
 
 
-.. image:: /images/ml-abbs.png
+.. image:: /images/ml-reference-architecture.png
    :width: 600px
    :alt: Machine Learning Architecture Building Blocks
    :align: center 
