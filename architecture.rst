@@ -192,3 +192,54 @@ More information on the Jupyter notebook can be found here https://jupyter.org/ 
 
 
 But do not fall in love with a tool too soon. You should be confronted with the problem first, before you can evaluate what tool makes your work more easy for you.
+
+
+Data
+^^^^^^
+
+Data is the heart of the machine earning and many of most exciting models don’t work without large data sets. Data is the oil for machine learning. Data is transformed into meaningful and usable information. Information that can be used for humans or information that can be used for autonomous systems to act upon.
+
+In normal architectures you make a clear separation when outlining your data architecture. Common view points for data domains are: business data, application data and technical data For any machine learning architecture and application data is of utmost importance. Not all data that you use to train your machine learning model needs can be originating from you own business processes. So sooner or later you will need to use data from other sources. E.g. photo collections, traffic data, weather data, financial data etc. Some good usable data sources are available as open data sources. 
+For a open machine learning solution architecture it is recommended to strive to use open data. This since open data is most of the time already cleaned for privacy aspects. Of course you should take the quality of data in consideration when using external data sources. But when you use data retrieved from your own business processes the quality and validity should be taken into account too. 
+
+Free and Open Machine learning needs to be feed with open data sources. Using open data sources has also the advantage that you can far more easily share data, reuse data, exchange machine learning models created and have a far easier task when on and off boarding new team members. Also cost of handling open data sources, since security and privacy regulations are lower are an aspect to take into consideration when choosing what data sources to use.
+
+For machine learning you will need ‘big data’. Big data is any kind of data source that has one the following properties:
+
+* Big data is data where the volume, velocity or variety of data is (too) great.So big is really a lot of data! 
+* The ability to move that data at a high Velocity of speed.
+* An ever-expanding Variety of data sources.
+* Refers to technologies and initiatives that involve data that is too diverse, fast-changing or massive for conventional technologies, skills and infra- structure to address efficiently.
+
+
+Every Machine Learning problem starts with data. For any project most of the time large quantities of training data are required. Big data incorporates all kind of data, e.g. structured, unstructured, metadata and semi-structured data from email, social media, text streams, images, and machine sensors (IoT devices).
+
+Machine learning requires the right set of data that can be applied to a learning process. An organization does not have to have big data in order to use machine learning techniques; however, big data can help improve the accuracy of machine learning models. With big data, it is now possible to virtualise data so it can be stored in the most efficient and cost-effective manner whether on- premises or in the cloud.
+
+Within your machine learning project you will need to perform data mining. The goal of data mining is to explain and understand the data. Data mining is not intended to make predictions or back up hypotheses. 
+
+One of the challenges with machine learning is to automate knowledge to make predictions based on information (data). For computer algorithms everything processed is just data. Only you know the value of data. What data is value information is part of the data preparation process. Note that data makes only sense within a specific context. 
+
+The more data you have, the easier it will be to apply machine learning for your specific use case.  With more data, you can train more powerful models. 
+
+Some examples of the kinds of data machine learning practitioners often engage with:
+
+* Images: Pictures taken by smartphones or harvested from the web, satellite images, photographs of medical conditions, ultrasounds, and radiologic images like CT scans and MRIs, etc.
+* Text: Emails, high school essays, tweets, news articles, doctor’s notes, books, and corpora of translated sentences, etc.
+* Audio: Voice commands sent to smart devices like Amazon Echo, or iPhone or Android phones, audio books, phone calls, music recordings, etc.
+* Video: Television programs and movies, YouTube videos, cell phone footage, home surveillance, multi-camera tracking, etc.
+* Structured data: Webpages, electronic medical records, car rental records, electricity bills, etc
+* Product reviews (on Amazon, Yelp, and various App Stores)
+* User-generated content (Tweets, Facebook posts, StackOverflow questions)
+* Troubleshooting data from your ticketing system (customer requests, support tickets, chat logs)
+
+
+When developing your solution architecture be aware that data is most of the time:
+
+* Incorrect and
+* useless.
+
+So meta data and quality matters. Data only becomes valuable when certain minimal quality properties are met. For instance if you plan to use raw data for automating creating translating text you will soon discover that spelling and good use of grammar do matter. So the quality of the data input is an import factor of the quality of the output. E.g. automated Google translation services still struggle with many quality aspects, since a lot of data captures (e.g. captured text documents or emails) are full of style,grammar and spell faults.
+
+
+Data science is a social process. Data is generated by people within a social context. Data scientists are social people who will have to do a lot of communication with all kind of business stakeholders. Data scientist should not work in isolation because the key thing is to find out what story is told within the data set and what import story is told over the data set.  
