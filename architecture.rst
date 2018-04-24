@@ -125,3 +125,53 @@ Since this simplified machine learning reference architecture is far from comple
 
 
 In the following sections a more in depth description of the various machine learning architecture building blocks is given. 
+
+
+Business Processes
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+To apply machine learning with success it is crucial that the core business processes of your organization that will be affected with this new technology are determined. In most cases secondary business processes will benefit more than primary processes. Think of marketing, sales and quality aspects that make your primary business processes better.
+
+Business Services
+^^^^^^^^^^^^^^^^^^
+
+Business services are services that your company provides to customers, both internally and externally. When applying machine learning for business use you should create a map to outline what services are impacted, changed or disappear when using machine learning technology. Are customers directly impacted or will your customer experience indirect benefits?
+
+Business Functions
+^^^^^^^^^^^^^^^^^^^
+A business function delivers business capabilities that are aligned to your organization, but not necessarily directly governed by your organization. For machine learning it is crucial that the information that a business function needs is known. Also the quality aspects of this information should be taken into account. To apply machine learning it is crucial to know how information is exactly processes and used in the various business functions.
+
+People, Skills and Culture
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Machine learning needs a culture where experimentation is allowed. When you start with machine learning you and your organization need to build up knowledge and experience. Failure will happen and must be allowed. Fail hard and fail fast. Take risks. However your organization culture should be open to such a risk based approach. IT projects in general fail often so doing an innovative IT project using machine learning will be a risk that must be able to cope with. 
+To make a shift to a new innovative experimental culture make sure you have different types of people directly and indirectly involved in the machine learning project. Also make use of good temporary independent consultants. So consultants that have also a mind set of taking risks and have an innovative mindset. Using consultants for machine learning of companies who sell machine learning solutions as cloud offering do have the risk that needed flexibility in an early stage is lost. Also to be free on various choices make sure you are not forced into a closed machine learning SaaS solution too soon.
+Since skilled people on machine learning with the exact knowledge and experience are not available you should use creative developers. Developers (not programmers) who are keen on experimenting using various open source software packages to solve new problems. 
+
+
+Business organization
+^^^^^^^^^^^^^^^^^^^^^^
+
+Machine learning experiments need an organization structure that does not limit creativity. In general hierarchical organizations are not the perfect placed where experiments and new innovative business concepts can grow. Applying machine learning in an organization requires an organization that is data and IT driven. A perfect blueprint for a 100% good organization structure does not exist, but flexibility, learning are definitely needed. Depending on the impact of the machine learning project you are running you should make sure that the complete organization is informed and involved whenever needed. 
+
+Partners
+^^^^^^^^^^^
+Since your business is properly not Amazon, Microsoft or Google you will need partners. Partners should work with you together to solve your business problems. If you select partners pure doing a functional aspect, like hosting, data cleaning ,programming or support and maintenance you will miss the needed commitment and trust. Choosing the right partners for your machine learning project is even harder than for ordinary IT projects, due to the high knowledge factor involved. Some rule of thumbs when selecting partners:
+Big partners are not always better. With SMB partners who are committed to solve your business challenge with you governance structures are often easier and more flexible.
+Be aware for vendor lock-ins. Make sure you can change from partners whenever you want. So avoid vendor specific and black-box approaches for machine learning projects. Machine learning is based on learning, and learning requires openness.
+Trust and commitment are important factors when selecting partners. Commitment is needed since machine learning projects are in essence innovation projects that need a correct mindset.
+Use the input of your created solution architecture to determine what kind of partners are needed when. E.g. when your project is finished you need stability and continuity in partnerships more than when you are in an innovative phase.
+
+
+Risk management
+^^^^^^^^^^^^^^^^^^
+
+Running machine learning projects involves risk. Within your architecture it is crucial to address business and projects risks early. Especially when security, privacy and safety aspects are involved mature risks management is recommended. To make sure your machine learning project is not dead at launch, risk management requires a flexible and create approach for machine learning projects. Of course when your project is more mature openness and management on all risks involved is crucial. To avoid disaster machine learning projects it is recommended to create your:
+
+* solution architecture using:
+* Safety by design principles.
+* Security by design principles and
+* Privacy by design principles
+
+In the beginning this will slow down your project, but doing security/privacy or safety later as ‘add-on’ requirements is never a real possibility and will take exponential more time and resources. 
+
