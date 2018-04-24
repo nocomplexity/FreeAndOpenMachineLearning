@@ -175,3 +175,20 @@ Running machine learning projects involves risk. Within your architecture it is 
 
 In the beginning this will slow down your project, but doing security/privacy or safety later as ‘add-on’ requirements is never a real possibility and will take exponential more time and resources. 
 
+Development tools
+^^^^^^^^^^^^^^^^^^^^
+
+In order to apply machine learning you need good tools to do e.g.:
+
+* Create experiments for machine learning fast.
+* Create a solid solution architecture
+* Create a data architecture
+* Automate repetitive work (integration, deployment, monitoring etc)
+
+Fully integrated tools that cover all aspects of your development process (business design and software and system design) are hard to find. Even in the OSS world. 
+Many good architecture tools, like Arch for creating architecture designs are still usable and should be used. A good overview for general open architecture tools can be found here https://nocomplexity.com/architecture-playbook/.  
+Within the machine learning domain the de facto development tool is ‘The Jupyter Notebook’. The Jupyter notebook is an web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. A Jupyter notebook is perfect for various development steps needed for machine learning suchs as data cleaning and transformation, numerical simulation, statistical modeling, data visualization and testing/tuning machine learning models.
+More information on the Jupyter notebook can be found here https://jupyter.org/ .
+
+
+But do not fall in love with a tool too soon. You should be confronted with the problem first, before you can evaluate what tool makes your work more easy for you.
