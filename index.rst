@@ -19,7 +19,7 @@ This book also gives an overview of all important OSS machine learning framework
 .. warning::
 
    This document is in alfa-stage!!
-   Collaboration is fun, so :ref:`Help Us <Help>`.  by contributing !
+   Collaboration is fun, so :ref:`Help Us <Help>` by contributing !
    There are some chapters currently written and editing work (typos,spelling) is yet to be done!
    Some more background information of the project can be found in `the readme on github.com <https://github.com/nocomplexity/FreeAndOpenMachineLearning>`_.
    And do not forget to join the `ROI movement! <https://www.bm-support.org/projects/>`_
