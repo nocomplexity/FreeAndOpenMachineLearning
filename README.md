@@ -56,5 +56,4 @@ The following people have contributed to this project:
 # Licensing
 
 When you submit text to which you hold the copyright, you agree to license it under:
-* Creative Commons Attribution-ShareAlike 4.0 Unported License (“CC BY-SA”), or
-* CC0 1.0 Universal (CC0 1.0)
+* Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).
