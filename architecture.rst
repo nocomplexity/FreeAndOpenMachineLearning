@@ -254,7 +254,7 @@ The number of tools you will need will depend of the quality of your data sets, 
 
 * Data visualization and viewer tools; Good data exploration tools give visual information about the data sets without a lot of custom programming.
 * Data filtering, data transformation and data labelling;
-* Data anonymizer tools;
+* Data anonymiser tools;
 * Data encryption / decryption tools
 * Data search tools (analytics tools)
 
