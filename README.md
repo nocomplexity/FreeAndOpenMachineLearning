@@ -26,7 +26,7 @@ We are in the process of writing a book Machine Learning that motivates people t
 
 ## Research questions
 
-The main research questions this project are:
+The main research questions for this project are:
 * What problems can be more easily solved using machine learning applications?
 * What are the main security,privacy and safety concerns when machine learning is applied and used more widely?
 
