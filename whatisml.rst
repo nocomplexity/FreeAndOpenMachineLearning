@@ -156,7 +156,7 @@ Deep learning (DL)
 
 Deep Learning(DL) is an approach to machine learning which drives the current hype wave of self riding cars and more. 
 
-DL is a type of machine learning that enables computer systems to improve with experience and data.
+Deep Learning (DL) is a type of machine learning that enables computer systems to improve with experience and data. Deep learning is a subfield of machine learning. 
 
 To position Deep Learning in the spectrum of AI and ML see the next figure.
 
@@ -195,6 +195,8 @@ Data science
 Data science can be defined as:
 
 * The practice of, and methods for, reporting and decision making based on data.
+
+So Data science is a umbrella term for several disciplines (technical and non technical) that deal with data. Even storing data in a retrievable way is a real science with many pitfalls.
 
 Generative model
 ^^^^^^^^^^^^^^^^^^^^^^

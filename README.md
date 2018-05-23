@@ -26,16 +26,18 @@ We are in the process of writing a book Machine Learning that motivates people t
 
 ## Research questions
 
-The main research questions this project is resolving are:
+The main research questions this project are:
 * What problems can be more easily solved using machine learning applications?
-* What are the main security,privacy and safety concerns when machine learning is applied and used?
+* What are the main security,privacy and safety concerns when machine learning is applied and used more widely?
 
-The to able to answer this questions an architecture framework is developed, where answers on the following questions will be harvested:
+In order to be able to answer this questions an architecture framework is developed, where answers on the following questions will be harvested:
 * Why is Free and Open Machine learning important?
 * What business use cases are suited for applying machine learning?
 * What are the main solution building blocks that make an vendor-neutral machine learning reference architecture?
 * What capabilities are required to use and develop machine learning applications?
 * What are good, quality and open resources for learning machine learning?
+* What are the main building blocks of a open machine learning reference architecture?
+* How to develop a solution architecture for machine learning applications?
 * What are the main OSS machine learning frameworks and applications?
 * What risks(security, privacy and safety) and ethical considerations are important when using or creating machine learning applications?
 
