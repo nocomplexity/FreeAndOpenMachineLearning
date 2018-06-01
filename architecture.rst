@@ -264,5 +264,79 @@ The field of ‘data analytics’ and ‘business intelligence’ is a mature fi
 
 Besides tools that assist you with preparing the data pipeline, there are also good (open) tools for finding open datasets that you can use for your machine learning application. See the reference section for some tips.
 
-To prepare your data working with the data within your browser seems a nice idea. You can visual connect data sources and e.g. create visuals by clicking on data. Or inspecting data in a visual way. There is however one major drawback: Despite the great progress made on very good and nice looking JavaScript frameworks for visualization, handling data within a browser DOM is and will take your browser over the limit. You can still expect hangups, indefinitely waits and very slow interaction. At least when not implemented well. But implementation of on screen data visualisation (Drag-and-Drop browser based) is requires an architecture and design approach that focus on performance and usability from day 1. Unfortunately many visual web based data visualization tools use an generic JS framework that is designed from another angle. So be aware that if you try to display all your data, it will eat all your resources(cpu, memory) and you will get a lot of frustration. So most of the time using a Jupyter Notebook will be a safe choice when preparing your data sets. 
+To prepare your data working with the data within your browser seems a nice idea. You can visual connect data sources and e.g. create visuals by clicking on data. Or inspecting data in a visual way. There is however one major drawback: Despite the great progress made on very good and nice looking JavaScript frameworks for visualization, handling data within a browser DOM is and will take your browser over the limit. You can still expect hang-ups, indefinitely waits and very slow interaction. At least when not implemented well. But implementation of on screen data visualisation (Drag-and-Drop browser based) is requires an architecture and design approach that focus on performance and usability from day 1. Unfortunately many visual web based data visualization tools use an generic JS framework that is designed from another angle. So be aware that if you try to display all your data, it will eat all your resources(CPU, memory) and you will get a lot of frustration. So most of the time using a Jupyter Notebook will be a safe choice when preparing your data sets. 
 
+Hosting
+^^^^^^^^^^
+
+Hosting infrastructure is platform that is capable of running your machine learning application(s). Hosting is a separate block in this reference architecture to make you aware that you must make a number of choices. These choices concerning hosting your machine learning application can make or break your machine learning adventure. 
+
+It is a must to make a clear distinguishing in:
+
+1. Hosting infrastructure needed for development and training and
+#. Hosting infrastructure needed for production
+
+Depending on your application it is e.g. possible that you need a very large and costly hosting infrastructure for development, but you can do deployment of your trained machine learning model on e.g. a Raspberry PI or Arduino board.
+
+Standard hosting capabilities for machine learning are not very different as for ‘normal’ IT services. Expect scalability and flexibility capabilities requires solid choices from the start. The machine learning hosting infrastructure exist e.g. out of:
+
+- Physical housing and power supply.
+- Operating system (including backup services).
+- Network services.
+- Availability services and Disaster recovery capabilities.
+- Operating services e.g. deployment,, administration, scheduling and monitoring.
+
+For machine learning the cost of the hosting infrastructure can be significant due to performance requirements needed for handling large datasets and training your machine learning model.
+
+A machine learning hosting platform can make use of various commercial cloud platforms that are offered(Google, AWS, Azure, etc). But since this reference architecture is about Free and Open you should consider what services you will use from external Cloud Hosting Providers (CSPs) and when. The crucial factor is most of the time cost and the number of resources needed. To apply machine learning it is possible to create your own machine learning hosting platform. But in reality this is not always the fasted way if you have not the required knowledge on site.
+
+All major Cloud hosting platforms do offer various capabilities for machine learning hosting requirements. But since definitions and terms differ per provider it is hard to make a good comparison. Especially when commercial products are served instead of OSS solutions. So it is always good to take notice of:
+
+- Flexibility (how easy can you switch from your current vendor to another?).
+- Operating system and APIs offered. And
+- Hidden cost
+
+
+For experimenting with machine learning there is not always a direct need for using external cloud hosting infrastructure. It all depends on your own data center capabilities. In a preliminary phase even a very strong gaming desktop with a good GPU can do.
+
+When you want to use machine learning you need a solid machine learning infrastructure. Hosting Infrastructure done well requires a lot of effort and is very complex. E.g. providing security and operating systems updates without impacting business applications is a proven minefield. 
+
+For specific use cases you can not use a commodity hosting infrastructure of a random cloud provider. First step should be to develop your own machine learning solution architecture. Based on this architecture you can check what capabilities are needed and what the best way is for starting. 
+
+The constant factor for machine learning is just as with other IT systems: **Change**. 
+
+So to minimize the risks make sure you a good view on all your risks. Your solution architecture should give you this overview, including a view of all objects and components that will be changed (or updated) sooner or later. Hosting a machine learning application is partly comparable with hosting large distributed systems. And history learns that this can still be a problem field if not managed well. So make sure what dependencies you will accept regarding hosting choices and what depencies you want to avoid.
+
+
+Containers
+^^^^^^^^^^^^
+
+Understanding container technology is crucial for using machine learning. Using containers within your hosting infrastructure can increase flexibility or if not done well decrease flexibility due to the extra virtualization knowledge needed. 
+
+The advantage and disadvantages of the use of Docker or even better Kubernetes or LXD or FreeBSD jails should be known. However is should be clear: Good solid knowledge of how to use and manage a container solution so it benefits you is hard to get.
+
+Using containers for developing and deploying machine learning applications can make life easier. You can also be more flexible towards your cloud service provider or storage provider. Large clusters for machine learning applications deployed on a container technology can give a great performance advantage or flexibility. All major cloud hosting providers also allow you to deploy your own containers. In this way you can start small and simple and scale-up when needed.
+
+Summarized: Container solutions for machine learning can be beneficial for:
+
+- Development. No need to install all tools and frameworks.
+- Hosting. Availability and scalability can be solved using the container infrastructure capabilities.
+- Integration and testing. Using containers can simplify and ease a pipeline needed to produce quality machine learning application from development to production. However since the machine learning development cycle differs a bit from a traditional CICD (Continuous Integration - Continuous Deployment) pipeline, you should outline this development pipeline to production within your solution architecture in detail.
+
+GPU - CPU or TPU
+^^^^^^^^^^^^^^^^^^^^^
+
+Not so long ago very large (scientific) computer cluster were needed for running machine learning applications. However due to the continuous growth of power of ‘normal’  consumer CPUs or GPUs this is no longer needed.
+
+GPUs are critical for many machine learning applications. This because machine learning applications have very intense computational requirements.  GPUs are general better equipped for some massive number calculation operations that the more generic CPUs.
+
+You will also read and hear about TPUs. A tensor processing unit (TPU) is an AI accelerator application-specific integrated circuit (ASIC). First developed by Google specifically for neural network machine learning. But currently more companies are developing TPUs to support machine learning applications.
+
+Within your solution architecture you should be clear on the compute requirements needed. Some questions to be answered are:
+
+- Do you need massive compute requirements for training your model?
+- Do you need massive compute requirements for running of your trained model?
+
+In general training requires far more compute resources than is needed for production use of your machine learning application. However this can differ based on the used machine learning algorithm and the specific application you are developing. 
+
+Many machine learning applications are not real time applications, so compute performance requirements for real time applications (e.g. real time facial recognition) can be very different for applications where quality and not speed is more important. E.g. weather applications based on real time data sets.
