@@ -21,7 +21,7 @@ One of the goals of the project is to develop and harvest ml-knowledge that is n
 
 ## The Free and Open Machine Learning Book
 
-We are in the process of writing a book Machine Learning that motivates people to learn machine learning concepts and how machine learning can be used or tried. This book is not intended to cover all advanced (mathematical) machine learning techniques or explaining ml specific software platforms. There are already some books doing this. Instead, we aim to provide the necessary knowledge that is required to start applying machine learning with success in large or small enterprises. 
+We are in the process of writing a book on Machine Learning that motivates people to learn machine learning concepts and how machine learning can be used or tried in a simple way. This book is not intended to cover all advanced (mathematical) machine learning techniques or explaining ml specific software platforms. There are already some books doing this. Instead, we aim to provide the necessary knowledge that is required to start applying machine learning with success in large or small enterprises. 
 
 
 ## Research questions
@@ -39,6 +39,7 @@ In order to be able to answer this questions an architecture framework is develo
 * What are the main building blocks of a open machine learning reference architecture?
 * How to develop a solution architecture for machine learning applications?
 * What are the main OSS machine learning frameworks and applications?
+* How can machine learning be applied more easily for simple use cases?
 * What risks(security, privacy and safety) and ethical considerations are important when using or creating machine learning applications?
 
 
