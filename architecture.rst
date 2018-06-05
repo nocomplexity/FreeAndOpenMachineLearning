@@ -194,6 +194,30 @@ More information on the Jupyter notebook can be found here https://jupyter.org/ 
 But do not fall in love with a tool too soon. You should be confronted with the problem first, before you can evaluate what tool makes your work more easy for you.
 
 
+ML Frameworks
+^^^^^^^^^^^^^^^^^^^^^^
+
+Machine Learning frameworks offer software building blocks for designing, training and validating your machine learning model. Most of the time you will only be confronted with your ML framework using a high level programming interface. All major FOSS ML frameworks offer APIs for all major programming languages. 
+Almost all ‘black magic’  needed for creating machine learning application is hidden in a various software libraries that make a ML framework.
+
+
+In another section of this book a full overview of all major ML frameworks will be presented. But for creating your architecture within your specific context choosing a ML framework that suits your specific use case is a severe difficult task. Of course you can skip this task and go for e.g. Tensorflow in the hope that your specific requirements are offered by simple high level APIs. 
+
+Some factors that must be considered when choosing a ML framework are:
+
+* Stability. How mature, stable is the framework?
+* Performance. If performance really matters a lot for your application (training or production) doing some benchmark testing and analysis is always recommended.
+* Features. Besides the learning methods that are supported what other features are included? Often more features, or support for more learning methods is not better. Sometimes simple is enough since you will not change your machine learning method and model continuously.
+* Flexibility. How easy is it to switch to another ML framework, learning method or API?
+* Transparency. Machine learning development is a very difficult tasks that involves a lot of knowledge of engineers and programmers. Not many companies have the capabilities to create a ML framework. But in case you use a ML framework: How do you known the quality? Is it transparent how it works, who has created it, how it is maintained and what your business dependencies will be! 
+* License. Of course we do not consider propriety ML frameworks. But do keep in mind that the license for a ML framework matters. And make sure that no hooks or dual-licensing tricks are played with what you think is an open ML Framework. 
+* Speeding up time consuming and recurrent development tasks. 
+
+Debugging a machine learning application is no fun and very difficult. Most of the time you spend time with model changes and retraining. But knowing why your model is not working as well as expected is a crucial task that should be supported by your ML framework.
+
+There are too many open source machine learning frameworks available which enable you to create machine learning applications. Almost all major OSS frameworks offer engineers the option to build, implement and maintain machine learning systems. But real comparison is a very complex task. And the only way to do some comparison is when ML frameworks are open source. And since security, safety and privacy should matter for every use case there is no viable alternative than using an mature OSS ML framework.
+
+
 Data
 ^^^^^^
 
