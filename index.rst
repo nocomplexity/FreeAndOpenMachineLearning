@@ -39,6 +39,7 @@ Table of Contents
    whyossml
    whatisml
    architecture
+   risks
    catalogue
    references
    help

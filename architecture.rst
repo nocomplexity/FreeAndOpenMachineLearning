@@ -217,6 +217,27 @@ Debugging a machine learning application is no fun and very difficult. Most of t
 
 There are too many open source machine learning frameworks available which enable you to create machine learning applications. Almost all major OSS frameworks offer engineers the option to build, implement and maintain machine learning systems. But real comparison is a very complex task. And the only way to do some comparison is when ML frameworks are open source. And since security, safety and privacy should matter for every use case there is no viable alternative than using an mature OSS ML framework.
 
+Programming Tools
+^^^^^^^^^^^^^^^^^^^
+
+You can use every programming language for developing your machine learning application. But some languages are better suited for creating machine learning applications than others.
+The top languages for applying machine learning are:
+
+* Python.
+* Java and
+* R
+
+The choice of the programming language you choice depends on the ML framework, the development tools you want to use and the hosting capabilities you have.
+For fast iterative experimentation a language as Python is well suited. And besides speeds for running your application in production also speed for development should be taken into concern. 
+
+**There is no such thing as a ‘best language for machine learning’.**
+
+There are however bad choices that you can make. E.g. use a new development language that is not mature, has no rich toolset and no community of other people using it for machine learning yet.
+
+Within your solution architecture you should justify the choice you make based upon dependencies as outlined in this reference architecture. But you should also take into account the constraints that account for your project, organisation and other architecture factors that will drive your choice. If have e.g. a large amount of Java applications running and all your processes and developers are Java minded, you should take this fact into account when developing and deploying your machine learning application.
+
+
+
 
 Data
 ^^^^^^

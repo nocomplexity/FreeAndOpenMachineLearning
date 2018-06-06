@@ -38,7 +38,7 @@ AI Now Institute, The AI Now Institute produces interdisciplinary research on th
 Learning resources
 ========================
 
-The selected learning resources in this section will give you a head start for playing with ML software. Of course all references open access resources (most are cc-by-sa licensed). 
+The selected learning resources in this section will give you a head start for playing with ML software. Of course all references open access resources (all are cc-by-sa licensed, unless indicated if not). 
 
 NLP concepts with spaCy ,Allison Parrish (http://www.decontextualize.com/ ),  https://gist.github.com/nocomplexity/b7c4c0aa5a0b53f4f5ff1c4784084be6 
 
@@ -49,4 +49,7 @@ Interpretable Machine Learning,A Guide for Making Black Box Models Explainable,C
 
 A Tutorial for Encrypted Deep Learning, https://iamtrask.github.io/2017/03/17/safe-ai/ 
 
-Educative blog on Cryptography and Machine Learning, with sample code on github, see https://mortendahl.github.io/ 
+Educative blog on Cryptography and Machine Learning, with sample code on Github, see https://mortendahl.github.io/ 
+
+https://www.elementsofai.com/ The elements of AI is a free online course for everyone interested in learning what AI. Developed by  University of Helsinki together with companies in the AI industry.
+
