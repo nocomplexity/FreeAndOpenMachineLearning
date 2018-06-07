@@ -40,6 +40,7 @@ Table of Contents
    whatisml
    architecture
    risks
+   ml-business-use
    catalogue
    references
    help
