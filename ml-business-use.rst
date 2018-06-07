@@ -83,6 +83,17 @@ Since vision is captured in data machine learning is a great tool for building a
 * Image similarity. Given an image, the goal of an image similarity model is to find "similar" images. Just like in image classification, deep learning methods have been shown to give incredible results on this challenging problem. However, unlike in image similarity, there isn't a need to generate labelled images for model creation. This model is completely unsupervised.
 * Object Detection. Object detection is the task of simultaneously classifying (what) and localizing (where) object instances in an image.
 
+Security
+^^^^^^^^^^
+
+* Email spam filters. Although simple rules can and should be applied, the enormous creativity of spammers and the amount send good fighting spam is a solid use case for a supervised machine learning problem. 
+* Network filtering. Due to the learning capability of machine learning network security devices are improved using machine learning techniques.
+* Fraud detection. Fraud detection is possible using enormous data and searching for strange patterns.
+
+Besides fraud detection machine learning can also applied for IT security detections since intrusion detection systems and virus scanners are more and more shipped with self learning algorithms. Also Complex financial fraud schemes can be easily detected using predictive machine learning models.
+
+
+
 
 Risk and compliance
 ^^^^^^^^^^^^^^^^^^^^
@@ -95,7 +106,7 @@ To outline some use cases that have been realized using machine learning technol
 
 Applications for real business use of machine learning to solve real tangible problems is growing at a rapid pace. Below some examples of practical use of machine learning applications:
 
-* Medical researchers are using ML techniques with TensorFlow to assess a person’s cardiovascular risk of a heart attack and stroke.
+* Medical researchers are using machine learning to assess a person’s cardiovascular risk of a heart attack and stroke. 
 * Air Traffic Controllers are using TensorFlow to predict flight routes through crowded airspace for safe and efficient landings.
 * Engineers are using TensorFlow to analyze auditory data in the rainforest to detect logging trucks and other illegal activities.
 * Scientists in Africa are using TensorFlow to detect diseases in Cassava plants to improving yield for farmers.
