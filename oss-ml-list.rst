@@ -46,6 +46,8 @@ All major GPU and CPU vendors support this project, but also the real giants lik
 Apache MXNet (incubating) is a deep learning framework designed for both efficiency and flexibility. It allows you to mix symbolic and imperative programming to maximize efficiency and productivity. At its core, MXNet contains a dynamic dependency scheduler that automatically parallelizes both symbolic and imperative operations on the fly. A graph optimization layer on top of that makes symbolic execution fast and memory efficient. MXNet is portable and lightweight, scaling effectively to multiple GPUs and multiple machines.
 MXNet is also more than a deep learning project. It is also a collection of blue prints and guidelines for building deep learning systems, and interesting insights of DL systems for hackers.
 Gluon is the high-level interface for MXNet. It is more intuitive and easier to use than the lower level interface. Gluon supports dynamic (define-by-run) graphs with JIT-compilation to achieve both flexibility and efficiency. The perfect starters documentation with a great crash course on deep learning can be found here: http://gluon.mxnet.io/
+Part of the project is also the the Gluon API specification (see https://github.com/gluon-api/gluon-api)
+The Gluon API specification (Python based) is an effort to improve speed, flexibility, and accessibility of deep learning technology for all developers, regardless of their deep learning framework of choice. The Gluon API offers a flexible interface that simplifies the process of prototyping, building, and training deep learning models without sacrificing training speed.
 
 **SBB License:** Apache License 2.0
 
@@ -85,6 +87,23 @@ Frequent itemsets, association rules, and sequential pattern mining
 
 
 
+**auto_ml** 
+-------------
+**SBB Description:** Automated machine learning for analytics &#38; production.
+Automates the whole machine learning process, making it super easy to use for both analytics, and getting real-time predictions in production.
+
+**SBB License:** MIT License
+
+**Core Technology:** Python
+
+**Project URL:** http://auto-ml.readthedocs.io
+
+**Source Location:** https://github.com/ClimbsRocks/auto_ml
+
+
+
+
+
 **BigDL** 
 -----------
 **SBB Description:** BigDL is a distributed deep learning library for Apache Spark; with BigDL, users can write their deep learning applications as standard Spark programs, which can directly run on top of existing Spark or Hadoop clusters.
@@ -100,6 +119,71 @@ Efficiently scale-out. BigDL can efficiently scale out to perform data analytics
 **Project URL:** https://bigdl-project.github.io/master/
 
 **Source Location:** https://github.com/intel-analytics/BigDL
+
+
+
+
+
+**Blocks** 
+------------
+**SBB Description:** Blocks is a framework that is supposed to make it easier to build complicated neural network models on top of Theano.
+Blocks is a framework that helps you build neural network models on top of Theano. Currently it supports and provides:
+
+Constructing parametrized Theano operations, called &#8220;bricks&#8221;
+Pattern matching to select variables and bricks in large models
+Algorithms to optimize your model
+Saving and resuming of training
+Monitoring and analyzing values during training progress (on the training set as well as on test sets)
+Application of graph transformations, such as dropout
+
+**SBB License:** MIT License
+
+**Core Technology:** Python
+
+**Project URL:** http://blocks.readthedocs.io/en/latest/
+
+**Source Location:** https://github.com/mila-udem/blocks
+
+
+
+
+
+**Dataexplorer** 
+------------------
+**SBB Description:** View, visualize, clean and process data in the browser.
+Some features:
+
+Classic spreadsheet-style “grid” view
+Import CSV data from online
+Geocode data (convert “London” to longitude and latitude)
+Data and scripts automatically saved and accessible from anywhere
+“Fork” support &#8211; build on others work and let them build on yours
+
+**SBB License:** MIT License
+
+**Core Technology:** javascript
+
+**Project URL:** http://explorer.okfnlabs.org
+
+**Source Location:** https://github.com/okfn/dataexplorer
+
+
+
+
+
+**Datastream** 
+----------------
+**SBB Description:** An open-source framework for real-time anomaly detection using Python, ElasticSearch and Kiban. Also uses scikit-learn.
+
+&#160;
+
+**SBB License:** Apache License 2.0
+
+**Core Technology:** Python
+
+**Project URL:** https://github.com/MentatInnovations/datastream.io
+
+**Source Location:** https://github.com/MentatInnovations/datastream.io
 
 
 
@@ -201,6 +285,28 @@ A number of Facebook teams use this platform to train custom models for a variet
 
 
 
+**Fuel** 
+----------
+**SBB Description:** Fuel is a data pipeline framework which provides your machine learning models with the data they need. It is planned to be used by both the Blocks and Pylearn2 neural network libraries.
+
+Fuel allows you to easily read different types of data (NumPy binary files, CSV files, HDF5 files, text files) using a single interface which is based on Python’s iterator types.
+Provides a a series of wrappers around frequently used datasets such as MNIST, CIFAR-10 (vision), the One Billion Word Dataset (text corpus), and many more.
+Allows you iterate over data in a variety of ways, e.g. in order, shuffled, sampled, etc.
+Gives you the possibility to process your data on-the-fly through a series of (chained) transformation procedures. This way you can whiten your data, noise, rotate, crop, pad, sort or shuffle, cache it, and much more.
+Is pickle-friendly, allowing you to stop and resume long-running experiments in the middle of a pass over your dataset without losing any training progress.
+
+**SBB License:** MIT License
+
+**Core Technology:** Python
+
+**Project URL:** http://fuel.readthedocs.io/en/latest/index.html
+
+**Source Location:** https://github.com/mila-udem/fuel
+
+
+
+
+
 **Gensim** 
 ------------
 **SBB Description:** Gensim is a Python library for topic modelling, document indexing and similarity retrieval with large corpora. Target audience is the natural language processing (NLP) and information retrieval (IR) community.
@@ -213,6 +319,45 @@ A number of Facebook teams use this platform to train custom models for a variet
 **Project URL:** https://github.com/RaRe-Technologies/gensim
 
 **Source Location:** https://github.com/RaRe-Technologies/gensim
+
+
+
+
+
+**Golem** 
+-----------
+**SBB Description:** The aim of the Golem project is to create a global prosumer market for computing power, in which producers may sell spare CPU time of their personal computers and consumers may acquire resources for computation-intensive tasks. In technical terms, Golem is designed as a decentralised peer-to-peer network established by nodes running the Golem client software. For the purpose of this paper we assume that there are two types of nodes in the Golem network: requestor nodes that announce computing tasks and compute nodes that perform computations (in the actual implementation nodes may switch between both roles).
+
+**SBB License:** GNU General Public License (GPL) 3.0
+
+**Core Technology:** Python
+
+**Project URL:** https://golem.network/
+
+**Source Location:** https://github.com/golemfactory/golem
+
+
+
+
+
+**HyperTools** 
+----------------
+**SBB Description:** HyperTools is a library for visualizing and manipulating high-dimensional data in Python. It is built on top of matplotlib (for plotting), seaborn (for plot styling), and scikit-learn (for data manipulation).
+Some key features of HyperTools are:
+
+Functions for plotting high-dimensional datasets in 2/3D
+Static and animated plots
+Simple API for customizing plot styles
+Set of powerful data manipulation tools including hyperalignment, k-means clustering, normalizing and more
+Support for lists of Numpy arrays or Pandas dataframes
+
+**SBB License:** MIT License
+
+**Core Technology:** Python
+
+**Project URL:** http://hypertools.readthedocs.io/en/latest/
+
+**Source Location:** https://github.com/ContextLab/hypertools
 
 
 
@@ -234,6 +379,23 @@ Runs seamlessly on CPU and GPU.
 **Project URL:** https://keras.io/
 
 **Source Location:** https://github.com/keras-team/keras
+
+
+
+
+
+**Klassify** 
+--------------
+**SBB Description:** Redis based text classification service with real-time web interface.
+What is Text Classification: Text classification, document classification or document categorization is a problem in library science, information science and computer science. The task is to assign a document to one or more classes or categories.
+
+**SBB License:** MIT License
+
+**Core Technology:** Python
+
+**Project URL:** https://github.com/fatiherikli/klassify
+
+**Source Location:** https://github.com/fatiherikli/klassify
 
 
 
@@ -388,6 +550,41 @@ creating synthetic datasets for performance tuning databases
 
 
 
+**Polyaxon** 
+--------------
+**SBB Description:** An open source platform for reproducible machine learning at scale.
+Polyaxon is a platform for building, training, and monitoring large scale deep learning applications.
+Polyaxon deploys into any data center, cloud provider, or can be hosted and managed by Polyaxon, and it supports all the major deep learning frameworks such as Tensorflow, MXNet, Caffe, Torch, etc.
+Polyaxon makes it faster, easier, and more efficient to develop deep learning applications by managing workloads with smart container and node management. And it turns GPU servers into shared, self-service resources for your team or organization.
+
+**SBB License:** MIT License
+
+**Core Technology:** Python
+
+**Project URL:** https://polyaxon.com/
+
+**Source Location:** https://github.com/polyaxon/polyaxon
+
+
+
+
+
+**Pylearn2** 
+--------------
+**SBB Description:** Pylearn2 is a library designed to make machine learning research easy.
+
+**SBB License:** BSD License 2.0 (3-clause, New or Revised) License
+
+**Core Technology:** Python
+
+**Project URL:** http://deeplearning.net/software/pylearn2/
+
+**Source Location:** https://github.com/lisa-lab/pylearn2
+
+
+
+
+
 **Pyro** 
 ----------
 **SBB Description:** Deep universal probabilistic programming with Python and PyTorch. Pyro is in an alpha release. It is developed and used by Uber AI Labs.
@@ -470,6 +667,24 @@ Built on NumPy, SciPy, and matplotlib
 
 
 
+**Skater** 
+------------
+**SBB Description:** Skater is a python package for model agnostic interpretation of predictive models. With Skater, you can unpack the internal mechanics of arbitrary models; as long as you can obtain inputs, and use a function to obtain outputs, you can use Skater to learn about the models internal decision policies.
+The project was started as a research idea to find ways to enable better interpretability(preferably human interpretability) to predictive &#8220;black boxes&#8221; both for researchers and practioners.
+Documentation at: https://datascienceinc.github.io/Skater/overview.html
+
+**SBB License:** MIT License
+
+**Core Technology:** Python
+
+**Project URL:** https://www.datascience.com/resources/tools/skater
+
+**Source Location:** https://github.com/datascienceinc/Skater
+
+
+
+
+
 **Snorkel** 
 -------------
 **SBB Description:** Snorkel is a system for rapidly creating, modeling, and managing training data, currently focused on accelerating the development of structured or &#8220;dark&#8221; data extraction applications for domains in which large labeled training sets are not available or easy to obtain.
@@ -491,6 +706,8 @@ Built on NumPy, SciPy, and matplotlib
 **SBB Description:** TensorFlow is an Open Source Software Library for Machine Intelligence. TensorFlow is by far the most used and popular ML open source project. And since the first initial release was only just in November 2015 it is expected that the impact of this OSS package will expand even more.
 TensorFlow™ is an open source software library for numerical computation using data flow graphs. Nodes in the graph represent mathematical operations, while the graph edges represent the multidimensional data arrays (tensors) communicated between them. The flexible architecture allows you to deploy computation to one or more CPUs or GPUs in a desktop, server, or mobile device with a single API. TensorFlow was originally developed by researchers and engineers working on the Google Brain Team within Google&#8217;s Machine Intelligence research organization for the purposes of conducting machine learning and deep neural networks research, but the system is general enough to be applicable in a wide variety of other domains as well.
 TensorFlow comes with a tool called TensorBoard which you can use to get some insight into what is happening. TensorBoard is a suite of web applications for inspecting and understanding your TensorFlow runs and graphs.
+There is also a version of TensorFlow that runs in a browser. This is TensorFlow.js (https://js.tensorflow.org/ ). TensorFlow.js is a WebGL accelerated, browser based JavaScript library for training and deploying ML models.
+&#160;
 
 **SBB License:** Apache License 2.0
 
@@ -549,6 +766,29 @@ Turi Create simplifies the development of custom machine learning models. You do
 **Core Technology:** Python
 
 **Project URL:** https://github.com/apple/turicreate
+
+**Source Location:** https://github.com/apple/turicreate
+
+
+
+
+
+**TuriCreate** 
+----------------
+**SBB Description:** This SBB is from Apple. Apple, is with Siri already for a long time active in machine learning. But even Apple is releasing building blocks under OSS licenses now.
+Turi Create simplifies the development of custom machine learning models. You don&#8217;t have to be a machine learning expert to add recommendations, object detection, image classification, image similarity or activity classification to your app.
+
+Easy-to-use: Focus on tasks instead of algorithms
+Visual: Built-in, streaming visualizations to explore your data
+Flexible: Supports text, images, audio, video and sensor data
+Fast and Scalable: Work with large datasets on a single machine
+Ready To Deploy: Export models to Core ML for use in iOS, macOS, watchOS, and tvOS apps
+
+**SBB License:** BSD License 2.0 (3-clause, New or Revised) License
+
+**Core Technology:** Python
+
+**Project URL:** https://turi.com/index.html
 
 **Source Location:** https://github.com/apple/turicreate
 

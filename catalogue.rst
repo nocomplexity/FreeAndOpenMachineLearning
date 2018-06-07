@@ -10,6 +10,15 @@ As with many other evolving technologies in heavy development: Standards are sti
 
 .. todo::
   
-  The OSS ML list will be completed, adjusted and corrected soon! Want to help?
+  The OSS ML list will be completed, filtered, adjusted and corrected soon! Want to help?
 
 .. include:: oss-ml-list.rst
+
+Catalogue of Open NLP Software
+===============================
+.. todo::
+  
+  The OSS NLP list will be completed, filtered, adjusted and corrected soon! Want to help?
+
+.. include:: nlp-oss-list.rst
+
