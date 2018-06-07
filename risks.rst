@@ -40,4 +40,8 @@ Understanding how output produced by machine learning software is created will m
 From other sectors, like finance or oil industry we know that there is no simple solution. However regarding the risks involved only FOSS machine learning applications have the right elements needed to start working on processes that will give enough trust to use machine learning system for society at large.
 
 
+.. include:: security.rst
+
+.. include:: privacy.rst
+
 

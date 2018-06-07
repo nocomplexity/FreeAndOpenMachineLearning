@@ -6,7 +6,7 @@ References
 Used References
 ======================
 
-Without open resources this book did not exist. Below the list of open references (most are cc-by-sa) that are used for this book.
+Without open resources this book did not exist. In this section a list of open references that are used for this book. All references are cc-by-sa licensed, unless indicated if not.
 
 Natural Language Processing with Python, http://www.nltk.org/book/ 
 
