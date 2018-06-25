@@ -111,3 +111,55 @@ Applications for real business use of machine learning to solve real tangible pr
 * Engineers are using TensorFlow to analyze auditory data in the rainforest to detect logging trucks and other illegal activities.
 * Scientists in Africa are using TensorFlow to detect diseases in Cassava plants to improving yield for farmers.
 * Finding free parking space. http://www.peazy.in has developed an app using machine learning to assist with finding a free parking space in crowded cities. 
+
+Business ethics
+---------------------
+
+
+Working with machine learning can, will and must raise severe ethical questions. Saying that you ‘Don't be evil’ , like the mission statement of Google (https://en.wikipedia.org/wiki/Don%27t_be_evil) was for decades, will not save you. Any business that uses machine learning should develop a process in order to handle ethical issues before they arrive. And ethical questions will arise!
+
+A growing number of experts believe that a third revolution will occur during the 21st century, through the invention of machines with intelligence which surpasses our own intelligence. The rapid progress in machine learning technology turns out to be input for all kind of disaster scenarios. When the barriers to apply machine learning will be lowered more one of the fears is that knowledge work and various mental tasks currently performed by humans will become obsolete. 
+
+When machine learning develops and the border with artificial intelligence will be hit many more philosophical and ethical discussions will take place. The core question is of course: What is human intelligence? Or to put it in the context of machine learning: What is the real value of human intelligence when machine learning algorithms can take over many common mental tasks of humans? 
+
+Many experts believe that there is a significant chance we will develop machines more intelligent than ourselves within a few decades. This could lead to large, rapid improvements in human welfare, or mass unemployment and poverty on large scale. And yes  history learns that there are good reasons to think that it could lead to disastrous outcomes for our current societies.  If machine learning research advances without enough research work going on security, safety on privacy, catastrophic accidents are likely to occur.
+
+With FOSS machine learning capabilities you should be able to take some control over  the rapid pace machine learning driven software is hitting our lives. So instead of trying to stop developments and use, it is better to steer developments into a positive, safe, human centric direction. So apply machine learning using a decent machine learning architecture were also some critical ethical business questions are addressed. 
+
+Advances within machine learning could lead to extremely positive developments, presenting solutions to now-intractable global problems. But applying machine learning without good architectures where ethical questions are also addressed, using machine learning at large can pose severe risks. Humanity’s superior intelligence is the sole reason that we are the dominant species on our planet. If technology with advanced machine learning algorithms surpass humans in intelligence, then just as the fate of gorillas currently depends on the actions of humans, the fate of humanity may come to depend more on the actions of machines than our own.
+
+To address ethical question to take into account into your machine learning solution architecture you can use the high level framework below.
+
+
+.. image:: /images/ml-ethics.png
+   :width: 600px
+   :alt: ML Ethics
+   :align: center 
+
+
+Some basic common ethical questions for every machine learning architecture are:
+
+* Bias in data sets. How do you weight this? Are you fully aware of the impact?
+* Impact on your company.
+* Impact on your employees.
+* Impact on your customers (short and long term).
+* Impact on society.
+* Impact on available jobs and future manforce needed.
+* Who is responsible and who is liable when the application developed using machine learning goes seriously wrong?
+* Do you and your customers find it acceptable all kinds of data are combined to make more profit?
+* How transparent should you inform your customers on how privacy aspects are taken into account when using the machine learning  software? Legal baselines, like the EU GDPR do not answer these ethical questions for you! 
+* How transparent are you towards stakeholders regarding various direct and indirect risks factors involved when applying machine learning applications?
+* Who is responsible and liable when risks in your machine learning application do occur?
+
+A lot of ethical questions come back to crucial privacy and other risks questions like safety and security. We live in a digital world were our digital traces are everywhere. Most of the time we are fully unaware. In most western countries mass digital surveillance cameras generates great data to be used for machine learning algorithms. This can be noble by detecting diseases based on cameras, but all nasty use cases thinkable are of course also under development. Continuous track and trace of civilians including face recognition is not that uncommon any more! 
+
+
+The question regarding who is responsible for negative effects regarding machine learning technology is simple to answer. You are! If you do not understand the technology, the impact for your business and on society you should not use it. 
+
+Regulations for applying machine learning are not yet developed. Although some serious thinking is already be done in the field regarding:
+
+* Safety and
+* Liability
+
+Government rules, laws will be formed during the transition the coming decade. Machine learning techniques are perfect to use for autonomous weapons. So drones will in near future decide based on hopefully predefined rules when to launch a missile and when not. But as with all technologies: Failures will happen! And we all hope it will not hit us.
+
