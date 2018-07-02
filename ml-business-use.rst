@@ -128,7 +128,7 @@ With FOSS machine learning capabilities you should be able to take some control 
 
 Advances within machine learning could lead to extremely positive developments, presenting solutions to now-intractable global problems. But applying machine learning without good architectures where ethical questions are also addressed, using machine learning at large can pose severe risks. Humanity’s superior intelligence is the sole reason that we are the dominant species on our planet. If technology with advanced machine learning algorithms surpass humans in intelligence, then just as the fate of gorillas currently depends on the actions of humans, the fate of humanity may come to depend more on the actions of machines than our own.
 
-To address ethical question to take into account into your machine learning solution architecture you can use the high level framework below.
+To address ethical questions for your machine learning solution architecture you can use the high level framework below.
 
 
 .. image:: /images/ml-ethics.png
