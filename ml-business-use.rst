@@ -144,7 +144,7 @@ Some basic common ethical questions for every machine learning architecture are:
 * Impact on your employees.
 * Impact on your customers (short and long term).
 * Impact on society.
-* Impact on available jobs and future manforce needed.
+* Impact on available jobs and future man force needed.
 * Who is responsible and who is liable when the application developed using machine learning goes seriously wrong?
 * Do you and your customers find it acceptable all kinds of data are combined to make more profit?
 * How transparent should you inform your customers on how privacy aspects are taken into account when using the machine learning  software? Legal baselines, like the EU GDPR do not answer these ethical questions for you! 
