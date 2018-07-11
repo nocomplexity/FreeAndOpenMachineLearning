@@ -69,7 +69,7 @@ Every architecture should be based on a strategy. For a machine learning system 
 
 The way to develop a machine learning architecture is outlined in the figure below.
 
-.. image:: /images/ml-architecture-process.png
+.. image:: /images/solutionsteps-overview.png
    :width: 600px
    :alt: Machine Learning Architecture Process
    :align: center 

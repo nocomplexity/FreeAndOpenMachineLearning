@@ -112,6 +112,45 @@ Applications for real business use of machine learning to solve real tangible pr
 * Scientists in Africa are using TensorFlow to detect diseases in Cassava plants to improving yield for farmers.
 * Finding free parking space. http://www.peazy.in has developed an app using machine learning to assist with finding a free parking space in crowded cities. 
 
+
+Business principles for Machine Learning applications
+-------------------------------------------------------
+
+Every good architecture is based on principles, requirements and constraints.This machine learning reference architecture is designed to easy the process of creating machine learning solutions. So below some general principles for machine learning applications. For your specific machine learning application use the principles that apply and make them smart. So include implications and consequences per principle.
+
+
+Collaborate
+^^^^^^^^^^^^^^^^
+
+Statement: Collaborate
+Rationale: Successful creation of ML applications require the collaboration of people with different expertises. You need e.g. business experts, infrastructure engineers, data engineers and innovation experts.
+Implications: Organisational and culture must allow open collaboration. 
+
+Unfair bias
+^^^^^^^^^^^^^^
+
+Statement: Avoid creating or reinforcing unfair bias
+Rationale: Machine learning algorithms and datasets can reflect, reinforce, or reduce unfair biases. Recognize fair from unfair biases is not simple, and differs across cultures and societies. However always make sure to avoid unjust impacts on sensitive characteristics such as race, ethnicity, gender, nationality, income, sexual orientation, ability, and political or religious belief. 
+Implications: Be transparent about your data and training datasets. Make models reproducible and auditable.
+
+Built and test for safety
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Statement: Built and test for safety.
+Rationale:  Use safety and security practices to avoid unintended results that create risks of harm.  Design your machine learning driven systems to be appropriately cautious
+Implications: Perform risk assessments and safety tests.
+
+Privacy by design
+^^^^^^^^^^^^^^^^^^^
+
+Statement: Incorporate privacy by design principles.
+Rationale: Privacy by principles is more than being compliant with legal constraints as e.g. EU GDPR. It means that privacy safeguards,transparency and control over the use of data should be taken into account from the start. This is a hard and complex challenge. 
+
+
+
+
+
+
 Business ethics
 ---------------------
 
