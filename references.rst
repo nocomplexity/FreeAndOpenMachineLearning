@@ -53,4 +53,12 @@ Educative blog on Cryptography and Machine Learning, with sample code on Github,
 
 https://www.elementsofai.com/ The elements of AI is a free online course for everyone interested in learning what AI. Developed by  University of Helsinki together with companies in the AI industry.
 
-http://ciml.info/ An learning book by Hal Daumé on Machine Learning. This book writen by a computer science professor at a unsupervised is target at learning the basics of supervised learning, unsupervised learning, large margin methods, probabilistic modeling, learning theory, etc.. This book will teach you will the basic mathematics for ML step by step.
+http://ciml.info/ An learning book by Hal Daumé on Machine Learning. This book written by a computer science professor at a unsupervised is target at learning the basics of supervised learning, unsupervised learning, large margin methods, probabilistic modelling, learning theory, etc.. This book will teach you will the basic mathematics for ML step by step.
+
+
+http://tools.google.com/seedbank/ Collection of Interactive Machine Learning Examples. 
+
+https://bloomberg.github.io/foml/#home This course covers a wide variety of topics in machine learning and statistical modelling. It is designed to make valuable machine learning skills more accessible to individuals with a strong mathematics background, including software developers, experimental scientists, engineers and financial professionals.
+
+https://developers.google.com/machine-learning/guides/ Simple step-by-step walk-throughs by Google to solve common machine learning problems using best practices. 
+
