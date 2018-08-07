@@ -24,7 +24,7 @@ This book also gives an overview of all important OSS machine learning framework
    Some more background information of the project can be found in `the readme on github.com <https://github.com/nocomplexity/FreeAndOpenMachineLearning>`_.
    And do not forget to join the `ROI movement! <https://www.bm-support.org/projects/>`_
 
-   
+.. image:: /images/coverimage.png  
 
 Table of Contents
 ==================
@@ -63,13 +63,3 @@ If you like your name stated here: This book is open source. Issues and pull req
 
 If you wish to make comments regarding this document, please raise them as GitHub issues. Only send comments by email if you are unable to raise issues on GitHub. All comments are welcome!
 
-
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
