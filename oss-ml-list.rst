@@ -1,3 +1,6 @@
+OSS System Building Blocks: Category ML
+=======================================
+
 Acumos AI
 ---------
 
@@ -335,6 +338,28 @@ the wheel.
 
 | 
 
+Cookiecutter Data Science
+-------------------------
+
+A logical, reasonably standardized, but flexible project structure for
+doing and sharing data science work.
+
+ 
+
++-----------------------+-----------------------------------------------------------+
+| **SBB License**       | MIT License                                               |
++-----------------------+-----------------------------------------------------------+
+| **Core Technology**   | Python                                                    |
++-----------------------+-----------------------------------------------------------+
+| **Project URL**       | https://drivendata.github.io/cookiecutter-data-science/   |
++-----------------------+-----------------------------------------------------------+
+| **Source Location**   | https://github.com/drivendata/cookiecutter-data-science   |
++-----------------------+-----------------------------------------------------------+
+| **Tag(s)**            | Data tool, ML                                             |
++-----------------------+-----------------------------------------------------------+
+
+| 
+
 Dataexplorer
 ------------
 
@@ -512,6 +537,38 @@ on mobile devices, powered by the highly efficient Caffe2 runtime.
 
 | 
 
+Dopamine
+--------
+
+Dopamine is a research framework for fast prototyping of reinforcement
+learning algorithms. It aims to fill the need for a small, easily
+grokked codebase in which users can freely experiment with wild ideas
+(speculative research).
+
+Our design principles are:
+
+-  *Easy experimentation*: Make it easy for new users to run benchmark
+   experiments.
+-  *Flexible development*: Make it easy for new users to try out
+   research ideas.
+-  *Compact and reliable*: Provide implementations for a few,
+   battle-tested algorithms.
+-  *Reproducible*: Facilitate reproducibility in results.
+
++-----------------------+--------------------------------------+
+| **SBB License**       | Apache License 2.0                   |
++-----------------------+--------------------------------------+
+| **Core Technology**   | Python                               |
++-----------------------+--------------------------------------+
+| **Project URL**       | https://github.com/google/dopamine   |
++-----------------------+--------------------------------------+
+| **Source Location**   | https://github.com/google/dopamine   |
++-----------------------+--------------------------------------+
+| **Tag(s)**            | ML, Reinforcement Learning           |
++-----------------------+--------------------------------------+
+
+| 
+
 Fabrik
 ------
 
@@ -532,6 +589,30 @@ widely popular frameworks like Caffe, Keras, and TensorFlow.
 +-----------------------+----------------------------------------+
 | **Tag(s)**            | Data Visualization, ML                 |
 +-----------------------+----------------------------------------+
+
+| 
+
+Fastai
+------
+
+The fastai library simplifies training fast and accurate neural nets
+using modern best practices. Fast.ai’s mission is to make the power of
+state of the art deep learning available to anyone. fastai sits on top
+of `PyTorch <https://pytorch.org/>`__, which provides the foundation.
+
+Docs can be found on:\ http://docs.fast.ai/
+
++-----------------------+-------------------------------------+
+| **SBB License**       | Apache License 2.0                  |
++-----------------------+-------------------------------------+
+| **Core Technology**   | Python                              |
++-----------------------+-------------------------------------+
+| **Project URL**       | http://www.fast.ai/                 |
++-----------------------+-------------------------------------+
+| **Source Location**   | https://github.com/fastai/fastai/   |
++-----------------------+-------------------------------------+
+| **Tag(s)**            | ML                                  |
++-----------------------+-------------------------------------+
 
 | 
 
@@ -1721,6 +1802,36 @@ parameter distribution, model structure and image visualization.
 +-----------------------+--------------------------------------------+
 | **Tag(s)**            | ML                                         |
 +-----------------------+--------------------------------------------+
+
+| 
+
+What-If Tool
+------------
+
+The `What-If Tool <https://pair-code.github.io/what-if-tool>`__ (WIT)
+provides an easy-to-use interface for expanding understanding of a
+black-box ML model. With the plugin, you can perform inference on a
+large set of examples and immediately visualize the results in a variety
+of ways. Additionally, examples can be edited manually or
+programatically and re-run through the model in order to see the results
+of the changes. It contains tooling for investigating model performance
+and fairness over subsets of a dataset.
+
+The purpose of the tool is that give people a simple, intuitive, and
+powerful way to play with a trained ML model on a set of data through a
+visual interface with absolutely no code required.
+
++-----------------------+---------------------------------------------------------------------------------------------------+
+| **SBB License**       | Apache License 2.0                                                                                |
++-----------------------+---------------------------------------------------------------------------------------------------+
+| **Core Technology**   | Python                                                                                            |
++-----------------------+---------------------------------------------------------------------------------------------------+
+| **Project URL**       | https://pair-code.github.io/what-if-tool/                                                         |
++-----------------------+---------------------------------------------------------------------------------------------------+
+| **Source Location**   | https://github.com/tensorflow/tensorboard/tree/master/tensorboard/plugins/interactive_inference   |
++-----------------------+---------------------------------------------------------------------------------------------------+
+| **Tag(s)**            | ML                                                                                                |
++-----------------------+---------------------------------------------------------------------------------------------------+
 
 | 
 | End of SBB list
