@@ -1,5 +1,5 @@
-OSS System Building Blocks: Category ML
-=======================================
+OSS Machine learning OSS 
+--------------------------
 
 Acumos AI
 ---------
@@ -41,6 +41,49 @@ available to developers and data scientists everywhere.
 +-----------------------+-------------------------------------------------+
 | **Tag(s)**            | ML                                              |
 +-----------------------+-------------------------------------------------+
+
+| 
+
+AdaNet
+------
+
+AdaNet is a lightweight TensorFlow-based framework for automatically
+learning high-quality models with minimal expert intervention. AdaNet
+builds on recent AutoML efforts to be fast and flexible while providing
+learning guarantees. Importantly, AdaNet provides a general framework
+for not only learning a neural network architecture, but also for
+learning to ensemble to obtain even better models.
+
+This project is based on the *AdaNet algorithm*, presented in
+“\ `AdaNet: Adaptive Structural Learning of Artificial Neural
+Networks <http://proceedings.mlr.press/v70/cortes17a.html>`__\ ” at
+`ICML 2017 <https://icml.cc/Conferences/2017>`__, for learning the
+structure of a neural network as an ensemble of subnetworks.
+
+AdaNet has the following goals:
+
+-  *Ease of use*: Provide familiar APIs (e.g. Keras, Estimator) for
+   training, evaluating, and serving models.
+-  *Speed*: Scale with available compute and quickly produce high
+   quality models.
+-  *Flexibility*: Allow researchers and practitioners to extend AdaNet
+   to novel subnetwork architectures, search spaces, and tasks.
+-  *Learning guarantees*: Optimize an objective that offers theoretical
+   learning guarantees.
+
+Documentation at https://adanet.readthedocs.io/en/latest/
+
++-----------------------+--------------------------------------------+
+| **SBB License**       | Apache License 2.0                         |
++-----------------------+--------------------------------------------+
+| **Core Technology**   | Python                                     |
++-----------------------+--------------------------------------------+
+| **Project URL**       | https://adanet.readthedocs.io/en/latest/   |
++-----------------------+--------------------------------------------+
+| **Source Location**   | https://github.com/tensorflow/adanet       |
++-----------------------+--------------------------------------------+
+| **Tag(s)**            | ML                                         |
++-----------------------+--------------------------------------------+
 
 | 
 
@@ -639,6 +682,76 @@ relational datasets into feature matrices for machine learning.
 
 | 
 
+Featuretools
+------------
+
+*“One of the holy grails of machine learning is to automate more and
+more of the feature engineering process.”* ― Pedro
+
+| `Featuretools <https://www.featuretools.com>`__ is a python library
+  for automated feature engineering. Featuretools automatically creates
+  features from
+| temporal and relational datasets. Featuretools works alongside tools
+  you already use to build machine learning pipelines. You can load in
+  pandas dataframes and automatically create meaningful features in a
+  fraction of the time it would take to do manually.
+
+ 
+
++-----------------------+------------------------------------------------------+
+| **SBB License**       | BSD License 2.0 (3-clause, New or Revised) License   |
++-----------------------+------------------------------------------------------+
+| **Core Technology**   | Python                                               |
++-----------------------+------------------------------------------------------+
+| **Project URL**       | https://www.featuretools.com/                        |
++-----------------------+------------------------------------------------------+
+| **Source Location**   | https://github.com/Featuretools/featuretools         |
++-----------------------+------------------------------------------------------+
+| **Tag(s)**            | ML                                                   |
++-----------------------+------------------------------------------------------+
+
+| 
+
+Flair
+-----
+
+A very simple framework for **state-of-the-art NLP**. Developed by
+`Zalando Research <https://research.zalando.com/>`__.
+
+Flair is:
+
+-  **A powerful NLP library.** Flair allows you to apply our
+   state-of-the-art natural language processing (NLP) models to your
+   text, such as named entity recognition (NER), part-of-speech tagging
+   (PoS), sense disambiguation and classification.
+-  **Multilingual.** Thanks to the Flair community, we support a rapidly
+   growing number of languages. We also now include ‘\ *one model, many
+   languages*\ ‘ taggers, i.e. single models that predict PoS or NER
+   tags for input text in various languages.
+-  **A text embedding library.** Flair has simple interfaces that allow
+   you to use and combine different word and document embeddings,
+   including our proposed **`Flair
+   embeddings <https://drive.google.com/file/d/17yVpFA7MmXaQFTe-HDpZuqw9fJlmzg56/view?usp=sharing>`__**,
+   BERT embeddings and ELMo embeddings.
+-  **A Pytorch NLP framework.** Our framework builds directly on
+   `Pytorch <https://pytorch.org/>`__, making it easy to train your own
+   models and experiment with new approaches using Flair embeddings and
+   classes.
+
++-----------------------+--------------------------------------------+
+| **SBB License**       | MIT License                                |
++-----------------------+--------------------------------------------+
+| **Core Technology**   | Python                                     |
++-----------------------+--------------------------------------------+
+| **Project URL**       | https://github.com/zalandoresearch/flair   |
++-----------------------+--------------------------------------------+
+| **Source Location**   | https://github.com/zalandoresearch/flair   |
++-----------------------+--------------------------------------------+
+| **Tag(s)**            | ML, NLP, Python                            |
++-----------------------+--------------------------------------------+
+
+| 
+
 Fuel
 ----
 
@@ -915,6 +1028,50 @@ Features
 
 | 
 
+Ludwig
+------
+
+Ludwig is a toolbox built on top of TensorFlow that allows to train and
+test deep learning models without the need to write code. Ludwig
+provides two main functionalities: training models and using them to
+predict. It is based on datatype abstraction, so that the same data
+preprocessing and postprocessing will be performed on different datasets
+that share data types and the same encoding and decoding models
+developed for one task can be reused for different tasks.
+
+All you need to provide is a CSV file containing your data, a list of
+columns to use as inputs, and a list of columns to use as outputs,
+Ludwig will do the rest. Simple commands can be used to train models
+both locally and in a distributed way, and to use them to predict on new
+data.
+
+A programmatic API is also available in order to use Ludwig from your
+python code. A suite of visualization tools allows you to analyze
+models’ training and test performance and to compare them.
+
+Ludwig is built with extensibility principles in mind and is based on
+data type abstractions, making it easy to add support for new data types
+as well as new model architectures.
+
+It can be used by practitioners to quickly train and test deep learning
+models as well as by researchers to obtain strong baselines to compare
+against and have an experimentation setting that ensures comparability
+by performing standard data preprocessing and visualization.
+
++-----------------------+----------------------------------+
+| **SBB License**       | Apache License 2.0               |
++-----------------------+----------------------------------+
+| **Core Technology**   | Python                           |
++-----------------------+----------------------------------+
+| **Project URL**       | https://uber.github.io/ludwig/   |
++-----------------------+----------------------------------+
+| **Source Location**   | https://github.com/uber/ludwig   |
++-----------------------+----------------------------------+
+| **Tag(s)**            | ML                               |
++-----------------------+----------------------------------+
+
+| 
+
 Luminoth
 --------
 
@@ -1170,6 +1327,39 @@ How can NLP Architect be used:
 +-----------------------+---------------------------------------------------+
 | **Tag(s)**            | ML, NLP, Python                                   |
 +-----------------------+---------------------------------------------------+
+
+| 
+
+NNI (Neural Network Intelligence)
+---------------------------------
+
+NNI (Neural Network Intelligence) is a toolkit to help users run
+automated machine learning (AutoML) experiments. The tool dispatches and
+runs trial jobs generated by tuning algorithms to search the best neural
+architecture and/or hyper-parameters in different environments like
+local machine, remote servers and cloud. (Microsoft ML project)
+
+Who should consider using NNI:
+
+-  Those who want to try different AutoML algorithms in their training
+   code (model) at their local machine.
+-  Those who want to run AutoML trial jobs in different environments to
+   speed up search (e.g. remote servers and cloud).
+-  Researchers and data scientists who want to implement their own
+   AutoML algorithms and compare it with other algorithms.
+-  ML Platform owners who want to support AutoML in their platform.
+
++-----------------------+-----------------------------------------+
+| **SBB License**       | MIT License                             |
++-----------------------+-----------------------------------------+
+| **Core Technology**   | Python                                  |
++-----------------------+-----------------------------------------+
+| **Project URL**       | https://nni.readthedocs.io/en/latest/   |
++-----------------------+-----------------------------------------+
+| **Source Location**   | https://github.com/Microsoft/nni        |
++-----------------------+-----------------------------------------+
+| **Tag(s)**            | ML                                      |
++-----------------------+-----------------------------------------+
 
 | 
 
@@ -1473,6 +1663,76 @@ Note: PyTorch is still in an early-release beta phase (status January
 +-----------------------+--------------------------------------+
 | **Tag(s)**            | AI, ML                               |
 +-----------------------+--------------------------------------+
+
+| 
+
+Rant
+----
+
+Rant is an all-purpose procedural text engine that is most simply
+described as the opposite of Regex. It has been refined to include a
+dizzying array of features for handling everything from the most basic
+of string generation tasks to advanced dialogue generation, code
+templating, automatic formatting, and more.
+
+The goal of the project is to enable developers of all kinds to automate
+repetitive writing tasks with a high degree of creative freedom.
+
+Features:
+
+-  Recursive, weighted branching with several selection modes
+-  Queryable dictionaries
+-  Automatic capitalization, rhyming, English indefinite articles, and
+   multi-lingual number verbalization
+-  Print to multiple separate outputs
+-  Probability modifiers for pattern elements
+-  Loops, conditional statements, and subroutines
+-  Fully-functional object model
+-  Import/Export resources easily with the .rantpkg format
+-  Compatible with Unity 2017
+
++-----------------------+-------------------------------------+
+| **SBB License**       | MIT License                         |
++-----------------------+-------------------------------------+
+| **Core Technology**   | .NET                                |
++-----------------------+-------------------------------------+
+| **Project URL**       | https://berkin.me/rant/             |
++-----------------------+-------------------------------------+
+| **Source Location**   | https://github.com/TheBerkin/rant   |
++-----------------------+-------------------------------------+
+| **Tag(s)**            | .NET, ML, NLP, text generation      |
++-----------------------+-------------------------------------+
+
+| 
+
+RAPIDS
+------
+
+The RAPIDS suite of software libraries gives you the freedom to execute
+end-to-end data science and analytics pipelines entirely on GPUs. It
+relies on `NVIDIA® CUDA® <https://developer.nvidia.com/cuda-toolkit>`__
+primitives for low-level compute optimization, but exposes that GPU
+parallelism and high-bandwidth memory speed through user-friendly Python
+interfaces.
+
+RAPIDS also focuses on common data preparation tasks for analytics and
+data science. This includes a familiar DataFrame API that integrates
+with a variety of machine learning algorithms for end-to-end pipeline
+accelerations without paying typical serialization costs–. RAPIDS also
+includes support for multi-node, multi-GPU deployments, enabling vastly
+accelerated processing and training on much larger dataset sizes.
+
++-----------------------+--------------------------------+
+| **SBB License**       | Apache License 2.0             |
++-----------------------+--------------------------------+
+| **Core Technology**   | C++                            |
++-----------------------+--------------------------------+
+| **Project URL**       | http://rapids.ai/              |
++-----------------------+--------------------------------+
+| **Source Location**   | https://github.com/rapidsai/   |
++-----------------------+--------------------------------+
+| **Tag(s)**            | ML                             |
++-----------------------+--------------------------------+
 
 | 
 
