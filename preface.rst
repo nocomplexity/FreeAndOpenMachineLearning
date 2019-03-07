@@ -3,7 +3,7 @@ Preface
 
 We humans are since the beginning of the development of modern computers obsessed with creating computers that have super powers. Even before the birth of computers research has been done on artificial intelligence (AI). The question what artificial intelligence really is, is hard and fuel for philosophical discussions. 
 
-Currently (as of writing 2018) we see more and more products are developed that claim to have super powers that come close to AI. A look under the surface shows that the real progress on AI is made by a tangible technique, called machine learning. 
+Currently (as of writing 2019) we see more and more products developed that claim to have super powers that come close to AI. A look under the surface shows that the real progress on AI is made by a tangible technique, called machine learning. 
 
 Machine learning today is able of solving challenging problems that impact everyone around the world. Problems that were impossible to solve for long or where too expensive or too complex to solve. Now solving these problems is possible using this new machine learning technology.  Currently very complex problems and meaningful problems are solved using applications based on machine learning algorithms. Many firms involved are willing to tell and show you how easy it is! But you must be aware: machine learning is a buzzword in the industry!  
 

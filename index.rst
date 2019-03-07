@@ -6,12 +6,12 @@
 Free and Open Machine Learning Book
 =====================================
 
-This book is all about how to applying open machine learning solutions for real.
+This book is all about applying open machine learning solutions for real.
 
 Abstract
 ========
 
-This book is all about taking advantage of the new OSS machine learning technologies for your business. The important machine learning concepts are explained, but the main emphasis is on providing insights in the various possibilities that are available within the open source machine learning ecosystem. This so you can start applying machine learning in your business today. 
+This book is created to give you a head start to use and apply new OSS machine learning technologies to solve your business problems. The important machine learning concepts are explained, but the main emphasis is on providing insights in the various possibilities that are available within the open source machine learning ecosystem. This so you can start applying machine learning in your business today. 
 
 This book also gives an overview of all important OSS machine learning frameworks and OSS support tools that you can use for prototyping with machine learning or when using machine learning for real production use cases.
 
