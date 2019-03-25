@@ -11,7 +11,7 @@ This book is all about applying open machine learning solutions for real.
 Abstract
 ========
 
-This book is created to give you a head start to use and apply new OSS machine learning technologies to solve your business problems. The important machine learning concepts are explained, but the main emphasis is on providing insights in the various possibilities that are available within the open source machine learning ecosystem. This so you can start applying machine learning in your business today. 
+This book is created to give you a head start to use and apply new OSS machine learning technologies to solve your business problems. Important machine learning concepts are explained, but the main emphasis is on providing insights in the possibilities that are available within the open source machine learning ecosystem. This so you can start applying machine learning in your business today. 
 
 This book also gives an overview of all important OSS machine learning frameworks and OSS support tools that you can use for prototyping with machine learning or when using machine learning for real production use cases.
 
@@ -61,5 +61,5 @@ If you like your name stated here: This book is open source. Issues and pull req
 
 **So Get involved in the discussion to make it better!**
 
-If you wish to make comments regarding this document, please raise them as GitHub issues. Only send comments by email if you are unable to raise issues on GitHub. All comments are welcome!
+If you wish to make comments regarding this document, please raise them as GitHub issues. Or send comments by email if you are unable to raise issues on GitHub. All comments are welcome!
 
