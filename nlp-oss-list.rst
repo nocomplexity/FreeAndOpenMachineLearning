@@ -1,3 +1,6 @@
+OSS System Building Blocks: Category NLP
+========================================
+
 AllenNLP
 --------
 
@@ -90,6 +93,46 @@ language, such as `Julia <https://github.com/aviks/Taro.jl>`__ or
 +-----------------------+----------------------------+
 | **Tag(s)**            | NLP                        |
 +-----------------------+----------------------------+
+
+| 
+
+Flair
+-----
+
+A very simple framework for **state-of-the-art NLP**. Developed by
+`Zalando Research <https://research.zalando.com/>`__.
+
+Flair is:
+
+-  **A powerful NLP library.** Flair allows you to apply our
+   state-of-the-art natural language processing (NLP) models to your
+   text, such as named entity recognition (NER), part-of-speech tagging
+   (PoS), sense disambiguation and classification.
+-  **Multilingual.** Thanks to the Flair community, we support a rapidly
+   growing number of languages. We also now include ‘\ *one model, many
+   languages*\ ‘ taggers, i.e. single models that predict PoS or NER
+   tags for input text in various languages.
+-  **A text embedding library.** Flair has simple interfaces that allow
+   you to use and combine different word and document embeddings,
+   including our proposed **`Flair
+   embeddings <https://drive.google.com/file/d/17yVpFA7MmXaQFTe-HDpZuqw9fJlmzg56/view?usp=sharing>`__**,
+   BERT embeddings and ELMo embeddings.
+-  **A Pytorch NLP framework.** Our framework builds directly on
+   `Pytorch <https://pytorch.org/>`__, making it easy to train your own
+   models and experiment with new approaches using Flair embeddings and
+   classes.
+
++-----------------------+--------------------------------------------+
+| **SBB License**       | MIT License                                |
++-----------------------+--------------------------------------------+
+| **Core Technology**   | Python                                     |
++-----------------------+--------------------------------------------+
+| **Project URL**       | https://github.com/zalandoresearch/flair   |
++-----------------------+--------------------------------------------+
+| **Source Location**   | https://github.com/zalandoresearch/flair   |
++-----------------------+--------------------------------------------+
+| **Tag(s)**            | ML, NLP, Python                            |
++-----------------------+--------------------------------------------+
 
 | 
 
@@ -267,6 +310,45 @@ Optionally download all referenced PDFs and check for broken links.
 
 | 
 
+Rant
+----
+
+Rant is an all-purpose procedural text engine that is most simply
+described as the opposite of Regex. It has been refined to include a
+dizzying array of features for handling everything from the most basic
+of string generation tasks to advanced dialogue generation, code
+templating, automatic formatting, and more.
+
+The goal of the project is to enable developers of all kinds to automate
+repetitive writing tasks with a high degree of creative freedom.
+
+Features:
+
+-  Recursive, weighted branching with several selection modes
+-  Queryable dictionaries
+-  Automatic capitalization, rhyming, English indefinite articles, and
+   multi-lingual number verbalization
+-  Print to multiple separate outputs
+-  Probability modifiers for pattern elements
+-  Loops, conditional statements, and subroutines
+-  Fully-functional object model
+-  Import/Export resources easily with the .rantpkg format
+-  Compatible with Unity 2017
+
++-----------------------+-------------------------------------+
+| **SBB License**       | MIT License                         |
++-----------------------+-------------------------------------+
+| **Core Technology**   | .NET                                |
++-----------------------+-------------------------------------+
+| **Project URL**       | https://berkin.me/rant/             |
++-----------------------+-------------------------------------+
+| **Source Location**   | https://github.com/TheBerkin/rant   |
++-----------------------+-------------------------------------+
+| **Tag(s)**            | .NET, ML, NLP, text generation      |
++-----------------------+-------------------------------------+
+
+| 
+
 SpaCy
 -----
 
@@ -355,7 +437,7 @@ Sumeval
 -------
 
 Well tested & Multi-language evaluation framework for text
-summarization.
+summarization. Multi-language.
 
 +-----------------------+-------------------------------------------+
 | **SBB License**       | Apache License 2.0                        |
@@ -366,7 +448,7 @@ summarization.
 +-----------------------+-------------------------------------------+
 | **Source Location**   | https://github.com/chakki-works/sumeval   |
 +-----------------------+-------------------------------------------+
-| **Tag(s)**            | NLP                                       |
+| **Tag(s)**            | NLP, Python                               |
 +-----------------------+-------------------------------------------+
 
 | 

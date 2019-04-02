@@ -1,5 +1,5 @@
-OSS Machine learning OSS 
---------------------------
+OSS System Building Blocks: Category ML
+=======================================
 
 Acumos AI
 ---------
@@ -400,6 +400,38 @@ doing and sharing data science work.
 +-----------------------+-----------------------------------------------------------+
 | **Tag(s)**            | Data tool, ML                                             |
 +-----------------------+-----------------------------------------------------------+
+
+| 
+
+Data Science Version Control (DVC)
+----------------------------------
+
+**Data Science Version Control** or **DVC** is an **open-source** tool
+for data science and machine learning projects. With a simple and
+flexible Git-like architecture and interface it helps data scientists:
+
+#. manage **machine learning models** – versioning, including data sets
+   and transformations (scripts) that were used to generate models;
+#. make projects **reproducible**;
+#. make projects **shareable**;
+#. manage experiments with branching and **metrics** tracking;
+
+It aims to replace tools like Excel and Docs that are being commonly
+used as a knowledge repo and a ledger for the team, ad-hoc scripts to
+track and move deploy different model versions, ad-hoc data file
+suffixes and prefixes.
+
++-----------------------+------------------------------------+
+| **SBB License**       | Apache License 2.0                 |
++-----------------------+------------------------------------+
+| **Core Technology**   | Python                             |
++-----------------------+------------------------------------+
+| **Project URL**       | https://dvc.org/                   |
++-----------------------+------------------------------------+
+| **Source Location**   | https://github.com/iterative/dvc   |
++-----------------------+------------------------------------+
+| **Tag(s)**            | ML, Python                         |
++-----------------------+------------------------------------+
 
 | 
 
@@ -2092,6 +2124,34 @@ visual interface with absolutely no code required.
 +-----------------------+---------------------------------------------------------------------------------------------------+
 | **Tag(s)**            | ML                                                                                                |
 +-----------------------+---------------------------------------------------------------------------------------------------+
+
+| 
+
+XAI
+---
+
+XAI is a Machine Learning library that is designed with AI
+explainability in its core. XAI contains various tools that enable for
+analysis and evaluation of data and models. The XAI library is
+maintained by `The Institute for Ethical AI &
+ML <http://ethical.institute/>`__, and it was developed based on the `8
+principles for Responsible Machine
+Learning <http://ethical.institute/principles.html>`__.
+
+You can find the documentation at
+https://ethicalml.github.io/xai/index.html.
+
++-----------------------+----------------------------------------+
+| **SBB License**       | MIT License                            |
++-----------------------+----------------------------------------+
+| **Core Technology**   | Python                                 |
++-----------------------+----------------------------------------+
+| **Project URL**       | https://ethical.institute/index.html   |
++-----------------------+----------------------------------------+
+| **Source Location**   | https://github.com/EthicalML/xai       |
++-----------------------+----------------------------------------+
+| **Tag(s)**            | ML, Python                             |
++-----------------------+----------------------------------------+
 
 | 
 | End of SBB list
