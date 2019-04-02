@@ -1,5 +1,3 @@
-OSS System Building Blocks: Category NLP
-========================================
 
 AllenNLP
 --------

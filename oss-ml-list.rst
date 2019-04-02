@@ -1,6 +1,3 @@
-OSS System Building Blocks: Category ML
-=======================================
-
 Acumos AI
 ---------
 
