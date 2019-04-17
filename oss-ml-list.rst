@@ -1209,6 +1209,44 @@ offers:
 
 | 
 
+Mljar
+-----
+
+MLJAR is a platform for rapid prototyping, developing and deploying
+machine learning models.
+
+MLJAR makes algorithm search and tuning painless. It checks many
+different algorithms for you. For each algorithm hyper-parameters are
+separately tuned. All computations run in parallel in MLJAR cloud, so
+you get your results very quickly. At the end the ensemble of models is
+created, so your predictive model will be super accurate.
+
+There are two types of interface available in MLJAR:
+
+-  you can run Machine Learning models in your browser, you don’t need
+   to code anything. Just upload dataset, click which attributes to use,
+   which algorithms to use and go! This makes Machine Learning super
+   easy for everyone and make it possible to get really useful models,
+-  there is a python wrapper over MLJAR API, so you don’t need to open
+   any browser or click on any button, just write fancy python code! We
+   like it and hope you will like it too! To start using MLJAR python
+   package please go to our
+   `github <https://github.com/mljar/mljar-api-python>`__.
+
++-----------------------+---------------------------------------------+
+| **SBB License**       | MIT License                                 |
++-----------------------+---------------------------------------------+
+| **Core Technology**   | Python                                      |
++-----------------------+---------------------------------------------+
+| **Project URL**       | https://mljar.com/                          |
++-----------------------+---------------------------------------------+
+| **Source Location**   | https://github.com/mljar/mljar-supervised   |
++-----------------------+---------------------------------------------+
+| **Tag(s)**            | ML, Python                                  |
++-----------------------+---------------------------------------------+
+
+| 
+
 MLPerf
 ------
 
