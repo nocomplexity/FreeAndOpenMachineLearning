@@ -42,6 +42,7 @@ Table of Contents
    risks
    ml-business-use
    catalogue
+   MLlearningresources
    references
    help
    license

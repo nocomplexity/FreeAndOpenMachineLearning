@@ -1,10 +1,5 @@
-**********************
 References
-**********************
-
-
-Used References
-======================
+==============
 
 Without open resources this book did not exist. In this section a list of open references that are used for this book. All references are cc-by-sa licensed, unless indicated if not.
 
@@ -34,31 +29,4 @@ Statistical Modeling: The Two Cultures, Leo Breiman, 2001, https://projecteuclid
 
 AI Now Institute, The AI Now Institute produces interdisciplinary research on the social implications of artificial intelligence and acts as a hub for the emerging field focused on these issues.  https://ainowinstitute.org/ 
 
-
-Learning resources
-========================
-
-The selected learning resources in this section will give you a head start for playing with ML software. Of course all references open access resources (all are cc-by-sa licensed, unless indicated if not). 
-
-NLP concepts with spaCy ,Allison Parrish (http://www.decontextualize.com/ ),  https://gist.github.com/nocomplexity/b7c4c0aa5a0b53f4f5ff1c4784084be6 
-
-Great introduction course on ML created by Google:
- https://developers.google.com/machine-learning/crash-course/ 
-
-Interpretable Machine Learning,A Guide for Making Black Box Models Explainable,Christoph Molnar, https://christophm.github.io/interpretable-ml-book/ 
-
-A Tutorial for Encrypted Deep Learning, https://iamtrask.github.io/2017/03/17/safe-ai/ 
-
-Educative blog on Cryptography and Machine Learning, with sample code on Github, see https://mortendahl.github.io/ 
-
-https://www.elementsofai.com/ The elements of AI is a free online course for everyone interested in learning what AI. Developed by  University of Helsinki together with companies in the AI industry.
-
-http://ciml.info/ An learning book by Hal Daumé on Machine Learning. This book written by a computer science professor at a unsupervised is target at learning the basics of supervised learning, unsupervised learning, large margin methods, probabilistic modelling, learning theory, etc.. This book will teach you will the basic mathematics for ML step by step.
-
-
-http://tools.google.com/seedbank/ Collection of Interactive Machine Learning Examples. 
-
-https://bloomberg.github.io/foml/#home This course covers a wide variety of topics in machine learning and statistical modelling. It is designed to make valuable machine learning skills more accessible to individuals with a strong mathematics background, including software developers, experimental scientists, engineers and financial professionals.
-
-https://developers.google.com/machine-learning/guides/ Simple step-by-step walk-throughs by Google to solve common machine learning problems using best practices. 
 
