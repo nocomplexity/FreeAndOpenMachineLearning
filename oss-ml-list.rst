@@ -1,3 +1,6 @@
+OSS System Building Blocks: Category ML
+=======================================
+
 Acumos AI
 ---------
 
@@ -84,6 +87,33 @@ Documentation at https://adanet.readthedocs.io/en/latest/
 
 | 
 
+AI Explainability 360
+---------------------
+
+The AI Explainability 360 toolkit is an open-source library that
+supports interpretability and explainability of datasets and machine
+learning models. The AI Explainability 360 Python package includes a
+comprehensive set of algorithms that cover different dimensions of
+explanations along with proxy explainability metrics.
+
+It is OSS from IBM (so apache2.0) so mind the history of openness IBM
+has regarding OSS product development. The documentation can be found
+here: https://aix360.readthedocs.io/en/latest/
+
++-----------------------+---------------------------------+
+| **SBB License**       | Apache License 2.0              |
++-----------------------+---------------------------------+
+| **Core Technology**   | Python                          |
++-----------------------+---------------------------------+
+| **Project URL**       | http://aix360.mybluemix.net/    |
++-----------------------+---------------------------------+
+| **Source Location**   | https://github.com/IBM/AIX360   |
++-----------------------+---------------------------------+
+| **Tag(s)**            | Data analytics, ML, Python      |
++-----------------------+---------------------------------+
+
+| 
+
 AllenNLP
 --------
 
@@ -116,6 +146,35 @@ AllenNLP was designed with the following principles:
 +-----------------------+---------------------------------------+
 | **Tag(s)**            | ML, NLP, Python                       |
 +-----------------------+---------------------------------------+
+
+| 
+
+Analytics Zoo
+-------------
+
+**Analytics Zoo** provides a unified analytics + AI platform that
+seamlessly unites ***Spark, TensorFlow, Keras and BigDL*** programs into
+an integrated pipeline; the entire pipeline can then transparently scale
+out to a large Hadoop/Spark cluster for distributed training or
+inference.
+
+-  *Data wrangling and analysis using PySpark*
+-  *Deep learning model development using TensorFlow or Keras*
+-  *Distributed training/inference on Spark and BigDL*
+-  *All within a single unified pipeline and in a user-transparent
+   fashion!*
+
++-----------------------+----------------------------------------------------+
+| **SBB License**       | Apache License 2.0                                 |
++-----------------------+----------------------------------------------------+
+| **Core Technology**   | Python                                             |
++-----------------------+----------------------------------------------------+
+| **Project URL**       | https://analytics-zoo.github.io/master/            |
++-----------------------+----------------------------------------------------+
+| **Source Location**   | https://github.com/intel-analytics/analytics-zoo   |
++-----------------------+----------------------------------------------------+
+| **Tag(s)**            | ML, Python                                         |
++-----------------------+----------------------------------------------------+
 
 | 
 
@@ -939,6 +998,71 @@ Features:
 
 | 
 
+Kedro
+-----
+
+Kedro is a workflow development tool that helps you build data pipelines
+that are robust, scalable, deployable, reproducible and versioned. We
+provide a standard approach so that you can:
+
+-  spend more time building your data pipeline,
+-  worry less about how to write production-ready code,
+-  standardise the way that your team collaborates across your project,
+-  work more efficiently.
+
+Main features of
+Kedro:\ ` <https://github.com/quantumblacklabs/kedro#1-project-template-and-coding-standards>`__
+
+1. Project template and coding standards
+
+-  A standard and easy-to-use project template
+-  Configuration for credentials, logging, data loading and Jupyter
+   Notebooks / Lab
+-  Test-driven development using ``pytest``
+-  `Sphinx <http://www.sphinx-doc.org/en/master/>`__ integration to
+   produce well-documented code
+
+` <https://github.com/quantumblacklabs/kedro#2-data-abstraction-and-versioning>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2. Data abstraction and versioning
+
+-  Separation of the *compute* layer from the *data handling* layer,
+   including support for different data formats and storage options
+-  Versioning for your data sets and machine learning models
+
+` <https://github.com/quantumblacklabs/kedro#3-modularity-and-pipeline-abstraction>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+3. Modularity and pipeline abstraction
+
+-  Support for pure Python functions, ``nodes``, to break large chunks
+   of code into small independent sections
+-  Automatic resolution of dependencies between ``nodes``
+-  Visualise your data pipeline with
+   `Kedro-Viz <https://github.com/quantumblacklabs/kedro-viz>`__, a tool
+   that shows the pipeline structure of Kedro projects
+
+Documentation on: ****
+`**https://kedro.readthedocs.io/** <https://kedro.readthedocs.io/>`__
+
+The REACT visualization for Kedro is
+on:\ `https://github.com/quantumblacklabs/kedro-viz <http://%20https://github.com/quantumblacklabs/kedro-viz%20>`__
+
++-----------------------+---------------------------------------------+
+| **SBB License**       | Apache License 2.0                          |
++-----------------------+---------------------------------------------+
+| **Core Technology**   | Python                                      |
++-----------------------+---------------------------------------------+
+| **Project URL**       | https://github.com/quantumblacklabs/kedro   |
++-----------------------+---------------------------------------------+
+| **Source Location**   | https://github.com/quantumblacklabs/kedro   |
++-----------------------+---------------------------------------------+
+| **Tag(s)**            | ML, Python                                  |
++-----------------------+---------------------------------------------+
+
+| 
+
 Keras
 -----
 
@@ -1677,6 +1801,39 @@ Pylearn2 is a library designed to make machine learning research easy.
 
 | 
 
+Pyodide
+-------
+
+**Pyodide** brings the Python runtime to the browser via WebAssembly,
+along with the Python scientific stack including NumPy, Pandas,
+Matplotlib, parts of SciPy, and NetworkX. The ```packages``
+directory <https://github.com/iodide-project/pyodide/tree/master/packages>`__
+lists over 35 packages which are currently available.
+
+**Pyodide** provides transparent conversion of objects between
+Javascript and Python. When used inside a browser, Python has full
+access to the Web APIs.
+
+While closely related to the `iodide project <https://iodide.io>`__, a
+tool for *literate scientific computing and communication for the web*,
+Pyodide goes beyond running in a notebook environment. To maximize the
+flexibility of the modern web, **Pyodide** may be used standalone in any
+context where you want to **run Python inside a web browser**.
+
++-----------------------+--------------------------------------------------------------------------------------------------+
+| **SBB License**       | Mozilla Public License (MPL) 1.1                                                                 |
++-----------------------+--------------------------------------------------------------------------------------------------+
+| **Core Technology**   | C, Javascript                                                                                    |
++-----------------------+--------------------------------------------------------------------------------------------------+
+| **Project URL**       | https://hacks.mozilla.org/2019/04/pyodide-bringing-the-scientific-python-stack-to-the-browser/   |
++-----------------------+--------------------------------------------------------------------------------------------------+
+| **Source Location**   | https://github.com/iodide-project/pyodide/                                                       |
++-----------------------+--------------------------------------------------------------------------------------------------+
+| **Tag(s)**            | Data Visualization, ML, Python                                                                   |
++-----------------------+--------------------------------------------------------------------------------------------------+
+
+| 
+
 Pyro
 ----
 
@@ -1697,6 +1854,52 @@ Labs <http://uber.ai>`__.
 +-----------------------+----------------------------------------+
 | **Tag(s)**            | AI, ML, Python                         |
 +-----------------------+----------------------------------------+
+
+| 
+
+Pythia
+------
+
+Pythia is a modular framework for supercharging vision and language
+research built on top of PyTorch created by Facebook.
+
+You can use Pythia to bootstrap for your next vision and language
+multimodal research project. Pythia can also act as starter codebase for
+challenges around vision and language datasets (TextVQA challenge, VQA
+challenge).
+
+It features:
+
+-  **Model Zoo**: Reference implementations for state-of-the-art vision
+   and language model including
+   `LoRRA <https://arxiv.org/abs/1904.08920>`__ (SoTA on VQA and
+   TextVQA), `Pythia <https://arxiv.org/abs/1807.09956>`__ model (VQA
+   2018 challenge winner) and
+   `BAN <https://github.com/facebookresearch/pythia/blob/master>`__.
+-  **Multi-Tasking**: Support for multi-tasking which allows training on
+   multiple dataset together.
+-  **Datasets**: Includes support for various datasets built-in
+   including VQA, VizWiz, TextVQA and VisualDialog.
+-  **Modules**: Provides implementations for many commonly used layers
+   in vision and language domain
+-  **Distributed**: Support for distributed training based on
+   DataParallel as well as DistributedDataParallel.
+-  **Unopinionated**: Unopinionated about the dataset and model
+   implementations built on top of it.
+-  **Customization**: Custom losses, metrics, scheduling, optimizers,
+   tensorboard; suits all your custom needs.
+
++-----------------------+-----------------------------------------------------------+
+| **SBB License**       | BSD License 2.0 (3-clause, New or Revised) License        |
++-----------------------+-----------------------------------------------------------+
+| **Core Technology**   | Python                                                    |
++-----------------------+-----------------------------------------------------------+
+| **Project URL**       | https://learnpythia.readthedocs.io/en/latest/index.html   |
++-----------------------+-----------------------------------------------------------+
+| **Source Location**   | https://github.com/facebookresearch/pythia                |
++-----------------------+-----------------------------------------------------------+
+| **Tag(s)**            | ML, Python                                                |
++-----------------------+-----------------------------------------------------------+
 
 | 
 
@@ -1952,6 +2155,41 @@ ML models.
 | **Source Location**   | https://github.com/tensorflow/tensorflow   |
 +-----------------------+--------------------------------------------+
 | **Tag(s)**            | AI, ML                                     |
++-----------------------+--------------------------------------------+
+
+| 
+
+TensorWatch
+-----------
+
+TensorWatch is a debugging and visualization tool designed for data
+science, deep learning and reinforcement learning from Microsoft
+Research. It works in Jupyter Notebook to show real-time visualizations
+of your machine learning training and perform several other key analysis
+tasks for your models and data.
+
+TensorWatch is designed to be flexible and extensible so you can also
+build your own custom visualizations, UIs, and dashboards. Besides
+traditional “what-you-see-is-what-you-log” approach, it also has a
+unique capability to execute arbitrary queries against your live ML
+training process, return a stream as a result of the query and view this
+stream using your choice of a visualizer (we call this `Lazy Logging
+Mode <https://github.com/microsoft/tensorwatch#lazy-logging-mode%5D>`__).
+
+TensorWatch is under heavy development with a goal of providing a
+platform for debugging machine learning in one easy to use, extensible,
+and hackable package.
+
++-----------------------+--------------------------------------------+
+| **SBB License**       | MIT License                                |
++-----------------------+--------------------------------------------+
+| **Core Technology**   | Python                                     |
++-----------------------+--------------------------------------------+
+| **Project URL**       | https://github.com/microsoft/tensorwatch   |
++-----------------------+--------------------------------------------+
+| **Source Location**   | https://github.com/microsoft/tensorwatch   |
++-----------------------+--------------------------------------------+
+| **Tag(s)**            | ML                                         |
 +-----------------------+--------------------------------------------+
 
 | 
