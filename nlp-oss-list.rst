@@ -1,4 +1,3 @@
-
 AllenNLP
 --------
 
@@ -91,6 +90,83 @@ language, such as `Julia <https://github.com/aviks/Taro.jl>`__ or
 +-----------------------+----------------------------+
 | **Tag(s)**            | NLP                        |
 +-----------------------+----------------------------+
+
+| 
+
+Bling Fire
+----------
+
+A lightning fast Finite State machine and REgular expression
+manipulation library. Bling Fire Tokenizer is a tokenizer designed for
+fast-speed and quality tokenization of Natural Language text. It mostly
+follows the tokenization logic of NLTK, except hyphenated words are
+split and a few errors are fixed.
+
++-----------------------+------------------------------------------+
+| **SBB License**       | MIT License                              |
++-----------------------+------------------------------------------+
+| **Core Technology**   | CPP                                      |
++-----------------------+------------------------------------------+
+| **Project URL**       | https://github.com/Microsoft/BlingFire   |
++-----------------------+------------------------------------------+
+| **Source Location**   | https://github.com/Microsoft/BlingFire   |
++-----------------------+------------------------------------------+
+| **Tag(s)**            | NLP                                      |
++-----------------------+------------------------------------------+
+
+| 
+
+ERNIE
+-----
+
+An Implementation of ERNIE For Language Understanding (including
+Pre-training models and Fine-tuning tools)
+
+**`ERNIE 2.0 <https://arxiv.org/abs/1907.12412v1>`__ is a continual
+pre-training framework for language understanding** in which
+pre-training tasks can be incrementally built and learned through
+multi-task learning. In this framework, different customized tasks can
+be incrementally introduced at any time. For example, the tasks
+including named entity prediction, discourse relation recognition,
+sentence order prediction are leveraged in order to enable the models to
+learn language representations.
+
++-----------------------+-----------------------------------------+
+| **SBB License**       | Apache License 2.0                      |
++-----------------------+-----------------------------------------+
+| **Core Technology**   | Python                                  |
++-----------------------+-----------------------------------------+
+| **Project URL**       | https://github.com/PaddlePaddle/ERNIE   |
++-----------------------+-----------------------------------------+
+| **Source Location**   | https://github.com/PaddlePaddle/ERNIE   |
++-----------------------+-----------------------------------------+
+| **Tag(s)**            | NLP, Python                             |
++-----------------------+-----------------------------------------+
+
+| 
+
+fastText
+--------
+
+`fastText <https://fasttext.cc/>`__ is a library for efficient learning
+of word representations and sentence classification. Models can later be
+reduced in size to even fit on mobile devices.
+
+Created by Facebook Opensource, now available for us all. Also used for
+the new search on StackOverflow, see
+https://stackoverflow.blog/2019/08/14/crokage-a-new-way-to-search-stack-overflow/
+
++-----------------------+------------------------------------------------+
+| **SBB License**       | MIT License                                    |
++-----------------------+------------------------------------------------+
+| **Core Technology**   | CPP, Python                                    |
++-----------------------+------------------------------------------------+
+| **Project URL**       | https://fasttext.cc/                           |
++-----------------------+------------------------------------------------+
+| **Source Location**   | https://github.com/facebookresearch/fastText   |
++-----------------------+------------------------------------------------+
+| **Tag(s)**            | NLP                                            |
++-----------------------+------------------------------------------------+
 
 | 
 

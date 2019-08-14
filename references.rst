@@ -17,6 +17,7 @@ http://www.ml4aad.org/  A research group on Machine Learning for Automated Algor
 
 http://allenai.org/ The Allen Institute for Artificial Intelligence. 
 
+
 Learning and books
 -------------------
 
@@ -35,6 +36,8 @@ Mathematics for Machine Learning, https://mml-book.github.io/ (note: Still in ea
 Statistical Modeling: The Two Cultures, Leo Breiman, 2001, https://projecteuclid.org/download/pdf_1/euclid.ss/1009213726 
 
 AI Now Institute, The AI Now Institute produces interdisciplinary research on the social implications of artificial intelligence and acts as a hub for the emerging field focused on these issues.  https://ainowinstitute.org/ 
+
+Deep Learning with PaddlePaddle, https://github.com/PaddlePaddle/book/blob/develop/README.md#running-the-book 
 
 
 Dealing with Data 
