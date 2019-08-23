@@ -1007,44 +1007,20 @@ provide a standard approach so that you can:
 -  standardise the way that your team collaborates across your project,
 -  work more efficiently.
 
-Main features of
-Kedro:\ ` <https://github.com/quantumblacklabs/kedro#1-project-template-and-coding-standards>`__
+Features:
 
-1. Project template and coding standards
-
--  A standard and easy-to-use project template
--  Configuration for credentials, logging, data loading and Jupyter
-   Notebooks / Lab
--  Test-driven development using ``pytest``
--  `Sphinx <http://www.sphinx-doc.org/en/master/>`__ integration to
-   produce well-documented code
-
-` <https://github.com/quantumblacklabs/kedro#2-data-abstraction-and-versioning>`__
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-2. Data abstraction and versioning
-
--  Separation of the *compute* layer from the *data handling* layer,
-   including support for different data formats and storage options
--  Versioning for your data sets and machine learning models
-
-` <https://github.com/quantumblacklabs/kedro#3-modularity-and-pipeline-abstraction>`__
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-3. Modularity and pipeline abstraction
-
--  Support for pure Python functions, ``nodes``, to break large chunks
-   of code into small independent sections
--  Automatic resolution of dependencies between ``nodes``
--  Visualise your data pipeline with
-   `Kedro-Viz <https://github.com/quantumblacklabs/kedro-viz>`__, a tool
-   that shows the pipeline structure of Kedro projects
+ - A standard and easy-to-use project template, allowing your collaborators to spend less time understanding how you’ve set up your analytics project
+ - Data abstraction, managing how you load and save data so that you don’t have to worry about the reproducibility of your code in different environments
+ - Configuration management, helping you keep credentials out of your code base
+ - Pipeline visualisation with [Kedro-Viz](https://github.com/quantumblacklabs/kedro-viz) making it easy to see how your data pipeline is constructed
+ - Seamless packaging, allowing you to ship your projects to production, e.g. using [Kedro-Docker](https://github.com/quantumblacklabs/kedro-docker) or [Kedro-Airflow](https://github.com/quantumblacklabs/kedro-airflow)
+ - Versioning for your datasets and machine learning models whenever your pipeline runs
 
 Documentation on: ****
 `**https://kedro.readthedocs.io/** <https://kedro.readthedocs.io/>`__
 
 The REACT visualization for Kedro is
-on:\ `https://github.com/quantumblacklabs/kedro-viz <http://%20https://github.com/quantumblacklabs/kedro-viz%20>`__
+on: \ `https://github.com/quantumblacklabs/kedro-viz <http://%20https://github.com/quantumblacklabs/kedro-viz%20>`__
 
 +-----------------------+---------------------------------------------+
 | **SBB License**       | Apache License 2.0                          |
