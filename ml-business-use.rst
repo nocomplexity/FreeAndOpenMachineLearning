@@ -112,6 +112,10 @@ Applications for real business use of machine learning to solve real tangible pr
 * Scientists in Africa are using TensorFlow to detect diseases in Cassava plants to improving yield for farmers.
 * Finding free parking space. http://www.peazy.in has developed an app using machine learning to assist with finding a free parking space in crowded cities. 
 
+.. sub chapter with real exiting business examples
+
+.. include:: business-examples.rst
+
 
 Business principles for Machine Learning applications
 -------------------------------------------------------
@@ -154,8 +158,7 @@ Rationale: Privacy by principles is more than being compliant with legal constra
 Business ethics
 ---------------------
 
-
-Working with machine learning can, will and must raise severe ethical questions. Saying that you ‘Don't be evil’ , like the mission statement of Google (https://en.wikipedia.org/wiki/Don%27t_be_evil) was for decades, will not save you. Any business that uses machine learning should develop a process in order to handle ethical issues before they arrive. And ethical questions will arise!
+There are good and bad uses for any technology. So with ML technology. Working with machine learning can, will and must raise severe ethical questions. Machine learning can be used in many bad ways. Saying that you ‘Don't be evil’ , like the mission statement of Google (https://en.wikipedia.org/wiki/Don%27t_be_evil) was for decades, will not save you. Any business that uses machine learning should develop a process in order to handle ethical issues before they arrive. And ethical questions will arise!
 
 A growing number of experts believe that a third revolution will occur during the 21st century, through the invention of machines with intelligence which surpasses our own intelligence. The rapid progress in machine learning technology turns out to be input for all kind of disaster scenarios. When the barriers to apply machine learning will be lowered more one of the fears is that knowledge work and various mental tasks currently performed by humans will become obsolete. 
 
