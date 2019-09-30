@@ -1,4 +1,4 @@
-Machine learning reference architecture
+ML Reference Architecture
 ==========================================
 
 When you are going to apply machine learning for your business for real you should develop a solid architecture. A good architecture covers all crucial concerns like business concerns, data concerns, security and privacy concerns. And of course a good architecture should address technical concerns in order to minimize the risk of instant project failure.
@@ -60,7 +60,7 @@ In its core a machine learning process exist of a number of typical steps. These
 You will need to improve your machine learning model after a first test. Improving can be done using more training data or by making model adjustments. 
 
 
-Machine Learning Architecture Building Blocks
+ML Architecture Building Blocks
 -----------------------------------------------
 
 This reference architecture for machine learning gives guidance for developing solution architectures where machine learning systems play a major role. Discussions on what a good architecture is, can be a senseless use of time. But input on this reference architecture is always welcome. This to make it more generally useful for different domains and different industries. Note however that the architecture as described in this section is technology agnostics. So it is aimed at getting the architecture building blocks needed to develop a solution architecture for machine learning complete. 

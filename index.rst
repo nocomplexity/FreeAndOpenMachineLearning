@@ -6,14 +6,16 @@
 Free and Open Machine Learning Book
 =====================================
 
-This book is all about applying open machine learning solutions for real.
-
 Abstract
-========
+---------
 
-This book is created to give you a head start to use and apply new OSS machine learning technologies to solve your business problems. Important machine learning concepts are explained, but the main emphasis is on providing insights in the possibilities that are available within the open source machine learning ecosystem. This so you can start applying machine learning in your business today. 
+This book is all about applying open machine learning solutions for real practical use cases. So the core focus is on how outlining how you can apply machine learning in a simple way. Books with lots of mathematical background information on how machine learning works are available for more than 70 years. So if you are keen on mathematical background information, you should take a look at the open learning resources section of this application. 
 
-This book also gives an overview of all important OSS machine learning frameworks and OSS support tools that you can use for prototyping with machine learning or when using machine learning for real production use cases.
+Machine learning is an exciting powerful technology. The use of machine learning technology on larger scale opens new opportunities and will give improvements for everyone. Machine learning technology should be available for everyone. So without barriers. But with the rise of new machine learning enabled products it is important to be able to ask critical questions on how safety, security, privacy and ethical issues are handled. 
+
+This book is created to give you a head start to use and apply new Open Source machine learning technologies to solve your business problems. Important machine learning concepts are explained, but the main emphasis is on providing insights in the possibilities that are now available within the growing open source machine learning ecosystem. This so you can start applying machine learning in your business today. And be able to judge answers regarding important quality aspects, like safety, security and privacy.
+
+This book gives an overview of all important OSS machine learning frameworks and OSS support tools that you can use for prototyping with machine learning or when using machine learning for real production use cases.
 
 
 .. warning::
@@ -30,8 +32,7 @@ Table of Contents
 ==================
 
 .. toctree::
-   :maxdepth: 2
-   :numbered:
+   :maxdepth: 3   
    :caption: Contents:
 
    preface
@@ -46,7 +47,6 @@ Table of Contents
    references
    help
    license
-
 
 
 

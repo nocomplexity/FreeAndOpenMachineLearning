@@ -18,7 +18,9 @@ To create this publication a lot of papers, books and reports on machine learnin
 
 In the journey on learning how to apply machine learning for real business cases many books turned out to be either too theoretical, or to much focused on programming algorithms only. As an IT architect I missed the overall machine learning picture from an typical architecture point of view. So business, information, application, infrastructure, security and privacy perspective. This books fills up that gap. 
 
-.. todo::
+This publication is not an end, but is constructed as an continuous effort to provide usable open and non commercial information for applying machine learning technology. 
 
-  Add thank you note to collaborators and reviewers that participated in this project.
+This publication was only possible with the help of you! If you have a suggestion or corretion, please send an email to info [at] bm-support [dot] org. Ik will add you to the contributor list, unless you ask to be omitted. 
+
+
 

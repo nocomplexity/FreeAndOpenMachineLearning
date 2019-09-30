@@ -27,17 +27,17 @@ source innovation in artificial intelligence, machine learning, and deep
 learning while striving to make these critical new technologies
 available to developers and data scientists everywhere.
 
-+-----------------------+-------------------------------------------------+
-| **SBB License**       | Apache License 2.0                              |
-+-----------------------+-------------------------------------------------+
-| **Core Technology**   | Java                                            |
-+-----------------------+-------------------------------------------------+
-| **Project URL**       | https://www.acumos.org/                         |
-+-----------------------+-------------------------------------------------+
-| **Source Location**   | https://gerrit.acumos.org/r/#/admin/projects/   |
-+-----------------------+-------------------------------------------------+
-| **Tag(s)**            | ML                                              |
-+-----------------------+-------------------------------------------------+
++---------------------+-----------------------------------------------+
+| **SBB License**     | Apache License 2.0                            |
++---------------------+-----------------------------------------------+
+| **Core Technology** | Java                                          |
++---------------------+-----------------------------------------------+
+| **Project URL**     | https://www.acumos.org/                       |
++---------------------+-----------------------------------------------+
+| **Source Location** | https://gerrit.acumos.org/r/#/admin/projects/ |
++---------------------+-----------------------------------------------+
+| **Tag(s)**          | ML                                            |
++---------------------+-----------------------------------------------+
 
 | 
 
@@ -70,44 +70,17 @@ AdaNet has the following goals:
 
 Documentation at https://adanet.readthedocs.io/en/latest/
 
-+-----------------------+--------------------------------------------+
-| **SBB License**       | Apache License 2.0                         |
-+-----------------------+--------------------------------------------+
-| **Core Technology**   | Python                                     |
-+-----------------------+--------------------------------------------+
-| **Project URL**       | https://adanet.readthedocs.io/en/latest/   |
-+-----------------------+--------------------------------------------+
-| **Source Location**   | https://github.com/tensorflow/adanet       |
-+-----------------------+--------------------------------------------+
-| **Tag(s)**            | ML                                         |
-+-----------------------+--------------------------------------------+
-
-| 
-
-AI Explainability 360
----------------------
-
-The AI Explainability 360 toolkit is an open-source library that
-supports interpretability and explainability of datasets and machine
-learning models. The AI Explainability 360 Python package includes a
-comprehensive set of algorithms that cover different dimensions of
-explanations along with proxy explainability metrics.
-
-It is OSS from IBM (so apache2.0) so mind the history of openness IBM
-has regarding OSS product development. The documentation can be found
-here: https://aix360.readthedocs.io/en/latest/
-
-+-----------------------+---------------------------------+
-| **SBB License**       | Apache License 2.0              |
-+-----------------------+---------------------------------+
-| **Core Technology**   | Python                          |
-+-----------------------+---------------------------------+
-| **Project URL**       | http://aix360.mybluemix.net/    |
-+-----------------------+---------------------------------+
-| **Source Location**   | https://github.com/IBM/AIX360   |
-+-----------------------+---------------------------------+
-| **Tag(s)**            | Data analytics, ML, Python      |
-+-----------------------+---------------------------------+
++---------------------+------------------------------------------+
+| **SBB License**     | Apache License 2.0                       |
++---------------------+------------------------------------------+
+| **Core Technology** | Python                                   |
++---------------------+------------------------------------------+
+| **Project URL**     | https://adanet.readthedocs.io/en/latest/ |
++---------------------+------------------------------------------+
+| **Source Location** | https://github.com/tensorflow/adanet     |
++---------------------+------------------------------------------+
+| **Tag(s)**          | ML                                       |
++---------------------+------------------------------------------+
 
 | 
 
@@ -132,46 +105,17 @@ AllenNLP was designed with the following principles:
 -  *Experiment friendly.* Run reproducible experiments from a json
    specification with comprehensive logging.
 
-+-----------------------+---------------------------------------+
-| **SBB License**       | Apache License 2.0                    |
-+-----------------------+---------------------------------------+
-| **Core Technology**   | Python                                |
-+-----------------------+---------------------------------------+
-| **Project URL**       | http://allennlp.org/                  |
-+-----------------------+---------------------------------------+
-| **Source Location**   | https://github.com/allenai/allennlp   |
-+-----------------------+---------------------------------------+
-| **Tag(s)**            | ML, NLP, Python                       |
-+-----------------------+---------------------------------------+
-
-| 
-
-Analytics Zoo
--------------
-
-**Analytics Zoo** provides a unified analytics + AI platform that
-seamlessly unites ***Spark, TensorFlow, Keras and BigDL*** programs into
-an integrated pipeline; the entire pipeline can then transparently scale
-out to a large Hadoop/Spark cluster for distributed training or
-inference.
-
--  *Data wrangling and analysis using PySpark*
--  *Deep learning model development using TensorFlow or Keras*
--  *Distributed training/inference on Spark and BigDL*
--  *All within a single unified pipeline and in a user-transparent
-   fashion!*
-
-+-----------------------+----------------------------------------------------+
-| **SBB License**       | Apache License 2.0                                 |
-+-----------------------+----------------------------------------------------+
-| **Core Technology**   | Python                                             |
-+-----------------------+----------------------------------------------------+
-| **Project URL**       | https://analytics-zoo.github.io/master/            |
-+-----------------------+----------------------------------------------------+
-| **Source Location**   | https://github.com/intel-analytics/analytics-zoo   |
-+-----------------------+----------------------------------------------------+
-| **Tag(s)**            | ML, Python                                         |
-+-----------------------+----------------------------------------------------+
++---------------------+-------------------------------------+
+| **SBB License**     | Apache License 2.0                  |
++---------------------+-------------------------------------+
+| **Core Technology** | Python                              |
++---------------------+-------------------------------------+
+| **Project URL**     | http://allennlp.org/                |
++---------------------+-------------------------------------+
+| **Source Location** | https://github.com/allenai/allennlp |
++---------------------+-------------------------------------+
+| **Tag(s)**          | ML, NLP, Python                     |
++---------------------+-------------------------------------+
 
 | 
 
@@ -188,12 +132,12 @@ universities. So watch this project or play with it to see if it fits
 your use case.
 
 Apache MXNet (incubating) is a deep learning framework designed for both
-*efficiency* and *flexibility*. It allows you to ***mix*** `symbolic and
+*efficiency* and *flexibility*. It allows you to **mix** `symbolic and
 imperative
 programming <https://mxnet.incubator.apache.org/architecture/index.html#deep-learning-system-design-concepts>`__
-to ***maximize*** efficiency and productivity. At its core, MXNet
-contains a dynamic dependency scheduler that automatically parallelizes
-both symbolic and imperative operations on the fly. A graph optimization
+to **maximize** efficiency and productivity. At its core, MXNet contains
+a dynamic dependency scheduler that automatically parallelizes both
+symbolic and imperative operations on the fly. A graph optimization
 layer on top of that makes symbolic execution fast and memory efficient.
 MXNet is portable and lightweight, scaling effectively to multiple GPUs
 and multiple machines.
@@ -220,17 +164,17 @@ The Gluon API offers a flexible interface that simplifies the process of
 prototyping, building, and training deep learning models without
 sacrificing training speed.
 
-+-----------------------+---------------------------------------------+
-| **SBB License**       | Apache License 2.0                          |
-+-----------------------+---------------------------------------------+
-| **Core Technology**   | CPP                                         |
-+-----------------------+---------------------------------------------+
-| **Project URL**       | https://mxnet.apache.org/                   |
-+-----------------------+---------------------------------------------+
-| **Source Location**   | https://github.com/apache/incubator-mxnet   |
-+-----------------------+---------------------------------------------+
-| **Tag(s)**            | ML                                          |
-+-----------------------+---------------------------------------------+
++---------------------+-------------------------------------------+
+| **SBB License**     | Apache License 2.0                        |
++---------------------+-------------------------------------------+
+| **Core Technology** | CPP                                       |
++---------------------+-------------------------------------------+
+| **Project URL**     | https://mxnet.apache.org/                 |
++---------------------+-------------------------------------------+
+| **Source Location** | https://github.com/apache/incubator-mxnet |
++---------------------+-------------------------------------------+
+| **Tag(s)**          | ML                                        |
++---------------------+-------------------------------------------+
 
 | 
 
@@ -258,17 +202,17 @@ MLlib library contains many algorithms and utilities, e.g.:
 -  Topic modeling: latent Dirichlet allocation (LDA)
 -  Frequent itemsets, association rules, and sequential pattern mining
 
-+-----------------------+-----------------------------------+
-| **SBB License**       | Apache License 2.0                |
-+-----------------------+-----------------------------------+
-| **Core Technology**   | Java                              |
-+-----------------------+-----------------------------------+
-| **Project URL**       | https://spark.apache.org/mllib/   |
-+-----------------------+-----------------------------------+
-| **Source Location**   | https://github.com/apache/spark   |
-+-----------------------+-----------------------------------+
-| **Tag(s)**            | ML                                |
-+-----------------------+-----------------------------------+
++---------------------+---------------------------------+
+| **SBB License**     | Apache License 2.0              |
++---------------------+---------------------------------+
+| **Core Technology** | Java                            |
++---------------------+---------------------------------+
+| **Project URL**     | https://spark.apache.org/mllib/ |
++---------------------+---------------------------------+
+| **Source Location** | https://github.com/apache/spark |
++---------------------+---------------------------------+
+| **Tag(s)**          | ML                              |
++---------------------+---------------------------------+
 
 | 
 
@@ -278,39 +222,39 @@ Apollo
 Apollo is a high performance, flexible architecture which accelerates
 the development, testing, and deployment of Autonomous Vehicles.
 
-+-----------------------+----------------------------------------+
-| **SBB License**       | GNU General Public License (GPL) 2.0   |
-+-----------------------+----------------------------------------+
-| **Core Technology**   | C++                                    |
-+-----------------------+----------------------------------------+
-| **Project URL**       | http://apollo.auto/                    |
-+-----------------------+----------------------------------------+
-| **Source Location**   | https://github.com/ApolloAuto/apollo   |
-+-----------------------+----------------------------------------+
-| **Tag(s)**            | ML                                     |
-+-----------------------+----------------------------------------+
++---------------------+--------------------------------------+
+| **SBB License**     | GNU General Public License (GPL) 2.0 |
++---------------------+--------------------------------------+
+| **Core Technology** | C++                                  |
++---------------------+--------------------------------------+
+| **Project URL**     | http://apollo.auto/                  |
++---------------------+--------------------------------------+
+| **Source Location** | https://github.com/ApolloAuto/apollo |
++---------------------+--------------------------------------+
+| **Tag(s)**          | ML                                   |
++---------------------+--------------------------------------+
 
 | 
 
-auto\_ml
---------
+auto_ml
+-------
 
 Automated machine learning for analytics & production.
 
 Automates the whole machine learning process, making it super easy to
 use for both analytics, and getting real-time predictions in production.
 
-+-----------------------+------------------------------------------+
-| **SBB License**       | MIT License                              |
-+-----------------------+------------------------------------------+
-| **Core Technology**   | Python                                   |
-+-----------------------+------------------------------------------+
-| **Project URL**       | http://auto-ml.readthedocs.io            |
-+-----------------------+------------------------------------------+
-| **Source Location**   | https://github.com/ClimbsRocks/auto_ml   |
-+-----------------------+------------------------------------------+
-| **Tag(s)**            | ML                                       |
-+-----------------------+------------------------------------------+
++---------------------+----------------------------------------+
+| **SBB License**     | MIT License                            |
++---------------------+----------------------------------------+
+| **Core Technology** | Python                                 |
++---------------------+----------------------------------------+
+| **Project URL**     | http://auto-ml.readthedocs.io          |
++---------------------+----------------------------------------+
+| **Source Location** | https://github.com/ClimbsRocks/auto_ml |
++---------------------+----------------------------------------+
+| **Tag(s)**          | ML                                     |
++---------------------+----------------------------------------+
 
 | 
 
@@ -347,17 +291,17 @@ Hadoop clusters.
    data processing framework), as well as efficient implementations of
    synchronous SGD and all-reduce communications on Spark.
 
-+-----------------------+--------------------------------------------+
-| **SBB License**       | Apache License 2.0                         |
-+-----------------------+--------------------------------------------+
-| **Core Technology**   | Java                                       |
-+-----------------------+--------------------------------------------+
-| **Project URL**       | https://bigdl-project.github.io/master/    |
-+-----------------------+--------------------------------------------+
-| **Source Location**   | https://github.com/intel-analytics/BigDL   |
-+-----------------------+--------------------------------------------+
-| **Tag(s)**            | ML                                         |
-+-----------------------+--------------------------------------------+
++---------------------+------------------------------------------+
+| **SBB License**     | Apache License 2.0                       |
++---------------------+------------------------------------------+
+| **Core Technology** | Java                                     |
++---------------------+------------------------------------------+
+| **Project URL**     | https://bigdl-project.github.io/master/  |
++---------------------+------------------------------------------+
+| **Source Location** | https://github.com/intel-analytics/BigDL |
++---------------------+------------------------------------------+
+| **Tag(s)**          | ML                                       |
++---------------------+------------------------------------------+
 
 | 
 
@@ -379,17 +323,17 @@ of Theano. Currently it supports and provides:
    training set as well as on test sets)
 -  Application of graph transformations, such as dropout
 
-+-----------------------+-------------------------------------------+
-| **SBB License**       | MIT License                               |
-+-----------------------+-------------------------------------------+
-| **Core Technology**   | Python                                    |
-+-----------------------+-------------------------------------------+
-| **Project URL**       | http://blocks.readthedocs.io/en/latest/   |
-+-----------------------+-------------------------------------------+
-| **Source Location**   | https://github.com/mila-udem/blocks       |
-+-----------------------+-------------------------------------------+
-| **Tag(s)**            | ML                                        |
-+-----------------------+-------------------------------------------+
++---------------------+-----------------------------------------+
+| **SBB License**     | MIT License                             |
++---------------------+-----------------------------------------+
+| **Core Technology** | Python                                  |
++---------------------+-----------------------------------------+
+| **Project URL**     | http://blocks.readthedocs.io/en/latest/ |
++---------------------+-----------------------------------------+
+| **Source Location** | https://github.com/mila-udem/blocks     |
++---------------------+-----------------------------------------+
+| **Tag(s)**          | ML                                      |
++---------------------+-----------------------------------------+
 
 | 
 
@@ -420,17 +364,17 @@ the wheel.
 
  
 
-+-----------------------+------------------------------------------------------+
-| **SBB License**       | MIT License                                          |
-+-----------------------+------------------------------------------------------+
-| **Core Technology**   | Javascript                                           |
-+-----------------------+------------------------------------------------------+
-| **Project URL**       | https://cs.stanford.edu/people/karpathy/convnetjs/   |
-+-----------------------+------------------------------------------------------+
-| **Source Location**   | https://github.com/karpathy/convnetjs                |
-+-----------------------+------------------------------------------------------+
-| **Tag(s)**            | Javascript, ML                                       |
-+-----------------------+------------------------------------------------------+
++---------------------+----------------------------------------------------+
+| **SBB License**     | MIT License                                        |
++---------------------+----------------------------------------------------+
+| **Core Technology** | Javascript                                         |
++---------------------+----------------------------------------------------+
+| **Project URL**     | https://cs.stanford.edu/people/karpathy/convnetjs/ |
++---------------------+----------------------------------------------------+
+| **Source Location** | https://github.com/karpathy/convnetjs              |
++---------------------+----------------------------------------------------+
+| **Tag(s)**          | Javascript, ML                                     |
++---------------------+----------------------------------------------------+
 
 | 
 
@@ -442,17 +386,19 @@ doing and sharing data science work.
 
  
 
-+-----------------------+-----------------------------------------------------------+
-| **SBB License**       | MIT License                                               |
-+-----------------------+-----------------------------------------------------------+
-| **Core Technology**   | Python                                                    |
-+-----------------------+-----------------------------------------------------------+
-| **Project URL**       | https://drivendata.github.io/cookiecutter-data-science/   |
-+-----------------------+-----------------------------------------------------------+
-| **Source Location**   | https://github.com/drivendata/cookiecutter-data-science   |
-+-----------------------+-----------------------------------------------------------+
-| **Tag(s)**            | Data tool, ML                                             |
-+-----------------------+-----------------------------------------------------------+
++-----------------------------------+-----------------------------------+
+| **SBB License**                   | MIT License                       |
++-----------------------------------+-----------------------------------+
+| **Core Technology**               | Python                            |
++-----------------------------------+-----------------------------------+
+| **Project URL**                   | https://drivendata.github.io/cook |
+|                                   | iecutter-data-science/            |
++-----------------------------------+-----------------------------------+
+| **Source Location**               | https://github.com/drivendata/coo |
+|                                   | kiecutter-data-science            |
++-----------------------------------+-----------------------------------+
+| **Tag(s)**                        | Data tool, ML                     |
++-----------------------------------+-----------------------------------+
 
 | 
 
@@ -474,17 +420,17 @@ used as a knowledge repo and a ledger for the team, ad-hoc scripts to
 track and move deploy different model versions, ad-hoc data file
 suffixes and prefixes.
 
-+-----------------------+------------------------------------+
-| **SBB License**       | Apache License 2.0                 |
-+-----------------------+------------------------------------+
-| **Core Technology**   | Python                             |
-+-----------------------+------------------------------------+
-| **Project URL**       | https://dvc.org/                   |
-+-----------------------+------------------------------------+
-| **Source Location**   | https://github.com/iterative/dvc   |
-+-----------------------+------------------------------------+
-| **Tag(s)**            | ML, Python                         |
-+-----------------------+------------------------------------+
++---------------------+----------------------------------+
+| **SBB License**     | Apache License 2.0               |
++---------------------+----------------------------------+
+| **Core Technology** | Python                           |
++---------------------+----------------------------------+
+| **Project URL**     | https://dvc.org/                 |
++---------------------+----------------------------------+
+| **Source Location** | https://github.com/iterative/dvc |
++---------------------+----------------------------------+
+| **Tag(s)**          | ML, Python                       |
++---------------------+----------------------------------+
 
 | 
 
@@ -501,17 +447,17 @@ Some features:
 -  Data and scripts automatically saved and accessible from anywhere
 -  “Fork” support – build on others work and let them build on yours
 
-+-----------------------+----------------------------------------+
-| **SBB License**       | MIT License                            |
-+-----------------------+----------------------------------------+
-| **Core Technology**   | javascript                             |
-+-----------------------+----------------------------------------+
-| **Project URL**       | http://explorer.okfnlabs.org           |
-+-----------------------+----------------------------------------+
-| **Source Location**   | https://github.com/okfn/dataexplorer   |
-+-----------------------+----------------------------------------+
-| **Tag(s)**            | Data viewer, ML                        |
-+-----------------------+----------------------------------------+
++---------------------+--------------------------------------+
+| **SBB License**     | MIT License                          |
++---------------------+--------------------------------------+
+| **Core Technology** | javascript                           |
++---------------------+--------------------------------------+
+| **Project URL**     | http://explorer.okfnlabs.org         |
++---------------------+--------------------------------------+
+| **Source Location** | https://github.com/okfn/dataexplorer |
++---------------------+--------------------------------------+
+| **Tag(s)**          | Data viewer, ML                      |
++---------------------+--------------------------------------+
 
 | 
 
@@ -521,17 +467,17 @@ Datastream
 An open-source framework for real-time anomaly detection using Python,
 ElasticSearch and Kiban. Also uses scikit-learn.
 
-+-----------------------+------------------------------------------------------+
-| **SBB License**       | Apache License 2.0                                   |
-+-----------------------+------------------------------------------------------+
-| **Core Technology**   | Python                                               |
-+-----------------------+------------------------------------------------------+
-| **Project URL**       | https://github.com/MentatInnovations/datastream.io   |
-+-----------------------+------------------------------------------------------+
-| **Source Location**   | https://github.com/MentatInnovations/datastream.io   |
-+-----------------------+------------------------------------------------------+
-| **Tag(s)**            | ML, Monitoring, Security                             |
-+-----------------------+------------------------------------------------------+
++---------------------+----------------------------------------------------+
+| **SBB License**     | Apache License 2.0                                 |
++---------------------+----------------------------------------------------+
+| **Core Technology** | Python                                             |
++---------------------+----------------------------------------------------+
+| **Project URL**     | https://github.com/MentatInnovations/datastream.io |
++---------------------+----------------------------------------------------+
+| **Source Location** | https://github.com/MentatInnovations/datastream.io |
++---------------------+----------------------------------------------------+
+| **Tag(s)**          | ML, Monitoring, Security                           |
++---------------------+----------------------------------------------------+
 
 | 
 
@@ -556,17 +502,17 @@ Deep Detect has also a REST API for Deep Learning with:
 
  
 
-+-----------------------+---------------------------------------+
-| **SBB License**       | MIT License                           |
-+-----------------------+---------------------------------------+
-| **Core Technology**   | C++                                   |
-+-----------------------+---------------------------------------+
-| **Project URL**       | https://deepdetect.com                |
-+-----------------------+---------------------------------------+
-| **Source Location**   | https://github.com/beniz/deepdetect   |
-+-----------------------+---------------------------------------+
-| **Tag(s)**            | ML                                    |
-+-----------------------+---------------------------------------+
++---------------------+-------------------------------------+
+| **SBB License**     | MIT License                         |
++---------------------+-------------------------------------+
+| **Core Technology** | C++                                 |
++---------------------+-------------------------------------+
+| **Project URL**     | https://deepdetect.com              |
++---------------------+-------------------------------------+
+| **Source Location** | https://github.com/beniz/deepdetect |
++---------------------+-------------------------------------+
+| **Tag(s)**          | ML                                  |
++---------------------+-------------------------------------+
 
 | 
 
@@ -584,17 +530,17 @@ to download or install anything.
 Deeplearn.js was originally developed by the Google Brain PAIR team to
 build powerful interactive machine learning tools for the browser.
 
-+-----------------------+--------------------------------------------+
-| **SBB License**       | Apache License 2.0                         |
-+-----------------------+--------------------------------------------+
-| **Core Technology**   | Javascript                                 |
-+-----------------------+--------------------------------------------+
-| **Project URL**       | https://deeplearnjs.org/                   |
-+-----------------------+--------------------------------------------+
-| **Source Location**   | https://github.com/PAIR-code/deeplearnjs   |
-+-----------------------+--------------------------------------------+
-| **Tag(s)**            | Javascript, ML                             |
-+-----------------------+--------------------------------------------+
++---------------------+------------------------------------------+
+| **SBB License**     | Apache License 2.0                       |
++---------------------+------------------------------------------+
+| **Core Technology** | Javascript                               |
++---------------------+------------------------------------------+
+| **Project URL**     | https://deeplearnjs.org/                 |
++---------------------+------------------------------------------+
+| **Source Location** | https://github.com/PAIR-code/deeplearnjs |
++---------------------+------------------------------------------+
+| **Tag(s)**          | Javascript, ML                           |
++---------------------+------------------------------------------+
 
 | 
 
@@ -618,17 +564,17 @@ created by Skymind who delivers support and offers also the option for
 machine learning models to be hosted with Skymind’s model server on a
 cloud environment
 
-+-----------------------+----------------------------------------------------+
-| **SBB License**       | Apache License 2.0                                 |
-+-----------------------+----------------------------------------------------+
-| **Core Technology**   | Java                                               |
-+-----------------------+----------------------------------------------------+
-| **Project URL**       | https://deeplearning4j.org                         |
-+-----------------------+----------------------------------------------------+
-| **Source Location**   | https://github.com/deeplearning4j/deeplearning4j   |
-+-----------------------+----------------------------------------------------+
-| **Tag(s)**            | ML                                                 |
-+-----------------------+----------------------------------------------------+
++---------------------+--------------------------------------------------+
+| **SBB License**     | Apache License 2.0                               |
++---------------------+--------------------------------------------------+
+| **Core Technology** | Java                                             |
++---------------------+--------------------------------------------------+
+| **Project URL**     | https://deeplearning4j.org                       |
++---------------------+--------------------------------------------------+
+| **Source Location** | https://github.com/deeplearning4j/deeplearning4j |
++---------------------+--------------------------------------------------+
+| **Tag(s)**          | ML                                               |
++---------------------+--------------------------------------------------+
 
 | 
 
@@ -651,17 +597,17 @@ a variety of applications including augmented reality and community
 integrity. Once trained, these models can be deployed in the cloud and
 on mobile devices, powered by the highly efficient Caffe2 runtime.
 
-+-----------------------+-------------------------------------------------+
-| **SBB License**       | Apache License 2.0                              |
-+-----------------------+-------------------------------------------------+
-| **Core Technology**   | Python                                          |
-+-----------------------+-------------------------------------------------+
-| **Project URL**       | https://github.com/facebookresearch/Detectron   |
-+-----------------------+-------------------------------------------------+
-| **Source Location**   | https://github.com/facebookresearch/Detectron   |
-+-----------------------+-------------------------------------------------+
-| **Tag(s)**            | AI, ML, Python                                  |
-+-----------------------+-------------------------------------------------+
++---------------------+-----------------------------------------------+
+| **SBB License**     | Apache License 2.0                            |
++---------------------+-----------------------------------------------+
+| **Core Technology** | Python                                        |
++---------------------+-----------------------------------------------+
+| **Project URL**     | https://github.com/facebookresearch/Detectron |
++---------------------+-----------------------------------------------+
+| **Source Location** | https://github.com/facebookresearch/Detectron |
++---------------------+-----------------------------------------------+
+| **Tag(s)**          | AI, ML, Python                                |
++---------------------+-----------------------------------------------+
 
 | 
 
@@ -683,17 +629,17 @@ Our design principles are:
    battle-tested algorithms.
 -  *Reproducible*: Facilitate reproducibility in results.
 
-+-----------------------+--------------------------------------+
-| **SBB License**       | Apache License 2.0                   |
-+-----------------------+--------------------------------------+
-| **Core Technology**   | Python                               |
-+-----------------------+--------------------------------------+
-| **Project URL**       | https://github.com/google/dopamine   |
-+-----------------------+--------------------------------------+
-| **Source Location**   | https://github.com/google/dopamine   |
-+-----------------------+--------------------------------------+
-| **Tag(s)**            | ML, Reinforcement Learning           |
-+-----------------------+--------------------------------------+
++---------------------+------------------------------------+
+| **SBB License**     | Apache License 2.0                 |
++---------------------+------------------------------------+
+| **Core Technology** | Python                             |
++---------------------+------------------------------------+
+| **Project URL**     | https://github.com/google/dopamine |
++---------------------+------------------------------------+
+| **Source Location** | https://github.com/google/dopamine |
++---------------------+------------------------------------+
+| **Tag(s)**          | ML, Reinforcement Learning         |
++---------------------+------------------------------------+
 
 | 
 
@@ -706,17 +652,17 @@ researchers to collaboratively develop and debug models using a web GUI
 that supports importing, editing and exporting networks written in
 widely popular frameworks like Caffe, Keras, and TensorFlow.
 
-+-----------------------+----------------------------------------+
-| **SBB License**       | GNU General Public License (GPL) 3.0   |
-+-----------------------+----------------------------------------+
-| **Core Technology**   | Javascript, Python                     |
-+-----------------------+----------------------------------------+
-| **Project URL**       | http://fabrik.cloudcv.org/             |
-+-----------------------+----------------------------------------+
-| **Source Location**   | https://github.com/Cloud-CV/Fabrik     |
-+-----------------------+----------------------------------------+
-| **Tag(s)**            | Data Visualization, ML                 |
-+-----------------------+----------------------------------------+
++---------------------+--------------------------------------+
+| **SBB License**     | GNU General Public License (GPL) 3.0 |
++---------------------+--------------------------------------+
+| **Core Technology** | Javascript, Python                   |
++---------------------+--------------------------------------+
+| **Project URL**     | http://fabrik.cloudcv.org/           |
++---------------------+--------------------------------------+
+| **Source Location** | https://github.com/Cloud-CV/Fabrik   |
++---------------------+--------------------------------------+
+| **Tag(s)**          | Data Visualization, ML               |
++---------------------+--------------------------------------+
 
 | 
 
@@ -730,17 +676,17 @@ of `PyTorch <https://pytorch.org/>`__, which provides the foundation.
 
 Docs can be found on:\ http://docs.fast.ai/
 
-+-----------------------+-------------------------------------+
-| **SBB License**       | Apache License 2.0                  |
-+-----------------------+-------------------------------------+
-| **Core Technology**   | Python                              |
-+-----------------------+-------------------------------------+
-| **Project URL**       | http://www.fast.ai/                 |
-+-----------------------+-------------------------------------+
-| **Source Location**   | https://github.com/fastai/fastai/   |
-+-----------------------+-------------------------------------+
-| **Tag(s)**            | ML                                  |
-+-----------------------+-------------------------------------+
++---------------------+-----------------------------------+
+| **SBB License**     | Apache License 2.0                |
++---------------------+-----------------------------------+
+| **Core Technology** | Python                            |
++---------------------+-----------------------------------+
+| **Project URL**     | http://www.fast.ai/               |
++---------------------+-----------------------------------+
+| **Source Location** | https://github.com/fastai/fastai/ |
++---------------------+-----------------------------------+
+| **Tag(s)**          | ML                                |
++---------------------+-----------------------------------+
 
 | 
 
@@ -753,19 +699,21 @@ Featuretools can automatically create a single table of features for any
 feature engineering. It excels at transforming transactional and
 relational datasets into feature matrices for machine learning.
 
-+-----------------------+------------------------------------------------------+
-| **SBB License**       | BSD License 2.0 (3-clause, New or Revised) License   |
-+-----------------------+------------------------------------------------------+
-| **Core Technology**   | Python                                               |
-+-----------------------+------------------------------------------------------+
-| **Project URL**       | https://www.featuretools.com/                        |
-+-----------------------+------------------------------------------------------+
-| **Source Location**   | https://github.com/Featuretools/featuretools         |
-+-----------------------+------------------------------------------------------+
-| **Tag(s)**            | ML, Python                                           |
-+-----------------------+------------------------------------------------------+
++---------------------+----------------------------------------------------+
+| **SBB License**     | BSD License 2.0 (3-clause, New or Revised) License |
++---------------------+----------------------------------------------------+
+| **Core Technology** | Python                                             |
++---------------------+----------------------------------------------------+
+| **Project URL**     | https://www.featuretools.com/                      |
++---------------------+----------------------------------------------------+
+| **Source Location** | https://github.com/Featuretools/featuretools       |
++---------------------+----------------------------------------------------+
+| **Tag(s)**          | ML, Python                                         |
++---------------------+----------------------------------------------------+
 
 | 
+
+.. _featuretools-1:
 
 Featuretools
 ------------
@@ -783,17 +731,17 @@ more of the feature engineering process.”* ― Pedro
 
  
 
-+-----------------------+------------------------------------------------------+
-| **SBB License**       | BSD License 2.0 (3-clause, New or Revised) License   |
-+-----------------------+------------------------------------------------------+
-| **Core Technology**   | Python                                               |
-+-----------------------+------------------------------------------------------+
-| **Project URL**       | https://www.featuretools.com/                        |
-+-----------------------+------------------------------------------------------+
-| **Source Location**   | https://github.com/Featuretools/featuretools         |
-+-----------------------+------------------------------------------------------+
-| **Tag(s)**            | ML                                                   |
-+-----------------------+------------------------------------------------------+
++---------------------+----------------------------------------------------+
+| **SBB License**     | BSD License 2.0 (3-clause, New or Revised) License |
++---------------------+----------------------------------------------------+
+| **Core Technology** | Python                                             |
++---------------------+----------------------------------------------------+
+| **Project URL**     | https://www.featuretools.com/                      |
++---------------------+----------------------------------------------------+
+| **Source Location** | https://github.com/Featuretools/featuretools       |
++---------------------+----------------------------------------------------+
+| **Tag(s)**          | ML                                                 |
++---------------------+----------------------------------------------------+
 
 | 
 
@@ -815,25 +763,25 @@ Flair is:
    tags for input text in various languages.
 -  **A text embedding library.** Flair has simple interfaces that allow
    you to use and combine different word and document embeddings,
-   including our proposed **`Flair
-   embeddings <https://drive.google.com/file/d/17yVpFA7MmXaQFTe-HDpZuqw9fJlmzg56/view?usp=sharing>`__**,
+   including our proposed `Flair
+   embeddings <https://drive.google.com/file/d/17yVpFA7MmXaQFTe-HDpZuqw9fJlmzg56/view?usp=sharing>`__,
    BERT embeddings and ELMo embeddings.
 -  **A Pytorch NLP framework.** Our framework builds directly on
    `Pytorch <https://pytorch.org/>`__, making it easy to train your own
    models and experiment with new approaches using Flair embeddings and
    classes.
 
-+-----------------------+--------------------------------------------+
-| **SBB License**       | MIT License                                |
-+-----------------------+--------------------------------------------+
-| **Core Technology**   | Python                                     |
-+-----------------------+--------------------------------------------+
-| **Project URL**       | https://github.com/zalandoresearch/flair   |
-+-----------------------+--------------------------------------------+
-| **Source Location**   | https://github.com/zalandoresearch/flair   |
-+-----------------------+--------------------------------------------+
-| **Tag(s)**            | ML, NLP, Python                            |
-+-----------------------+--------------------------------------------+
++---------------------+------------------------------------------+
+| **SBB License**     | MIT License                              |
++---------------------+------------------------------------------+
+| **Core Technology** | Python                                   |
++---------------------+------------------------------------------+
+| **Project URL**     | https://github.com/zalandoresearch/flair |
++---------------------+------------------------------------------+
+| **Source Location** | https://github.com/zalandoresearch/flair |
++---------------------+------------------------------------------+
+| **Tag(s)**          | ML, NLP, Python                          |
++---------------------+------------------------------------------+
 
 | 
 
@@ -862,17 +810,17 @@ libraries.
    experiments in the middle of a pass over your dataset without losing
    any training progress.
 
-+-----------------------+---------------------------------------------------+
-| **SBB License**       | MIT License                                       |
-+-----------------------+---------------------------------------------------+
-| **Core Technology**   | Python                                            |
-+-----------------------+---------------------------------------------------+
-| **Project URL**       | http://fuel.readthedocs.io/en/latest/index.html   |
-+-----------------------+---------------------------------------------------+
-| **Source Location**   | https://github.com/mila-udem/fuel                 |
-+-----------------------+---------------------------------------------------+
-| **Tag(s)**            | Data tool, ML                                     |
-+-----------------------+---------------------------------------------------+
++---------------------+-------------------------------------------------+
+| **SBB License**     | MIT License                                     |
++---------------------+-------------------------------------------------+
+| **Core Technology** | Python                                          |
++---------------------+-------------------------------------------------+
+| **Project URL**     | http://fuel.readthedocs.io/en/latest/index.html |
++---------------------+-------------------------------------------------+
+| **Source Location** | https://github.com/mila-udem/fuel               |
++---------------------+-------------------------------------------------+
+| **Tag(s)**          | Data tool, ML                                   |
++---------------------+-------------------------------------------------+
 
 | 
 
@@ -886,17 +834,17 @@ community.
 
  
 
-+-----------------------+-----------------------------------------------+
-| **SBB License**       | MIT License                                   |
-+-----------------------+-----------------------------------------------+
-| **Core Technology**   | Python                                        |
-+-----------------------+-----------------------------------------------+
-| **Project URL**       | https://github.com/RaRe-Technologies/gensim   |
-+-----------------------+-----------------------------------------------+
-| **Source Location**   | https://github.com/RaRe-Technologies/gensim   |
-+-----------------------+-----------------------------------------------+
-| **Tag(s)**            | ML, NLP, Python                               |
-+-----------------------+-----------------------------------------------+
++---------------------+---------------------------------------------+
+| **SBB License**     | MIT License                                 |
++---------------------+---------------------------------------------+
+| **Core Technology** | Python                                      |
++---------------------+---------------------------------------------+
+| **Project URL**     | https://github.com/RaRe-Technologies/gensim |
++---------------------+---------------------------------------------+
+| **Source Location** | https://github.com/RaRe-Technologies/gensim |
++---------------------+---------------------------------------------+
+| **Tag(s)**          | ML, NLP, Python                             |
++---------------------+---------------------------------------------+
 
 | 
 
@@ -913,17 +861,17 @@ there are two types of nodes in the Golem network: requestor nodes that
 announce computing tasks and compute nodes that perform computations (in
 the actual implementation nodes may switch between both roles).
 
-+-----------------------+-----------------------------------------+
-| **SBB License**       | GNU General Public License (GPL) 3.0    |
-+-----------------------+-----------------------------------------+
-| **Core Technology**   | Python                                  |
-+-----------------------+-----------------------------------------+
-| **Project URL**       | https://golem.network/                  |
-+-----------------------+-----------------------------------------+
-| **Source Location**   | https://github.com/golemfactory/golem   |
-+-----------------------+-----------------------------------------+
-| **Tag(s)**            | Distributed Computing, ML               |
-+-----------------------+-----------------------------------------+
++---------------------+---------------------------------------+
+| **SBB License**     | GNU General Public License (GPL) 3.0  |
++---------------------+---------------------------------------+
+| **Core Technology** | Python                                |
++---------------------+---------------------------------------+
+| **Project URL**     | https://golem.network/                |
++---------------------+---------------------------------------+
+| **Source Location** | https://github.com/golemfactory/golem |
++---------------------+---------------------------------------+
+| **Tag(s)**          | Distributed Computing, ML             |
++---------------------+---------------------------------------+
 
 | 
 
@@ -944,17 +892,17 @@ Some key features of HyperTools are:
    k-means clustering, normalizing and more
 #. Support for lists of Numpy arrays or Pandas dataframes
 
-+-----------------------+-----------------------------------------------+
-| **SBB License**       | MIT License                                   |
-+-----------------------+-----------------------------------------------+
-| **Core Technology**   | Python                                        |
-+-----------------------+-----------------------------------------------+
-| **Project URL**       | http://hypertools.readthedocs.io/en/latest/   |
-+-----------------------+-----------------------------------------------+
-| **Source Location**   | https://github.com/ContextLab/hypertools      |
-+-----------------------+-----------------------------------------------+
-| **Tag(s)**            | Data tool, ML                                 |
-+-----------------------+-----------------------------------------------+
++---------------------+---------------------------------------------+
+| **SBB License**     | MIT License                                 |
++---------------------+---------------------------------------------+
+| **Core Technology** | Python                                      |
++---------------------+---------------------------------------------+
+| **Project URL**     | http://hypertools.readthedocs.io/en/latest/ |
++---------------------+---------------------------------------------+
+| **Source Location** | https://github.com/ContextLab/hypertools    |
++---------------------+---------------------------------------------+
+| **Tag(s)**          | Data tool, ML                               |
++---------------------+---------------------------------------------+
 
 | 
 
@@ -981,58 +929,17 @@ Features:
 -  interfaced with 3D engines like THREE.JS, BABYLON.JS, A-FRAME,
 -  interfaced with more accessible APIs like CANVAS, CSS3D.
 
-+-----------------------+----------------------------------------------+
-| **SBB License**       | Apache License 2.0                           |
-+-----------------------+----------------------------------------------+
-| **Core Technology**   | Javascript                                   |
-+-----------------------+----------------------------------------------+
-| **Project URL**       | https://jeeliz.com/                          |
-+-----------------------+----------------------------------------------+
-| **Source Location**   | https://github.com/jeeliz/jeelizFaceFilter   |
-+-----------------------+----------------------------------------------+
-| **Tag(s)**            | face detection, Javascript, ML               |
-+-----------------------+----------------------------------------------+
-
-| 
-
-Kedro
------
-
-Kedro is a workflow development tool that helps you build data pipelines
-that are robust, scalable, deployable, reproducible and versioned. We
-provide a standard approach so that you can:
-
--  spend more time building your data pipeline,
--  worry less about how to write production-ready code,
--  standardise the way that your team collaborates across your project,
--  work more efficiently.
-
-Features:
-
- - A standard and easy-to-use project template, allowing your collaborators to spend less time understanding how you’ve set up your analytics project
- - Data abstraction, managing how you load and save data so that you don’t have to worry about the reproducibility of your code in different environments
- - Configuration management, helping you keep credentials out of your code base
- - Pipeline visualisation with [Kedro-Viz](https://github.com/quantumblacklabs/kedro-viz) making it easy to see how your data pipeline is constructed
- - Seamless packaging, allowing you to ship your projects to production, e.g. using [Kedro-Docker](https://github.com/quantumblacklabs/kedro-docker) or [Kedro-Airflow](https://github.com/quantumblacklabs/kedro-airflow)
- - Versioning for your datasets and machine learning models whenever your pipeline runs
-
-Documentation on: ****
-`**https://kedro.readthedocs.io/** <https://kedro.readthedocs.io/>`__
-
-The REACT visualization for Kedro is
-on: \ `https://github.com/quantumblacklabs/kedro-viz <http://%20https://github.com/quantumblacklabs/kedro-viz%20>`__
-
-+-----------------------+---------------------------------------------+
-| **SBB License**       | Apache License 2.0                          |
-+-----------------------+---------------------------------------------+
-| **Core Technology**   | Python                                      |
-+-----------------------+---------------------------------------------+
-| **Project URL**       | https://github.com/quantumblacklabs/kedro   |
-+-----------------------+---------------------------------------------+
-| **Source Location**   | https://github.com/quantumblacklabs/kedro   |
-+-----------------------+---------------------------------------------+
-| **Tag(s)**            | ML, Python                                  |
-+-----------------------+---------------------------------------------+
++---------------------+--------------------------------------------+
+| **SBB License**     | Apache License 2.0                         |
++---------------------+--------------------------------------------+
+| **Core Technology** | Javascript                                 |
++---------------------+--------------------------------------------+
+| **Project URL**     | https://jeeliz.com/                        |
++---------------------+--------------------------------------------+
+| **Source Location** | https://github.com/jeeliz/jeelizFaceFilter |
++---------------------+--------------------------------------------+
+| **Tag(s)**          | face detection, Javascript, ML             |
++---------------------+--------------------------------------------+
 
 | 
 
@@ -1052,17 +959,17 @@ Use Keras if you need a deep learning library that:
    as combinations of the two.
 -  Runs seamlessly on CPU and GPU.
 
-+-----------------------+---------------------------------------+
-| **SBB License**       | MIT License                           |
-+-----------------------+---------------------------------------+
-| **Core Technology**   | Python                                |
-+-----------------------+---------------------------------------+
-| **Project URL**       | https://keras.io/                     |
-+-----------------------+---------------------------------------+
-| **Source Location**   | https://github.com/keras-team/keras   |
-+-----------------------+---------------------------------------+
-| **Tag(s)**            | ML                                    |
-+-----------------------+---------------------------------------+
++---------------------+-------------------------------------+
+| **SBB License**     | MIT License                         |
++---------------------+-------------------------------------+
+| **Core Technology** | Python                              |
++---------------------+-------------------------------------+
+| **Project URL**     | https://keras.io/                   |
++---------------------+-------------------------------------+
+| **Source Location** | https://github.com/keras-team/keras |
++---------------------+-------------------------------------+
+| **Tag(s)**          | ML                                  |
++---------------------+-------------------------------------+
 
 | 
 
@@ -1076,17 +983,17 @@ classification or document categorization is a problem in library
 science, information science and computer science. The task is to assign
 a document to one or more classes or categories.
 
-+-----------------------+-------------------------------------------+
-| **SBB License**       | MIT License                               |
-+-----------------------+-------------------------------------------+
-| **Core Technology**   | Python                                    |
-+-----------------------+-------------------------------------------+
-| **Project URL**       | https://github.com/fatiherikli/klassify   |
-+-----------------------+-------------------------------------------+
-| **Source Location**   | https://github.com/fatiherikli/klassify   |
-+-----------------------+-------------------------------------------+
-| **Tag(s)**            | ML, Text classification                   |
-+-----------------------+-------------------------------------------+
++---------------------+-----------------------------------------+
+| **SBB License**     | MIT License                             |
++---------------------+-----------------------------------------+
+| **Core Technology** | Python                                  |
++---------------------+-----------------------------------------+
+| **Project URL**     | https://github.com/fatiherikli/klassify |
++---------------------+-----------------------------------------+
+| **Source Location** | https://github.com/fatiherikli/klassify |
++---------------------+-----------------------------------------+
+| **Tag(s)**          | ML, Text classification                 |
++---------------------+-----------------------------------------+
 
 | 
 
@@ -1140,17 +1047,17 @@ Features
    logging and timing statements configured for both production and
    development.
 
-+-----------------------+----------------------------------------+
-| **SBB License**       | GNU General Public License (GPL) 2.0   |
-+-----------------------+----------------------------------------+
-| **Core Technology**   | Python                                 |
-+-----------------------+----------------------------------------+
-| **Project URL**       | https://github.com/instacart/lore      |
-+-----------------------+----------------------------------------+
-| **Source Location**   | https://github.com/instacart/lore      |
-+-----------------------+----------------------------------------+
-| **Tag(s)**            | ML, Python                             |
-+-----------------------+----------------------------------------+
++---------------------+--------------------------------------+
+| **SBB License**     | GNU General Public License (GPL) 2.0 |
++---------------------+--------------------------------------+
+| **Core Technology** | Python                               |
++---------------------+--------------------------------------+
+| **Project URL**     | https://github.com/instacart/lore    |
++---------------------+--------------------------------------+
+| **Source Location** | https://github.com/instacart/lore    |
++---------------------+--------------------------------------+
+| **Tag(s)**          | ML, Python                           |
++---------------------+--------------------------------------+
 
 | 
 
@@ -1184,17 +1091,17 @@ models as well as by researchers to obtain strong baselines to compare
 against and have an experimentation setting that ensures comparability
 by performing standard data preprocessing and visualization.
 
-+-----------------------+----------------------------------+
-| **SBB License**       | Apache License 2.0               |
-+-----------------------+----------------------------------+
-| **Core Technology**   | Python                           |
-+-----------------------+----------------------------------+
-| **Project URL**       | https://uber.github.io/ludwig/   |
-+-----------------------+----------------------------------+
-| **Source Location**   | https://github.com/uber/ludwig   |
-+-----------------------+----------------------------------+
-| **Tag(s)**            | ML                               |
-+-----------------------+----------------------------------+
++---------------------+--------------------------------+
+| **SBB License**     | Apache License 2.0             |
++---------------------+--------------------------------+
+| **Core Technology** | Python                         |
++---------------------+--------------------------------+
+| **Project URL**     | https://uber.github.io/ludwig/ |
++---------------------+--------------------------------+
+| **Source Location** | https://github.com/uber/ludwig |
++---------------------+--------------------------------+
+| **Tag(s)**          | ML                             |
++---------------------+--------------------------------+
 
 | 
 
@@ -1207,17 +1114,17 @@ much more. It is built in Python, using TensorFlow and Sonnet.
 
  
 
-+-----------------------+------------------------------------------------------+
-| **SBB License**       | BSD License 2.0 (3-clause, New or Revised) License   |
-+-----------------------+------------------------------------------------------+
-| **Core Technology**   | Python                                               |
-+-----------------------+------------------------------------------------------+
-| **Project URL**       | https://luminoth.ai                                  |
-+-----------------------+------------------------------------------------------+
-| **Source Location**   | https://github.com/tryolabs/luminoth                 |
-+-----------------------+------------------------------------------------------+
-| **Tag(s)**            | ML                                                   |
-+-----------------------+------------------------------------------------------+
++---------------------+----------------------------------------------------+
+| **SBB License**     | BSD License 2.0 (3-clause, New or Revised) License |
++---------------------+----------------------------------------------------+
+| **Core Technology** | Python                                             |
++---------------------+----------------------------------------------------+
+| **Project URL**     | https://luminoth.ai                                |
++---------------------+----------------------------------------------------+
+| **Source Location** | https://github.com/tryolabs/luminoth               |
++---------------------+----------------------------------------------------+
+| **Tag(s)**          | ML                                                 |
++---------------------+----------------------------------------------------+
 
 | 
 
@@ -1232,17 +1139,18 @@ by `Stanford Future Data Systems <http://futuredata.stanford.edu/>`__
 
 Documentation can be found at: https://macrobase.stanford.edu/docs/
 
-+-----------------------+--------------------------------------------------------------+
-| **SBB License**       | Apache License 2.0                                           |
-+-----------------------+--------------------------------------------------------------+
-| **Core Technology**   | Java                                                         |
-+-----------------------+--------------------------------------------------------------+
-| **Project URL**       | https://macrobase.stanford.edu/                              |
-+-----------------------+--------------------------------------------------------------+
-| **Source Location**   | https://github.com/stanford-futuredata/macrobase/tree/v1.0   |
-+-----------------------+--------------------------------------------------------------+
-| **Tag(s)**            | Data analytics, ML                                           |
-+-----------------------+--------------------------------------------------------------+
++-----------------------------------+-----------------------------------+
+| **SBB License**                   | Apache License 2.0                |
++-----------------------------------+-----------------------------------+
+| **Core Technology**               | Java                              |
++-----------------------------------+-----------------------------------+
+| **Project URL**                   | https://macrobase.stanford.edu/   |
++-----------------------------------+-----------------------------------+
+| **Source Location**               | https://github.com/stanford-futur |
+|                                   | edata/macrobase/tree/v1.0         |
++-----------------------------------+-----------------------------------+
+| **Tag(s)**                        | Data analytics, ML                |
++-----------------------------------+-----------------------------------+
 
 | 
 
@@ -1263,17 +1171,17 @@ around data collection and usage.
 ml5.js is heavily inspired by `Processing <https://processing.org/>`__
 and `p5.js <https://p5js.org/>`__.
 
-+-----------------------+----------------------------------------+
-| **SBB License**       | MIT License                            |
-+-----------------------+----------------------------------------+
-| **Core Technology**   | Javascript                             |
-+-----------------------+----------------------------------------+
-| **Project URL**       | https://ml5js.org/                     |
-+-----------------------+----------------------------------------+
-| **Source Location**   | https://github.com/ml5js/ml5-library   |
-+-----------------------+----------------------------------------+
-| **Tag(s)**            | Javascript, ML                         |
-+-----------------------+----------------------------------------+
++---------------------+--------------------------------------+
+| **SBB License**     | MIT License                          |
++---------------------+--------------------------------------+
+| **Core Technology** | Javascript                           |
++---------------------+--------------------------------------+
+| **Project URL**     | https://ml5js.org/                   |
++---------------------+--------------------------------------+
+| **Source Location** | https://github.com/ml5js/ml5-library |
++---------------------+--------------------------------------+
+| **Tag(s)**          | Javascript, ML                       |
++---------------------+--------------------------------------+
 
 | 
 
@@ -1292,17 +1200,17 @@ offers:
 
  
 
-+-----------------------+----------------------------------------+
-| **SBB License**       | Apache License 2.0                     |
-+-----------------------+----------------------------------------+
-| **Core Technology**   | Python                                 |
-+-----------------------+----------------------------------------+
-| **Project URL**       | https://mlflow.org/                    |
-+-----------------------+----------------------------------------+
-| **Source Location**   | https://github.com/databricks/mlflow   |
-+-----------------------+----------------------------------------+
-| **Tag(s)**            | ML, Python                             |
-+-----------------------+----------------------------------------+
++---------------------+--------------------------------------+
+| **SBB License**     | Apache License 2.0                   |
++---------------------+--------------------------------------+
+| **Core Technology** | Python                               |
++---------------------+--------------------------------------+
+| **Project URL**     | https://mlflow.org/                  |
++---------------------+--------------------------------------+
+| **Source Location** | https://github.com/databricks/mlflow |
++---------------------+--------------------------------------+
+| **Tag(s)**          | ML, Python                           |
++---------------------+--------------------------------------+
 
 | 
 
@@ -1330,17 +1238,17 @@ There are two types of interface available in MLJAR:
    package please go to our
    `github <https://github.com/mljar/mljar-api-python>`__.
 
-+-----------------------+---------------------------------------------+
-| **SBB License**       | MIT License                                 |
-+-----------------------+---------------------------------------------+
-| **Core Technology**   | Python                                      |
-+-----------------------+---------------------------------------------+
-| **Project URL**       | https://mljar.com/                          |
-+-----------------------+---------------------------------------------+
-| **Source Location**   | https://github.com/mljar/mljar-supervised   |
-+-----------------------+---------------------------------------------+
-| **Tag(s)**            | ML, Python                                  |
-+-----------------------+---------------------------------------------+
++---------------------+-------------------------------------------+
+| **SBB License**     | MIT License                               |
++---------------------+-------------------------------------------+
+| **Core Technology** | Python                                    |
++---------------------+-------------------------------------------+
+| **Project URL**     | https://mljar.com/                        |
++---------------------+-------------------------------------------+
+| **Source Location** | https://github.com/mljar/mljar-supervised |
++---------------------+-------------------------------------------+
+| **Tag(s)**          | ML, Python                                |
++---------------------+-------------------------------------------+
 
 | 
 
@@ -1358,17 +1266,17 @@ community, including researchers, developers, builders of machine
 learning frameworks, cloud service providers, hardware manufacturers,
 application providers, and end users.
 
-+-----------------------+---------------------------------------+
-| **SBB License**       | MIT License                           |
-+-----------------------+---------------------------------------+
-| **Core Technology**   | Python                                |
-+-----------------------+---------------------------------------+
-| **Project URL**       | https://mlperf.org/                   |
-+-----------------------+---------------------------------------+
-| **Source Location**   | https://github.com/mlperf/reference   |
-+-----------------------+---------------------------------------+
-| **Tag(s)**            | ML, Performance                       |
-+-----------------------+---------------------------------------+
++---------------------+-------------------------------------+
+| **SBB License**     | MIT License                         |
++---------------------+-------------------------------------+
+| **Core Technology** | Python                              |
++---------------------+-------------------------------------+
+| **Project URL**     | https://mlperf.org/                 |
++---------------------+-------------------------------------+
+| **Source Location** | https://github.com/mlperf/reference |
++---------------------+-------------------------------------+
+| **Tag(s)**          | ML, Performance                     |
++---------------------+-------------------------------------+
 
 | 
 
@@ -1389,17 +1297,17 @@ data. The frontend provides functionality to slice and dice this data
 along various attributes (e.g. operations like filter by hyperparameter,
 group by datasets) and to build custom charts showing model performance.
 
-+-----------------------+-------------------------------------+
-| **SBB License**       | MIT License                         |
-+-----------------------+-------------------------------------+
-| **Core Technology**   | Python, Javascript                  |
-+-----------------------+-------------------------------------+
-| **Project URL**       | https://mitdbg.github.io/modeldb/   |
-+-----------------------+-------------------------------------+
-| **Source Location**   | https://github.com/mitdbg/modeldb   |
-+-----------------------+-------------------------------------+
-| **Tag(s)**            | administration, ML                  |
-+-----------------------+-------------------------------------+
++---------------------+-----------------------------------+
+| **SBB License**     | MIT License                       |
++---------------------+-----------------------------------+
+| **Core Technology** | Python, Javascript                |
++---------------------+-----------------------------------+
+| **Project URL**     | https://mitdbg.github.io/modeldb/ |
++---------------------+-----------------------------------+
+| **Source Location** | https://github.com/mitdbg/modeldb |
++---------------------+-----------------------------------+
+| **Tag(s)**          | administration, ML                |
++---------------------+-----------------------------------+
 
 | 
 
@@ -1409,24 +1317,24 @@ Netron
 Netron is a viewer for neural network, deep learning and machine
 learning models.
 
-Netron supports **`ONNX <http://onnx.ai>`__** (``.onnx``, ``.pb``),
+Netron supports `ONNX <http://onnx.ai>`__ (``.onnx``, ``.pb``),
 **Keras** (``.h5``, ``.keras``), **CoreML** (``.mlmodel``) and
 **TensorFlow Lite** (``.tflite``). Netron has experimental support for
 **Caffe** (``.caffemodel``), **Caffe2** (``predict_net.pb``), **MXNet**
 (``-symbol.json``), **TensorFlow.js** (``model.json``, ``.pb``) and
 **TensorFlow** (``.pb``, ``.meta``).
 
-+-----------------------+----------------------------------------+
-| **SBB License**       | GNU General Public License (GPL) 2.0   |
-+-----------------------+----------------------------------------+
-| **Core Technology**   | Python, Javascript                     |
-+-----------------------+----------------------------------------+
-| **Project URL**       | https://www.lutzroeder.com/ai/         |
-+-----------------------+----------------------------------------+
-| **Source Location**   | https://github.com/lutzroeder/Netron   |
-+-----------------------+----------------------------------------+
-| **Tag(s)**            | Data viewer, ML                        |
-+-----------------------+----------------------------------------+
++---------------------+--------------------------------------+
+| **SBB License**     | GNU General Public License (GPL) 2.0 |
++---------------------+--------------------------------------+
+| **Core Technology** | Python, Javascript                   |
++---------------------+--------------------------------------+
+| **Project URL**     | https://www.lutzroeder.com/ai/       |
++---------------------+--------------------------------------+
+| **Source Location** | https://github.com/lutzroeder/Netron |
++---------------------+--------------------------------------+
+| **Tag(s)**          | Data viewer, ML                      |
++---------------------+--------------------------------------+
 
 | 
 
@@ -1440,17 +1348,17 @@ resolves coreference clusters using a neural network. NeuralCoref is
 production-ready, integrated in spaCy’s NLP pipeline and easily
 extensible to new training datasets.
 
-+-----------------------+----------------------------------------------+
-| **SBB License**       | MIT License                                  |
-+-----------------------+----------------------------------------------+
-| **Core Technology**   | Python                                       |
-+-----------------------+----------------------------------------------+
-| **Project URL**       | https://huggingface.co/coref/                |
-+-----------------------+----------------------------------------------+
-| **Source Location**   | https://github.com/huggingface/neuralcoref   |
-+-----------------------+----------------------------------------------+
-| **Tag(s)**            | ML, NLP, Python                              |
-+-----------------------+----------------------------------------------+
++---------------------+--------------------------------------------+
+| **SBB License**     | MIT License                                |
++---------------------+--------------------------------------------+
+| **Core Technology** | Python                                     |
++---------------------+--------------------------------------------+
+| **Project URL**     | https://huggingface.co/coref/              |
++---------------------+--------------------------------------------+
+| **Source Location** | https://github.com/huggingface/neuralcoref |
++---------------------+--------------------------------------------+
+| **Tag(s)**          | ML, NLP, Python                            |
++---------------------+--------------------------------------------+
 
 | 
 
@@ -1480,17 +1388,17 @@ How can NLP Architect be used:
 
    </div>
 
-+-----------------------+---------------------------------------------------+
-| **SBB License**       | Apache License 2.0                                |
-+-----------------------+---------------------------------------------------+
-| **Core Technology**   | Python                                            |
-+-----------------------+---------------------------------------------------+
-| **Project URL**       | http://nlp_architect.nervanasys.com/              |
-+-----------------------+---------------------------------------------------+
-| **Source Location**   | https://github.com/NervanaSystems/nlp-architect   |
-+-----------------------+---------------------------------------------------+
-| **Tag(s)**            | ML, NLP, Python                                   |
-+-----------------------+---------------------------------------------------+
++---------------------+-------------------------------------------------+
+| **SBB License**     | Apache License 2.0                              |
++---------------------+-------------------------------------------------+
+| **Core Technology** | Python                                          |
++---------------------+-------------------------------------------------+
+| **Project URL**     | http://nlp_architect.nervanasys.com/            |
++---------------------+-------------------------------------------------+
+| **Source Location** | https://github.com/NervanaSystems/nlp-architect |
++---------------------+-------------------------------------------------+
+| **Tag(s)**          | ML, NLP, Python                                 |
++---------------------+-------------------------------------------------+
 
 | 
 
@@ -1513,17 +1421,17 @@ Who should consider using NNI:
    AutoML algorithms and compare it with other algorithms.
 -  ML Platform owners who want to support AutoML in their platform.
 
-+-----------------------+-----------------------------------------+
-| **SBB License**       | MIT License                             |
-+-----------------------+-----------------------------------------+
-| **Core Technology**   | Python                                  |
-+-----------------------+-----------------------------------------+
-| **Project URL**       | https://nni.readthedocs.io/en/latest/   |
-+-----------------------+-----------------------------------------+
-| **Source Location**   | https://github.com/Microsoft/nni        |
-+-----------------------+-----------------------------------------+
-| **Tag(s)**            | ML                                      |
-+-----------------------+-----------------------------------------+
++---------------------+---------------------------------------+
+| **SBB License**     | MIT License                           |
++---------------------+---------------------------------------+
+| **Core Technology** | Python                                |
++---------------------+---------------------------------------+
+| **Project URL**     | https://nni.readthedocs.io/en/latest/ |
++---------------------+---------------------------------------+
+| **Source Location** | https://github.com/Microsoft/nni      |
++---------------------+---------------------------------------+
+| **Tag(s)**          | ML                                    |
++---------------------+---------------------------------------+
 
 | 
 
@@ -1545,17 +1453,17 @@ help us further evolve ONNX.
 Companies behind ONNX are AWS, Facebook and Microsoft Corporation and
 more.
 
-+-----------------------+--------------------------------+
-| **SBB License**       | MIT License                    |
-+-----------------------+--------------------------------+
-| **Core Technology**   | Python                         |
-+-----------------------+--------------------------------+
-| **Project URL**       | http://onnx.ai/                |
-+-----------------------+--------------------------------+
-| **Source Location**   | https://github.com/onnx/onnx   |
-+-----------------------+--------------------------------+
-| **Tag(s)**            | AI, ML                         |
-+-----------------------+--------------------------------+
++---------------------+------------------------------+
+| **SBB License**     | MIT License                  |
++---------------------+------------------------------+
+| **Core Technology** | Python                       |
++---------------------+------------------------------+
+| **Project URL**     | http://onnx.ai/              |
++---------------------+------------------------------+
+| **Source Location** | https://github.com/onnx/onnx |
++---------------------+------------------------------+
+| **Tag(s)**          | AI, ML                       |
++---------------------+------------------------------+
 
 | 
 
@@ -1580,17 +1488,17 @@ similar images from an image database, remove red eyes from images taken
 using flash, follow eye movements, recognize scenery and establish
 markers to overlay it with augmented reality, etc.
 
-+-----------------------+------------------------------------------------------+
-| **SBB License**       | BSD License 2.0 (3-clause, New or Revised) License   |
-+-----------------------+------------------------------------------------------+
-| **Core Technology**   | C                                                    |
-+-----------------------+------------------------------------------------------+
-| **Project URL**       | https://opencv.org/                                  |
-+-----------------------+------------------------------------------------------+
-| **Source Location**   | https://github.com/opencv/opencv                     |
-+-----------------------+------------------------------------------------------+
-| **Tag(s)**            | ML                                                   |
-+-----------------------+------------------------------------------------------+
++---------------------+----------------------------------------------------+
+| **SBB License**     | BSD License 2.0 (3-clause, New or Revised) License |
++---------------------+----------------------------------------------------+
+| **Core Technology** | C                                                  |
++---------------------+----------------------------------------------------+
+| **Project URL**     | https://opencv.org/                                |
++---------------------+----------------------------------------------------+
+| **Source Location** | https://github.com/opencv/opencv                   |
++---------------------+----------------------------------------------------+
+| **Tag(s)**          | ML                                                 |
++---------------------+----------------------------------------------------+
 
 | 
 
@@ -1613,17 +1521,17 @@ inspection learned that the OpenML platform  is not as open as you want.
 Also the OSS software is not created to be run on premise. So be aware
 when doing large (time) investments into this OpenML platform.
 
-+-----------------------+------------------------------------------------------+
-| **SBB License**       | BSD License 2.0 (3-clause, New or Revised) License   |
-+-----------------------+------------------------------------------------------+
-| **Core Technology**   | Java                                                 |
-+-----------------------+------------------------------------------------------+
-| **Project URL**       | https://openml.org                                   |
-+-----------------------+------------------------------------------------------+
-| **Source Location**   | https://github.com/openml/OpenML                     |
-+-----------------------+------------------------------------------------------+
-| **Tag(s)**            | ML                                                   |
-+-----------------------+------------------------------------------------------+
++---------------------+----------------------------------------------------+
+| **SBB License**     | BSD License 2.0 (3-clause, New or Revised) License |
++---------------------+----------------------------------------------------+
+| **Core Technology** | Java                                               |
++---------------------+----------------------------------------------------+
+| **Project URL**     | https://openml.org                                 |
++---------------------+----------------------------------------------------+
+| **Source Location** | https://github.com/openml/OpenML                   |
++---------------------+----------------------------------------------------+
+| **Tag(s)**          | ML                                                 |
++---------------------+----------------------------------------------------+
 
 | 
 
@@ -1651,17 +1559,17 @@ easy.
 
  
 
-+-----------------------+----------------------------------------+
-| **SBB License**       | GNU General Public License (GPL) 3.0   |
-+-----------------------+----------------------------------------+
-| **Core Technology**   |                                        |
-+-----------------------+----------------------------------------+
-| **Project URL**       | https://orange.biolab.si/              |
-+-----------------------+----------------------------------------+
-| **Source Location**   | https://github.com/biolab/orange3      |
-+-----------------------+----------------------------------------+
-| **Tag(s)**            | Data Visualization, ML, Python         |
-+-----------------------+----------------------------------------+
++---------------------+--------------------------------------+
+| **SBB License**     | GNU General Public License (GPL) 3.0 |
++---------------------+--------------------------------------+
+| **Core Technology** |                                      |
++---------------------+--------------------------------------+
+| **Project URL**     | https://orange.biolab.si/            |
++---------------------+--------------------------------------+
+| **Source Location** | https://github.com/biolab/orange3    |
++---------------------+--------------------------------------+
+| **Tag(s)**          | Data Visualization, ML, Python       |
++---------------------+--------------------------------------+
 
 | 
 
@@ -1678,17 +1586,17 @@ Pattern is a web mining module for Python. It has tools for:
    (KNN, SVM, Perceptron)
 -  Network Analysis: graph centrality and visualization.
 
-+-----------------------+------------------------------------------------------+
-| **SBB License**       | BSD License 2.0 (3-clause, New or Revised) License   |
-+-----------------------+------------------------------------------------------+
-| **Core Technology**   | Python                                               |
-+-----------------------+------------------------------------------------------+
-| **Project URL**       | https://www.clips.uantwerpen.be/pages/pattern        |
-+-----------------------+------------------------------------------------------+
-| **Source Location**   | https://github.com/clips/pattern                     |
-+-----------------------+------------------------------------------------------+
-| **Tag(s)**            | ML, NLP, Web scraping                                |
-+-----------------------+------------------------------------------------------+
++---------------------+----------------------------------------------------+
+| **SBB License**     | BSD License 2.0 (3-clause, New or Revised) License |
++---------------------+----------------------------------------------------+
+| **Core Technology** | Python                                             |
++---------------------+----------------------------------------------------+
+| **Project URL**     | https://www.clips.uantwerpen.be/pages/pattern      |
++---------------------+----------------------------------------------------+
+| **Source Location** | https://github.com/clips/pattern                   |
++---------------------+----------------------------------------------------+
+| **Tag(s)**          | ML, NLP, Web scraping                              |
++---------------------+----------------------------------------------------+
 
 | 
 
@@ -1710,17 +1618,17 @@ Example uses for plait.py are:
 -  validating the usefulness of statistical techniques
 -  creating synthetic datasets for performance tuning databases
 
-+-----------------------+---------------------------------------+
-| **SBB License**       | MIT License                           |
-+-----------------------+---------------------------------------+
-| **Core Technology**   | Python                                |
-+-----------------------+---------------------------------------+
-| **Project URL**       | https://github.com/plaitpy/plaitpy    |
-+-----------------------+---------------------------------------+
-| **Source Location**   | https://github.com/plaitpy/plaitpy    |
-+-----------------------+---------------------------------------+
-| **Tag(s)**            | Data Generator, ML, text generation   |
-+-----------------------+---------------------------------------+
++---------------------+-------------------------------------+
+| **SBB License**     | MIT License                         |
++---------------------+-------------------------------------+
+| **Core Technology** | Python                              |
++---------------------+-------------------------------------+
+| **Project URL**     | https://github.com/plaitpy/plaitpy  |
++---------------------+-------------------------------------+
+| **Source Location** | https://github.com/plaitpy/plaitpy  |
++---------------------+-------------------------------------+
+| **Tag(s)**          | Data Generator, ML, text generation |
++---------------------+-------------------------------------+
 
 | 
 
@@ -1741,17 +1649,17 @@ learning applications by managing workloads with smart container and
 node management. And it turns GPU servers into shared, self-service
 resources for your team or organization.
 
-+-----------------------+----------------------------------------+
-| **SBB License**       | MIT License                            |
-+-----------------------+----------------------------------------+
-| **Core Technology**   | Python                                 |
-+-----------------------+----------------------------------------+
-| **Project URL**       | https://polyaxon.com/                  |
-+-----------------------+----------------------------------------+
-| **Source Location**   | https://github.com/polyaxon/polyaxon   |
-+-----------------------+----------------------------------------+
-| **Tag(s)**            | ML                                     |
-+-----------------------+----------------------------------------+
++---------------------+--------------------------------------+
+| **SBB License**     | MIT License                          |
++---------------------+--------------------------------------+
+| **Core Technology** | Python                               |
++---------------------+--------------------------------------+
+| **Project URL**     | https://polyaxon.com/                |
++---------------------+--------------------------------------+
+| **Source Location** | https://github.com/polyaxon/polyaxon |
++---------------------+--------------------------------------+
+| **Tag(s)**          | ML                                   |
++---------------------+--------------------------------------+
 
 | 
 
@@ -1760,50 +1668,17 @@ Pylearn2
 
 Pylearn2 is a library designed to make machine learning research easy.
 
-+-----------------------+------------------------------------------------------+
-| **SBB License**       | BSD License 2.0 (3-clause, New or Revised) License   |
-+-----------------------+------------------------------------------------------+
-| **Core Technology**   | Python                                               |
-+-----------------------+------------------------------------------------------+
-| **Project URL**       | http://deeplearning.net/software/pylearn2/           |
-+-----------------------+------------------------------------------------------+
-| **Source Location**   | https://github.com/lisa-lab/pylearn2                 |
-+-----------------------+------------------------------------------------------+
-| **Tag(s)**            | ML                                                   |
-+-----------------------+------------------------------------------------------+
-
-| 
-
-Pyodide
--------
-
-**Pyodide** brings the Python runtime to the browser via WebAssembly,
-along with the Python scientific stack including NumPy, Pandas,
-Matplotlib, parts of SciPy, and NetworkX. The ```packages``
-directory <https://github.com/iodide-project/pyodide/tree/master/packages>`__
-lists over 35 packages which are currently available.
-
-**Pyodide** provides transparent conversion of objects between
-Javascript and Python. When used inside a browser, Python has full
-access to the Web APIs.
-
-While closely related to the `iodide project <https://iodide.io>`__, a
-tool for *literate scientific computing and communication for the web*,
-Pyodide goes beyond running in a notebook environment. To maximize the
-flexibility of the modern web, **Pyodide** may be used standalone in any
-context where you want to **run Python inside a web browser**.
-
-+-----------------------+--------------------------------------------------------------------------------------------------+
-| **SBB License**       | Mozilla Public License (MPL) 1.1                                                                 |
-+-----------------------+--------------------------------------------------------------------------------------------------+
-| **Core Technology**   | C, Javascript                                                                                    |
-+-----------------------+--------------------------------------------------------------------------------------------------+
-| **Project URL**       | https://hacks.mozilla.org/2019/04/pyodide-bringing-the-scientific-python-stack-to-the-browser/   |
-+-----------------------+--------------------------------------------------------------------------------------------------+
-| **Source Location**   | https://github.com/iodide-project/pyodide/                                                       |
-+-----------------------+--------------------------------------------------------------------------------------------------+
-| **Tag(s)**            | Data Visualization, ML, Python                                                                   |
-+-----------------------+--------------------------------------------------------------------------------------------------+
++---------------------+----------------------------------------------------+
+| **SBB License**     | BSD License 2.0 (3-clause, New or Revised) License |
++---------------------+----------------------------------------------------+
+| **Core Technology** | Python                                             |
++---------------------+----------------------------------------------------+
+| **Project URL**     | http://deeplearning.net/software/pylearn2/         |
++---------------------+----------------------------------------------------+
+| **Source Location** | https://github.com/lisa-lab/pylearn2               |
++---------------------+----------------------------------------------------+
+| **Tag(s)**          | ML                                                 |
++---------------------+----------------------------------------------------+
 
 | 
 
@@ -1811,68 +1686,22 @@ Pyro
 ----
 
 Deep universal probabilistic programming with Python and PyTorch. Pyro
-is in an alpha release. It is developed and used by `Uber AI
-Labs <http://uber.ai>`__.
+is in an alpha release. It is developed and used by\ `Uber AI
+Labs <http://uber.ai>`__\ .
 
  
 
-+-----------------------+----------------------------------------+
-| **SBB License**       | GNU General Public License (GPL) 2.0   |
-+-----------------------+----------------------------------------+
-| **Core Technology**   | Python                                 |
-+-----------------------+----------------------------------------+
-| **Project URL**       | http://pyro.ai/                        |
-+-----------------------+----------------------------------------+
-| **Source Location**   | https://github.com/uber/pyro           |
-+-----------------------+----------------------------------------+
-| **Tag(s)**            | AI, ML, Python                         |
-+-----------------------+----------------------------------------+
-
-| 
-
-Pythia
-------
-
-Pythia is a modular framework for supercharging vision and language
-research built on top of PyTorch created by Facebook.
-
-You can use Pythia to bootstrap for your next vision and language
-multimodal research project. Pythia can also act as starter codebase for
-challenges around vision and language datasets (TextVQA challenge, VQA
-challenge).
-
-It features:
-
--  **Model Zoo**: Reference implementations for state-of-the-art vision
-   and language model including
-   `LoRRA <https://arxiv.org/abs/1904.08920>`__ (SoTA on VQA and
-   TextVQA), `Pythia <https://arxiv.org/abs/1807.09956>`__ model (VQA
-   2018 challenge winner) and
-   `BAN <https://github.com/facebookresearch/pythia/blob/master>`__.
--  **Multi-Tasking**: Support for multi-tasking which allows training on
-   multiple dataset together.
--  **Datasets**: Includes support for various datasets built-in
-   including VQA, VizWiz, TextVQA and VisualDialog.
--  **Modules**: Provides implementations for many commonly used layers
-   in vision and language domain
--  **Distributed**: Support for distributed training based on
-   DataParallel as well as DistributedDataParallel.
--  **Unopinionated**: Unopinionated about the dataset and model
-   implementations built on top of it.
--  **Customization**: Custom losses, metrics, scheduling, optimizers,
-   tensorboard; suits all your custom needs.
-
-+-----------------------+-----------------------------------------------------------+
-| **SBB License**       | BSD License 2.0 (3-clause, New or Revised) License        |
-+-----------------------+-----------------------------------------------------------+
-| **Core Technology**   | Python                                                    |
-+-----------------------+-----------------------------------------------------------+
-| **Project URL**       | https://learnpythia.readthedocs.io/en/latest/index.html   |
-+-----------------------+-----------------------------------------------------------+
-| **Source Location**   | https://github.com/facebookresearch/pythia                |
-+-----------------------+-----------------------------------------------------------+
-| **Tag(s)**            | ML, Python                                                |
-+-----------------------+-----------------------------------------------------------+
++---------------------+--------------------------------------+
+| **SBB License**     | GNU General Public License (GPL) 2.0 |
++---------------------+--------------------------------------+
+| **Core Technology** | Python                               |
++---------------------+--------------------------------------+
+| **Project URL**     | http://pyro.ai/                      |
++---------------------+--------------------------------------+
+| **Source Location** | https://github.com/uber/pyro         |
++---------------------+--------------------------------------+
+| **Tag(s)**          | AI, ML, Python                       |
++---------------------+--------------------------------------+
 
 | 
 
@@ -1895,17 +1724,17 @@ Cython to extend PyTorch when needed.
 Note: PyTorch is still in an early-release beta phase (status January
 2018). PyTorch was released as OSS by Google January 2017.
 
-+-----------------------+--------------------------------------+
-| **SBB License**       | MIT License                          |
-+-----------------------+--------------------------------------+
-| **Core Technology**   | Python                               |
-+-----------------------+--------------------------------------+
-| **Project URL**       | http://pytorch.org/                  |
-+-----------------------+--------------------------------------+
-| **Source Location**   | https://github.com/pytorch/pytorch   |
-+-----------------------+--------------------------------------+
-| **Tag(s)**            | AI, ML                               |
-+-----------------------+--------------------------------------+
++---------------------+------------------------------------+
+| **SBB License**     | MIT License                        |
++---------------------+------------------------------------+
+| **Core Technology** | Python                             |
++---------------------+------------------------------------+
+| **Project URL**     | http://pytorch.org/                |
++---------------------+------------------------------------+
+| **Source Location** | https://github.com/pytorch/pytorch |
++---------------------+------------------------------------+
+| **Tag(s)**          | AI, ML                             |
++---------------------+------------------------------------+
 
 | 
 
@@ -1934,17 +1763,17 @@ Features:
 -  Import/Export resources easily with the .rantpkg format
 -  Compatible with Unity 2017
 
-+-----------------------+-------------------------------------+
-| **SBB License**       | MIT License                         |
-+-----------------------+-------------------------------------+
-| **Core Technology**   | .NET                                |
-+-----------------------+-------------------------------------+
-| **Project URL**       | https://berkin.me/rant/             |
-+-----------------------+-------------------------------------+
-| **Source Location**   | https://github.com/TheBerkin/rant   |
-+-----------------------+-------------------------------------+
-| **Tag(s)**            | .NET, ML, NLP, text generation      |
-+-----------------------+-------------------------------------+
++---------------------+-----------------------------------+
+| **SBB License**     | MIT License                       |
++---------------------+-----------------------------------+
+| **Core Technology** | .NET                              |
++---------------------+-----------------------------------+
+| **Project URL**     | https://berkin.me/rant/           |
++---------------------+-----------------------------------+
+| **Source Location** | https://github.com/TheBerkin/rant |
++---------------------+-----------------------------------+
+| **Tag(s)**          | .NET, ML, NLP, text generation    |
++---------------------+-----------------------------------+
 
 | 
 
@@ -1965,17 +1794,17 @@ accelerations without paying typical serialization costs–. RAPIDS also
 includes support for multi-node, multi-GPU deployments, enabling vastly
 accelerated processing and training on much larger dataset sizes.
 
-+-----------------------+--------------------------------+
-| **SBB License**       | Apache License 2.0             |
-+-----------------------+--------------------------------+
-| **Core Technology**   | C++                            |
-+-----------------------+--------------------------------+
-| **Project URL**       | http://rapids.ai/              |
-+-----------------------+--------------------------------+
-| **Source Location**   | https://github.com/rapidsai/   |
-+-----------------------+--------------------------------+
-| **Tag(s)**            | ML                             |
-+-----------------------+--------------------------------+
++---------------------+------------------------------+
+| **SBB License**     | Apache License 2.0           |
++---------------------+------------------------------+
+| **Core Technology** | C++                          |
++---------------------+------------------------------+
+| **Project URL**     | http://rapids.ai/            |
++---------------------+------------------------------+
+| **Source Location** | https://github.com/rapidsai/ |
++---------------------+------------------------------+
+| **Tag(s)**          | ML                           |
++---------------------+------------------------------+
 
 | 
 
@@ -1996,17 +1825,17 @@ learning development:
 -  `Ray RLlib <http://ray.readthedocs.io/en/latest/rllib.html>`__: A
    Scalable Reinforcement Learning Library
 
-+-----------------------+--------------------------------------+
-| **SBB License**       | Apache License 2.0                   |
-+-----------------------+--------------------------------------+
-| **Core Technology**   | Python                               |
-+-----------------------+--------------------------------------+
-| **Project URL**       | https://ray-project.github.io/       |
-+-----------------------+--------------------------------------+
-| **Source Location**   | https://github.com/ray-project/ray   |
-+-----------------------+--------------------------------------+
-| **Tag(s)**            | ML                                   |
-+-----------------------+--------------------------------------+
++---------------------+------------------------------------+
+| **SBB License**     | Apache License 2.0                 |
++---------------------+------------------------------------+
+| **Core Technology** | Python                             |
++---------------------+------------------------------------+
+| **Project URL**     | https://ray-project.github.io/     |
++---------------------+------------------------------------+
+| **Source Location** | https://github.com/ray-project/ray |
++---------------------+------------------------------------+
+| **Tag(s)**          | ML                                 |
++---------------------+------------------------------------+
 
 | 
 
@@ -2020,17 +1849,17 @@ Simple and efficient tools for data mining and data analysis
 -  Accessible to everybody, and reusable in various contexts
 -  Built on NumPy, SciPy, and matplotlib
 
-+-----------------------+------------------------------------------------------+
-| **SBB License**       | BSD License 2.0 (3-clause, New or Revised) License   |
-+-----------------------+------------------------------------------------------+
-| **Core Technology**   | Python                                               |
-+-----------------------+------------------------------------------------------+
-| **Project URL**       | http://scikit-learn.org                              |
-+-----------------------+------------------------------------------------------+
-| **Source Location**   | https://github.com/scikit-learn/scikit-learn         |
-+-----------------------+------------------------------------------------------+
-| **Tag(s)**            | ML                                                   |
-+-----------------------+------------------------------------------------------+
++---------------------+----------------------------------------------------+
+| **SBB License**     | BSD License 2.0 (3-clause, New or Revised) License |
++---------------------+----------------------------------------------------+
+| **Core Technology** | Python                                             |
++---------------------+----------------------------------------------------+
+| **Project URL**     | http://scikit-learn.org                            |
++---------------------+----------------------------------------------------+
+| **Source Location** | https://github.com/scikit-learn/scikit-learn       |
++---------------------+----------------------------------------------------+
+| **Tag(s)**          | ML                                                 |
++---------------------+----------------------------------------------------+
 
 | 
 
@@ -2049,17 +1878,17 @@ boxes” both for researchers and practioners.
 
 Documentation at:\ https://datascienceinc.github.io/Skater/overview.html
 
-+-----------------------+------------------------------------------------------+
-| **SBB License**       | MIT License                                          |
-+-----------------------+------------------------------------------------------+
-| **Core Technology**   | Python                                               |
-+-----------------------+------------------------------------------------------+
-| **Project URL**       | https://www.datascience.com/resources/tools/skater   |
-+-----------------------+------------------------------------------------------+
-| **Source Location**   | https://github.com/datascienceinc/Skater             |
-+-----------------------+------------------------------------------------------+
-| **Tag(s)**            | ML                                                   |
-+-----------------------+------------------------------------------------------+
++---------------------+----------------------------------------------------+
+| **SBB License**     | MIT License                                        |
++---------------------+----------------------------------------------------+
+| **Core Technology** | Python                                             |
++---------------------+----------------------------------------------------+
+| **Project URL**     | https://www.datascience.com/resources/tools/skater |
++---------------------+----------------------------------------------------+
+| **Source Location** | https://github.com/datascienceinc/Skater           |
++---------------------+----------------------------------------------------+
+| **Tag(s)**          | ML                                                 |
++---------------------+----------------------------------------------------+
 
 | 
 
@@ -2071,17 +1900,17 @@ training data**, currently focused on accelerating the development of
 *structured or “dark” data extraction applications* for domains in which
 large labeled training sets are not available or easy to obtain.
 
-+-----------------------+-------------------------------------------+
-| **SBB License**       | Apache License 2.0                        |
-+-----------------------+-------------------------------------------+
-| **Core Technology**   | Python                                    |
-+-----------------------+-------------------------------------------+
-| **Project URL**       | https://hazyresearch.github.io/snorkel/   |
-+-----------------------+-------------------------------------------+
-| **Source Location**   | https://github.com/HazyResearch/snorkel   |
-+-----------------------+-------------------------------------------+
-| **Tag(s)**            | ML                                        |
-+-----------------------+-------------------------------------------+
++---------------------+-----------------------------------------+
+| **SBB License**     | Apache License 2.0                      |
++---------------------+-----------------------------------------+
+| **Core Technology** | Python                                  |
++---------------------+-----------------------------------------+
+| **Project URL**     | https://hazyresearch.github.io/snorkel/ |
++---------------------+-----------------------------------------+
+| **Source Location** | https://github.com/HazyResearch/snorkel |
++---------------------+-----------------------------------------+
+| **Tag(s)**          | ML                                      |
++---------------------+-----------------------------------------+
 
 | 
 
@@ -2118,52 +1947,17 @@ ML models.
 
  
 
-+-----------------------+--------------------------------------------+
-| **SBB License**       | Apache License 2.0                         |
-+-----------------------+--------------------------------------------+
-| **Core Technology**   | C                                          |
-+-----------------------+--------------------------------------------+
-| **Project URL**       | https://www.tensorflow.org/                |
-+-----------------------+--------------------------------------------+
-| **Source Location**   | https://github.com/tensorflow/tensorflow   |
-+-----------------------+--------------------------------------------+
-| **Tag(s)**            | AI, ML                                     |
-+-----------------------+--------------------------------------------+
-
-| 
-
-TensorWatch
------------
-
-TensorWatch is a debugging and visualization tool designed for data
-science, deep learning and reinforcement learning from Microsoft
-Research. It works in Jupyter Notebook to show real-time visualizations
-of your machine learning training and perform several other key analysis
-tasks for your models and data.
-
-TensorWatch is designed to be flexible and extensible so you can also
-build your own custom visualizations, UIs, and dashboards. Besides
-traditional “what-you-see-is-what-you-log” approach, it also has a
-unique capability to execute arbitrary queries against your live ML
-training process, return a stream as a result of the query and view this
-stream using your choice of a visualizer (we call this `Lazy Logging
-Mode <https://github.com/microsoft/tensorwatch#lazy-logging-mode%5D>`__).
-
-TensorWatch is under heavy development with a goal of providing a
-platform for debugging machine learning in one easy to use, extensible,
-and hackable package.
-
-+-----------------------+--------------------------------------------+
-| **SBB License**       | MIT License                                |
-+-----------------------+--------------------------------------------+
-| **Core Technology**   | Python                                     |
-+-----------------------+--------------------------------------------+
-| **Project URL**       | https://github.com/microsoft/tensorwatch   |
-+-----------------------+--------------------------------------------+
-| **Source Location**   | https://github.com/microsoft/tensorwatch   |
-+-----------------------+--------------------------------------------+
-| **Tag(s)**            | ML                                         |
-+-----------------------+--------------------------------------------+
++---------------------+------------------------------------------+
+| **SBB License**     | Apache License 2.0                       |
++---------------------+------------------------------------------+
+| **Core Technology** | C                                        |
++---------------------+------------------------------------------+
+| **Project URL**     | https://www.tensorflow.org/              |
++---------------------+------------------------------------------+
+| **Source Location** | https://github.com/tensorflow/tensorflow |
++---------------------+------------------------------------------+
+| **Tag(s)**          | AI, ML                                   |
++---------------------+------------------------------------------+
 
 | 
 
@@ -2192,17 +1986,17 @@ Features
 -  Add new models or languages through extensions
 -  WordNet integration
 
-+-----------------------+-------------------------------------------+
-| **SBB License**       | MIT License                               |
-+-----------------------+-------------------------------------------+
-| **Core Technology**   | Python                                    |
-+-----------------------+-------------------------------------------+
-| **Project URL**       | https://textblob.readthedocs.io/en/dev/   |
-+-----------------------+-------------------------------------------+
-| **Source Location**   | https://github.com/sloria/textblob        |
-+-----------------------+-------------------------------------------+
-| **Tag(s)**            | ML, NLP, Python                           |
-+-----------------------+-------------------------------------------+
++---------------------+-----------------------------------------+
+| **SBB License**     | MIT License                             |
++---------------------+-----------------------------------------+
+| **Core Technology** | Python                                  |
++---------------------+-----------------------------------------+
+| **Project URL**     | https://textblob.readthedocs.io/en/dev/ |
++---------------------+-----------------------------------------+
+| **Source Location** | https://github.com/sloria/textblob      |
++---------------------+-----------------------------------------+
+| **Tag(s)**          | ML, NLP, Python                         |
++---------------------+-----------------------------------------+
 
 | 
 
@@ -2221,17 +2015,17 @@ an innovation driver for many other OSS ML packages!
 Since a lot of ML libraries and packages use Theano you should check (as
 always) the health of your ML stack.
 
-+-----------------------+------------------------------------+
-| **SBB License**       | MIT License                        |
-+-----------------------+------------------------------------+
-| **Core Technology**   | Python                             |
-+-----------------------+------------------------------------+
-| **Project URL**       | http://www.deeplearning.net/       |
-+-----------------------+------------------------------------+
-| **Source Location**   | https://github.com/Theano/Theano   |
-+-----------------------+------------------------------------+
-| **Tag(s)**            | ML, Python                         |
-+-----------------------+------------------------------------+
++---------------------+----------------------------------+
+| **SBB License**     | MIT License                      |
++---------------------+----------------------------------+
+| **Core Technology** | Python                           |
++---------------------+----------------------------------+
+| **Project URL**     | http://www.deeplearning.net/     |
++---------------------+----------------------------------+
+| **Source Location** | https://github.com/Theano/Theano |
++---------------------+----------------------------------+
+| **Tag(s)**          | ML, Python                       |
++---------------------+----------------------------------+
 
 | 
 
@@ -2248,17 +2042,17 @@ to install, efficient for CPU usage and optimised for NLP and deep
 learning with text – in particular, hierarchically structured input and
 variable-length sequences.
 
-+-----------------------+----------------------------------------+
-| **SBB License**       | GNU General Public License (GPL) 2.0   |
-+-----------------------+----------------------------------------+
-| **Core Technology**   | Python                                 |
-+-----------------------+----------------------------------------+
-| **Project URL**       | https://explosion.ai/                  |
-+-----------------------+----------------------------------------+
-| **Source Location**   | https://github.com/explosion/thinc     |
-+-----------------------+----------------------------------------+
-| **Tag(s)**            | ML, NLP, Python                        |
-+-----------------------+----------------------------------------+
++---------------------+--------------------------------------+
+| **SBB License**     | GNU General Public License (GPL) 2.0 |
++---------------------+--------------------------------------+
+| **Core Technology** | Python                               |
++---------------------+--------------------------------------+
+| **Project URL**     | https://explosion.ai/                |
++---------------------+--------------------------------------+
+| **Source Location** | https://github.com/explosion/thinc   |
++---------------------+--------------------------------------+
+| **Tag(s)**          | ML, NLP, Python                      |
++---------------------+--------------------------------------+
 
 | 
 
@@ -2266,24 +2060,24 @@ Turi
 ----
 
 Turi Create simplifies the development of custom machine learning
-models. Turi is OSS machine learning from Apple.
+models.Turi is OSS machine learning from Apple.
 
 Turi Create simplifies the development of custom machine learning
 models. You don’t have to be a machine learning expert to add
 recommendations, object detection, image classification, image
 similarity or activity classification to your app.
 
-+-----------------------+------------------------------------------------------+
-| **SBB License**       | BSD License 2.0 (3-clause, New or Revised) License   |
-+-----------------------+------------------------------------------------------+
-| **Core Technology**   | Python                                               |
-+-----------------------+------------------------------------------------------+
-| **Project URL**       | https://github.com/apple/turicreate                  |
-+-----------------------+------------------------------------------------------+
-| **Source Location**   | https://github.com/apple/turicreate                  |
-+-----------------------+------------------------------------------------------+
-| **Tag(s)**            | ML                                                   |
-+-----------------------+------------------------------------------------------+
++---------------------+----------------------------------------------------+
+| **SBB License**     | BSD License 2.0 (3-clause, New or Revised) License |
++---------------------+----------------------------------------------------+
+| **Core Technology** | Python                                             |
++---------------------+----------------------------------------------------+
+| **Project URL**     | https://github.com/apple/turicreate                |
++---------------------+----------------------------------------------------+
+| **Source Location** | https://github.com/apple/turicreate                |
++---------------------+----------------------------------------------------+
+| **Tag(s)**          | ML                                                 |
++---------------------+----------------------------------------------------+
 
 | 
 
@@ -2306,17 +2100,17 @@ similarity or activity classification to your app.
 -  **Ready To Deploy:** Export models to Core ML for use in iOS, macOS,
    watchOS, and tvOS apps
 
-+-----------------------+------------------------------------------------------+
-| **SBB License**       | BSD License 2.0 (3-clause, New or Revised) License   |
-+-----------------------+------------------------------------------------------+
-| **Core Technology**   | Python                                               |
-+-----------------------+------------------------------------------------------+
-| **Project URL**       | https://turi.com/index.html                          |
-+-----------------------+------------------------------------------------------+
-| **Source Location**   | https://github.com/apple/turicreate                  |
-+-----------------------+------------------------------------------------------+
-| **Tag(s)**            | ML, Python                                           |
-+-----------------------+------------------------------------------------------+
++---------------------+----------------------------------------------------+
+| **SBB License**     | BSD License 2.0 (3-clause, New or Revised) License |
++---------------------+----------------------------------------------------+
+| **Core Technology** | Python                                             |
++---------------------+----------------------------------------------------+
+| **Project URL**     | https://turi.com/index.html                        |
++---------------------+----------------------------------------------------+
+| **Source Location** | https://github.com/apple/turicreate                |
++---------------------+----------------------------------------------------+
+| **Tag(s)**          | ML, Python                                         |
++---------------------+----------------------------------------------------+
 
 | 
 
@@ -2329,17 +2123,17 @@ training. VisualDL is a deep learning visualization tool that can help
 design deep learning jobs. It includes features such as scalar,
 parameter distribution, model structure and image visualization.
 
-+-----------------------+--------------------------------------------+
-| **SBB License**       | Apache License 2.0                         |
-+-----------------------+--------------------------------------------+
-| **Core Technology**   | C++                                        |
-+-----------------------+--------------------------------------------+
-| **Project URL**       | http://visualdl.paddlepaddle.org/          |
-+-----------------------+--------------------------------------------+
-| **Source Location**   | https://github.com/PaddlePaddle/VisualDL   |
-+-----------------------+--------------------------------------------+
-| **Tag(s)**            | ML                                         |
-+-----------------------+--------------------------------------------+
++---------------------+------------------------------------------+
+| **SBB License**     | Apache License 2.0                       |
++---------------------+------------------------------------------+
+| **Core Technology** | C++                                      |
++---------------------+------------------------------------------+
+| **Project URL**     | http://visualdl.paddlepaddle.org/        |
++---------------------+------------------------------------------+
+| **Source Location** | https://github.com/PaddlePaddle/VisualDL |
++---------------------+------------------------------------------+
+| **Tag(s)**          | ML                                       |
++---------------------+------------------------------------------+
 
 | 
 
@@ -2359,17 +2153,20 @@ The purpose of the tool is that give people a simple, intuitive, and
 powerful way to play with a trained ML model on a set of data through a
 visual interface with absolutely no code required.
 
-+-----------------------+---------------------------------------------------------------------------------------------------+
-| **SBB License**       | Apache License 2.0                                                                                |
-+-----------------------+---------------------------------------------------------------------------------------------------+
-| **Core Technology**   | Python                                                                                            |
-+-----------------------+---------------------------------------------------------------------------------------------------+
-| **Project URL**       | https://pair-code.github.io/what-if-tool/                                                         |
-+-----------------------+---------------------------------------------------------------------------------------------------+
-| **Source Location**   | https://github.com/tensorflow/tensorboard/tree/master/tensorboard/plugins/interactive_inference   |
-+-----------------------+---------------------------------------------------------------------------------------------------+
-| **Tag(s)**            | ML                                                                                                |
-+-----------------------+---------------------------------------------------------------------------------------------------+
++-----------------------------------+-----------------------------------+
+| **SBB License**                   | Apache License 2.0                |
++-----------------------------------+-----------------------------------+
+| **Core Technology**               | Python                            |
++-----------------------------------+-----------------------------------+
+| **Project URL**                   | https://pair-code.github.io/what- |
+|                                   | if-tool/                          |
++-----------------------------------+-----------------------------------+
+| **Source Location**               | https://github.com/tensorflow/ten |
+|                                   | sorboard/tree/master/tensorboard/ |
+|                                   | plugins/interactive_inference     |
++-----------------------------------+-----------------------------------+
+| **Tag(s)**                        | ML                                |
++-----------------------------------+-----------------------------------+
 
 | 
 
@@ -2387,17 +2184,17 @@ Learning <http://ethical.institute/principles.html>`__.
 You can find the documentation at
 https://ethicalml.github.io/xai/index.html.
 
-+-----------------------+----------------------------------------+
-| **SBB License**       | MIT License                            |
-+-----------------------+----------------------------------------+
-| **Core Technology**   | Python                                 |
-+-----------------------+----------------------------------------+
-| **Project URL**       | https://ethical.institute/index.html   |
-+-----------------------+----------------------------------------+
-| **Source Location**   | https://github.com/EthicalML/xai       |
-+-----------------------+----------------------------------------+
-| **Tag(s)**            | ML, Python                             |
-+-----------------------+----------------------------------------+
++---------------------+--------------------------------------+
+| **SBB License**     | MIT License                          |
++---------------------+--------------------------------------+
+| **Core Technology** | Python                               |
++---------------------+--------------------------------------+
+| **Project URL**     | https://ethical.institute/index.html |
++---------------------+--------------------------------------+
+| **Source Location** | https://github.com/EthicalML/xai     |
++---------------------+--------------------------------------+
+| **Tag(s)**          | ML, Python                           |
++---------------------+--------------------------------------+
 
 | 
 | End of SBB list
