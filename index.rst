@@ -44,7 +44,7 @@ Table of Contents
    ml-business-use
    catalogue
    MLlearningresources
-   references
+   NLPlearningresources
    help
    license
 

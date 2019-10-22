@@ -17,6 +17,10 @@ Most learning resource include hands-on tutorials. So be ready to use a notebook
 
 |
 
+- AutoML: Methods, Systems, Challenges, https://www.ml4aad.org/wp-content/uploads/2019/05/AutoML_Book.pdf
+
+|
+
 - Building Safe A.I., A Tutorial for Encrypted Deep Learnig, https://iamtrask.github.io/2017/03/17/safe-ai/ 
 
 |
