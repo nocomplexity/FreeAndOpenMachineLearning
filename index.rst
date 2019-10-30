@@ -9,9 +9,9 @@ Free and Open Machine Learning Book
 Abstract
 ---------
 
-This book is all about applying open machine learning solutions for real practical use cases. So the core focus is on how outlining how you can apply machine learning in a simple way. Books with lots of mathematical background information on how machine learning works are available for more than 70 years. So if you are keen on mathematical background information, you should take a look at the open learning resources section of this application. 
+This book is all about applying open machine learning solutions for real practical use cases. So the core focus is on outlining how you can apply open machine learning in a simple way. Books with lots of mathematical background information on how machine learning works are available for more than 70 years.  
 
-Machine learning is an exciting powerful technology. The use of machine learning technology on larger scale opens new opportunities and will give improvements for everyone. Machine learning technology should be available for everyone. So without barriers. But with the rise of new machine learning enabled products it is important to be able to ask critical questions on how safety, security, privacy and ethical issues are handled. 
+Machine learning is an exciting powerful technology. The continuous use and growth of machine learning technology opens new opportunities. It should also give improvements for everyone. But this is our, so also your, responsibility! Machine learning technology should be available for everyone. So without barriers. But with the rise of new machine learning enabled products it is important to be able to ask critical questions on how safety, security, privacy and ethical issues are handled. 
 
 This book is created to give you a head start to use and apply new Open Source machine learning technologies to solve your business problems. Important machine learning concepts are explained, but the main emphasis is on providing insights in the possibilities that are now available within the growing open source machine learning ecosystem. This so you can start applying machine learning in your business today. And be able to judge answers regarding important quality aspects, like safety, security and privacy.
 
