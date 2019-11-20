@@ -28,9 +28,11 @@ We are in the process of writing a book on Machine Learning that motivates peopl
 
 The main research questions for this project are:
 * What problems can be more easily solved using machine learning applications?
-* What are the main security,privacy and safety concerns when machine learning is applied and used more widely?
+* What are the main security,privacy and safety concerns when machine learning is applied and used more widely? 
+* What MUST we do and create to make machine learning inclusive? So free as in freedom for all humans on earth to use(openness), experiment without large investments or unwanted strings attached.
 
 In order to be able to answer this questions an architecture framework is developed, where answers on the following questions will be harvested:
+* How can security, privacy and safety risks be captured and mitigated transparently and as early as possible.
 * Why is Free and Open Machine learning important?
 * What business use cases are suited for applying machine learning?
 * What are the main solution building blocks that make an vendor-neutral machine learning reference architecture?
@@ -41,6 +43,12 @@ In order to be able to answer this questions an architecture framework is develo
 * What are the main OSS machine learning frameworks and applications?
 * How can machine learning be applied more easily for simple use cases?
 * What risks(security, privacy and safety) and ethical considerations are important when using or creating machine learning applications?
+* How can you create sense making ML models without a bunch of expensive GPUs? So how to we go to real and open tinyML machine learning?
+* What should we do in order to make sure that developments in ML are positive for all humans (work, economic, safety, privacy)?
+* The development of advanced machine learning applications might destabilise global order and can lead to a concentration of power by a small group of powerful companies. What must we do in order to establish that everyone can benefit from new applications possible using advanced machine learning algoritmes and open datasets?
+
+
+
 
 
 
