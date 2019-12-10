@@ -15,6 +15,12 @@ What is covered in this book?
 
 Nowadays many people are talking about the transformative power of machine learning and how it will revolutionize the economy, but what does that mean for your business and how do you get started? How do get solid independent advice to learn how machine learning and can improve or disrupt your business? This book gives you a quick introduction to get started with machine learning. 
 
+Machine learning concepts are mostly taught by academics and for academics. That’s why most learning material is so dry and maths heavy.  The theory behind machine learning is great, but requires also a very deep understanding within statistics and math.  There is a large gap between theory and practice. Practice counts, because in a tangible environment you want to enable your application to solve your problem with machine learning capabilities. At least if this investment makes sense.
+
+This publication is created for applying machine learning in practice for real world use cases. This is where the rubber meets the road. So the core focus is on the 'HOW' questions. So in architecture vocabulary key concepts are outlined and a conceptual and logical reference architecture is given to empower you to make use of machine learning technology in a simple and efficient way if needed.
+
+
+
 The field of machine learning and artificial intelligence is making rapid progress. Do you know what kind of applications for direct business use are already possible today? Are you aware of the very low entry barriers to take advantage of machine learning? Is your knowledge of free and open source solutions available in the machine learning eco system up to date? How do you classify safety, security and privacy risk when using machine learning? These and many other questions are the foundation of this book. 
 
 With new machine learning applications and companies being created on a daily basis, it is difficult to get a hold of what applications are viable, and which are hype, fads or simple a hoax. Especially when the terms ML and AI are intertwined. This book directs you to tangible working open source machine learning software. This category machine learning software is used at large for real business use cases. And because it is OSS it can be studied and improved.

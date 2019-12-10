@@ -21,7 +21,7 @@ One of the goals of the project is to develop and harvest ml-knowledge that is n
 
 ## The Free and Open Machine Learning Book
 
-We are in the process of writing a book on Machine Learning that motivates people to learn machine learning concepts and how machine learning can be used or tried in a simple way. This book is not intended to cover all advanced (mathematical) machine learning techniques or explaining ml specific software platforms. There are already some books doing this. Instead, we aim to provide the necessary knowledge that is required to start applying machine learning with success in large or small enterprises. 
+We are in the process of writing a book on Machine Learning that motivates people to learn machine learning concepts and how machine learning applied in a simple way. This book is not intended to cover all advanced (mathematical) machine learning techniques or explaining ml specific software platforms. There are already some books doing this. Instead, we aim to provide the necessary knowledge that is required to start applying machine learning with success in large or small enterprises. 
 
 
 ## Research questions
