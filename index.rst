@@ -9,13 +9,27 @@ Free and Open Machine Learning Book
 Abstract
 ---------
 
-This book is all about applying open machine learning solutions for real practical use cases. So the core focus is on outlining how you can apply open machine learning in a simple way. Books with lots of mathematical background information on how machine learning works are available for more than 70 years.  
+This book is all about applying machine learning solutions for real practical use cases. This means the core focus is on outlining how to use machine learning in a simple way so you can benefit of this powerful technology. 
 
-Machine learning is an exciting powerful technology. The continuous use and growth of machine learning technology opens new opportunities. It should also give improvements for everyone. But this is our, so also your, responsibility! Machine learning technology should be available for everyone. So without barriers. But with the rise of new machine learning enabled products it is important to be able to ask critical questions on how safety, security, privacy and ethical issues are handled. 
+Machine learning is an exciting and powerful technology. The continuous use and growth of machine learning technology opens new opportunities. This great technology should available to use for everyone. This means that everyone should be able to learn, play and create great applications using machine learning technology. 
 
-This book is created to give you a head start to use and apply new Open Source machine learning technologies to solve your business problems. Important machine learning concepts are explained, but the main emphasis is on providing insights in the possibilities that are now available within the growing open source machine learning ecosystem. This so you can start applying machine learning in your business today. And be able to judge answers regarding important quality aspects, like safety, security and privacy.
+The key focus of this publication in on Free and Open Machine learning technologies only. This to remove barriers for learning, playing and using machine learning technologies for real practical use cases for everyone. 
 
-This book gives an overview of all important OSS machine learning frameworks and OSS support tools that you can use for prototyping with machine learning or when using machine learning for real production use cases.
+Of course you can use or switch to a large commercial tech giant cloud company to deploy your machine learning driven application in production. However besides vendor lockin, crucial aspects like safety, privacy and security for machine learning application can only be realized when using fully transparent Free and Open technology. 
+
+By using outlining an open architecture, FOSS software and open datasets this publication outlines how machine learning technology can be available and usable for everyone. So without barriers. Since the majority of humans are not a graduated mathematician, we skip deep mathematical concepts of machine learning algorithms in this publication. Books with lots of mathematical background information on how machine learning works are available for more than 70 years.  There are plenty excellent free and open publications available if you want to learn in depth the inner working of mathematical algorithms powering nowadays machine learning applications. In the learning resources section of this publication you can find some very good references. All available under a creative commons license (cc-by).
+
+This publication has a core focus on how machine learning can be used. This is done by describing:
+
+- Key machine learning concepts. The focus is on concepts that are needed in order to use solid FOSS machine learning frameworks and datasets when creating a machine learning powered application.
+- An open reference architecture for creating and maintaining your machine learning application.
+- Important open Solution Building Blocks (FOSS based) which you can use to create your machine learning application as fast as possible. Applying machine learning should be as easy and simple as possible. Only when barriers for using this technology are lowered many more great applications will be developed for the benefit for everyone.
+- Key quality aspects for engineering and maintaining your machine learning driven application.
+- Important safety, privacy and security aspects to prevent disasters 
+- Ethical issues (like bias) and how to handle this in a transparent way.
+
+This book is created to give you a head start to use and apply Open Source machine learning technologies to solve problems. Without any strings attached, so the focus is on using open transparent technologies only!
+
 
 
 .. warning::
@@ -33,7 +47,7 @@ Table of Contents
 
 .. toctree::
    :maxdepth: 3   
-   :caption: Contents:
+   :caption: Contents
 
    preface
    introduction
