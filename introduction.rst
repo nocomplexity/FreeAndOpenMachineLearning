@@ -5,8 +5,10 @@ With the use of Machine learning you can solve challenging problems that impact 
 
 However mind the buzz and fads surrounding AI and ML: Machine Learning, deep learning and a lot of tools developed are not “a universal solvent' for solving all problems on the road to perfect AI. No perfect or magic machine learning tool or method exist (yet) that can solve all your complex problems.Machine learning is just a solution for a **certain type** of problems. In future the use of machine learning tools and can be applied to a broader landscape of problems. But do not try to solve all your problems with one (new)technology. 
 
-Artificial Intelligence and Machine Learning are now in the forefront of global discourse, garnering increased
-attention from practitioners, industry leaders, policymakers, and the general public.
+Artificial Intelligence and Machine Learning are now again in the forefront of global discourse, garnering increased attention from practitioners, industry leaders, policymakers, and the general public.
+
+But despite the hype and money invested in machine learning technology, one big questions remains. Can machine learning really help us within time to solve hard and complex business problems and the very hard problems like climate change, health welfare for all humans and real freedom for us all? So this publication gives you a reality check. You will learn what is easily possible using the new machine learning techniques, what current potential is and what remains wishful thinking for the future. Innovation needs openness. This is also more than valid for machine learning technologies. Without real openness new developments and innovations in machine learning will be impossible. As an practitioners in your domain and with your unique expertise you can start making a difference. This publication will be your starting point for applying machine learning technology on new unique use cases.
+
 
 What is covered in this book?
 ---------------------------------
