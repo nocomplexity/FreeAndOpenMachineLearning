@@ -19,6 +19,9 @@ Machine learning concepts are mostly taught by academics and for academics. That
 
 This publication is created for applying machine learning in practice for real world use cases. This is where the rubber meets the road. So the core focus is on the 'HOW' questions. So in architecture vocabulary key concepts are outlined and a conceptual and logical reference architecture is given to empower you to make use of machine learning technology in a simple and efficient way if needed.
 
+To apply machine learning other skills besides statistics and math are required. You need e.g. be able to have some knowledge about all typical IT things that are still needed before you can make use of the new paradigm that machine learning brings.
+
+
 
 
 The field of machine learning and artificial intelligence is making rapid progress. Do you know what kind of applications for direct business use are already possible today? Are you aware of the very low entry barriers to take advantage of machine learning? Is your knowledge of free and open source solutions available in the machine learning eco system up to date? How do you classify safety, security and privacy risk when using machine learning? These and many other questions are the foundation of this book. 

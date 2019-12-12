@@ -83,6 +83,40 @@ Since vision is captured in data machine learning is a great tool for building a
 * Image similarity. Given an image, the goal of an image similarity model is to find "similar" images. Just like in image classification, deep learning methods have been shown to give incredible results on this challenging problem. However, unlike in image similarity, there isn't a need to generate labelled images for model creation. This model is completely unsupervised.
 * Object Detection. Object detection is the task of simultaneously classifying (what) and localizing (where) object instances in an image.
 
+Financial services
+^^^^^^^^^^^^^^^^^^^^
+
+* Real-time trade: Like bidding sites for online advertising and stock exchange markets are more and more driven by software algorithms. Knowing this you must be a fool if you take part on a stock exchange market without the power these automated machine learning driven systems have. You will never earn anything...
+
+* Banking and credit services: More and more banks and large financial companies are using their data to get more profit out of existing customers. Based on a smart combination of banking data and financial transaction data, your bank will know better than you can image how to make even more profit from their customers. 
+
+Marketing
+^^^^^^^^^^^
+
+* Marketing and acquisition: By analysing mass amounts of data you can better target your existing and potential users for your service. Machine learning makes a large difference here, as proven by Google and Facebook (both ad-service companies in essence). Analysing works using machine learning works well for consumer markets where user data and user behaviour data is widespread and for sale. And since tracking users on the internet is the number one dataleak almost all data is available somewhere. Also business to business marketing is perfect to automate using machine learning. This because also here the only input needed is often data.
+
+Of course if you do care about privacy and embrace the values of Free and Open machine learning the marketing use cases for machine learning are almost impossible to create due to privacy issues involved.
+
+HR services
+^^^^^^^^^^^^^
+
+* HR management and HR services: Finding the right new employing, talent management, performance management all tangible HR work will be powered by ML software more and more. Even the scary face and voice recognition tools will be used to check if your new employee matches your ideal profile. Until HR is fully automated ML powered software will help HR professionals to improve decision-making and create more efficient ways to interact with employees.
+
+When using machine learning for HR services be aware of bias issues in using datasets. Bias when hire new personal is for humans already difficult to handle. But you do not want a machine learning application that only selects people based on old paradigms in society.
+
+Predicting services
+^^^^^^^^^^^^^^^^^^^^
+
+* Predicting services: Almost all predicting services in all business domains can benefit from the combination of large data sets and using machine learning algorithms. E.g. you can empower predicting services by using weather data (historical and new), financial and demographic data and local production data to find out in more detail how your next sales campaign will go. But prediction is also possible on failures on production lines, where historical data is combined with sensor data.
+
+Software
+^^^^^^^^^^^^
+
+* Software code improvement: Manual programming is hard and error prone. By training machine learning on a large code base to learn the model what ‘bugs’ are, it is possible to use machine learning to prevent programming bugs in new developed software code. In this way code can not be committed since the automated checks provided spotted an error. Detecting a bug before software is tested and deployed is far cheaper than correcting errors in code when a program is already released. A game development company  has used this application of machine learning for real with success already. (reference http://www.wired.co.uk/article/ubisoft-commit-assist-ai )
+
+* Creating new software programs: Based on a problem it is proven by different companies that software can be generated in stead of manual crafted (programmed). Feeding a algorithm massive inputs of examples programs it is possible to generate a new program based for your specific problem. Of course this application of machine learning is still in early phase. It is also questionable if this application of machine learning makes real sense since the new paradigm of machine learning is no longer program a solution but create a program outcome based on input data.
+
+
 Security
 ^^^^^^^^^^
 
@@ -94,10 +128,14 @@ Besides fraud detection machine learning can also applied for IT security detect
 
 
 
-
 Risk and compliance
 ^^^^^^^^^^^^^^^^^^^^
-Evaluating risks can be done using large amounts of data. Natural language processing techniques can be used to validate highly automatic if your company meets regulations. Since audit and inspecting work is mostly based on standardized rules performed by knowledge workers this kind of work can be automated using machine learning techniques.
+
+* Evaluating risks can be done using large amounts of data. Natural language processing techniques can be used to validate highly automatic if your company meets regulations. Since audit and inspecting work is mostly based on standardized rules performed by knowledge workers this kind of work can be automated using machine learning techniques.
+
+* Detecting danger and safety risks. E.g. for autonomous vehicles (robots). More and more machine learning software is developed to make transport safer for us humans.
+
+
 
 Example use cases 
 ---------------------
@@ -116,39 +154,6 @@ Applications for real business use of machine learning to solve real tangible pr
 
 .. include:: business-examples.rst
 
-
-Business principles for Machine Learning applications
--------------------------------------------------------
-
-Every good architecture is based on principles, requirements and constraints.This machine learning reference architecture is designed to easy the process of creating machine learning solutions. So below some general principles for machine learning applications. For your specific machine learning application use the principles that apply and make them smart. So include implications and consequences per principle.
-
-
-Collaborate
-^^^^^^^^^^^^^^^^
-
-Statement: Collaborate
-Rationale: Successful creation of ML applications require the collaboration of people with different expertises. You need e.g. business experts, infrastructure engineers, data engineers and innovation experts.
-Implications: Organisational and culture must allow open collaboration. 
-
-Unfair bias
-^^^^^^^^^^^^^^
-
-Statement: Avoid creating or reinforcing unfair bias
-Rationale: Machine learning algorithms and datasets can reflect, reinforce, or reduce unfair biases. Recognize fair from unfair biases is not simple, and differs across cultures and societies. However always make sure to avoid unjust impacts on sensitive characteristics such as race, ethnicity, gender, nationality, income, sexual orientation, ability, and political or religious belief. 
-Implications: Be transparent about your data and training datasets. Make models reproducible and auditable.
-
-Built and test for safety
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Statement: Built and test for safety.
-Rationale:  Use safety and security practices to avoid unintended results that create risks of harm.  Design your machine learning driven systems to be appropriately cautious
-Implications: Perform risk assessments and safety tests.
-
-Privacy by design
-^^^^^^^^^^^^^^^^^^^
-
-Statement: Incorporate privacy by design principles.
-Rationale: Privacy by principles is more than being compliant with legal constraints as e.g. EU GDPR. It means that privacy safeguards,transparency and control over the use of data should be taken into account from the start. This is a hard and complex challenge. 
 
 
 

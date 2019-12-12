@@ -60,8 +60,8 @@ In its core a machine learning process exist of a number of typical steps. These
 You will need to improve your machine learning model after a first test. Improving can be done using more training data or by making model adjustments. 
 
 
-ML Architecture Building Blocks
------------------------------------------------
+Architecture Building Blocks for ML
+------------------------------------
 
 This reference architecture for machine learning gives guidance for developing solution architectures where machine learning systems play a major role. Discussions on what a good architecture is, can be a senseless use of time. But input on this reference architecture is always welcome. This to make it more generally useful for different domains and different industries. Note however that the architecture as described in this section is technology agnostics. So it is aimed at getting the architecture building blocks needed to develop a solution architecture for machine learning complete. 
 
@@ -77,27 +77,13 @@ The way to develop a machine learning architecture is outlined in the figure bel
 
 In essence developing an architecture for machine learning is equal as for every other system. But some aspects require special attention. These aspects are outlined in this reference architecture.
 
-Principles are statements of direction that govern selections and implementations. That is, principles provide a foundation for decision making.
-
-Principles are commonly used within business design and successful IT projects. A simple definition of a what a principle is:
-
-* A principle is a qualitative statement of intent that should be met by the architecture.
+.. include:: principles.rst 
 
 
+Constraints
+^^^^^^^^^^^^
 
-The key principles that are used for this reference machine learning architecture are:
-
-1. The most important machine learning aspects must be addressed.
-#. The quality aspects: Security, privacy and safety require specific attention.
-#. The reference architecture should address all architecture building blocks from development till hosting and maintenance.
-#. Translation from architecture building blocks towards FOSS machine learning solution building blocks should be easily possible.
-#. The machine learning reference architecture is technology agnostics. The focus is on the outlining the conceptual architecture building blocks that make a machine learning architecture. 
-
-By writing down these principles is will be easier to steer discussions on this reference architecture and to improve this machine learning architecture. 
-
-Machine learning architecture principles are used to translate selected alternatives into basic ideas, standards, and guidelines for simplifying and organizing the construction, operation, and evolution of systems.
-
-Important concerns for this machine learning reference architecture are the aspects:
+Important constraints for a machine learning reference architecture are the aspects:
 
 * Business aspects (e.g capabilities, processes, legal aspects, risk management)
 * Information aspects (data gathering and processing, data processes needed)
@@ -107,6 +93,12 @@ Important concerns for this machine learning reference architecture are the aspe
 * Maintenance (e.g. logging, version control, deployment, scheduling)
 * Scalability, flexibility and performance 
 
+
+
+Machine learning architecture metamodel 
+----------------------------------------
+
+The machine learning reference model represents all architecture building blocks that can be present in a machine learning solution. Information architecture (IT) and especially machine learning is a complex area so the goal of the metamodel below is to represent a simplified but usuable overview of aspects regarding machine learning. Using this model will give you a head start when developing your specific machine learning solution.
 
 
 .. image:: /images/ml-reference-architecture.png

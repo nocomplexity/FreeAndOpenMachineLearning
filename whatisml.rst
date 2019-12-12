@@ -184,6 +184,25 @@ With AutoML the challenge is to turn this into:
     Solution = data + 100X computation
 
 
+What is a machine learning model
+----------------------------------
+
+A machine learning model consist of numbers. Most of the time a very large amount of numbers. 
+With the danger of getting into math: A machine learning model is a collection of numbers that are presented in a large multi dimensional matrix.
+
+A model in the machine learning world is not different than any other mathematical model that presents some knowledge or (trained)information. It is just a large amount of numbers. So you need the algorithm to use it. 
+
+A model of data (plain numbers) can be used for any number of things. E.g.:
+
+- To simply tell you about the behavior of your data. For example, the mean is a model. If you imaging picking numbers at random from 1-10, a mean does summarize some useful information about your data. The same with the median and the variance. These are extremely lossy models, but they are models of your data.
+
+- To classify data. Say you’ve trained a classifier that classifies whether a photo contains a cat or not. That classifier concisely summarizes your data as “cat photo” or “non-cat photo.”
+
+- A efficient way to represent data for some other task. For example, you might generate paraphrases of a documents and model this as vector data. You can then use this model to classify the unique author of the text. So if you present a new document to this model using a simple machine learning algorithms the model gives you a number that indicates if this new document is from the same author or not. 
+
+
+
+
 Other common terms used in the ML world
 -----------------------------------------
 
