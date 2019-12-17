@@ -6,16 +6,23 @@ Open machine learning is close to open source but since openness requires more t
 
 FOSS machine learning is crucial for all. In our view machine learning technology must be inclusive for all. This means that besides using OSS machine learning frameworks like Tensorflow more aspects must be open. This to achieve that machine learning becomes a real open and inclusive technology that can be used for the advantage of everyone. 
 
+Free and Open machine learning means that everyone should be able to develop, test and play and deploy machine learning based solutions. So inclusive. Large investments should not be needed for using and applying machine learning. So not only companies or people who can afford the enormous investments needed in specialized GPU hardware should benefit of machine learning but everyone should be able to create meaningful applications to create a better world.
+
 The following aspects are needed for Free and Open Machine Learning:
-- FOSS 
+
+- FOSS (Free and Open Source Software)
 - Open data
-- Green machine learning
 - Open algorithms (machine learning libraries)
-- Open architectures 
+- Open architectures
+- Open Science 
+
+
 
 
 Open Source (FOSS) 
 -------------------
+
+Free and open-source software (FOSS) is software that can be classified as both free software and open-source software. FOSS is an inclusive term that covers both free software(FLOSS) and open-source software(OSS).
 
 Open Source is an approach for the design, development, and distribution of new products & knowledge offering practical accessibility to its source. Real open source solutions have a license that is approved by the FSF.org or the OSI foundation. Open source is all about collaboration. Collaboration is key for developing, applying and using machine learning functionality. 
 
@@ -57,14 +64,23 @@ In https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research 
 
 Free and open machine learning means that everyone should be able to access and use data used. So Google, Facebook and many other companies who donate a lot of machine learning knowledge and frameworks in the open source domain rarely release datasets that are used for their fantastic commercial machine learning offerings. Not knowing details about datasets, especially for live saving systems that are powered using machine learning technology, means verification of claims is impossible. 
 
-Green ML
----------
+Open Science
+-------------
 
-Computations power needed for  deep learning  research  have  been  doubling  every  few  months. Machine learning computations have a very  large carbon footprint. Ironically, deep learning was inspired by the human brain, which is remarkably energy efficient. Moreover, the financial cost of the computations can make it difficult for academics, students, and researchers, in particular those from emerging economies, to engage in deep learning research.
+Machine learning is a challenging science. Many researchers on universities worldwide are working to develop new knowledge for solving a range of complex problems.
 
-Free and Open machine learning means that everyone should be able to develop, test and play and deploy machine learning based solutions. So real inclusive. Not only companies or people who can affort the enormous investments needed in specialized GPU hardware. 
+Universities are funded by tax payers. So in an ideal world everyone should benefit from knowlegde developed. Also almost all knowledge developed is based on work developed of others. This is how science works. 
 
-Besides the cost green machine learning is a important factor for Free and Open machine learning since the benefits machine learning can bring should not harm the environment of all living cells that have no direct relationship with your machine learning application. The Freedom to use this powerfull technology should not limit the freedom to live in good health of others. So green ML is a difficult but important aspects for machine learning developments. So chose algoritmes that perform well without weeks of calculation on datasets. Or make sure expensive and time consuming calculations can be reused by others in an easy way. 
+Open science represents an approach to the scientific process based on cooperative work and new ways of diffusing knowledge by using digital technologies and new collaborative tools. The idea captures a systemic change to the way science and research have been carried out for the last fifty years: shifting from the standard practices of publishing research results in scientific publications towards sharing and using all available knowledge at an earlier stage in the research process.
+
+Developing machine learning knowledge using open science means that publications, data, results, and software is accessible without borders for everyone to learn and build upon. Key pillars of open science important for open machine learning are:
+
+- Open Data
+- Open source
+- Open access
+
+Only in this way trust in new machine learning algorithms, frameworks and trained data sets can be reached.
+
 
 
 
@@ -74,4 +90,15 @@ Open architectures
 .. todo:: Work in progress
 
 
+
+Green ML
+----------
+
+Applying new technology brings new responsibilities. 
+Computations power needed for  deep learning  research  have  been  doubling  every  few  months. Machine learning computations have a very  large carbon footprint. Ironically, deep learning was inspired by the human brain, which is remarkably energy efficient. Moreover, the financial cost of the computations can make it difficult for academics, students, and researchers, in particular those from emerging economies, to engage in deep learning research.
+
+Green ML means is machine learning optimized to minimize resource utilization and environmental impact. This can be done by data center resource optimization, balancing training data requirements versus accuracy, choosing less resource intense models or in some cases transfer learning versus new models. 
+
+
+Besides the cost green machine learning is a important factor for Free and Open machine learning since the benefits machine learning can bring should not harm the environment of all living cells that have no direct relationship with your machine learning application. The Freedom to use this powerfull technology should not limit the freedom to live in good health of others. So green ML is a difficult but important aspects for machine learning developments. So chose algoritmes that perform well without weeks of calculation on datasets. Or make sure expensive and time consuming calculations can be reused by others in an easy way. 
 
