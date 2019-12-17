@@ -180,6 +180,55 @@ Applications for real business use of machine learning to solve real tangible pr
 
 
 
+Business Challenges
+--------------------
+
+Applying machine learning for real business use cases is complex and difficult.  
+
+A number of challenges is:
+
+- Determining when applying machine learning is a good choice for solving a business problem.
+- Getting the right data and preparation of the data to be used for training a machine learning model.
+- Dealing with privacy, security and safety aspects.
+- Engineering solid and maintainable machine learning applications. Designing, creating and debugging machine learning applications is specialized IT work.
+- Dealing with terrible math and statistics foundations. Of course most software building blocks will keep this away from you, but you must make choices that require some more in depth knowledge of the foundations behind the chosen algorithms used. 
+
+The number one challenge is of course: How to integrate ML into your current business in order to really benefit from this technology?
+
+Integration of machine learning software pipelines, especially when it also involves digital integration between companies and systems is known to be hard, complex and will make you poor if handled wrong. Unfortunately problems that are needed before having raw usable data is for too long part of traditional IT problems. So if you have a bad track record when it comes to executing traditional IT projects, machine learning projects will have the same challenges with a couple of new real elements.
+
+
+Machine is not the most logical way to solve problems. For many engineers and software programmers solving problems using a machine learning approach is against the learned and trained intuition. 
+
+An aspect of this difficulty involves building an intuition for what tool should be leveraged to solve a problem. This requires being aware of available algorithms and models and the trade-offs and constraints of each one. 
+
+
+Machine learning needs trial and error before it works well. But debugging a machine learning application is a real complex problem. An endless number of elements must be taken into account. When you want to improve the output you can face problems e.g. the following problems:
+
+- Is there a bug in the used software framework?
+- Is the data quality below an acceptable level?
+- Is the chosen algorithm the right choice?
+- Are other IT issues influencing the outcome, e.g. performance?
+- With machine learning finding bugs and working on optimizations is almost ‘exponentially’  harder due to the complex nature of the various aspects involved. So to figure out what is wrong when things don’t work as expected can take far more time than available.
+
+
+Business capabilities needed
+-----------------------------
+
+Before starting a proof of concept or project with machine learning you need to dive into the subject and options. But: Don’t fall for a vendor hype. So beware of demo's and courses of vendors who sell you SaaS ML solutions. If a promise for new business innovation based on a new machine learning application seems too good to be true: It often is.
+
+Only you know your systems, your requirements, your financial objectives, and thus the right trade-offs to make. Tools can make this process easier, but they’re no magic bullet.
+
+The power of machine learning requires a collaboration so the focus is on solving business problems.
+
+Summarized you need the following capabilities to apply machine learning for your business use case:
+
+- Capability to experiment and learn. So a real learning culture. 
+- Managers, architects, developers and engineers with an open mindset. So open for learning and experimenting.
+- Descent knowledge of key quality aspects involved. E.g. privacy, safety and security. A must take these privacy, safety and security serious from the start. Do it by design. It can initially take some extra time, but once key safeguards are in place experimenting with data and machine learning outcomes will be possible with lower risks. So make sure you will also have some privacy and security experts involved from the start.
+- Solid business innovation strategy, innovation management system (process and people) available. 
+
+If your goal is to use machine learning to reduce cost by automating human workflows make sure everyone shares this goal upfront. 
 
 
 
