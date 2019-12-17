@@ -53,9 +53,9 @@ Table of Contents
    introduction
    whyossml
    whatisml
-   architecture
-   risks
    ml-business-use
+   architecture
+   risks   
    catalogue
    MLlearningresources
    NLPlearningresources
