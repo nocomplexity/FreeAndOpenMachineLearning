@@ -33,7 +33,7 @@ Most learning resource include hands-on tutorials. So be ready to use a notebook
 
 |
 
-- Dive into Deep Learning, An interactive deep learning book with code, math, and discussions, http://numpy.d2l.ai/ 
+- Dive into Deep Learning, An interactive deep learning book with code, math, and discussions, https://d2l.ai/
 
 |
 
