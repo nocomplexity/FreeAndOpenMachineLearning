@@ -42,7 +42,7 @@ Most learning resource include hands-on tutorials. So be ready to use a notebook
 
 |
 
-- Interpretable Machine Learning,A Guide for Making Black Box Models Explainable,Christoph Molnar, https://christophm.github.io/interpretable-ml-book/ 
+- Interpretable Machine Learning, A Guide for Making Black Box Models Explainable,Christoph Molnar, https://christophm.github.io/interpretable-ml-book/ 
 
 |
 
@@ -63,17 +63,23 @@ Most learning resource include hands-on tutorials. So be ready to use a notebook
 
 |
 
+
 - Practical Deep Learning for Coders v3, https://course.fast.ai/index.html
 
 |
 
 - Python Machine Learning course,  https://machine-learning-course.readthedocs.io/en/latest/index.html 
 
-
-|
 |
 
-- The Elements of AI, https://www.elementsofai.com/ 
+- Rules of Machine Learning: Best Practices for ML Engineering, cc-by licensed ML course developed by Google,  https://developers.google.com/machine-learning/guides/rules-of-ml
+|
+
+- Spinning Up in Deep RL, become a skilled practitioner in deep reinforcement learning, https://spinningup.openai.com/en/latest/index.html
+
+|
+
+- The Elements of AI, learn the basics of AI,  https://www.elementsofai.com/ 
 
 |
 |

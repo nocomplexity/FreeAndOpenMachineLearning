@@ -172,6 +172,8 @@ Applications for real business use of machine learning to solve real tangible pr
 * Engineers are using TensorFlow to analyze auditory data in the rainforest to detect logging trucks and other illegal activities.
 * Scientists in Africa are using TensorFlow to detect diseases in Cassava plants to improving yield for farmers.
 * Finding free parking space. http://www.peazy.in has developed an app using machine learning to assist with finding a free parking space in crowded cities. 
+* All kind of card games. With the use of the FOSS RLCard toolkit (see open ML Software section) the use of Reinforcement Learning (RL) in card games is possible.
+
 
 .. sub chapter with real exiting business examples
 
