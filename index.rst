@@ -3,13 +3,13 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Free and Open Machine Learning Book
-=====================================
+Free and Open Machine Learning 
+================================
 
 Abstract
 ---------
 
-This book is all about applying machine learning solutions for real practical use cases. This means that the core focus in this book is explaining how to use open machine learning solutions in a simple way. This so you and everyone can benefit of this powerful technology in a simple way. 
+This book is focussed on applying machine learning solutions for real practical use cases. This means that the core focus in this book is outlining how to use open machine learning solutions in a simple way. This so you and everyone can benefit of this powerful technology in a simple way. 
 
 Machine learning is an exciting and powerful technology. The continuous use and growth of machine learning technology opens new opportunities. It also enables solving complex problems in a simple way. Problems that were not simple to solve using traditional software technologies. This great machine learning technology should available to use for everyone. This means that everyone should be able to learn, play and create great applications using machine learning technology. Without borders or strings attached.
 
