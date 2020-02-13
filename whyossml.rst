@@ -55,6 +55,9 @@ FOSS machine learning is very popular. See e.g. the diagram below. You should ha
 
 All IT companies advertise with machine learning powered software products nowadays. This also means that existing software that has been sold for decades is now suddenly re-branded with the new machine learning buzz words. Also terms like cognitive, artificial intelligence (AI) powered and data driven are used to sell you old solutions using this new trend. You can easily be fooled since massive marketing efforts (time, money, material) have been invested to sell the old buggy solutions as new innovative machine learning powered solutions. In reality black box solutions from small or large vendors that seems good to be true for your use case, are almost always based on fads. This is why you should be very suspicious when using cloud based machine offerings that offers you instant new business and customers. Make sure to do a fast and cheap hands on innovation project first yourself to check if and how your business use case can benefit from machine learning. So if the new solution looks to good to be true, be aware. 
 
+To use ML for real business applications you should use and reuse good FOSS tools, frameworks and knowledge available. But you should also take the quality aspects (technical and non-technical) that come with a framework choice into account.
+
+
 When using machine learning FOSS solutions you can inspect the working and evaluate all risks involved. Or by using FOSS solution you can ask every IT company or consultant with the right skills to audit the application. Because in the end: The security, safety and privacy of your customers are at risk and you will be held accountable.
 
 
@@ -96,7 +99,6 @@ Open architectures
 -------------------
 
 .. todo:: Work in progress
-
 
 
 Green ML
