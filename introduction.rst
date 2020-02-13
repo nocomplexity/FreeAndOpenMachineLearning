@@ -92,5 +92,5 @@ Errata, updates and support
 
 We have made serious efforts to create a first readable version of this book. However if you notice typos, spelling and grammar errors please notify us so we can improve this book. Since the world of machine learning is rapidly evolving some parts of this book will needs updates to present to you the latest machine learning solution building blocks. That’s why there is also an on-line version of this book available that will incorporate the latest updates.
 
-If like to contribute to make this book better: Please CONTRIBUTE! See [chapter contribution]
+If like to contribute to make this book better: Please CONTRIBUTE! See [section HELP]
 
