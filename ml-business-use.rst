@@ -1,39 +1,41 @@
 Machine Learning for Business Problems
 =======================================
 
-Reading and talking about the in potential endless options for machine learning is nice and should be done. But applying machine learning for your business is where you can make a difference. This section is focussed on applying machine learning technology for real business use cases. Some business use cases where machine learning is already applied are outlined. This to give you some inspiration. But besides the technology more is needed for applying machine learning in a business with success. This section will also present some more in depth discussion of the several factors that should be taken into account when applying machine learning for real business use.
+Reading and talking about futuristic potential options for machine learning is nice and should be done. But applying machine learning todady for your business is where you can make a real difference. This section is focussed on applying machine learning technology for real business use cases. Use cases that are possible with current available open building blocks. Some business use cases where machine learning is already applied are outlined. This to give you some inspiration. But beware besides technology more is needed for applying machine learning in a business with success. This section will also give you some more in depth input of the several factors that should be taken into account when applying machine learning for real business use.
 
 
 When to use machine learning for business problems?
 -------------------------------------------------------
 
-Before starting applying machine learning for solving your problem you must be aware that machine learning is not a tool for every complex problem. Or to put it even more clear: In most cases applying machine learning is overkill, expensive and other traditional software solutions make far more sense.
-So do not use machine learning. Keep it simple! 
+Before starting applying machine learning for solving your business problems you must be aware that machine learning is not a tool for every complex problem. Or to put it even more clear: In most cases applying machine learning is overkill, too expensive and other traditional software solutions make far more sense.
+So do not use machine learning. Keep it simple! Using machine learning makes your business more complex.
 
-But since the temptation to use machine learning to solve complex problems is very promising you should try it. If only to see if is has real opportunities for your use case. But be aware that  machine learning doesn’t give perfect answers. But sometimes machine learning can save you a lot of time and can make things possible that are out of reach using normal traditional software approaches. 
+But since the temptation to use machine learning to solve complex problems is too promising to ignore you should try it. If only to see if is has real opportunities for your use case. Be aware that  machine learning doesn’t give perfect answers. But sometimes machine learning can save you a lot of time and can make things possible that are out of reach using normal traditional software approaches. 
 
-With the use of machine learning it is possible to learn from patterns and conditions to get new solid outcomes or predictions based on new data. Machine learning is able to learn from change patterns (data) at a pace that the human mind can not. This makes that machine learning is useful for a set of use cases were learning from data is possible or needed.
- 
+With the use of machine learning it is possible to learn from patterns and conditions to get new solid outcomes or predictions based on new data. Machine learning is able to learn from changes in patterns (data) at a pace that the human mind can not. This makes that machine learning as a technology is useful for a set of use cases were learning from data is possible or needed. So machine learning only makes sense for a limited class of use cases.  
 
 Machine learning should not be used for use cases that can be easily solved in another way. 
 For example do not use machine learning driven solutions if your use case matches on of the following criteria:
 
-* If it’s possible to structure a set of rules or “if-then scenarios” to handle your problem entirely, then there may be no need for machine learning at all.
+* If it’s possible to structure a set of rules or “if-then scenarios” to handle your problem entirely, then there is usually no need to use machine learning at all.
 * Your problem can be solved using statistical tools and software.
 
 Machine learning is an appropriate tool to use for problems whose only commonality is that they involve statistical inference. This means that problems where machine learning makes real sense have e.g. the following characteristics:
 
 - Classification challenges. E.g., is this a picture of a cat or a gorilla? Looks this human happy? Is this person writing emotional replies on twitter?
+
 - Clustering challenges. E.g., group all cat pictures by ones that are most similar. 
+
 - Reinforcement learning challenges. E.g., learn to predict how people behave when they book a holiday with large discount. Are you willing to buy something you do not need without discount?
 
-A good question to ask is: Can this problem be solved by looking at statistical outcomes? If the answer is yes, use traditional statistical software and avoid machine learning directly. Avoid complexity and cost by using machine learning.
+A good question to ask is: Can this problem be solved by looking at statistical outcomes? If the answer is yes, use traditional statistical software and avoid machine learning directly. Avoid complexity at all cost before trying to find if using machine learning is a viable option.
 
 
+For most business IT problems the use of machine learning should be avoided. Like blockchain or other industry IT buzzwords: Avoid the trap of using a solution and finding a problem to use it on! A particularly bad use case for machine learning is when the problem can be described using clear and precise mathematical equations. Only when a problem can not be described using clear and existing mathematical equations and an outcome could be predicted using large numbers of input data, than the use of machine learning should be considered.
 
-For most business IT problems using machine learning should be avoided. Like blockchain or other industry IT buzzwords: Avoid the trap of using a solution and find a problem for it! A particularly bad use case for machine learning is when the problem can be described using clear and precise mathematical equations. So only when the problem can not be described using clear and existing mathematical equations and an outcome could be predicted using large numbers of input data, than using machine learning should be considered.
+When you want to apply machine learning for your business use cases you will need to develop a solid architecture before starting. A standard solutions for your business use case does not exist. Your company and your context is unique. So for real business advantage when you think of using machine learning you should also develop your own machine learning enabled application of information system.
 
-When you want to apply machine learning for your business use cases you will need to develop a solid architecture before starting. Standard solutions for your business use cases do not exist. Your company and your context is unique. So for real business advantage when using machine learning to develop your own application. The usage of a default SaaS ML solution will not give you the competitive advantage you are searching for. So your business is special, your data is unique and your machine learning driven application should give you a head start. In the section ‘ Machine learning reference architecture’  an in depth outline is given on the various system building blocks that are needed for applying machine learning in a successful way.
+The usage of a default Cloud (SaaS or ML-SaaS) machine learning solution will not give you the competitive advantage you are searching for. So if your business is special, your data is unique and than your machine learning driven application should give you a head start and competitive advantage. In the section ‘ Machine learning reference architecture’  an in depth outline is given on the various system building blocks that are needed for applying machine learning in a successful way. Make use of the machine learning reference architecture outlined in this publication to create your own ML enabled solution faster.
 
 In order to solve business problems using machine learning technology  you need to have an organisation structure that powers innovation and experimenting. Experimenting with machine learning should be simple and can be done in a short time. But this requires a business culture with an innovation approach where learning and playing with new technology is possible without without predefined rules.
 
