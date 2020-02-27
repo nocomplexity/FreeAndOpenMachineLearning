@@ -95,10 +95,10 @@ Important constraints for a machine learning reference architecture are the aspe
 
 
 
-Machine learning architecture metamodel 
-----------------------------------------
+ML Reference Architecture  
+---------------------------
 
-The machine learning reference model represents all architecture building blocks that can be present in a machine learning solution. Information architecture (IT) and especially machine learning is a complex area so the goal of the metamodel below is to represent a simplified but usuable overview of aspects regarding machine learning. Using this model will give you a head start when developing your specific machine learning solution.
+The machine learning reference model represents all architecture building blocks that can be present in a machine learning solution. Information architecture (IT) and especially machine learning is a complex area so the goal of the metamodel below is to represent a simplified but usable overview of aspects regarding machine learning. Using this model will give you a head start when developing your specific machine learning solution.
 
 
 .. image:: /images/ml-reference-architecture.png

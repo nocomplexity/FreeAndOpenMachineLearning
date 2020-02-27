@@ -13,10 +13,6 @@ Most learning resource include hands-on tutorials. So be ready to use a notebook
 
 |
 
-- Advanced NLP with spaCY, https://course.spacy.io/
-
-|
-
 - AutoML: Methods, Systems, Challenges, https://www.ml4aad.org/wp-content/uploads/2019/05/AutoML_Book.pdf
 
 |
@@ -59,9 +55,6 @@ Most learning resource include hands-on tutorials. So be ready to use a notebook
 
 |
 
-- NLP concepts with spaCy ,Allison Parrish (http://www.decontextualize.com/ ),  https://gist.github.com/nocomplexity/b7c4c0aa5a0b53f4f5ff1c4784084be6 
-
-|
 
 
 - Practical Deep Learning for Coders v3, https://course.fast.ai/index.html

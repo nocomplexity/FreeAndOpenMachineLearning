@@ -33,6 +33,7 @@ Machine learning is an appropriate tool to use for problems whose only commonali
 
 A good question to ask is: Can this problem be solved by looking at statistical outcomes? If the answer is yes, use traditional statistical software and avoid machine learning directly. Avoid complexity at all cost before trying to find if using machine learning is a viable option.
 
+In general: All areas where there is a lot of data *and* too much data for manual inspection are a candidate for applying machine learning.
 
 So summarized for most business problems using machine learning should be avoided. Like blockchain or other industry IT buzzwords: Avoid the trap of using a solution and finding a problem to use it on! A particularly bad use case for machine learning is when the problem can be described using clear and precise mathematical equations. Only when a problem can not be described using clear and existing mathematical equations and an outcome can be predicted using large numbers of input data, than the use of machine learning should be considered.
 
@@ -282,7 +283,10 @@ Some basic common ethical questions for every machine learning architecture are:
 
 A lot of ethical questions come back to crucial privacy and other risks questions like safety and security. We live in a digital world were our digital traces are everywhere. Most of the time we are fully unaware. In most western countries mass digital surveillance cameras generates great data to be used for machine learning algorithms. This can be noble by detecting diseases based on cameras, but all nasty use cases thinkable are of course also under development. Continuous track and trace of civilians including face recognition is not that uncommon any more! 
 
-The question regarding who is responsible for negative effects when you use machine learning technology is simple to answer. You are! If you do not understand the technology, the impact for your business and on society you should not use it. 
+The question regarding who is accountable for negative effects when you use machine learning technology is simple to answer. You are! 
+Accountability is about holding individuals and organisations responsible for how any ML enabled application is being used. But this is not trivial: The outcome of a machine learning application system will not simply be the product of the software itself, or any single decision-maker. This is because the success or failure of a ML enabled system may be the product of one or several components. In most cases, a system failure will be the result of multiple factors, and responsibility will not be easily apportioned. 
+So: If you do not understand the technology, the impact for your business and on society you should not use it. 
+
 
 Regulations for applying machine learning are not yet developed. Although some serious thinking is already be done in the field regarding:
 
