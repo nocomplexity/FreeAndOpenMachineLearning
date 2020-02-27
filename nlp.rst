@@ -8,6 +8,12 @@ A real tangible and still the most applied use case for machine learning is natu
 
 Everything that has to do with text processing and involves machine learning can be categorized as Natural Language Processing (NLP).
 
+.. image:: /images/what-is-nlp.png  
+   :alt: What is NLP 
+   :align: center 
+
+NLP is concerned with programming computers to process natural language. NLP is at the intersection of computer science, machine learning and linguistics.
+
 
 NLP technology is important for scientific, economic, social, and cultural reasons. Computers that can communicate with humans as humans do are a holy grail. Including understanding context and emotions. Due to infinite number of cultures solving this problem has proven to be hard. Communication is not only verbal. Nonverbal is the significant part of communication. Nonverbal communication is the nonlinguistic transmission of information through visual, auditory, tactile, and kinesthetic (physical) channels. 
 
@@ -45,10 +51,16 @@ NLP papers and NLP software comes with a typical terminology:
 * Part of speech detection: Identifying text as a verb, noun, participle, verb phrase, and so on.
 * Sentence boundary detection: Detecting complete sentences within paragraphs of text.
 
+To create NLP enabled applications you need to set up a 'pipeline' for the various software building blocks. For each step in a NLP development pipeline another FOSS building block can be needed. The figure below shows a typical NLP pipeline. 
+
+.. image:: /images/nlp-pipeline.png  
+   :alt: Typical NLP Architecture 
+   :align: center 
+
+
 In the figure below a typical NLP architecture for providing input on common user questions. A lot of  Bot systems (Build–operate–transfer) or FAQ answering systems are created with no machine learning algorithms at all. Often simple key word extraction is done and a simple match in a database is performed. More state-of-the-art NLP systems make intensive use of machine learning algorithms. The general rule is: If a application should be user friendly and value added than learning algorithms are needed, since it is no longer possible to program output based on given input.
 
-.. image:: /images/nlp-architecture.png
-   :width: 600px
+.. image:: /images/nlp-architecture.png   
    :alt: Typical NLP Architecture 
    :align: center 
 
