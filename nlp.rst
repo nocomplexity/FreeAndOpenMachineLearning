@@ -24,7 +24,7 @@ Basic NLP functions
 
 NLP is able to do all kinds of basic text functions. A short overview:
 
-* Text Classification
+* Text Classification (e.g. document categorization).
 * Finding words with the same meaning for search.
 * Understanding how much time does it take to read a text.
 * Understanding how difficult it is to read is a text.
@@ -36,6 +36,34 @@ NLP is able to do all kinds of basic text functions. A short overview:
 * Text Generation.
 
 Machine learning capabilities have proven to be very useful for improving typical NLP based use cases. This is due to the fact that text in digital format is widely available and machine learning algorithms typically perform good on large amounts of data.
+
+NLP papers and NLP software comes with a typical terminology:
+
+* Tokenizer: Splitting the text into words or phrases.
+* Stemming and lemmatization. Normalizing words so that different forms map to the canonical word with the same meaning. For example, "running" and "ran" map to "run."
+* Entity extraction: Identifying subjects in the text.
+* Part of speech detection: Identifying text as a verb, noun, participle, verb phrase, and so on.
+* Sentence boundary detection: Detecting complete sentences within paragraphs of text.
+
+In the figure below a typical NLP architecture for providing input on common user questions. A lot of  Bot systems (Build–operate–transfer) or FAQ answering systems are created with no machine learning algorithms at all. Often simple key word extraction is done and a simple match in a database is performed. More state-of-the-art NLP systems make intensive use of machine learning algorithms. The general rule is: If a application should be user friendly and value added than learning algorithms are needed, since it is no longer possible to program output based on given input.
+
+.. image:: /images/nlp-architecture.png
+   :width: 600px
+   :alt: Typical NLP Architecture 
+   :align: center 
+
+
+NLP Business challenges
+--------------------------
+
+When using NLP technology to extract information and insight from text, the starting point is typically the raw documents stored on websites, unstructured documents and structured documents.
+Also the fact that documents are stored in a variety of formats, like PDF, MSword, TIFFs make that the time needed before text can be send towards an algorithm long and often manual intensive.
+Even the most advanced web scraping techniques (software to store raw text of websites) is manual intensive. Unstructured text must be structured first before using these text for a NLP driven application is possible.
+
+Privacy is a large concern when dealing with documents. To comply with the GDPR (in EU) using text with personal information of e.g. customers for other purposes is often not allowed without explicit permission of the owners of the personal data.
+
+
+
 
 
 
