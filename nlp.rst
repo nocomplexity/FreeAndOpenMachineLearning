@@ -12,7 +12,7 @@ Everything that has to do with text processing and involves machine learning can
    :alt: What is NLP 
    :align: center 
 
-NLP is concerned with programming computers to process natural language. NLP is at the intersection of computer science, machine learning and linguistics.
+NLP is concerned with programming computers to process natural language. NLP is at the intersection of computer science, machine learning and linguistics. The most innovative form of NLP  are applications that use using the latest machine learning technologies to derive meaning from human languages. NLP is something that’s been part of our lives for decades. In fact, consumers from across the globe interact with NLP on a daily basis, without even realizing it. But with more FOSS machine learning building blocks available even with the latest machine learning algorithm, also NLP innovation is growing rapidly. 
 
 
 NLP technology is important for scientific, economic, social, and cultural reasons. Computers that can communicate with humans as humans do are a holy grail. Including understanding context and emotions. Due to infinite number of cultures solving this problem has proven to be hard. Communication is not only verbal. Nonverbal is the significant part of communication. Nonverbal communication is the nonlinguistic transmission of information through visual, auditory, tactile, and kinesthetic (physical) channels. 
@@ -76,6 +76,9 @@ Privacy is a large concern when dealing with documents. To comply with the GDPR 
 
 
 
+.. sub chapter with real NLP business examples
+
+.. include:: nlp-examples.rst
 
 
 
