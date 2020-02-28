@@ -68,6 +68,13 @@ Most learning resource include hands-on tutorials. So be ready to use a notebook
 - Rules of Machine Learning: Best Practices for ML Engineering, cc-by licensed ML course developed by Google,  https://developers.google.com/machine-learning/guides/rules-of-ml
 |
 
+- Scikit-learn User Guide, https://scikit-learn.org/stable/user_guide.html
+
+|
+
+- scikit-learn Tutorials, https://scikit-learn.org/stable/tutorial/index.html
+
+|
 - Spinning Up in Deep RL, become a skilled practitioner in deep reinforcement learning, https://spinningup.openai.com/en/latest/index.html
 
 |
