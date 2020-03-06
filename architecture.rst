@@ -98,6 +98,8 @@ Important constraints for a machine learning reference architecture are the aspe
 ML Reference Architecture  
 ---------------------------
 
+A full stack approach is needed to apply machine learning. A full stack approach means that in order to apply machine learning successfully you must be able to master or at least have a good overview of the complete technical stack. This means for machine learning vertical and horizontal. With vertical we mean from hardware towards machine learning enabled applications. With horizontal we mean that the complete tool chain for all process steps must be taken into account.
+
 The machine learning reference model represents all architecture building blocks that can be present in a machine learning solution. Information architecture (IT) and especially machine learning is a complex area so the goal of the metamodel below is to represent a simplified but usable overview of aspects regarding machine learning. Using this model will give you a head start when developing your specific machine learning solution.
 
 
@@ -189,25 +191,25 @@ But do not fall in love with a tool too soon. You should be confronted with the 
 ML Frameworks
 ^^^^^^^^^^^^^^^^^^^^^^
 
-Machine Learning frameworks offer software building blocks for designing, training and validating your machine learning model. Most of the time you will only be confronted with your ML framework using a high level programming interface. All major FOSS ML frameworks offer APIs for all major programming languages. 
-Almost all ‘black magic’  needed for creating machine learning application is hidden in a various software libraries that make a ML framework.
+Machine Learning frameworks offer software building blocks for designing, training and validating your machine learning model. Most of the time you will only be confronted with your machine learning framework using a high level programming interface. All major FOSS machine learning frameworks offer APIs for all major programming languages. 
+Almost all ‘black magic’  needed for creating machine learning application is hidden in a various software libraries that make a machine learning framework.
 
 
-In another section of this book a full overview of all major ML frameworks will be presented. But for creating your architecture within your specific context choosing a ML framework that suits your specific use case is a severe difficult task. Of course you can skip this task and go for e.g. Tensorflow in the hope that your specific requirements are offered by simple high level APIs. 
+In another section of this book a full overview of all major machine learning frameworks will be presented. But for creating your architecture within your specific context choosing a machine learning framework that suits your specific use case is a severe difficult task. Of course you can skip this task and go for e.g. Tensorflow in the hope that your specific requirements are offered by simple high level APIs. 
 
-Some factors that must be considered when choosing a ML framework are:
+Some factors that must be considered when choosing a machine learning framework are:
 
 * Stability. How mature, stable is the framework?
 * Performance. If performance really matters a lot for your application (training or production) doing some benchmark testing and analysis is always recommended.
 * Features. Besides the learning methods that are supported what other features are included? Often more features, or support for more learning methods is not better. Sometimes simple is enough since you will not change your machine learning method and model continuously.
-* Flexibility. How easy is it to switch to another ML framework, learning method or API?
-* Transparency. Machine learning development is a very difficult tasks that involves a lot of knowledge of engineers and programmers. Not many companies have the capabilities to create a ML framework. But in case you use a ML framework: How do you known the quality? Is it transparent how it works, who has created it, how it is maintained and what your business dependencies will be! 
-* License. Of course we do not consider propriety ML frameworks. But do keep in mind that the license for a ML framework matters. And make sure that no hooks or dual-licensing tricks are played with what you think is an open ML Framework. 
+* Flexibility. How easy is it to switch to another machine learning framework, learning method or API?
+* Transparency. Machine learning development is a very difficult tasks that involves a lot of knowledge of engineers and programmers. Not many companies have the capabilities to create a machine learning framework. But in case you use a machine learning framework: How do you known the quality? Is it transparent how it works, who has created it, how it is maintained and what your business dependencies will be! 
+* License. Of course we do not consider propriety machine learning frameworks. But do keep in mind that the license for a machine learning framework matters. And make sure that no hooks or dual-licensing tricks are played with what you think is an open machine learning Framework. 
 * Speeding up time consuming and recurrent development tasks. 
 
-Debugging a machine learning application is no fun and very difficult. Most of the time you spend time with model changes and retraining. But knowing why your model is not working as well as expected is a crucial task that should be supported by your ML framework.
+Debugging a machine learning application is no fun and very difficult. Most of the time you spend time with model changes and retraining. But knowing why your model is not working as well as expected is a crucial task that should be supported by your machine learning framework.
 
-There are too many open source machine learning frameworks available which enable you to create machine learning applications. Almost all major OSS frameworks offer engineers the option to build, implement and maintain machine learning systems. But real comparison is a very complex task. And the only way to do some comparison is when ML frameworks are open source. And since security, safety and privacy should matter for every use case there is no viable alternative than using an mature OSS ML framework.
+There are too many open source machine learning frameworks available which enable you to create machine learning applications. Almost all major OSS frameworks offer engineers the option to build, implement and maintain machine learning systems. But real comparison is a very complex task. And the only way to do some comparison is when machine learning frameworks are open source. And since security, safety and privacy should matter for every use case there is no viable alternative than using an mature OSS machine learning framework.
 
 Programming Tools
 ^^^^^^^^^^^^^^^^^^^
@@ -219,7 +221,7 @@ The top languages for applying machine learning are:
 * Java and
 * R
 
-The choice of the programming language you choice depends on the ML framework, the development tools you want to use and the hosting capabilities you have.
+The choice of the programming language you choice depends on the machine learning framework, the development tools you want to use and the hosting capabilities you have.
 For fast iterative experimentation a language as Python is well suited. And besides speeds for running your application in production also speed for development should be taken into concern. 
 
 **There is no such thing as a ‘best language for machine learning’.**

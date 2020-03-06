@@ -45,6 +45,12 @@ A focus on open source (FOSS) software for applying machine learning for real is
 
 - No vendor lock ins. Of course the machine learning cloud offerings of the major tech companies are great (Azure ML, IBM Watson, Amazon, Google etc). But playing around without any strings attached and limitations set for you gives you a head start.
 
+- Software is less dependent on a single company or software developer. Healthy FOSS projects have a large ecosystem of companies and independent contributors that maintain the code and preserve the quality.
+
+- Software is often more compatible with a wide range of other open systems. Most FOSS projects build upon open platforms. Also good ML frameworks want to be used and improved. So open and easy integration with other systems and tools is often built-in.
+
+- Open code is better science. The field of machine learning is still improving. Many researchers work on algorithms and improvements. Open code enables open science. Community input and feedback increases the quality. Also openness means that when papers of researchers are published everyone can inspect, use and improve the code that was developed. This openness enforces quality.
+
 FOSS machine learning is very popular. See e.g. the diagram below. You should have very strong arguments, also from a business perspective. This because investments for real world application always have business risk. Choosing a commercial black box solution often increases business risks and mitigation of risks is harder. E.g. security and privacy risk mitigation is hard with blackbox solutions.
 
 .. image:: /images/popularity-oss-ml.png

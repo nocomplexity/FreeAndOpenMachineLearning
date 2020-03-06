@@ -64,9 +64,25 @@ Table of Contents
    architecture
    risks   
    nlp
+   ml-challenges
+
+.. toctree::
+   :maxdepth: 4   
+   :caption: Open ML Software
+
    catalogue
+   
+.. toctree::
+   :maxdepth: 4   
+   :caption: Open References
+
    MLlearningresources
    NLPlearningresources
+   
+.. toctree::
+   :maxdepth: 4   
+   :caption: About
+
    help
    about
    license
