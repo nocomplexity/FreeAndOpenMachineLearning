@@ -55,13 +55,7 @@ This book is created to give you a head start to use and creating your open mach
 Table of Contents
 ==================
 
-.. toctree::   
-   :maxdepth: 4   
-   :caption: Overview
-
-
 .. toctree::
-   :hidden:
    :maxdepth: 4   
    :caption: Overview
 
