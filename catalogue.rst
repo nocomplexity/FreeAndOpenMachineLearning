@@ -41,7 +41,7 @@ A special-purpose framework may be better at one aspect than a general-purpose. 
 * different tuning tricks
 
 
-.. include:: oss-ml-frameworks.rst
+.. include:: ml-frameworks.rst
 
 Computer vision
 ==================
@@ -68,7 +68,7 @@ Machine learning needs an infrastructure stack and various components to run. Fo
 
 
 
-Open NLP Software
+NLP Frameworks
 ======================
 
 Natural language processing (NLP) is a field located at the intersection of data science and machine learning (ML). It is focussed on teaching machines how to understand human languages and extract meaning from text. Using good open FOSS NLP software saves you time and has major benefits above using closed solutions. 
@@ -76,6 +76,6 @@ Natural language processing (NLP) is a field located at the intersection of data
 NLP tools make is simple to handle NLP-related tasks such as document classification, topic modeling, part-of-speech (POS) tagging, word vectors, and sentiment analysis.
 
 
-.. include:: nlp-oss-list.rst
+.. include:: nlp-frameworks.rst
 
 
