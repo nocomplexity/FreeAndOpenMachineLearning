@@ -70,6 +70,9 @@ Language translation as speech recognition is a typical NLP application. Natural
 
 Other areas for language translation are speech recognition. Some great real time machine learning driven application already exist.   
 
+When building speech recognition machine learning applications you will find out that data needed for speech recognition is not quite open. To create voice systems you need an extremely large amount of voice data. Most of the data used by large companies isn’t available to the majority of people. E.g. Amazon , Microsoft and Google offer great APIs but you interact with a black-box model. Also speech recognition needs openness and freedom.  Mozilla launched Common Voice project in 2017. A project to make voice recognition data and APIs open and accessible to everyone. Contributing to this great project is simple: Go to https://voice.mozilla.org/ and speak some sentences and validate some. All you need is a browser and a few minutes to contribute so everyone can make use of this technology in the future. 
+
+
 Chat bots
 ^^^^^^^^^^
 
