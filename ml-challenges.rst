@@ -96,3 +96,24 @@ Some answers that a good standardized metadata description on data should provid
 * Are there privacy or security concerns related to the content of the data?
 
 
+Debugging
+----------
+
+Machine learning is a fundamentally hard debugging problem. Debugging for machine learning is needed when:
+
+- your algorithm doesn't work or 
+- your algorithm doesn't work well enough.
+
+What is unique about machine learning is that it is ‘exponentially’ harder to figure out what is wrong when things don’t work as expected. Compounding this debugging difficulty, there is often a delay in debugging cycles between implementing a fix or upgrade and seeing the result. Very rarely does an algorithm work the first time and so this ends up being where the majority of time is spent in building algorithms.
+
+
+
+Continuous improvements
+------------------------------
+
+Machine learning models will degrade in accuracy in production. This since new input data is used that will be different from used training data. Input data will change over time.This problem of the changes in the data and relationships within data sets is called concept drift. 
+
+Machine learning models are not a typical category of software. In fact a machine learning model should not be regarded as software at all. This means that maintenance should be organized and handled in a different way. There is never a final version of a machine learning model. So when using machine learning you need engineers that continuously updated and improved the model. 
+
+So setting up end user feedback, accuracy measurements, monitoring data trends are important factors for organizations when using machine learning. But the traditional IT maintenance task as monitoring servers, network and infrastructure, security threats and application health are also still needed.
+

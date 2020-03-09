@@ -72,13 +72,39 @@ Open data
 
 For Free and Open machine learning we do not only need FOSS software, but also open data sets. Data is one of the most important aspects for making machine learning work. Without data and open transparent insights in the various quality aspects of the data machine learning is not open.
 
-Trust in the outcome of applications powered by machine learning technology is only possible when the input data is fully available.
+Without data machine learning is not possible. FOSS Machine learning systems need open Data to function. To function properly the following is needed for FOSS machine learning:
+
+- Open data. Open data is data that can be freely used, re-used and redistributed by anyone. 
+
+- Lots of data. Training machine learning models requires large amounts of data.
+
+- Data variety. For good training sets variety in data used is crucial. Else the bias problem will turn up directly.
+
+- Data veracity. This means the truthfulness of data.
+
+- Trust in the outcome of applications powered by machine learning technology is only possible when the input data is fully available.
 
 Open and reusable quality datasets are crucial for creating machine learning driven applications. 
 
 Creating a data set to test and develop machine learning algorithms is hard and time consuming. Many current machine learning algorithms are developed and proven by using open data sets. In https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research a short overview can be found of various data sets used for scientific machine learning research.
 
 Free and open machine learning means that everyone should be able to access and use data that is used to train machine learning applications. So Google, Facebook and many other companies who donate a lot of machine learning knowledge and frameworks in the open source domain rarely release datasets that are used for their fantastic commercial machine learning offerings. Not knowing details about datasets, especially for live saving systems that are powered using machine learning technology, means verification of claims is impossible. There are can also be large privacy risks involved, since training machine learning algorithms requires large datasets. Seldom do people give permission for using their valuable data for developing applications that are not beneficial for them. E.g. why should a government use your data in order to develop an application that is not in your interest. 
+
+Data collection and data preparation is a major bottleneck in open machine learning. As machine learning becomes more widely used, it is important to acquire large amounts of open data and label data. Especially  for  state-of-the-art  neural  networks.
+
+In the ideal FOSS machine learning world all non-personal information is open and free for everyone to use, build on and share. So every organisation, small or big, can create new machine learning applications. 
+
+
+Preparing data to be used for training machine learning models is still very time consuming and cost intensive. So most machine learning applications created make use of already trained models. E.g. for speech or image recognition. But for most unique use cases training your own machine learning model is crucial. 
+
+Machine learning involves data, so you and your your business should act based on leading data ethics principles. Some obvious data ethics principles are:
+
+- Foresighted responsibility. So think ahead or imagining or anticipate what might happen in the future.
+- Use open data.
+- Be transparent.
+- Respect data privacy regulations and laws (e.g. EU GDPR)
+
+
 
 Open Science
 -------------
