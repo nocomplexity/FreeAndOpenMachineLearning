@@ -9,11 +9,41 @@ Machine learning challenges many current security measurements. This because mac
 * Machine learning software enables the easy creation of new threats and vulnerabilities on existing systems. E.g. you can take the CVE security vulnerability database (https://www.cvedetails.com/) and train a machine learning model how to create attack on the published omissions. 
 * When machine learning software will be in hospitals, traffic control systems, chemical fabrics and IoT devices machine learning gives easier options to create a complete new attack surface as with traditional software. 
 
-Security aspects for machine learning accounts for the application where machine learning is used, but also for the developed algorithms self. So machine learning security is divided into two main categories:
+Security aspects for machine learning accounts for the application where machine learning is used, but also for the developed algorithms self. So machine learning security aspects are divided into the following categories:
 
-1. Machine learning attacks aimed to fool the developed machine learning systems. Since machine learning is often a ‘black-box’ these attacks are very hard to determine.
-#. Machine learning offers new opportunities to break existing traditional software systems.
-#. Usage threats. The outcome of many machine learning systems is far from correct. If you base decisions or trust on machine learning application you can make serious mistakes. This accounts e.g. for self driving vehicles, health care systems and surveillance systems. Machine learning systems are known for producing racially biased results often caused by using biased data sets. Think about problematic forms of "profiling" based on surveillance cameras with face detection. 
+* Machine learning attacks aimed to fool the developed machine learning systems. Since machine learning is often a ‘black-box’ these attacks are very hard to determine.
+
+* System attacks special for machine learning systems. Machine learning offers new opportunities to break existing traditional software systems.
+
+* Machine learning usage threats. The outcome of many machine learning systems is far from correct. If you base decisions or trust on machine learning application you can make serious mistakes. This accounts e.g. for self driving vehicles, health care systems and surveillance systems. Machine learning systems are known for producing racially biased results often caused by using biased data sets. Think about problematic forms of "profiling" based on surveillance cameras with face detection. 
+
+* Machine learning hosting and infrastructure security aspects. This category is not special for machine learning but is relevant for all IT systems. Protecting 'normal' software solutions was already a known challenge. But inspecting and protecting machine learning systems require besides already deep knowledge of cyber security also knowledge of nature of machine learning systems. And remember: Machine learning systems are not traditional software systems. A machine learning systems is a complete other paradigm that requires new knowledge of building a thread model to take measurements to reduce security risks. 
+
+So key threads for machine learning system can be seen as:
+
+- Attacks which compromise confidentiality
+- Attacks which which compromise integrity by manipulation of input.
+- 'Traditional' attacks that have impact on availability.
+
+Attack vectors for machine learning systems can be categorized in:
+
+* Input manipulation
+
+* Data manipulation
+
+* Model manipulation
+
+* Input extraction
+
+* Data extraction
+
+* Model extraction
+
+* Environmental attacks (so the IT system used for hosting the machine learning algorithms and data)
+
+
+Taxonomy and terminology of machine learning is not yet fully standardized. The US NIST publication 8269 (The National Institute of Standards and Technology) a taxonomy and terminology of Adversarial Machine Learning is proposed. Adversarial Machine Learning (AML)introduces additional security challenges in training and testing (inference) phases of system operations. AML is concerned with the design of ML algorithms that can resist security challenges, the study of the capabilities of attackers, and the understanding of attack consequences. 
+
 
 
 

@@ -22,3 +22,5 @@ When you apply machine learning for your business application you should conside
 * Do you really have a clear and good overview of all GDPR implications when using personal data in your machine learning model? What happens if you invite other companies to use your model? 
 * What are the ethical concerns when using massive amounts of data of your customers to develop new products? Is the way you use the data to train your model congruent with you business vision and moral?
 * What are the privacy risks involved for your machine learning development chain and application?
+
+Since security and privacy is complex to apply, frameworks are being developed to make this challenge easier. E.g. Tensorflow Encrypted aims to make privacy-preserving deep learning simple and approachable, without requiring expertise in cryptography, distributed systems, or high-performance computing. And PySyft is a Python library for secure, private Deep Learning. More on both frameworks can be found in the section on open ML software. 

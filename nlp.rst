@@ -60,10 +60,10 @@ To create NLP enabled applications you need to set up a 'pipeline' for the vario
 
 In the figure below a typical NLP architecture for providing input on common user questions. A lot of  Bot systems (Build–operate–transfer) or FAQ answering systems are created with no machine learning algorithms at all. Often simple key word extraction is done and a simple match in a database is performed. More state-of-the-art NLP systems make intensive use of machine learning algorithms. The general rule is: If a application should be user friendly and value added than learning algorithms are needed, since it is no longer possible to program output based on given input.
 
+
 .. image:: /images/nlp-architecture.png   
    :alt: Typical NLP Architecture 
    :align: center 
-
 
 NLP Business challenges
 --------------------------

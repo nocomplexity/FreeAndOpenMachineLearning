@@ -2,6 +2,15 @@ ML implementation challenges
 ==============================
 
 
+Machine learning is a technology that currently comes with some special challenges.
+This section outlines the most important challenges you will hit when you have decided to use machine learning for real.
+
+.. image:: /images/ml-challenges.png
+   :alt: ML Implementation challenges
+   :align: center 
+
+
+
 Performance
 ---------------
 
@@ -16,7 +25,8 @@ GPUs are better for speeding up calculations that are needed for distributed mac
 
 New CPUs are being developed especially for machine learning algorithms. E.g. Google is developing Tensor Processing Units (TPU’s) to speed up the machine learning calculations. Of course this TPU’s are optimized for Google’s tensorflow software. But since this software is OSS everyone can take advantages if needed, since Google will offer TPU’s in their Cloud offerings. Of course Microsoft and other big Cloud providers are also developing their specialized machine learning processing units.
 
-Performance is hard. Despite the fact that Python is a good choice for machine learning, processing large JSON lists can be slow. So optimization can be needed to speed up pre-processing during the data preparation phase.
+Performance for training machine learning solutions is not always simple to solve. This is due to the fact that in essence training machine learning models means doing mass matrix calculations. Despite the fact that Python is a good choice for machine learning, processing large calculations can be slow. So optimization can be needed to speed up pre-processing during the data preparation phase. The good news is that since Python is becoming the de-facto standard for machine learning almost all problems are known and often already solved.
+
 
 Testing machine learning models
 ---------------------------------
@@ -116,4 +126,85 @@ Machine learning models will degrade in accuracy in production. This since new i
 Machine learning models are not a typical category of software. In fact a machine learning model should not be regarded as software at all. This means that maintenance should be organized and handled in a different way. There is never a final version of a machine learning model. So when using machine learning you need engineers that continuously updated and improved the model. 
 
 So setting up end user feedback, accuracy measurements, monitoring data trends are important factors for organizations when using machine learning. But the traditional IT maintenance task as monitoring servers, network and infrastructure, security threats and application health are also still needed.
+
+Maturity of ML technology
+--------------------------
+
+Machine Learning is moving from the realm of universities and hard core data science into a technology that can be integrated for mainstream application for every business. However machine learning technology is not yet idiot proof. Many algorithms are not used for real world applications on large scale. Also many machine learning building blocks are still in heavy development. Of course in near future machine learning applications will never be idiot proof, since this is the nature of current machine learning technologies. But acceptable margins for normal errors and disasters are not yet solid predictable at the start of a project. 
+
+
+But thanks to the development of many quality OSS machine learning building blocks and platforms doing a Proof of Concept becomes within reach for every business. 
+
+FOSS Machine learning still needs a lot of boring work that is invisible but crucial for overal quality. The boring work is avoided at most universities and most companies choice the easy path towards commercial offerings. But for high value FOSS machine learning applications everyone who shares the principles for FOSS ML can and should contribute to the foundation work needed for machine learning.
+
+.. image:: /images/business-quadrants.png 
+   :alt: Types of work for Machine Learning 
+   :align: center 
+
+
+
+Data and bias
+----------------
+
+Machine learning is only as good as the data used for training. So too often machine learning applications are biased based. This is is a consequence of the used input.
+
+In general almost all development time is spend on data related tasks. E.g. prepare data to be used as training data and manual classification.
+
+Data is selecting is expensive and complex since often privacy aspects are involved.
+
+"Garbage-in, garbage-out" is too often true for machine learning applications. The "black box" algorithms of machine learning prevents understanding why a certain output is seen. Often input data was not appropriate, but determining the root cause of the problem data is a challenge.
+
+Bias is a problem that relates to output seen and has a root cause in the used input data set. Biased data sets are not representative, have skewed distribution, or contain other quality issues. Biased training data input results in biased output that makes machine learning application useless. 
+
+Dealing with unwanted bias in data is a challenging pitfall to avoid when using recommendations of algorithms. Bias challenges are playing out in health care, in hiring, credit scoring, insurance, and criminal justice.
+
+When evaluating outcomes of machine learning applications there are many ways you can be fooled. Common data quality aspects to be aware of are:
+
+* Cherry picking: Only results that fit the claim are included. 
+* Survivorship bias: Drawing conclusions from an incomplete set of data, because that data has survived the selection criteria.
+* False causality: Falsely assuming when two events appear related that one must have caused the other. 
+* Sampling bias: drawing conclusions from a set of data that isn’t representative of the population you are trying to understand.
+* Hawthorne effect: The act of monitoring someone will affect their behaviour, leading to spurious findings. Also known as the observer effect.
+* MCNamara fallacy: Relying solely on metrics in complex situations and losing sight of the bigger picture.
+
+
+
+
+Machine learning can be easily susceptible to attacks and notoriously difficult to control. Some people are collecting public information regarding machine learning disasters and unethical applications in practice. A few examples:
+
+* AI-based Gaydar - Artificial intelligence can accurately guess whether people are gay or straight based on photos of their faces, according to new research that suggests machines can have significantly better “gaydar” than humans. 
+
+* Infer Genetic Disease From Your Face - DeepGestalt can accurately identify some rare genetic disorders using a photograph of a patient's face. This could lead to payers and employers potentially analyzing facial images and discriminating against individuals who have pre-existing conditions or developing medical complications. [Nature Paper]
+
+* Racist Chat Bots - Microsoft chatbot called Tay spent a day learning from Twitter and began spouting antisemitic messages.
+
+* Social Media Propaganda - The Military is studying and using data-driven social media propaganda to manipulate news feeds in order to change the perceptions of military actions. 
+
+* Infer Criminality From Your Face - A program that judges if you’re a criminal from your facial features. 
+
+For the complete list and more examples, see: https://github.com/daviddao/awful-ai
+
+Data quality and problems to get your data quality right before starting should be your  greatest concern when starting with machine learning with a goal to develop a real production application.
+
+
+Quality of Machine Learning frameworks
+----------------------------------------
+
+Only a few people understand the complex mathematical algorithms behind machine learning. History learns that implementing an algorithms into software correctly has proven to be very complex and difficult. When you use FOSS machine learning software you have one large advantage over commercial 'black-box' software: You can inspect the software of ask some agency to provide a quality audit. 
+
+The last years there is a continuous growth of open machine learning tools and frameworks.Determining which toolkits are good enough for your business case is not trivial. 
+
+A simple checklist to start with this challenge:
+
+* A clear description of the used mathematical model and algorithm used must be available.
+
+* All source code, including all dependencies, including external libraries must be available for download and specified.
+
+* A test suite so you can analyse the machine learning framework (time, sample size) of the algorithm should be available.
+
+* A healthy open community should be active around the framework and eco-system. A healthy FOSS community has a written way of working, so it is transparent how governance of the software is arranged. 
+
+* Openness: It should be transparant why people and companies contribute to the FOSS machines learning software. 
+
+
 

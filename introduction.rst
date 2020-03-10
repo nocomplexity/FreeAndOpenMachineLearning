@@ -9,6 +9,11 @@ Artificial Intelligence and Machine Learning are now again in the forefront of g
 
 But despite the hype and money invested in machine learning technology last 5 years, one big questions remains: Can machine learning technology already help us within time to solve hard and complex business problems like climate change, health welfare for all humans and other urgent problems? This publication gives you a reality check. You will learn what is easily possible using new machine learning technologies and tools, what the current potential is and what still remains wishful thinking for the future. 
 
+
+.. image:: /images/hope-and-hype.png
+   :alt: Hope and Hype
+   :align: center 
+
 Innovation needs openness. This is also more than valid for machine learning technologies. Without real openness new developments and innovations in machine learning will be impossible. As a practitioners in your business domain and with your unique expertise you can start making a difference. This publication gives you a starting point for trying to apply machine learning technology on your unique use cases.
 
 
@@ -80,17 +85,35 @@ Organization of this book
 ------------------------------
 
 The topics explored in this book include:
-Chapter ‘tbd ’ outlines why openness and OSS is so important for machine learning.
-Chapter ‘tbd ’ dives into the basic concept and terms that come with machine learning.
 
-.. todo::
-  
-  This part will be created when all key parts for the 2020 version are committed.
+* Why Free and Open Machine Learning. This section outlines why we all should promote openness and freedom regarding this promising technology.
+
+* What is Machine Learning. This is the essential part of this publication. This is the section to read if you are short on time and want a simple outline of complex concepts.
+
+* Machine Learning for business problems. New technologies come with new opportunities for innovations and improvements. This section outlines common use cases that are possible today using machine learning technology.
+
+* Machine learning Reference architecture. Starting with machine learning can be overwhelming. This section gives an overview of the business and technology aspects that you will face when applying machine learning for real business use cases.
+
+* Security, Privacy and Safety. The things you do not see are often the most important aspects. Security, Privacy and safety is already very complex to deal with for normal IT solutions. But for machine learning these non functional aspects must be taken into your design upfront from a system perspective. This section outlines the key aspects for security, privacy and safety you should be aware of when creating machine learning applications.
+
+* Natural language processing (NLP). Hard to solve speech and text processing problems are now far more easily solved using machine learning algorithms. This section outlines still on of the most used applications for machine learning: NLP.
+
+* ML Implementation challenges: Knowing what machine learning can do and how it works gives no grantee that creating an machine learning application will succeed. The failure rate of normal IT project is unfortunately for decades very high. So this sections gives some guidance on avoiding pitfalls when applying machine learning for real.
+
+* (FOSS) System Building Blocks for machine learning. This publication presents an opinionated list of FOSS software building blocks that can be used when creating machine learning applications. Starting with FOSS machine learning building blocks means you start with no strings attached. Switching to Cloud solutions later is always possible, but machine learning needs experimentation and playing. With data and tools.
+
+* Learning Resources. The best learning materials for machine learning and NLP are open. So licensed using a creative commons license. After reading this publication a next step can be to dive into a specific machine learning aspect, framework or technology. This section provides references to open learning resources, including references to hands-on tutorials.
+
+
 
 Errata, updates and support
 ------------------------------
 
-We have made serious efforts to create a first readable version of this book. However if you notice typos, spelling and grammar errors please notify us so we can improve this book. Since the world of machine learning is rapidly evolving some parts of this book will needs updates to present to you the latest machine learning solution building blocks. That’s why there is also an on-line version of this book available that will incorporate the latest updates.
+We have made serious efforts to create a first readable version of this book. However if you notice typos, spelling and grammar errors please notify us so we can improve this book.  You can create a pull request on github or simply send a email to us. 
 
-If like to contribute to make this book better: Please CONTRIBUTE! See [section HELP]
+Since the world of machine learning is rapidly evolving this book be continuously updated. That’s why there is an open on-line version of this book available that will incorporate the latest updates.
+
+.. note::
+   
+  If like to contribute to promote the Free and Open Machine Learning principles and to make this book better: Please CONTRIBUTE! See the HELP section.
 

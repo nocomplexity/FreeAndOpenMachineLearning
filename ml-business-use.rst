@@ -162,6 +162,16 @@ Security
 
 Besides fraud detection machine learning can also applied for IT security detections since intrusion detection systems and virus scanners are more and more shipped with self learning algorithms. Also Complex financial fraud schemes can be easily detected using predictive machine learning models.
 
+Privacy
+^^^^^^^^^
+
+Privacy can be protected using machine learning. E.g. images can be made invisible by using a machine learning enabled application. A scientific proof is demonstrated and the code is named ‘DeepPrivacy’. In the section with a collection of Computer Vision Building Blocks for more information on this SBB.) The technique used is based on Generative Adversarial Network (GAN) for face anonymization. It's far from perfect, but usable for most low quality images.
+
+.. warning::
+
+  Besides protecting privacy machine learning is still too often a privacy nightmare.
+
+
 
 
 Risk and compliance

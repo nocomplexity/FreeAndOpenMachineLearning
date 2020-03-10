@@ -65,6 +65,10 @@ Most learning resource include hands-on tutorials. So be ready to use a notebook
 
 |
 
+- Privacy Preserving Deep Learning with PyTorch & PySyft, Tutorial with Jupyter notebooks based on PySyft library, https://github.com/OpenMined/PySyft/tree/master/examples/tutorials
+
+|
+
 - Rules of Machine Learning: Best Practices for ML Engineering, cc-by licensed ML course developed by Google,  https://developers.google.com/machine-learning/guides/rules-of-ml 
 
 |
