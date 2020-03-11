@@ -259,7 +259,10 @@ If your goal is to use machine learning to reduce cost by automating human workf
 Business ethics
 ---------------------
 
-There are good and bad uses for any technology. This accounts also for machine learning technology. Working with machine learning can, will and must raise severe ethical questions. Machine learning can be used in many bad ways. Saying that you ‘Don't be evil’ , like the mission statement of Google (https://en.wikipedia.org/wiki/Don%27t_be_evil) was for decades, will not save you. Any business that uses machine learning should develop a process in order to handle ethical issues before they arrive. And ethical questions will arise!
+When machine learning algorithms make decisions that affect human lives, what standards of transparency, openness and accountability should apply to those decisions? If the decisions are "wrong", who is legally and ethically responsible?
+
+There are always good and bad uses for any technology. This accounts also for machine learning technology. Working with machine learning can, will and must raise severe ethical questions. Machine learning can be used in many bad ways. Saying that you ‘Don't be evil’ , like the mission statement of Google (https://en.wikipedia.org/wiki/Don%27t_be_evil) was for decades, will not save you. Any business that uses machine learning should develop a process in order to handle ethical issues before they arrive. And ethical questions will arise.
+
 
 A growing number of experts believe that a third revolution will occur during the 21st century, through the invention of machines with intelligence which surpasses our own intelligence. The rapid progress in machine learning technology turns out to be input for all kind of disaster scenarios. When the barriers to apply machine learning will be lowered one of the fears is that knowledge work and various mental tasks currently performed by humans will become obsolete. 
 
@@ -271,13 +274,14 @@ With FOSS machine learning capabilities you should be able to take some control 
 
 Advances within machine learning could lead to extremely positive developments, presenting solutions to now-intractable global problems. But applying machine learning without good architectures where ethical questions are also addressed, using machine learning at large can pose severe risks. Humanity’s superior intelligence is the sole reason that we are the dominant species on our planet. If technology with advanced machine learning algorithms surpass humans in intelligence, then just as the fate of gorillas currently depends on the actions of humans, the fate of humanity may come to depend more on the actions of machines than our own.
 
-To address ethical questions for your machine learning solution architecture you can use the high level framework below.
+To address ethical questions for your machine learning solution architecture you can use the high level framework with ethical requirements below. All requirements are of equal importance, support each other, and should be implemented and evaluated throughout the system’s lifecycle.
 
 
-.. image:: /images/ml-ethics.png
-   :width: 600px
-   :alt: ML Ethics
+.. image:: /images/ml-ethical-requirements.png
+   :alt: ML Ethics requirements
    :align: center 
+
+The framework of ethical requirements is part of the (draft)'Ethics Guidelines for Trustworthy Artificial Intelligence (AI)' from the Expert Group on Artificial Intelligence (AI HLEG)of the European Commission (https://ec.europa.eu/futurium/en/ai-alliance-consultation). 
 
 
 Some basic common ethical questions for every machine learning architecture are:
@@ -306,5 +310,8 @@ Regulations for applying machine learning are not yet developed. Although some s
 * Safety and
 * Liability
 
-Government rules, laws will be formed during the transition the coming decade. Machine learning techniques are perfect to use for autonomous weapons. So drones will in near future decide based on hopefully predefined rules when to launch a missile and when not. But as with all technologies: Failures will happen! And we all hope it will not hit us.
+Many governmental bodies promote adopting a risk-adapted regulatory approach when it comes to ethical issues regarding algorithmic systems (machine learning). History learns that risks based approaches that depend on human discipline, especially in areas where safety issues are clear, are fuel for disasters waiting to happen. It makes more sense to adopt an approach that bans the human factor and risks can be calculated using long proven scientific statistical methods. 
 
+Government rules and laws will be formed during the transition the coming decade. Machine learning techniques are perfect to use for autonomous weapons. So drones will in near future decide based on hopefully predefined rules when to launch a missile and when not. But as with all technologies: Failures will happen! And we all hope it will not hit us.
+
+Using machine learning comes with responsibilities. These responsibilities apply for all institutions that fund, develop, and deploy ML based systems.

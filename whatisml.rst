@@ -55,8 +55,51 @@ These ethical questions should not be neglected. In the section [‘ML in Busine
 Machine Learning is the most used current application of AI based around the idea that we should really just be able to give machines access to data and let them learn for themselves.
 
 
+The paradigm shift: Creating smart software
+---------------------------------------------
+
+To really understand machine learning a new view on how software can be created and works is needed. Most of our current computer programs are coded by using requirements, logic and design principles for creating good software. E.g. When you add an item to your shopping cart, you trigger an application component to store an entry in a shopping cart database table.  However many real world problems aren't so easy to solve. A good solution requires knowledge of the context and a lot of hard to point domain knowledge built from experience. 
+
+Determining the exact context of a car in traffic and in order to make a decision within milliseconds to go left or right is very hard programming challenge. It will take you decades and you will never do it right.  This is why a paradigm shift in creating software for the next phase of automation is needed. 
+
+Programming computers the traditional way made it possible to put a man on the moon. To break new barriers in automation in our daily lives and science requires new ways of thinking about creating intelligent software. Machine learning is a new way to ‘program’ computers. When a programming challenge is too large to solve with traditional programming methods (requirements collection, decision rules collection, etc) a program for a computer should be ‘generated’. Generated based on some known desired output types. But knowing all desired output types in front for a problem solution is often impossible. So your new machine learning ‘program’ will get it wrong sometimes. Large amounts of input data will increase the quality of the generated prediction model. In the old traditional paradigm called ‘the program’. 
+
+
+.. image:: /images/whatisml.png   
+   :alt: ML vs traditional programming
+   :align: center 
+
+Difference between general programming and (supervised) machine learning.
+
+In essence machine learning makes computers learn the same way people learn: Through experience. And just as with humans algorithms exist that makes it possible to make use of learned experience of other computers to make your machine learning application faster and better. 
+
+The essence of machine learning is that a model is constructed based on so called training data. The term ML model refers to the model artefact that is created by the training process. With this machine learning model it is now possible to create meaningful output based on new input. At least when the trained model is functioning as intended. In the figure below another view of the essence of the working of machine learning.
+
+.. image:: /images/essence-of-ml.png   
+   :alt: Machine learning working
+   :align: center 
+
+
+What is a machine learning model
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+A machine learning model consist of numbers. Most of the time a very large amount of numbers. 
+With the danger of getting into math: A machine learning model is a collection of numbers that are presented in a large multi dimensional matrix.
+
+A model in the machine learning world is not different than any other mathematical model that presents some knowledge or (trained)information. It is just a large amount of numbers. So you need the algorithm to use it. 
+
+A model of data (plain numbers) can be used for any number of things. E.g.:
+
+- To simply tell you about the behaviour of your data. For example, the mean is a model. If you imaging picking numbers at random from 1-10, a mean does summarize some useful information about your data. The same with the median and the variance. These are extremely lossy models, but they are models of your data.
+
+- To classify data. Say you’ve trained a classifier that classifies whether a photo contains a cat or not. That classifier concisely summarizes your data as “cat photo” or “non-cat photo.”
+
+- A efficient way to represent data for some other task. For example, you might generate paraphrases of a documents and model this as vector data. You can then use this model to classify the unique author of the text. So if you present a new document to this model using a simple machine learning algorithms the model gives you a number that indicates if this new document is from the same author or not. 
+
+
+
 Statistics is not machine learning
------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Statistics is not machine learning. So let repeat this one more time:Statistics is not machine learning. But the truth is that statistics and machine learning are intertwined and can not be seen separated. So for a good understanding and basic knowledge of ML basic statistics knowledge is important.
 
@@ -87,24 +130,8 @@ For machine learning, four things are needed:
 #. A loss function to measure how good the model is performing.
 #. An algorithm to tweak the model parameters such that the loss function is minimized
 
-The paradigm shift: Creating smart software
----------------------------------------------
+Machine learning algorithms discover patterns in data, and construct mathematical models using these discoveries.
 
-To really understand machine learning a new view on how software can be created and works is needed. Most of our current computer programs are coded by using requirements, logic and design principles for creating good software. E.g. When you add an item to your shopping cart, you trigger an application component to store an entry in a shopping cart database table.  However many real world problems aren't so easy to solve. A good solution requires knowledge of the context and a lot of hard to point domain knowledge built from experience. 
-
-Determining the exact context of a car in traffic and in order to make a decision within milliseconds to go left or right is very hard programming challenge. It will take you decades and you will never do it right.  This is why a paradigm shift in creating software for the next phase of automation is needed. 
-
-Programming computers the traditional way made it possible to put a man on the moon. To break new barriers in automation in our daily lives and science requires new ways of thinking about creating intelligent software. Machine learning is a new way to ‘program’ computers. When a programming challenge is too large to solve with traditional programming methods (requirements collection, decision rules collection, etc) a program for a computer should be ‘generated’. Generated based on some known desired output types. But knowing all desired output types in front for a problem solution is often impossible. So your new machine learning ‘program’ will get it wrong sometimes. Large amounts of input data will increase the quality of the generated prediction model. In the old traditional paradigm called ‘the program’. 
-
-
-.. image:: /images/whatisml.png
-   :width: 600px
-   :alt: ML vs traditional programming
-   :align: center 
-
-Difference between general programming and (supervised) machine learning.
-
-In essence machine learning makes computers learn the same way people learn: Through experience. And just as with humans algorithms exist that makes it possible to make use of learned experience of other computers to make your machine learning application faster and better. 
 
 Overview machine learning methods
 ----------------------------------
@@ -178,6 +205,10 @@ Deep Learning(DL) is an approach to machine learning which drives the current hy
 
 Deep Learning (DL) is a type of machine learning that enables computer systems to improve with experience and data. Deep learning is a subfield of machine learning. 
 
+Deep learning uses layers to progressively extract features from the raw input. For example, in image processing, lower layers may identify edges, while higher layers may identify the concepts relevant to a human such as digits or letters or faces. 
+
+Deep learning models can achieve excellent accuracy, sometimes exceeding human-level performance. Most deep learning methods use neural network architectures, which is why deep learning models are often referred to as deep neural networks.
+
 The figure below positions Deep Learning(DL) in the spectrum of AI and ML.
 
 
@@ -202,23 +233,6 @@ So with the current machine learning we have:
 With AutoML the challenge is to turn this into:
     
     Solution = data + 100X computation
-
-
-What is a machine learning model
-----------------------------------
-
-A machine learning model consist of numbers. Most of the time a very large amount of numbers. 
-With the danger of getting into math: A machine learning model is a collection of numbers that are presented in a large multi dimensional matrix.
-
-A model in the machine learning world is not different than any other mathematical model that presents some knowledge or (trained)information. It is just a large amount of numbers. So you need the algorithm to use it. 
-
-A model of data (plain numbers) can be used for any number of things. E.g.:
-
-- To simply tell you about the behaviour of your data. For example, the mean is a model. If you imaging picking numbers at random from 1-10, a mean does summarize some useful information about your data. The same with the median and the variance. These are extremely lossy models, but they are models of your data.
-
-- To classify data. Say you’ve trained a classifier that classifies whether a photo contains a cat or not. That classifier concisely summarizes your data as “cat photo” or “non-cat photo.”
-
-- A efficient way to represent data for some other task. For example, you might generate paraphrases of a documents and model this as vector data. You can then use this model to classify the unique author of the text. So if you present a new document to this model using a simple machine learning algorithms the model gives you a number that indicates if this new document is from the same author or not. 
 
 
 

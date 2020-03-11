@@ -23,7 +23,7 @@ Interoperability standards to easily switch from ML framework are not mature for
 ML Frameworks
 ===============
 
-Selecting a ML Framework involves making an assessment to decide what is right for your use case. Several factors are important for this assessment for your use case:
+Choosing a machine learning (ML) framework or library to solve your use cases is easier said than done.  Selecting a ML Framework involves making an assessment to decide what is right for your use case. Several factors are important for this assessment for your use case. E.g.:
 
 * Easy of use;
 
@@ -33,12 +33,15 @@ Selecting a ML Framework involves making an assessment to decide what is right f
 
 * Research of business use case. Some ML frameworks are focussed on innovation and research. If your company is not trying to develop a better ML algorithms this may not be the best ML framework for experimenting for business use cases.
 
+* Closed (Commercial) dependencies. Some FOSS frameworks have a dependency with a commercial data collection. E.g. many translation frameworks need an API key of Google or AWS to function. All costs aspects of these dependencies should be taken into account before starting. There is nothing wrong with using commercial software, but transparency on used data sets and models can be crucial for acceptance of your machine learning application.
 
 A special-purpose framework may be better at one aspect than a general-purpose. But the cost of context switching is high: 
 
 * different languages or APIs
 * different data formats
 * different tuning tricks
+
+Your first model for experimenting should be about getting the infrastructure and development tools right. Simple models are usually interpretable. Interpretable models are easier to debug. Complex model erode boundaries beware of the CACE principle (CACE principle: Changing Anything Changes Everything)
 
 
 .. include:: ml-frameworks.rst
