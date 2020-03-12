@@ -19,8 +19,9 @@ In a next version of this publication your input is needed to improve the practi
 - Like to share resources that should be mentioned in this FOSS machine learning publication.
 - Discuss the content so it gets better. We do discussion on-line and off-line (meetups).
 
+.. tip::
 
-Feel free to contact me or create a pull request on github.
+   Feel free to contact me or create a pull request on github.
 
 
 Contributors

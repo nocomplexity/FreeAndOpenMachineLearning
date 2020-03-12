@@ -3,7 +3,9 @@ License
 
 Copyright (c) 2018-2020 BM-Support.org and Maikel Mardjan.
 
-This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. See http://creativecommons.org/licenses/by-sa/4.0/  for the full license text or here below:
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. Third-party product names may be the trademarks of their respective owners. 
+
+ See http://creativecommons.org/licenses/by-sa/4.0/  for the full license text or here below:
 
 You are free to:
 - Share — copy and redistribute the material in any medium or format
