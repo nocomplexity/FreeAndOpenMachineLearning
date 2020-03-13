@@ -58,7 +58,9 @@ Machine Learning is the most used current application of AI based around the ide
 The paradigm shift: Creating smart software
 ---------------------------------------------
 
-To really understand machine learning a new view on how software can be created and works is needed. Most of our current computer programs are coded by using requirements, logic and design principles for creating good software. E.g. When you add an item to your shopping cart, you trigger an application component to store an entry in a shopping cart database table.  However many real world problems aren't so easy to solve. A good solution requires knowledge of the context and a lot of hard to point domain knowledge built from experience. 
+To really understand machine learning a new view on how software can be created and works is needed. Most of our current computer programs are coded by using requirements, logic and design principles for creating good software. E.g. When you add an item to your shopping cart, you trigger an application component to store an entry in a shopping cart database table. So humans create an algorithm to solve a problem. Algorithms are a sequence of computer instructions used to solve a problem. 
+
+ However many real world problems aren't so easy to solve. A good solution requires knowledge of the context and a lot of hard to point domain knowledge built from experience. 
 
 Determining the exact context of a car in traffic and in order to make a decision within milliseconds to go left or right is very hard programming challenge. It will take you decades and you will never do it right.  This is why a paradigm shift in creating software for the next phase of automation is needed. 
 
@@ -73,7 +75,7 @@ Difference between general programming and (supervised) machine learning.
 
 In essence machine learning makes computers learn the same way people learn: Through experience. And just as with humans algorithms exist that makes it possible to make use of learned experience of other computers to make your machine learning application faster and better. 
 
-The essence of machine learning is that a model is constructed based on so called training data. The term ML model refers to the model artefact that is created by the training process. With this machine learning model it is now possible to create meaningful output based on new input. At least when the trained model is functioning as intended. In the figure below another view of the essence of the working of machine learning.
+The essence of machine learning is that a model is constructed based on so called training data. In machine learning, learning algorithms so not computer programmers, create the rules. The term ML model refers to the model artefact that is created by the training process. With this machine learning model it is now possible to create meaningful output based on new input. At least when the trained model is functioning as intended. In the figure below another view of the essence of the working of machine learning.
 
 .. image:: /images/essence-of-ml.png   
    :alt: Machine learning working
@@ -155,10 +157,14 @@ Supervised Learning
 
 Supervised Learning: Most practical solutions use supervised learning. Supervised learning encompasses approaches to satisfy the need to classify things into categories , known as classification. It also includes approaches to address the need to provide variable real-value solutions such as weight or height   known as regression.
 
+With supervised learning the learning algorithm is given labelled data and the desired output. For example, pictures of cats labelled “cat” will help the algorithm identify the rules to classify pictures of cats.
+
 Unsupervised Learning
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-The goal of this type of learning is to model data and uncover trends that are not obvious in its original state. This type of learning is used to learn about data. Unsupervised learning methods are suited for unlabelled data. It is used is to find patterns where the patterns are still unknown. Unsupervised learning seems attractive since it does not require a lot of hard work of data cleaning before starting. However there are also serious challenges when applying unsupervised learning. 
+The goal of this type of learning is to model data and uncover trends that are not obvious in its original state. The input data given to the learning algorithm is unlabelled, and the algorithm is asked to identify patterns in the input data. 
+
+This type of learning is used to learn about data. Unsupervised learning methods are suited for unlabelled data. It is used is to find patterns where the patterns are still unknown. Unsupervised learning seems attractive since it does not require a lot of hard work of data cleaning before starting. However there are also serious challenges when applying unsupervised learning. 
 
 To name a few:
 

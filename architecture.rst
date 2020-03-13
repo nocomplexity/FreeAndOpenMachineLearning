@@ -34,8 +34,7 @@ Applying machine learning for any practical use case requires beside a good know
 The machine learning process
 ------------------------------
 
-Setting up an architecture for machine learning systems and applications requires a good insight in the various processes that play a crucial role. 
-So to develop a good architecture you should have a solid insight in:
+Setting up an architecture for machine learning systems and applications requires a good insight in the various processes that play a crucial role. The basic process of machine learning is feed training data to a learning algorithm. The learning algorithm then generates a new set of rules, based on inferences from the data. So to develop a good architecture you should have a solid insight in:
 
 * The business process in which your machine learning system or application is used.
 * The way humans interact or act (or not) with the machine learning system.

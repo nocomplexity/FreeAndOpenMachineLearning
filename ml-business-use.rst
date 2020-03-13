@@ -314,4 +314,4 @@ Many governmental bodies promote adopting a risk-adapted regulatory approach whe
 
 Government rules and laws will be formed during the transition the coming decade. Machine learning techniques are perfect to use for autonomous weapons. So drones will in near future decide based on hopefully predefined rules when to launch a missile and when not. But as with all technologies: Failures will happen! And we all hope it will not hit us.
 
-Using machine learning comes with responsibilities. These responsibilities apply for all institutions that fund, develop, and deploy ML based systems.
+Using machine learning comes with responsibilities. These responsibilities apply for all institutions that fund, develop, and deploy ML based systems. So adopt ethical and open standards.

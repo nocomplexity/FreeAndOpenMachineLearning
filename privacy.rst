@@ -16,6 +16,8 @@ Machine learning models can be trained in environments that are not secure on da
 
 In the EU the use of personal data is protected by law in all countries by a single law. The EU General Data Protection Regulation (GDPR). This GDPR does not prohibit the use of machine learning. But when you use personal data you will have a severe challenge to explain to DPOs (Data Protection Officers) and consumers what you actually do with the data and how you comply with the GDPR. 
 
+Machine learning systems must be data responsible. They should use only what they need and delete it when it is no longer needed (“data minimization”). They should encrypt data in transit and at rest, and restrict access to authorized persons (“access control”). Machine learning systems should only collect, use, share and store data in accordance with privacy and personal data laws and best practices. Since FOSS machine learning needs full transparency and reproducibility using private data should be avoided if possible.
+
 When you apply machine learning for your business application you should consider the following questions:
 
 * In what way will your customers be happy with their data usage for their and your benefit?
