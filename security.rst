@@ -44,7 +44,20 @@ Attack vectors for machine learning systems can be categorized in:
 
 Taxonomy and terminology of machine learning is not yet fully standardized. The US NIST publication 8269 (The National Institute of Standards and Technology) a taxonomy and terminology of Adversarial Machine Learning is proposed. Adversarial Machine Learning (AML)introduces additional security challenges in training and testing (inference) phases of system operations. AML is concerned with the design of ML algorithms that can resist security challenges, the study of the capabilities of attackers, and the understanding of attack consequences. 
 
+Top Machine Learning Security Risks
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+* Adversarial attacks: The basic idea is to fool a machine learning system by providing malicious input that cause the system to make a false prediction or categorization. 
+
+* Data poisoning: Machine learning system learn directly from data. Intentionally manipulated data can compromise the machine learning application. If you want to make yourself e.g. invisible for face recognition you can create or buy special clothes. 
+
+* Data confidentiality: An unique challenge in machine learning is protecting confidential data. 
+
+* Data trustworthiness: Data integrity is essential.  Are the data suitable and of high enough quality to support machine learning? Are e.g. sensors to capture data reliable? How is data integrity preserved? Understanding machine learning data sources, both during training and during execution, is of critical importance. 
+
+* Overfitting Attacks: Overfitting means the model fits the parameters too closely with regard to the particular observations in the training dataset, but does not generalize well to new data. Most of the time the model is too complex for the given training data. Overfit models are particularly easy to attack.
+
+* Output integrity. If an attacker can interpose between a machine learning system and produced output, a direct attack on output is possible. The inscrutability of machine learning models (so not really understanding how they work) may make an output integrity attack easy and hard to spot. 
 
 
 Some examples of machine learning exploits:

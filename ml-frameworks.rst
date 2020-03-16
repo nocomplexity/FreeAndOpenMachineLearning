@@ -257,6 +257,52 @@ of Theano. Currently it supports and provides:
 **Tag(s)**          ML, ML Framework
 =================== =======================================
 
+Caffe
+-----
+
+Caffe is a deep learning framework made with expression, speed, and
+modularity in mind. It is developed by Berkeley AI Research
+(`BAIR <http://bair.berkeley.edu>`__)/The Berkeley Vision and Learning
+Center (BVLC) and community contributors.
+
+Caffe is an Open framework, models, and worked examples for deep
+learning:
+
+-  4.5 years old
+-  7,000+ citations, 250+ contributors, 24,000+ stars
+-  15,000+ forks, >1 pull request / day average at peak
+
+Focus has been vision, but also handles , reinforcement learning, speech
+and text.
+
+Why Caffe?
+
+-  **Expressive architecture** encourages application and innovation.
+   Models and optimization are defined by configuration without
+   hard-coding. Switch between CPU and GPU by setting a single flag to
+   train on a GPU machine then deploy to commodity clusters or mobile
+   devices.
+-  **Extensible code** fosters active development. In Caffe’s first
+   year, it has been forked by over 1,000 developers and had many
+   significant changes contributed back. Thanks to these contributors
+   the framework tracks the state-of-the-art in both code and models.
+-  **Speed** makes Caffe perfect for research experiments and industry
+   deployment. Caffe can process **over 60M images per day** with a
+   single NVIDIA K40 GPU*. That’s 1 ms/image for inference and 4
+   ms/image for learning and more recent library versions and hardware
+   are faster still. We believe that Caffe is among the fastest convnet
+   implementations available.
+
+| 
+
+=================== ==================================================
+**SBB License**     BSD License 2.0 (3-clause, New or Revised) License
+**Core Technology** CPP
+**Project URL**     http://caffe.berkeleyvision.org/
+**Source Location** https://github.com/BVLC/caffe
+**Tag(s)**          ML, ML Framework
+=================== ==================================================
+
 ConvNetJS
 ---------
 
@@ -561,6 +607,46 @@ Use Keras if you need a deep learning library that:
 **Tag(s)**          ML, ML Framework
 =================== ===================================
 
+learn2learn
+-----------
+
+learn2learn is a PyTorch library for meta-learning implementations.
+
+The goal of meta-learning is to enable agents to *learn how to learn*.
+That is, we would like our agents to become better learners as they
+solve more and more tasks.
+
+Features:
+
+learn2learn provides high- and low-level utilities for meta-learning.
+The high-level utilities allow arbitrary users to take advantage of
+exisiting meta-learning algorithms. The low-level utilities enable
+researchers to develop new and better meta-learning algorithms.
+
+Some features of learn2learn include:
+
+-  Modular API: implement your own training loops with our low-level
+   utilities.
+-  Provides various meta-learning algorithms (e.g. MAML, FOMAML,
+   MetaSGD, ProtoNets, DiCE)
+-  Task generator with unified API, compatible with torchvision,
+   torchtext, torchaudio, and cherry.
+-  Provides standardized meta-learning tasks for vision (Omniglot,
+   mini-ImageNet), reinforcement learning (Particles, Mujoco), and even
+   text (news classification).
+-  100% compatible with PyTorch — use your own modules, datasets, or
+   libraries!
+
+| 
+
+=================== ==========================================
+**SBB License**     MIT License
+**Core Technology** Python
+**Project URL**     http://learn2learn.net/
+**Source Location** https://github.com/learnables/learn2learn/
+**Tag(s)**          ML Framework
+=================== ==========================================
+
 Lore
 ----
 
@@ -708,6 +794,38 @@ There are two types of interface available in MLJAR:
 **Source Location** https://github.com/mljar/mljar-supervised
 **Tag(s)**          ML, ML Framework, Python
 =================== =========================================
+
+MLsquare
+--------
+
+[ML]² – ML Square is a python library that utilises deep learning
+techniques to:
+
+-  Enable interoperability between existing standard machine learning
+   frameworks.
+-  Provide explainability as a first-class function.
+-  Make ML self learnable.
+
+The following are the design goals:
+
+-  Bring Your Own Spec First.
+-  Bring Your Own Experience First.
+-  Consistent.
+-  Compositional.
+-  Modular.
+-  Extensible
+
+See https://arxiv.org/pdf/2001.00818.pdf for a in depth explanation.
+
+| 
+
+=================== ==========================================
+**SBB License**     MIT License
+**Core Technology** Python
+**Project URL**     https://mlsquare.readthedocs.io/en/latest/
+**Source Location** https://github.com/mlsquare/mlsquare
+**Tag(s)**          ML Framework
+=================== ==========================================
 
 NeuralStructuredLearning
 ------------------------
@@ -1001,6 +1119,10 @@ Cython to extend PyTorch when needed. PyTorch has become a popular tool
 in the deep learning research community by combining a focus on
 usability with careful performance considerations.
 
+A very good overview of the design principles and architecture of
+PyTorch can be found in this paper https://arxiv.org/pdf/1912.01703.pdf
+.
+
 | 
 
 =================== ==================================
@@ -1084,6 +1206,36 @@ Key features:
 **Tag(s)**          ML, ML Framework
 =================== ==================================================
 
+SINGA
+-----
+
+Distributed deep learning system.
+
+SINGA was initiated by the DB System Group at National University of
+Singapore in 2014, in collaboration with the database group of Zhejiang
+University.
+
+SINGA‘s software stack includes three major components, namely, core, IO
+and model:
+
+#. The core component provides memory management and tensor operations.
+#. IO has classes for reading (and writing) data from (to) disk and
+   network.
+#. The model component provides data structures and algorithms for
+   machine learning models, e.g., layers for neural network models,
+   optimizers/initializer/metric/loss for general machine learning
+   models.
+
+| 
+
+=================== ===============================
+**SBB License**     Apache License 2.0
+**Core Technology** Java
+**Project URL**     http://singa.apache.org/
+**Source Location** https://github.com/apache/singa
+**Tag(s)**          ML Framework
+=================== ===============================
+
 Streamlit
 ---------
 
@@ -1135,6 +1287,13 @@ There is also a version of TensorFlow that runs in a browser. This is
 TensorFlow.js (https://js.tensorflow.org/ ). TensorFlow.js is a WebGL
 accelerated, browser based JavaScript library for training and deploying
 ML models.
+
+Since privacy is a contentious fight TensorFlow has now (2020) also a
+library called ‘TensorFlow Privacy’ . This is a python library that
+includes implementations of TensorFlow optimizers for training machine
+learning models with differential privacy. The library comes with
+tutorials and analysis tools for computing the privacy guarantees
+provided. See: https://github.com/tensorflow/privacy
 
 | 
 

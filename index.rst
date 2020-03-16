@@ -57,7 +57,7 @@ Table of Contents
 
 .. toctree::
    :maxdepth: 4   
-   :caption: Overview
+   :caption: Core Concepts
 
    preface
    introduction
