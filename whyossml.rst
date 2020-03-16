@@ -27,9 +27,9 @@ Free and open-source software (FOSS) is software that can be classified as both 
 
 Open Source is an approach for the design, development, and distribution of new products & knowledge offering practical accessibility to its source. Real open source solutions have a license that is approved by the ree Software Foundation (FSF) (https://www.fsf.org/) or the  Open Source Initiative (OSI) foundation (https://opensource.org/). Open source is all about collaboration and Freedom. Collaboration is key for developing, applying and using machine learning functionality. 
 
-Open Source Software(FOSS) is the norm for machine learning. However using open source software will still be new and innovative for a lot of companies. If you really want to benefit from new machine learning software you must go for a solid FOSS machine learning ecosystem. This makes you flexible, independent and you can still use thousands of consultancy firms and (Cloud)hosting companies that can help you or will provide hosting facilities.
+Open Source Software(FOSS) is the norm for machine learning. However using open source software is still a new and innovative concept for a lot of companies. If you really want to benefit from new machine learning software you must go for a solid FOSS machine learning ecosystem. This makes you flexible, independent and you can still use thousands of consultancy firms and (Cloud)hosting companies that can help you, or are willing  to  provide hosting facilities.
 
-A transition towards FOSS software can already be very hard and can be disruptive for many companies. It takes the right mindset, attitude and culture within a company. Applying machine learning for real business cases is also already complex and challenging. So taking advantage of machine learning requires the right innovative mindset. Using machine learning without using the benefits that come with the FOSS ecosystems of choice, is like learning to swim without hitting the water. So hit the water as soon as possible, after a while you will see and use the benefits.
+A transition towards FOSS software can already be very hard and can be disruptive for many companies. It takes the right mindset, attitude and culture within a company. Applying machine learning for real business cases is also already complex and challenging. So taking advantage of machine learning requires the right innovative mindset. Using machine learning without using the benefits that come with the FOSS ecosystems of choice, is like learning to swim without hitting the water. So hit the water as soon as possible, after a while you  see and use the benefits.
 
 Machine learning applications are expensive to develop and to adopt. This accounts for the development process itself, good skilled professional IT engineers and scientist are expensive. But even more for the needed infrastructure and resources needed to develop meaningful applications for your business. This means that currently big firms like Google, IBM, Microsoft, Facebook and Amazon are at the front of the queue and smaller counterparts get left behind. Since most of the scientific knowledge is freely available and more and more infrastructure needed is available within the open source domain, this book is entirely focussed on openness and open source. The technique behind machine learning is too much fun and often requires adjustments and tweaking, which is hard when you are using black-box solutions. 
 
@@ -51,7 +51,7 @@ A focus on open source (FOSS) software for applying machine learning for real is
 
 - Open code is better science. The field of machine learning is still improving. Many researchers work on algorithms and improvements. Open code enables open science. Community input and feedback increases the quality. Also openness means that when papers of researchers are published everyone can inspect, use and improve the code that was developed. This openness enforces quality.
 
-FOSS machine learning and machine learning in general is very popular. See e.g. the diagram below which shows a view of the increase in google searches for the last decade. You should have very strong arguments, also from a business perspective. This because investments for real world application always have business risk. Choosing a commercial black box solution often increases business risks and mitigation of risks is harder. E.g. security and privacy risk mitigation is hard with blackbox solutions.
+FOSS machine learning and machine learning in general is very popular. See e.g. the diagram below which shows a view of the increase in google searches for the recent decade. You should have very strong arguments, also from a business perspective. This because investments for real world application always have business risk. Choosing a commercial black box solution often increases business risks and mitigation of risks is harder. E.g. security and privacy risk mitigation is hard with blackbox solutions.
 
 .. image:: /images/popularity-of-ml.png
    :alt: Popularity of Machine Learning
@@ -63,7 +63,7 @@ All IT companies advertise with machine learning powered software products nowad
 To use ML for real business applications you should use and reuse good FOSS tools, frameworks and knowledge available. But you should also take the quality aspects (technical and non-technical) that come with a framework choice into account.
 
 
-When using machine learning FOSS solutions you can inspect the working and evaluate all risks involved. Or by using FOSS solution you can ask every IT company or consultant with the right skills to audit the application. Because in the end: The security, safety and privacy of your customers are at risk and you will be held accountable.
+When using machine learning FOSS solutions you can inspect the working and evaluate all risks involved. Or by using FOSS solution you can ask every IT company or consultant with the right skills to audit the application. Because in the end: When security, safety or  privacy of your customers is at risk and you are accountable.
 
 
 Open data
@@ -77,7 +77,7 @@ Without data machine learning is not possible. FOSS Machine learning systems nee
 
 - Lots of data. Training machine learning models requires large amounts of data.
 
-- Data variety. For good training sets variety in data used is crucial. Else the bias problem will turn up directly.
+- Data variety. For good training sets variety in data used is crucial. Else the bias problem turns up directly.
 
 - Data veracity. This means the truthfulness of data.
 
@@ -112,7 +112,7 @@ Machine learning is a challenging science. Many researchers on universities worl
 
 Universities are funded by tax payers. So in an ideal world everyone should benefit from knowledge developed. Also almost all knowledge developed is based on work developed earlier by others. This is how science works. We build upon knowing of others to develop new knowledge and insights.
 
-Open science represents an approach to the scientific process based on cooperative work and new ways of diffusing knowledge by using digital technologies and new collaborative tools. The idea captures a systemic change to the way science and research have been carried out for the last fifty years: shifting from the standard practices of publishing research results in scientific publications towards sharing and using all available knowledge at an earlier stage in the research process.
+Open science represents an approach to the scientific process based on cooperative work and new ways of diffusing knowledge by using digital technologies and new collaborative tools. The idea captures a systemic change to the way science and research have been carried out for the latest fifty years: shifting from the standard practices of publishing research results in scientific publications towards sharing and using all available knowledge at an earlier stage in the research process.
 
 Developing machine learning knowledge using open science means that publications, data, results, and software is accessible without borders for everyone to learn and build upon. Key pillars of open science important for open machine learning are:
 

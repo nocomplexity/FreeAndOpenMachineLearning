@@ -22,7 +22,7 @@ So lets start with a high level separation of common used terms and their meanin
 
 - ML (Machine learning) is the science of getting computers to act without being explicitly programmed. Machine learning (ML) is basically a learning through doing.  Often ML is regarded as a subset of AI.
 
-- NLP (Natural language processing) is the part of machine learning that has to do with language (usually written). NLP will be outlined more in depth in another chapter of this book.
+- NLP (Natural language processing) is the part of machine learning that has to do with language (usually written). NLP concepts are outlined more in depth in another chapter of this book.
 
 .. image:: /images/ml-ai-nlp.png
    :width: 600px
@@ -62,9 +62,9 @@ To really understand machine learning a new view on how software can be created 
 
  However many real world problems aren't so easy to solve. A good solution requires knowledge of the context and a lot of hard to point domain knowledge built from experience. 
 
-Determining the exact context of a car in traffic and in order to make a decision within milliseconds to go left or right is very hard programming challenge. It will take you decades and you will never do it right.  This is why a paradigm shift in creating software for the next phase of automation is needed. 
+Determining the exact context of a car in traffic and in order to make a decision within milliseconds to go left or right is very hard programming challenge. It takes you decades and you will never do it right.  This is why a paradigm shift in creating software for the next phase of automation is needed. 
 
-Programming computers the traditional way made it possible to put a man on the moon. To break new barriers in automation in our daily lives and science requires new ways of thinking about creating intelligent software. Machine learning is a new way to ‘program’ computers. When a programming challenge is too large to solve with traditional programming methods (requirements collection, decision rules collection, etc) a program for a computer should be ‘generated’. Generated based on some known desired output types. But knowing all desired output types in front for a problem solution is often impossible. So your new machine learning ‘program’ will get it wrong sometimes. Large amounts of input data will increase the quality of the generated prediction model. In the old traditional paradigm called ‘the program’. 
+Programming computers the traditional way made it possible to put a man on the moon. To break new barriers in automation in our daily lives and science requires new ways of thinking about creating intelligent software. Machine learning is a new way to ‘program’ computers. When a programming challenge is too large to solve with traditional programming methods (requirements collection, decision rules collection, etc) a program for a computer should be ‘generated’. Generated based on some known desired output types. But knowing all desired output types in front for a problem solution is often impossible. So your new machine learning ‘program’ will get it wrong sometimes. Large amounts of input data increases the quality of the generated prediction model. In the old traditional paradigm called ‘the program’. 
 
 
 .. image:: /images/whatisml.png   
@@ -138,7 +138,7 @@ Machine learning algorithms discover patterns in data, and construct mathematica
 Overview machine learning methods
 ----------------------------------
 
-Whenever you will be confronted with machine learning it is good to known that different methods, and thus approaches, exist. 
+Whenever you are confronted with machine learning it is good to known that different methods, and thus approaches, exist. 
 
 At the highest level, machine learning can be categorized into two main types:
 
@@ -157,7 +157,7 @@ Supervised Learning
 
 Supervised Learning: Most practical solutions use supervised learning. Supervised learning encompasses approaches to satisfy the need to classify things into categories , known as classification. It also includes approaches to address the need to provide variable real-value solutions such as weight or height   known as regression.
 
-With supervised learning the learning algorithm is given labelled data and the desired output. For example, pictures of cats labelled “cat” will help the algorithm identify the rules to classify pictures of cats.
+With supervised learning the learning algorithm is given labelled data and the desired output. For example, pictures of cats labelled “cat” help the algorithm to identify the rules to classify pictures of cats.
 
 Unsupervised Learning
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -228,9 +228,9 @@ The figure below positions Deep Learning(DL) in the spectrum of AI and ML.
 AutoML
 ^^^^^^^^^^^
 
-Of course every technology will be evolving continuously. So when you have mastered a bit of the machine learning concepts you will be faced with more and more machine learning innovations. The big next promising thing for machine learning is automated machine learning in short autoML. 
+Of course every technology evolves continuously. So when you have mastered a bit of the machine learning concepts you will be faced with more and more machine learning innovations. The big next promising thing for machine learning is automated machine learning in short autoML. 
 
-AutoML can be defined as: the automated process of algorithm selection, hyperparameter tuning, iterative modelling, and model assessment. AutoML will accelerate the model building process, the time consuming ‘human’  part within ML.
+AutoML can be defined as: the automated process of algorithm selection, hyperparameter tuning, iterative modelling, and model assessment. AutoML accelerates the model building process, the time consuming ‘human’  part within ML.
 
 So with the current machine learning we have:
     
@@ -246,7 +246,7 @@ With AutoML the challenge is to turn this into:
 Other common terms used in the ML world
 -----------------------------------------
 
-Within the world of ML you will read and hear about concepts and terms as networks, deep learning, reinforcement learning and more. Many of these terms are derived from years of scientific progress and discussions. 
+Within the world of ML you read and hear about concepts and terms as networks, deep learning, reinforcement learning and more. Many of these terms are derived from years of scientific progress and discussions. 
 
 Data science
 ^^^^^^^^^^^^^^^^

@@ -2,7 +2,7 @@ ML implementation challenges
 ==============================
 
 Machine learning is a technology that currently comes with some special challenges.
-This section outlines the most important challenges you will hit when you have decided to use machine learning for real.
+This section outlines the most important challenges you hit when you have decided to use machine learning for real.
 
 .. image:: /images/ml-challenges.png
    :alt: ML Implementation challenges
@@ -15,14 +15,14 @@ Performance
 
 Machine learning is amazingly slow. So before you use cloud services for your machine learning performance challenges, it is wise to do some experiments on a simple laptop. After you have a feeling of your model and the main performance bottlenecks than using clusters of advantaged GPUs offered by all Cloud providers is more effective. Also from a cost perspective. 
 
-ML hardware is at its infancy. Even faster systems and wider deployment will lead to many more breakthroughs across a wide range of domains.
+Special machine learning hardware is at its infancy. Even faster systems and wider deployment lead to many more breakthroughs across a wide range of domains.
 
 
 Many ML OSS software solutions are created in the Python programming language. Python is considered ‘slow’ and hard to parallelize. However many solutions exist to solve this problem. The most important OSS machine learning software solutions are by design capable to run on complete clusters of GPU (Graphical Processor Units). Scalability over GPU has proven to be more efficient for machine learning calculations than using more CPUs. This is because GPUs are by design more suited for the complex calculations needed to perform than CPUs.
 GPUs are better for speeding up calculations that are needed for distributed machine learning algorithms. A GPU core is designed for handling multiple tasks simultaneously. A core for a GPU is simpler than a CPU core, but a GPU has many more cores than a CPU. 
 
 
-New CPUs are being developed especially for machine learning algorithms. E.g. Google is developing Tensor Processing Units (TPU’s) to speed up the machine learning calculations. Of course this TPU’s are optimized for Google’s tensorflow software. But since this software is OSS everyone can take advantages if needed, since Google will offer TPU’s in their Cloud offerings. Of course Microsoft and other big Cloud providers are also developing their specialized machine learning processing units.
+New CPUs are being developed especially for machine learning algorithms. E.g. Google is developing Tensor Processing Units (TPU’s) to speed up the machine learning calculations. Of course this TPU’s are optimized for Google’s tensorflow software. But since this software is OSS everyone can take advantages if needed, since Google offers TPU’s in their Cloud offerings. Of course Microsoft and other big Cloud providers are also developing their specialized machine learning processing units.
 
 Performance for training machine learning solutions is not always simple to solve. This is due to the fact that in essence training machine learning models means doing mass matrix calculations. Despite the fact that Python is a good choice for machine learning, processing large calculations can be slow. So optimization can be needed to speed up pre-processing during the data preparation phase. The good news is that since Python is becoming the de-facto standard for machine learning almost all problems are known and often already solved.
 
@@ -78,7 +78,7 @@ Interoperability
 
 Open standards do help. And with open standards you should look for real open standards. There are standards that not only specify how things should work, but also have an open source implementation that is using the standards for real. Keep away from standards that exist on paper only or standards that only have a reference implementation. Good standards are used and born from a practical need. 
 
-In this way everyone implementing the standards will be forced to make sure the outcome and use of APIs is the same. Most of the time open standards lack an open implementation, so vendors can implement the specification and still lock you in. 
+In this way everyone implementing the standards is forced to make sure the outcome and use of APIs is the same. Most of the time open standards lack an open implementation, so vendors can implement the specification and still lock you in. 
 
 With interoperability for machine learning a trained model can be reused using different frameworks for an application. A trained model is the result of applying a machine learning algorithm to a set of training data. A new model using an already trained model can make predictions based on new input data. For example, a model that's been trained on a region's historical house prices may be able to predict a house's price when given the number of bedrooms and bathrooms.
 
@@ -120,7 +120,7 @@ What is unique about machine learning is that it is ‘exponentially’ harder t
 Continuous improvements
 ------------------------------
 
-Machine learning models will degrade in accuracy in production. This since new input data is used that will be different from used training data. Input data will change over time.This problem of the changes in the data and relationships within data sets is called concept drift. 
+Machine learning models degrade in accuracy in production. This since the new input data is  different from the used training data. Input data changes over time.This problem of the changes in the data and relationships within data sets is called concept drift. 
 
 Machine learning models are not a typical category of software. In fact a machine learning model should not be regarded as software at all. This means that maintenance should be organized and handled in a different way. There is never a final version of a machine learning model. So when using machine learning you need engineers that continuously updated and improved the model. 
 
@@ -163,7 +163,7 @@ When evaluating outcomes of machine learning applications there are many ways yo
 * Survivorship bias: Drawing conclusions from an incomplete set of data, because that data has survived the selection criteria.
 * False causality: Falsely assuming when two events appear related that one must have caused the other. 
 * Sampling bias: drawing conclusions from a set of data that isn’t representative of the population you are trying to understand.
-* Hawthorne effect: The act of monitoring someone will affect their behaviour, leading to spurious findings. Also known as the observer effect.
+* Hawthorne effect: The act of monitoring someone affects their behaviour, leading to spurious findings. Also known as the observer effect.
 * MCNamara fallacy: Relying solely on metrics in complex situations and losing sight of the bigger picture.
 
 
@@ -191,7 +191,7 @@ Quality of Machine Learning frameworks
 
 Only a few people understand the complex mathematical algorithms behind machine learning. History learns that implementing an algorithms into software correctly has proven to be very complex and difficult. When you use FOSS machine learning software you have one large advantage over commercial 'black-box' software: You can inspect the software of ask some agency to provide a quality audit. 
 
-The last years there is a continuous growth of open machine learning tools and frameworks.Determining which toolkits are good enough for your business case is not trivial. 
+The recent years there is a continuous growth of open machine learning tools and frameworks.Determining which toolkits are good enough for your business case is not trivial. 
 
 A simple checklist to start with this challenge:
 
@@ -203,7 +203,7 @@ A simple checklist to start with this challenge:
 
 * A healthy open community should be active around the framework and eco-system. A healthy FOSS community has a written way of working, so it is transparent how governance of the software is arranged. 
 
-* Openness: It should be transparant why people and companies contribute to the FOSS machines learning software. 
+* Openness: It should be transparent why people and companies contribute to the FOSS machines learning software. 
 
 
 

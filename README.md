@@ -31,7 +31,7 @@ The main research questions for this project are:
 * What are the main security,privacy and safety concerns when machine learning is applied and used more widely? 
 * What MUST we do and create to make machine learning inclusive? So free as in freedom for all humans on earth to use(openness), experiment without large investments or unwanted strings attached.
 
-In order to be able to answer this questions an architecture framework is developed, where answers on the following questions will be harvested:
+In order to be able to answer this questions an architecture framework is developed, where answers on the following questions are harvested:
 * How can security, privacy and safety risks be captured and mitigated transparently and as early as possible.
 * Why is Free and Open Machine learning important?
 * What business use cases are suited for applying machine learning?

@@ -48,7 +48,7 @@ In its core a machine learning process exist of a number of typical steps. These
 * Select a machine learning model
 * Prepare the collected data to train the machine learning model
 * Test your machine learning system using test data
-* Validate and improve the machine learning model. Most of the time you will need to search for more training data within this iterative loop.
+* Validate and improve the machine learning model. Most of the time you need is to search for more training data within this iterative loop.
 
 
 .. image:: /images/ml-process.png
@@ -56,7 +56,7 @@ In its core a machine learning process exist of a number of typical steps. These
    :alt: Machine Learning Process
    :align: center 
 
-You will need to improve your machine learning model after a first test. Improving can be done using more training data or by making model adjustments. 
+You need to improve your machine learning model after a first test. Improving can be done using more training data or by making model adjustments. 
 
 
 Architecture Building Blocks for ML
@@ -99,7 +99,7 @@ ML Reference Architecture
 
 A full stack approach is needed to apply machine learning. A full stack approach means that in order to apply machine learning successfully you must be able to master or at least have a good overview of the complete technical stack. This means for machine learning vertical and horizontal. With vertical we mean from hardware towards machine learning enabled applications. With horizontal we mean that the complete tool chain for all process steps must be taken into account.
 
-The machine learning reference model represents architecture building blocks that can be present in a machine learning solution. Information architecture (IT) and especially machine learning is a complex area so the goal of the metamodel below is to represent a simplified but usable overview of aspects regarding machine learning. Using this model will give you a head start when developing your specific machine learning solution.
+The machine learning reference model represents architecture building blocks that can be present in a machine learning solution. Information architecture (IT) and especially machine learning is a complex area so the goal of the metamodel below is to represent a simplified but usable overview of aspects regarding machine learning. Using this model gives you a head start when developing your specific machine learning solution.
 
 
 .. image:: /images/ml-reference-architecture.png
@@ -112,7 +112,7 @@ Conceptual overview of machine learning reference architecture
 Since this simplified machine learning reference architecture is far from complete it is recommended to consider e.g. the following questions when you start creating your solution architecture where machine learning is part of:
 
 * Do you just want to experiment and play with some machine learning models? 
-* Do you want to try different machine learning frameworks and libraries in to discover what works best for your use case? Machine learning systems never work directly. You will need to iterate, rework and start all over again. Its innovation!
+* Do you want to try different machine learning frameworks and libraries in to discover what works best for your use case? Machine learning systems never work directly. You need to iterate, rework and start all over again. Its innovation!
 * Is performance crucial for your application? 
 * Are human lives direct or indirect dependent of your machine learning system?
 
@@ -123,7 +123,7 @@ In the following sections a more in depth description of the various machine lea
 Business Processes
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
-To apply machine learning with success it is crucial that the core business processes of your organization that will be affected with this new technology are determined. In most cases secondary business processes will benefit more than primary processes. Think of marketing, sales and quality aspects that make your primary business processes better.
+To apply machine learning with success it is crucial that the core business processes of your organization that are affected with this new technology are determined. In most cases secondary business processes benefit more from machine learning than primary processes. Think of marketing, sales and quality aspects that make your primary business processes better.
 
 Business Services
 ^^^^^^^^^^^^^^^^^^
@@ -137,7 +137,7 @@ A business function delivers business capabilities that are aligned to your orga
 People, Skills and Culture
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Machine learning needs a culture where experimentation is allowed. When you start with machine learning you and your organization need to build up knowledge and experience. Failure will happen and must be allowed. Fail hard and fail fast. Take risks. However your organization culture should be open to such a risk based approach. IT projects in general fail often so doing an innovative IT project using machine learning will be a risk that must be able to cope with. 
+Machine learning needs a culture where experimentation is allowed. When you start with machine learning you and your organization need to build up knowledge and experience. Failure is going to happen and must be allowed. Fail hard and fail fast. Take risks. However your organization culture should be open to such a risk based approach. IT projects in general fail often, so doing an innovative IT project using machine learning is a risk that must be able to cope with. 
 
 To make a shift to a new innovative experimental culture make sure you have different types of people directly and indirectly involved in the machine learning project. Also make use of good temporary independent consultants. So consultants that have also a mind set of taking risks and have an innovative mindset. Using consultants for machine learning of companies who sell machine learning solutions as cloud offering do have the risk that needed flexibility in an early stage is lost. Also to be free on various choices make sure you are not forced into a closed machine learning SaaS solution too soon.
 Since skilled people on machine learning with the exact knowledge and experience are not available you should use creative developers. Developers (not programmers) who are keen on experimenting using various open source software packages to solve new problems. 
@@ -153,7 +153,7 @@ Applying machine learning in an organization requires an organization that is da
 Partners
 ^^^^^^^^^^^
 
-Since your business is properly not Amazon, Microsoft or Google you will need partners. Partners should work with you together to solve your business problems. If you select partners pure doing a functional aspect, like hosting, data cleaning ,programming or support and maintenance you will miss the needed commitment and trust. Choosing the right partners for your machine learning project is even harder than for ordinary IT projects, due to the high knowledge factor involved. Some rule of thumbs when selecting partners:
+Since your business is properly not Amazon, Microsoft or Google you need partners. Partners should work with you together to solve your business problems. If you select partners pure doing a functional aspect, like hosting, data cleaning ,programming or support and maintenance you miss the needed commitment and trust. Choosing the right partners for your machine learning project is even harder than for ordinary IT projects, due to the high knowledge factor involved. Some rule of thumbs when selecting partners:
 Big partners are not always better. With SMB partners who are committed to solve your business challenge with you governance structures are often easier and more flexible.
 Be aware for vendor lock-ins. Make sure you can change from partners whenever you want. So avoid vendor specific and black-box approaches for machine learning projects. Machine learning is based on learning, and learning requires openness.
 
@@ -171,7 +171,7 @@ Running machine learning projects involves risk. Within your architecture it is 
 * Security by design principles and
 * Privacy by design principles
 
-In the beginning this will slow down your project, but doing security/privacy or safety later as ‘add-on’ requirements is never a real possibility and will take exponential more time and resources. 
+In the beginning this slows down your project, but doing security/privacy or safety later as ‘add-on’ requirements is never a real possibility and takes exponential more time and resources. 
 
 Development tools
 ^^^^^^^^^^^^^^^^^^^^
@@ -196,19 +196,19 @@ But do not fall in love with a tool too soon. You should be confronted with the 
 Machine learning Frameworks
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Machine Learning frameworks offer software building blocks for designing, training and validating your machine learning model. Most of the time you will only be confronted with your machine learning framework using a high level programming interface. All major FOSS machine learning frameworks offer APIs for all major programming languages. 
+Machine Learning frameworks offer software building blocks for designing, training and validating your machine learning model. Most of the time you are only confronted with your chosen machine learning framework when using a high level programming interface. All major FOSS machine learning frameworks offer APIs for all major programming languages. 
 Almost all ‘black magic’  needed for creating machine learning application is hidden in a various software libraries that make a machine learning framework.
 
 
-In another section of this book a full overview of all major machine learning frameworks will be presented. But for creating your architecture within your specific context choosing a machine learning framework that suits your specific use case is a severe difficult task. Of course you can skip this task and go for e.g. Tensorflow in the hope that your specific requirements are offered by simple high level APIs. 
+In another section of this book a full overview of all major machine learning frameworks are presented. But for creating your architecture within your specific context choosing a machine learning framework that suits your specific use case is a severe difficult task. Of course you can skip this task and go for e.g. Tensorflow in the hope that your specific requirements are offered by simple high level APIs. 
 
 Some factors that must be considered when choosing a machine learning framework are:
 
 * Stability. How mature, stable is the framework?
 * Performance. If performance really matters a lot for your application (training or production) doing some benchmark testing and analysis is always recommended.
-* Features. Besides the learning methods that are supported what other features are included? Often more features, or support for more learning methods is not better. Sometimes simple is enough since you will not change your machine learning method and model continuously.
+* Features. Besides the learning methods that are supported what other features are included? Often more features, or support for more learning methods is not better. Sometimes simple is enough since you don't change your machine learning method and model continuously.
 * Flexibility. How easy is it to switch to another machine learning framework, learning method or API?
-* Transparency. Machine learning development is a very difficult tasks that involves a lot of knowledge of engineers and programmers. Not many companies have the capabilities to create a machine learning framework. But in case you use a machine learning framework: How do you known the quality? Is it transparent how it works, who has created it, how it is maintained and what your business dependencies will be! 
+* Transparency. Machine learning development is a very difficult tasks that involves a lot of knowledge of engineers and programmers. Not many companies have the capabilities to create a machine learning framework. But in case you use a machine learning framework: How do you known the quality? Is it transparent how it works, who has created it, how it is maintained and what your business dependencies are! 
 * License. Of course we do not consider propriety machine learning frameworks. But do keep in mind that the license for a machine learning framework matters. And make sure that no hooks or dual-licensing tricks are played with what you think is an open machine learning Framework. 
 * Speeding up time consuming and recurrent development tasks. 
 
@@ -233,7 +233,7 @@ For fast iterative experimentation a language as Python is well suited. And besi
 
 There are however bad choices that you can make. E.g. use a new development language that is not mature, has no rich toolset and no community of other people using it for machine learning yet.
 
-Within your solution architecture you should justify the choice you make based upon dependencies as outlined in this reference architecture. But you should also take into account the constraints that account for your project, organisation and other architecture factors that will drive your choice. If have e.g. a large amount of Java applications running and all your processes and developers are Java minded, you should take this fact into account when developing and deploying your machine learning application.
+Within your solution architecture you should justify the choice you make based upon dependencies as outlined in this reference architecture. But you should also take into account the constraints that account for your project, organisation and other architecture factors that drive your choice. If have e.g. a large amount of Java applications running and all your processes and developers are Java minded, you should take this fact into account when developing and deploying your machine learning application.
 
 
 
@@ -243,12 +243,12 @@ Data
 
 Data is the heart of the machine earning and many of most exciting models don’t work without large data sets. Data is the oil for machine learning. Data is transformed into meaningful and usable information. Information that can be used for humans or information that can be used for autonomous systems to act upon.
 
-In normal architectures you make a clear separation when outlining your data architecture. Common view points for data domains are: business data, application data and technical data For any machine learning architecture and application data is of utmost importance. Not all data that you use to train your machine learning model needs can be originating from you own business processes. So sooner or later you will need to use data from other sources. E.g. photo collections, traffic data, weather data, financial data etc. Some good usable data sources are available as open data sources. 
+In normal architectures you make a clear separation when outlining your data architecture. Common view points for data domains are: business data, application data and technical data For any machine learning architecture and application data is of utmost importance. Not all data that you use to train your machine learning model needs can be originating from you own business processes. So sooner or later you need to use data from other sources. E.g. photo collections, traffic data, weather data, financial data etc. Some good usable data sources are available as open data sources. 
 For a open machine learning solution architecture it is recommended to strive to use open data. This since open data is most of the time already cleaned for privacy aspects. Of course you should take the quality of data in consideration when using external data sources. But when you use data retrieved from your own business processes the quality and validity should be taken into account too. 
 
 Free and Open Machine learning needs to be feed with open data sources. Using open data sources has also the advantage that you can far more easily share data, reuse data, exchange machine learning models created and have a far easier task when on and off boarding new team members. Also cost of handling open data sources, since security and privacy regulations are lower are an aspect to take into consideration when choosing what data sources to use.
 
-For machine learning you will need ‘big data’. Big data is any kind of data source that has one the following properties:
+For machine learning you need ‘big data’. Big data is any kind of data source that has one the following properties:
 
 * Big data is data where the volume, velocity or variety of data is (too) great.So big is really a lot of data! 
 * The ability to move that data at a high Velocity of speed.
@@ -260,11 +260,11 @@ Every Machine Learning problem starts with data. For any project most of the tim
 
 Machine learning requires the right set of data that can be applied to a learning process. An organization does not have to have big data in order to use machine learning techniques; however, big data can help improve the accuracy of machine learning models. With big data, it is now possible to virtualize data so it can be stored in the most efficient and cost-effective manner whether on- premises or in the cloud.
 
-Within your machine learning project you will need to perform data mining. The goal of data mining is to explain and understand the data. Data mining is not intended to make predictions or back up hypotheses. 
+Within your machine learning project you need to perform data mining. The goal of data mining is to explain and understand the data. Data mining is not intended to make predictions or back up hypotheses. 
 
 One of the challenges with machine learning is to automate knowledge to make predictions based on information (data). For computer algorithms everything processed is just data. Only you know the value of data. What data is value information is part of the data preparation process. Note that data makes only sense within a specific context. 
 
-The more data you have, the easier it will be to apply machine learning for your specific use case.  With more data, you can train more powerful models. 
+The more data you have, the easier it is to apply machine learning for your specific use case.  With more data, you can train more powerful models. 
 
 Some examples of the kinds of data machine learning practitioners often engage with:
 
@@ -283,18 +283,18 @@ When developing your solution architecture be aware that data is most of the tim
 * Incorrect and
 * useless.
 
-So meta data and quality matters. Data only becomes valuable when certain minimal quality properties are met. For instance if you plan to use raw data for automating creating translating text you will soon discover that spelling and good use of grammar do matter. So the quality of the data input is an import factor of the quality of the output. E.g. automated Google translation services still struggle with many quality aspects, since a lot of data captures (e.g. captured text documents or emails) are full of style,grammar and spell faults.
+So meta data and quality matters. Data only becomes valuable when certain minimal quality properties are met. For instance if you plan to use raw data for automating creating translating text you will discover that spelling and good use of grammar do matter. So the quality of the data input is an import factor of the quality of the output. E.g. automated Google translation services still struggle with many quality aspects, since a lot of data captures (e.g. captured text documents or emails) are full of style,grammar and spell faults.
 
 
-Data science is a social process. Data is generated by people within a social context. Data scientists are social people who will have to do a lot of communication with all kind of business stakeholders. Data scientist should not work in isolation because the key thing is to find out what story is told within the data set and what import story is told over the data set.  
+Data science is a social process. Data is generated by people within a social context. Data scientists are social people who do a lot of communication with all kind of business stakeholders. Data scientist should not work in isolation because the key thing is to find out what story is told within the data set and what import story is told over the data set.  
 
 
 Data Tools
 ^^^^^^^^^^^^^
 
-Without data machine learning stops. For machine learning you will be dealing with large complex data sets (maybe even big data) and the only way to make machine learning applicable is data cleaning and preparation. So  you need good tools to handle data.
+Without data machine learning stops. For machine learning you deal with large complex data sets (maybe even big data) and the only way to make machine learning applicable is data cleaning and preparation. So  you need good tools to handle data.
 
-The number of tools you will need will depend of the quality of your data sets, your experience, development environment and other choice you will have to make in your solution architecture. But a view use cases where good solid data tools will help are:
+The number of tools you need depends of the quality of your data sets, your experience, development environment and other choice you must make in your solution architecture. But a view use cases where good solid data tools certainly help are:
 
 * Data visualization and viewer tools; Good data exploration tools give visual information about the data sets without a lot of custom programming.
 * Data filtering, data transformation and data labelling;
@@ -302,13 +302,13 @@ The number of tools you will need will depend of the quality of your data sets, 
 * Data encryption / decryption tools
 * Data search tools (analytics tools)
 
-Without good data tools you are lost when doing machine learning for real. The good news is: There are a lot of OSS data tools you can use. Depending if you have raw csv, json or syslog data you will need other tools to prepare the dataset. The challenge is to choose tools that integrate good in your landscape and save you time when preparing your data for starting developing your machine learning models. Since most of the time when developing machine learning applications you will be fighting with data, it is recommended to try multiple tools. Most of the time you will learn that a mix of tools is the best option, since a single data tool will never cover all your needs. So leave some freedom within your architecture for your team members who will be dealing with data work (cleaning, preparation etc).
+Without good data tools you are lost when doing machine learning for real. The good news is: There are a lot of OSS data tools you can use. Depending if you have raw csv, json or syslog data you need other tools to prepare the dataset. The challenge is to choose tools that integrate good in your landscape and save you time when preparing your data for starting developing your machine learning models. Since most of the time when developing machine learning applications you are fighting with data, it is recommended to try multiple tools. Most of the time you experience that a mix of tools is the best option, since a single data tool never covers all your needs. So leave some freedom within your architecture for your team members who deal with data related work (cleaning, preparation etc).
 
-The field of ‘data analytics’ and ‘business intelligence’ is a mature field for decades within IT. So you will find many tools that are excellent for data analytics and/or reporting. But keep in mind that the purpose of fighting with data for machine learning is in essence only for data cleaning and feature extraction. So be aware of ‘old’  tools that are rebranded as new data science tools for machine learning. There is no magic data tool preparation of data for machine learning. Sometimes old-skool unix tool like awk or sed will just do the job. 
+The field of ‘data analytics’ and ‘business intelligence’ is a mature field for decades within IT. So you will discover that many FOSS tools that are excellent for data analytics. But keep in mind that the purpose of fighting with data for machine learning is in essence only for data cleaning and feature extraction. So be aware of ‘old’  tools that are rebranded as new data science tools for machine learning. There is no magic data tool preparation of data for machine learning. Sometimes old-skool unix tool like awk or sed just do the job simple and effective. 
 
 Besides tools that assist you with preparing the data pipeline, there are also good (open) tools for finding open datasets that you can use for your machine learning application. See the reference section for some tips.
 
-To prepare your data working with the data within your browser seems a nice idea. You can visual connect data sources and e.g. create visuals by clicking on data. Or inspecting data in a visual way. There is however one major drawback: Despite the great progress made on very good and nice looking JavaScript frameworks for visualization, handling data within a browser DOM is and will take your browser over the limit. You can still expect hang-ups, indefinitely waits and very slow interaction. At least when not implemented well. But implementation of on screen data visualisation (Drag-and-Drop browser based) is requires an architecture and design approach that focus on performance and usability from day 1. Unfortunately many visual web based data visualization tools use an generic JS framework that is designed from another angle. So be aware that if you try to display all your data, it will eat all your resources(CPU, memory) and you will get a lot of frustration. So most of the time using a Jupyter Notebook will be a safe choice when preparing your data sets. 
+To prepare your data working with the data within your browser seems a nice idea. You can visual connect data sources and e.g. create visuals by clicking on data. Or inspecting data in a visual way. There is however one major drawback: Despite the great progress made on very good and nice looking JavaScript frameworks for visualization, handling data within a browser DOM still takes your browser over the limit. You can still expect hang-ups, indefinitely waits and very slow interaction. At least when not implemented well. But implementation of on screen data visualisation (Drag-and-Drop browser based) is requires an architecture and design approach that focus on performance and usability from day 1. Unfortunately many visual web based data visualization tools use an generic JS framework that is designed from another angle. So be aware that if you try to display all your data, it eats all your resources(CPU, memory) and you get a lot of frustration. So most of the time using a Jupyter Notebook is a safe choice when preparing your data sets. 
 
 Hosting
 ^^^^^^^^^^
@@ -332,7 +332,7 @@ Standard hosting capabilities for machine learning are not very different as for
 
 For machine learning the cost of the hosting infrastructure can be significant due to performance requirements needed for handling large datasets and training your machine learning model.
 
-A machine learning hosting platform can make use of various commercial cloud platforms that are offered(Google, AWS, Azure, etc). But since this reference architecture is about Free and Open you should consider what services you will use from external Cloud Hosting Providers (CSPs) and when. The crucial factor is most of the time cost and the number of resources needed. To apply machine learning it is possible to create your own machine learning hosting platform. But in reality this is not always the fasted way if you have not the required knowledge on site.
+A machine learning hosting platform can make use of various commercial cloud platforms that are offered(Google, AWS, Azure, etc). But since this reference architecture is about Free and Open you should consider what services you to use from external Cloud Hosting Providers (CSPs) and when. The crucial factor is most of the time cost and the number of resources needed. To apply machine learning it is possible to create your own machine learning hosting platform. But in reality this is not always the fasted way if you have not the required knowledge on site.
 
 All major Cloud hosting platforms do offer various capabilities for machine learning hosting requirements. But since definitions and terms differ per provider it is hard to make a good comparison. Especially when commercial products are served instead of OSS solutions. So it is always good to take notice of:
 
@@ -351,14 +351,19 @@ The constant factor for machine learning is just as with other IT systems: **Cha
 A machine learning hosting infrastructure should be stable. Also a machine learning hosting infrastructure should be designed as simple as possible. This since the following characteristics apply:
 
 - A Machine learning hosting environment must be secured since determining the quality of the outcome is already challenging enough.
-- Machine learning infrastructure hosting that works for your use cases will evolve and not replaced completely on a frequent basis.
+
+- Machine learning infrastructure hosting that works for your use cases now is no guarantee for the future. Your use case evolves in future and hosting infrastructure evolves also. At minimum security patches are needed. But a complete hosting infrastructure is not replaced or drastically changed on a frequent basis. The core remains for a long period.
+
 - Incorporating new technology and too frequent changes within your hosting infrastructure can introduce security vulnerabilities and unpredictable outcomes. 
+
 - Changes on your machine learning hosting infrastructure do apply on your complete ML pipeline. 
+
 - Machine learning hosting infrastructure components should be hardened. This means protecting is needed for accidentally changes or security breaches. 
+
 - Separation of concerns is just as for any IT architecture a good practice. 
 
 
-So to minimize the risks make sure you a good view on all your risks. Your solution architecture should give you this overview, including a view of all objects and components that will be changed (or updated) sooner or later. Hosting a machine learning application is partly comparable with hosting large distributed systems. And history learns that this can still be a problem field if not managed well. So make sure what dependencies you will accept regarding hosting choices and what dependencies you want to avoid.
+So to minimize the risks make sure you a good view on all your risks. Your solution architecture should give you this overview, including a view of all objects and components that will be changed (or updated) sooner or later. Hosting a machine learning application is partly comparable with hosting large distributed systems. And history learns that this can still be a problem field if not managed well. So make sure what dependencies you accept regarding hosting choices and what dependencies you want to avoid.
 
 
 
@@ -393,7 +398,7 @@ CUDA (Compute Unified Device Architecture) is a parallel computing platform and 
 An alternative for CUDA is OpenCL.  OpenCL (Open Computing Language) is a framework for writing programs that execute across heterogeneous platforms. OpenCL (https://opencv.org/opencl/ ) has a growing support in terms of hardware and also ML frameworks that are optimized for this standard.
 
 
-You will also read and hear about TPUs. A tensor processing unit (TPU) is an AI accelerator application-specific integrated circuit (ASIC). First developed by Google specifically for neural network machine learning. But currently more companies are developing TPUs to support machine learning applications.
+You might have read and hear about TPUs. A tensor processing unit (TPU) is an AI accelerator application-specific integrated circuit (ASIC). First developed by Google specifically for neural network machine learning. But currently more companies are developing TPUs to support machine learning applications.
 
 Within your solution architecture you should be clear on the compute requirements needed. Some questions to be answered are:
 
@@ -411,7 +416,7 @@ Storage
 Machine learning needs a lot of data. At least when you are training your own model.
 E.g. medical, scientific or geological data, as well as imaging data sets frequently combine petabyte scale storage volumes.
 
-Storing data on commercial cloud storage will become expensive. If not for storage than the network cost involved when data must be connected to different application blocks will be high. 
+Storing data on commercial cloud storage becomes expensive. If not for storage than the network cost involved when data must be connected to different application blocks is high. 
 
 If you are using very large data sets you will dive into the world of NoSQL storage and clusters solutions. E.g. Hadoop is an open source software platform managed by the Apache Software Foundation that has proven to be very helpful in storing and managing vast amounts of data cheaply and efficiently. 
 

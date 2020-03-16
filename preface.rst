@@ -11,12 +11,12 @@ This publication is aimed to give you solid information so you can start applyin
 
 Everything in this publication presented is with no strings attached. So the focus is on openness for machine learning tools, algorithms and knowledge. The core focus is outlining core concepts and showing an open machine learning architecture that make machine learning possible for real business use cases. And of course this publication is focused  on outlining open source solutions (FOSS) that make it possible to start your machine learning journey. 
 
-The aim of this publication is to enable business IT consultants, IT architects and software developers to get a practical grounding in open machine learning and its business applications. No programming and no complex mathematical formulas in this book. Showing programming code is on purpose avoided. In the references some good open references are given for hands-on tutorials. And as add-on to this publication some simple hands-on machine learning tutorials will be published as addendum to the online version. Understanding core concepts of machine learning and using open machine learning technology is possible without coding. 
+The aim of this publication is to enable business IT consultants, IT architects and software developers to get a practical grounding in open machine learning and its business applications. No programming and no complex mathematical formulas in this book. Showing programming code is on purpose avoided. In the references some good open references are given for hands-on tutorials. And as add-on to this publication some simple hands-on machine learning tutorials are published as addendum to the online version. Understanding core concepts of machine learning and using open machine learning technology is possible without coding. 
 
 So this publication enables you to start transforming your organization into an innovative, efficient, and sustainable company for the future using new open machine learning technologies. 
 
 
-Machine learning is and should not be the exclusive domain commercial companies, data scientists, mathematics, computer scientists or hackers. Every business and everyone involved with automation should be able to take advantage of the machine learning techniques and applications available. This is possible within the field of machine learning as you will learn in this publication.
+Machine learning is and should not be the exclusive domain commercial companies, data scientists, mathematics, computer scientists or hackers. Every business and everyone involved with automation should be able to take advantage of the machine learning techniques and applications available. This is possible within the field of machine learning as you learn in this publication.
 
 Nowadays knowledge is more and more openly shared, thanks to open access, open publication licenses and open source software. So everyone can and should benefit from the possibilities that open machine learning frameworks and tools provide. 
 
@@ -24,11 +24,11 @@ To create this publication a lot of papers, books and reports on machine learnin
 
 In the journey on learning how to apply machine learning for real business use cases many books turned out to be either too theoretical, or too much focused on programming machine learning algorithms. As an IT architect I missed the overall machine learning architecture picture from a typical IT architecture point of view. So business, information, application, infrastructure, security and privacy perspective. This publication fills up that gap. 
 
-Applying machine learning should be easy and simple. When barriers for using machine learning technology are lowered many more great applications will be developed for the benefit for everyone. This publication makes the complex field of machine learning frameworks, software and applications simpler to use for real business use cases. Creating meaningful machine learning applications in a already complex context is another discipline than creating and understanding the often complex machine learning algorithms. So this publication is for everyone who is short on time but is dedicated to make use of machine learning capabilities.
+Applying machine learning should be easy and simple. When barriers for using machine learning technology are lowered many more great applications can be developed for the benefit for everyone. This publication makes the complex field of machine learning frameworks, software and applications simpler to use for real business use cases. Creating meaningful machine learning applications in a already complex context is another discipline than creating and understanding the often complex machine learning algorithms. So this publication is for everyone who is short on time but is dedicated to make use of machine learning capabilities.
 
 This publication is not an end, but is constructed as an continuous effort to provide usable open and non commercial information for applying machine learning technology. You can join this project too. See the HELP section in this book.
 
-This publication was only possible with the help of you! If you have a suggestion or correction, please send an email to info [at] bm-support [dot] org. Ik will add you to the contributor list, unless you ask to be omitted. 
+This publication was only possible with the help of you! If you have a suggestion or correction, please send an email to info [at] bm-support [dot] org. I add you to the contributor list, unless you ask to be omitted. 
 
 
 
