@@ -1,22 +1,29 @@
 Why Free and Open Machine Learning
 ===================================
 
-Free and Open machine learning is close to open source(FOSS - Free and Open Source Software) but openness requires more than open source software alone. So we advocate for using Free and Open machine learning. The term open source (OSS) means FOSS in this publication. 'Open source software' is sometimes also called “Free software”, “libre software”, “Free/open source software (FOSS or F/OSS)”, and “Free/Libre/Open Source Software (FLOSS)”. But the term “Free software” has been sometimes misinterpreted as meaning “no cost”, which is not the intended meaning. It is all about Freedom, so a better term would have been to call it Freedom Software. So 'Free' open source software (FOSS) refers to freedom, not price. 
+Free and Open machine learning is comparable with open source software (FOSS - Free and Open Source Software). But openness for machine learning requires more than open source software alone. So we advocate for using Free and Open machine learning. 
 
-The Freedom part makes a great difference in making sure machine learning technology and all other aspects involved really preserver freedom in a sustainable way.
+The term open source software (OSS) means FOSS in this publication. So freedom is important. 'Open source software' is sometimes also called “Free software”, “libre software”, “Free/open source software (FOSS or F/OSS)”, and “Free/Libre/Open Source Software (FLOSS)”. But the term “Free software” has been sometimes misinterpreted as meaning “no cost”, which is not the intended meaning. It is all about Freedom, so a better term would have been to call it Freedom Software. So 'Free' open source software (FOSS) refers to freedom, not price. 
 
+The Freedom part makes a great difference in making sure machine learning technology and all related aspects involved preserver freedom in a sustainable way.
 
-FOSS machine learning is crucial for all. In our view machine learning technology must be inclusive for all. This means that besides using FOSS machine learning frameworks like Tensorflow more aspects must be open and transparent. This to achieve that machine learning becomes a real open and inclusive technology that can be used for the advantage of everyone. And everyone should be able to experiment, play and create new machine learning application. Without without major obstacles in terms of cost for technology usage or hardware required.
+FOSS machine learning is crucial for all. In our view machine learning technology must be inclusive for all. This means that besides using FOSS machine learning frameworks like Tensorflow all aspects must be open and transparent. This to achieve that machine learning becomes a real open and inclusive technology that can be used for the advantage of everyone. And everyone should be able to experiment, play and create new machine learning application. Without without major obstacles in terms of cost for technology usage or hardware required.
 
 Free and Open machine learning means that everyone must be able to develop, test and play and deploy machine learning based solutions. So inclusive for all. Large investments should not be needed for using and applying machine learning. So not only companies or people who can afford the enormous investments needed in specialized GPU hardware should benefit of machine learning technology, but everyone should be able to create meaningful applications to create a better world.
 
-The following aspects are needed for real Free and Open Machine Learning:
+FOSS machine learning is involves more than FOSS software. The following aspects are needed for real Free and Open Machine Learning:
 
-- FOSS (Free and Open Source software)
-- Open data
-- Open algorithms (machine learning libraries)
-- Open architectures
+- FOSS Machine learning software (Free and Open Source software)
+- Open Data
+- Open Algorithms (Transparent machine learning algorithms)
+- Open Architectures
 - Open Science 
+
+These aspects are the core pillars of Free and Open Machine Learning.
+
+.. image:: /images/foss-ml.png
+   :alt: Pillars of FOSS Machine Learning
+   :align: center 
 
 
 
@@ -27,13 +34,25 @@ Free and open-source software (FOSS) is software that can be classified as both 
 
 Open Source is an approach for the design, development, and distribution of new products & knowledge offering practical accessibility to its source. Real open source solutions have a license that is approved by the ree Software Foundation (FSF) (https://www.fsf.org/) or the  Open Source Initiative (OSI) foundation (https://opensource.org/). Open source is all about collaboration and Freedom. Collaboration is key for developing, applying and using machine learning functionality. 
 
-Open Source Software(FOSS) is the norm for machine learning. However using open source software is still a new and innovative concept for a lot of companies. If you really want to benefit from new machine learning software you must go for a solid FOSS machine learning ecosystem. This makes you flexible, independent and you can still use thousands of consultancy firms and (Cloud)hosting companies that can help you, or are willing  to  provide hosting facilities.
 
-A transition towards FOSS software can already be very hard and can be disruptive for many companies. It takes the right mindset, attitude and culture within a company. Applying machine learning for real business cases is also already complex and challenging. So taking advantage of machine learning requires the right innovative mindset. Using machine learning without using the benefits that come with the FOSS ecosystems of choice, is like learning to swim without hitting the water. So hit the water as soon as possible, after a while you  see and use the benefits.
+Software is free software if users have the four essential freedoms:
 
-Machine learning applications are expensive to develop and to adopt. This accounts for the development process itself, good skilled professional IT engineers and scientist are expensive. But even more for the needed infrastructure and resources needed to develop meaningful applications for your business. This means that currently big firms like Google, IBM, Microsoft, Facebook and Amazon are at the front of the queue and smaller counterparts get left behind. Since most of the scientific knowledge is freely available and more and more infrastructure needed is available within the open source domain, this book is entirely focussed on openness and open source. The technique behind machine learning is too much fun and often requires adjustments and tweaking, which is hard when you are using black-box solutions. 
+- The freedom to run the program as you wish, for any purpose.
 
-OSS developments in the machine learning field are absolutely no hobby projects. Almost all major OSS machine learning developments are backed by small or large companies(e.g. Google, Microsoft, Facebook, Uber) active in the deep learning ecosystem. Also many great FOSS machine learning frameworks are backed by research groups of universities of research communities organized by universities. Small machine learning OSS projects are often developed by PhD researchers and are supported by a strong scientific foundation  or by universities.
+- The freedom to study how the program works, and change it so it does your computing as you wish. Access to the source code is a precondition for this.
+
+- The freedom to redistribute copies so you can help others. 
+
+- The freedom to distribute copies of your modified versions to others. By doing this you can give the whole community a chance to benefit from your changes. Access to the source code is a precondition for this.
+
+
+Open Source Software(FOSS) is the norm for machine learning. However using open source software is still a new and innovative concept for a many companies. If you really want to benefit from new machine learning software you must go for a solid FOSS machine learning ecosystem. This makes you flexible, independent and you can still use thousands of consultancy firms and (Cloud)hosting companies that can help you, or are willing  to  provide hosting facilities.
+
+A transition towards FOSS software can already be very hard and can be disruptive for many companies. It takes the right mindset, attitude and culture within a company. Applying machine learning for real business cases is also already complex and challenging. So taking advantage of machine learning requires the right innovative mindset. Using machine learning without using the benefits that come with the FOSS ecosystems of choice, is like learning to swim without hitting the water. So hit the water as soon as possible, after a while you see and use the benefits.
+
+Machine learning applications are expensive to develop and to adopt. This accounts for the development process itself but also good skilled professional IT engineers and scientist are expensive. But it accounts also for the needed infrastructure and other software resources needed to develop meaningful applications for your business. This means that currently big firms like Google, IBM, Microsoft, Facebook and Amazon are at the front of the queue and smaller counterparts get left behind. But most of the scientific knowledge of machine learning technology and a lot of software is open and freely available. The core concepts of the technique behind machine learning is crucial to known before starting business projects. Machine learning for real use cases requires adjustments and continuous tweaking, which is hard when you are using a inflexible black-box solutions. 
+
+FOSS developments in the machine learning field are absolutely no hobby projects. Almost all major OSS machine learning developments are backed by small or large companies(e.g. Google, Microsoft, Facebook, Uber) active in the deep learning ecosystem. Also many great FOSS machine learning frameworks are backed by research groups of universities of research communities organized by universities. Small machine learning OSS projects are often developed by PhD researchers and are supported by a strong scientific foundation  or by universities.
 
 A focus on open source (FOSS) software for applying machine learning for real is crucial. FOSS machine learning applications and frameworks have the following benefits:
 
@@ -69,7 +88,7 @@ When using machine learning FOSS solutions you can inspect the working and evalu
 Open data
 ----------
 
-For Free and Open machine learning we do not only need FOSS software, but also open data sets. Data is one of the most important aspects for making machine learning work. Without data and open transparent insights in the various quality aspects of the data machine learning is not open.
+For Free and Open machine learning you do not only need FOSS software, but also open data sets. Data is one of the most important aspects for making machine learning work. Without data and open transparent insights in the various quality aspects of the data machine learning is not open.
 
 Without data machine learning is not possible. FOSS Machine learning systems need open Data to function. To function properly the following is needed for FOSS machine learning:
 
@@ -93,7 +112,6 @@ Data collection and data preparation is a major bottleneck in open machine learn
 
 In the ideal FOSS machine learning world all non-personal information is open and free for everyone to use, build on and share. So every organisation, small or big, can create new machine learning applications. 
 
-
 Preparing data to be used for training machine learning models is still very time consuming and cost intensive. So most machine learning applications created make use of already trained models. E.g. for speech or image recognition. But for most unique use cases training your own machine learning model is crucial. 
 
 Machine learning involves data, so you and your your business should act based on leading data ethics principles. Some obvious data ethics principles are:
@@ -105,8 +123,8 @@ Machine learning involves data, so you and your your business should act based o
 
 
 
-Open Science
--------------
+Open Science and open algorithms
+----------------------------------
 
 Machine learning is a challenging science. Many researchers on universities worldwide are working to develop new knowledge for solving a range of complex problems.
 
@@ -124,24 +142,49 @@ This so everyone can validate claims, inspect algorithms used and can created an
 
 Only when the basic principles for open science are followed trust in machine learning algorithms and software frameworks is possible. 
 
+The key of machine learning is the algorithms. Algorithms that operate as “black boxes” should never be trusted. Fighting against e.g. your government is very difficult is no insight in the used algorithms. Open Algorithms developed in an open scientific environment are key for trust.
+
+FOSS machine learning with the use of open algorithms is needed to prevent a “black box society”. That is a society” in which key moments of our lives are mediated by unknown, unseen, and arbitrary algorithms. Open algorithms and algorithmic accountability is a way to stop this pattern. An open algorithm makes it possible for anyone to analyse. There is a freely available description and a FOSS reference implementation.
+
 
 
 Open architectures 
 -------------------
 
-.. todo:: Work in progress
+Architecture is a minefield. Architecture is not by definition high level and sometimes relevant details are of the utmost importance. It is not strange that the added value of architecture and architects within large companies and projects is under heavy pressure due to architecture failures at large and the emergence of agile approaches to solve business IT problems.
+
+Architecture (business, information, application and technical) have enormous impact on products we use daily. For developing and creating a large complex systems you still need an architecture. Developing a solid solution architecture and creating solutions by working using an agile method should reinforces each other.
+
+Open architectures should be concentrated around the following pillars:
+
+-   Created with FOSS tools.
+
+-   The created architecture is available for everyone using a friendly (creative commons) license.
+
+-   There is an open process in which everyone can without border participate to improve the architecture. E.g. also customers, business stakeholders other stakeholders that will be impacted by the architecture design in future.
+
+- The architecture is based around good usable standards that anyone can and may implement, use and improve. Unfortunate not all open standards are really open and usable.
+
+
+.. image:: /images/open-architecture.png
+   :alt: Open Architecture
+   :align: center 
+
 
 
 Green ML
 ----------
 
-Applying new technology brings new responsibilities. 
-Computations power needed for  deep learning  research  have  been  doubling  every  few  months. Machine learning computations can have a very  large carbon footprint. This is a results of the way most algorithms are designed. Most algorithms do give good results when large amounts of data are used and an enormous number of calculations are performed. Computers do use a lot of energy when calculations at large are performed. 
+Applying new technology brings new responsibilities. Computations power needed for  deep learning  research  have  been  doubling  every  few  months. Machine learning computations can have a very  large carbon footprint. This is a results of the way most algorithms are designed. 
+
+Most machine learning algorithms give only good results when large amounts of data are used and an enormous number of calculations are performed. Computers do use a lot of energy when calculations at large are performed. 
 
 Ironically, deep learning was inspired by the human brain, which is remarkably energy efficient. Moreover, the financial cost of the computations can make it difficult for academics, students, and researchers, in particular those from emerging economies, to engage in deep learning research.
 
-Green ML means is machine learning optimized to minimize resource utilization and environmental impact. This can be done by data center resource optimization, balancing training data requirements versus accuracy, choosing less resource intense models or in some cases transfer learning versus new models. 
+Green machine learning means is machine learning optimized to minimize resource utilization and environmental impact. This can be done by data center resource optimization, balancing training data requirements versus accuracy, choosing less resource intense models or in some cases transfer learning versus new models. 
 
 
-Besides the cost green machine learning is a important factor for Free and Open machine learning since the benefits machine learning can bring should not harm the environment of all living cells that have no direct relationship with your machine learning application. The Freedom to use this powerful technology should not limit the freedom to live in good health of others. So green ML is a difficult but important aspects for machine learning developments. So chose algorithms that perform well without weeks of calculation on datasets. Or make sure expensive and time consuming calculations can be reused by others in an easy way. 
+Besides the cost factor, green machine learning is an important factor for Free and Open machine learning since the benefits machine learning can bring should not harm the environment of all living cells that have no direct relationship with your machine learning application.
+
+The Freedom to use the powerful machine learning technology should not limit the freedom to live in good health of others. So green ML is a difficult but important aspects for machine learning developments. So chose algorithms that perform well without weeks of calculation on datasets. Or make sure expensive and time consuming calculations can be reused by others in an easy way. 
 
