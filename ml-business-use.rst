@@ -1,22 +1,26 @@
 Machine Learning for Business Problems
 =======================================
 
-Reading and talking about futuristic potential options for machine learning is nice and should be done. But applying machine learning today for your business is where you can make a real difference. This section is focussed on applying machine learning for real business use cases. Example use cases are outlined that are possible with current available FOSS machine learning building blocks. Some real world business use cases where machine learning is applied are shown. This to give you inspiration and information on possible options for your business. But beware that besides technology more is needed for applying machine learning in a business with success. This section also gives you some more in depth input of organisational factors that should be taken into account when applying machine learning for real business use.
+Reading and talking about futuristic potential options for machine learning is nice and should be done. But applying machine learning today for your business is where you can make a real difference. This section is focussed on applying machine learning for real business use cases. 
+
+Example use cases that are possible with current available FOSS machine learning building blocks are outlined. And some real world business use cases where machine learning is applied are shown. This to give you inspiration and information on possible options for your business. 
+
+Be aware that besides technology more is needed for applying machine learning in a business with success. This section gives you some more in depth input on organisational factors that should be taken into account when applying machine learning for real business use.
 
 
 When to use machine learning?
 ------------------------------
 
 Before starting and applying machine learning for solving business problems you must be aware that machine learning is not a tool for every problem. Or to put it even more clear: In most cases applying machine learning is overkill, too expensive, does not work, and other traditional software solutions make far more sense.
-So the short answer for most use case is: do not use machine learning. Keep it simple! Using machine learning is a complex and risky journey and it makes your business more complex.
+So the short answer for most use case is: **do not use machine learning.** Keep it simple! Using machine learning is a complex and risky journey and it makes your business more complex.
 
-But the temptation to use machine learning to solve complex problems is too promising to ignore. So you should try it. Preferably using a fast innovation project with minimal cost and no strings attached. If only try it to see if is has real some real opportunities for your use case. But be aware from the start that  machine learning doesn’t give perfect answers or a perfect solution. Risk will always exist,so you should get a feeling on the likelihood of a risk occurring. 
+But the temptation to use machine learning to solve complex problems is too promising to ignore. So you should try it. Preferably by using a fast innovation project with minimal cost and no strings attached. If only try it to see if is has real some real opportunities for your use case. But be aware from the start that  machine learning doesn’t give perfect answers or a perfect solution. Risk will always exist,so you should get a feeling on the likelihood of a risk occurring. 
 
 In some use cases machine learning can save you a lot of time and can make things possible that are out of reach using normal traditional software approaches. 
 
-With the use of machine learning it is possible to learn from patterns and conditions to get new solid outcomes or predictions based on new data. Machine learning is able to learn from changes in patterns (data) at a pace that the human mind can not. This makes that machine learning as a technology is useful for a set of use cases were learning from data is possible or needed. So that is one reason why machine learning only makes sense for a limited class of use cases.  
+With the use of machine learning it is possible to learn from patterns and conditions to get new solid outcomes or predictions based on new data. Machine learning is able to learn from changes in patterns (data) at a pace that the human mind can not. This makes that machine learning as a technology is useful for a set of use cases were learning from data is possible or needed. So this is one reason why machine learning only makes sense for a limited class of use cases.  
 
-Machine learning should not be used for use cases that can be easily solved in another way. 
+Machine learning should not be used for use cases that can easily be solved in another way. 
 For example do not use machine learning driven solutions if your use case matches one of the following criteria:
 
 * If it’s possible to structure a set of rules or “if-then scenarios” to handle your problem entirely, then there is usually no need to use machine learning at all.

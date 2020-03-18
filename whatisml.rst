@@ -1,14 +1,19 @@
 What is machine learning 
 ===========================
 
-To understand the basic principles of machine learning you do not need to be a PhD in computer science or have done a complex mathematical or technological study with a Master of Science (MSc) degree. Machine learning should be beneficial for everyone. So it is important that everyone can learn and understand the basics and the underlying principles. 
+To understand the basic principles of machine learning you do not need to have a PhD in computer science or have done a complex mathematical or technological study with a Master of Science (MSc) degree. Machine learning should be open and beneficial for everyone. So it is important that everyone can learn and understand the basics and the underlying principles of machine learning. 
 
-This section outlines the most used terms used within the machine learning field. If you are short on time and want to know what the machine learning buzz is all about: This is the section you should read! 
+This section outlines common used terms that are used within the machine learning field. If you are short on time and want to know what the machine learning buzz is all about: This is the section you should read! 
 
-Before introducing terms and definitions: Be aware that no unified de-facto definition of machine learning exist. So be aware that when people are writing and talking about ‘machine learning’ they can be talking about totally different things and subjects. The ML label is often misused and intertwined with AI. 
-Since investments in machine learning by large commercial companies are still growing, a lot of documentation that is freely available on machine learning is sometimes biased. In the reference section of this book we collect open access resources with much more extensive publications regarding the machine learning field. Mind that also open access publications are not free from commercial interest and are not always objective and unbiased. So be aware of facts and fads when reading machine learning papers and books. Be critical. 
+Before introducing terms and definitions: Be aware that no unified de-facto definition of machine learning exist. So be aware that when people are writing and talking about ‘machine learning’ they can be talking about totally different things and subjects. The machine learning (ML) label is often misused and intertwined with artificial intelligence (AI). 
 
-This section outlines essential concept surrounding machine learning more in depth.
+Investments in machine learning by large commercial companies are still growing. But a lot of documentation that is freely available on machine learning, especially some documents created by commercial vendors, is sometimes biased. In the reference section of this book you find a collection of open access resources to do a more in depth study on various machine learning subjects. Be aware that also open access publications are not free from commercial interest. So also open access publications on machine learning are not always objective and free from bias. 
+
+.. tip::
+
+   Be aware of facts and fads when reading machine learning papers and books. Always be critical. 
+
+This section outlines essential concepts surrounding machine learning more in depth.
 
 
 ML, AI and NLP: What is what
@@ -20,7 +25,7 @@ So lets start with a high level separation of common used terms and their meanin
 
 - AI (Artificial intelligence) is concerned with solving tasks that are easy for humans but hard for computers. 
 
-- ML (Machine learning) is the science of getting computers to act without being explicitly programmed. Machine learning (ML) is basically a learning through doing.  Often ML is regarded as a subset of AI.
+- ML (Machine learning) is the science of getting computers to act without being explicitly programmed. Machine learning (ML) is basically a learning through doing.  Often machine learning is regarded as a subset of AI.
 
 - NLP (Natural language processing) is the part of machine learning that has to do with language (usually written). NLP concepts are outlined more in depth in another chapter of this book.
 
@@ -29,7 +34,7 @@ So lets start with a high level separation of common used terms and their meanin
    :alt: ML,AI and NLP
    :align: center 
 
-A clear distinguishing between AI and ML is hard to make. Discussions on making a clear distinguishing are often a waste of time and are heavily biased. For this publication we use the term ML, since machine learning can be brought down to tangible hard mathematical algebra and software implementations. Philosophical discussions on questions ‘what is intelligence?’ are mostly related to AI discussions. 
+A clear distinguishing between AI and ML is hard to make. Discussions on making a clear distinguishing are often a waste of time and are heavily biased. For this publication we use the term machine learning (ML), since machine learning can be brought down to tangible hard mathematical algebra, software implementations and tangible applications. Philosophical discussions on questions ‘what is intelligence?’ are mostly related to AI discussions. 
 
 At its core, machine learning is simply a way of achieving AI. Machine learning can be seen as currently the only viable approach to building AI systems that can operate in complicated real-world environments. 
 
@@ -49,7 +54,7 @@ There are a lot of ways to simulate human intelligence, and some methods are mor
 
 - How do we prevent AI machines to kill human life, since AI machines will be ‘smarter’ than human intelligence ever will be.
 
-These ethical questions should not be neglected. In the section [‘ML in Business’ ] a more deep dive in the ethical issues for applying machine learning for business use cases is given.
+These ethical questions should not be neglected. In the section 'ML in Business problems’ a  deep dive in the ethical issues for applying machine learning for business use cases is given.
 
 
 Machine Learning is the most used current application of AI based around the idea that we should really just be able to give machines access to data and let them learn for themselves.
@@ -60,11 +65,12 @@ The paradigm shift: Creating smart software
 
 To really understand machine learning a new view on how software can be created and works is needed. Most of our current computer programs are coded by using requirements, logic and design principles for creating good software. E.g. When you add an item to your shopping cart, you trigger an application component to store an entry in a shopping cart database table. So humans create an algorithm to solve a problem. Algorithms are a sequence of computer instructions used to solve a problem. 
 
- However many real world problems aren't so easy to solve. A good solution requires knowledge of the context and a lot of hard to point domain knowledge built from experience. 
+Many real world problems aren't easy to solve. A good solution requires knowledge of the context and a lot of domain knowledge built from experience. The domain knowledge needed is often difficult to identify exactly.
 
 Determining the exact context of a car in traffic and in order to make a decision within milliseconds to go left or right is very hard programming challenge. It takes you decades and you will never do it right.  This is why a paradigm shift in creating software for the next phase of automation is needed. 
 
-Programming computers the traditional way made it possible to put a man on the moon. To break new barriers in automation in our daily lives and science requires new ways of thinking about creating intelligent software. Machine learning is a new way to ‘program’ computers. When a programming challenge is too large to solve with traditional programming methods (requirements collection, decision rules collection, etc) a program for a computer should be ‘generated’. Generated based on some known desired output types. But knowing all desired output types in front for a problem solution is often impossible. So your new machine learning ‘program’ will get it wrong sometimes. Large amounts of input data increases the quality of the generated prediction model. In the old traditional paradigm called ‘the program’. 
+Programming computers the traditional way made it possible to put a man on the moon. To break new barriers in automation in our daily lives and science requires new ways of thinking about creating intelligent software. Machine learning is a new way to ‘program’ computers. When a programming challenge is too large to solve with traditional programming methods (requirements collection, decision rules collection, etc) a program for a computer should be ‘generated’. Generated based on some known desired output types. 
+But knowing all desired output types in front for a problem solution is often impossible. **So your new machine learning ‘program’ will get it wrong sometimes.** Large amounts of input data increases the quality of the generated prediction model. In the old traditional paradigm called ‘the program’. 
 
 
 .. image:: /images/whatisml.png   
@@ -73,9 +79,11 @@ Programming computers the traditional way made it possible to put a man on the m
 
 Difference between general programming and (supervised) machine learning.
 
-In essence machine learning makes computers learn the same way people learn: Through experience. And just as with humans algorithms exist that makes it possible to make use of learned experience of other computers to make your machine learning application faster and better. 
+In essence machine learning makes computers learn the same way people learn: Through experience. And just as with humans, algorithms exist that makes it possible to make use of learned experience of other computers to make your machine learning application faster and better. 
 
-The essence of machine learning is that a model is constructed based on so called training data. In machine learning, learning algorithms so not computer programmers, create the rules. The term ML model refers to the model artefact that is created by the training process. With this machine learning model it is now possible to create meaningful output based on new input. At least when the trained model is functioning as intended. In the figure below another view of the essence of the working of machine learning.
+The essence of machine learning is that a model is constructed based on so called training data. In machine learning, learning algorithms, so not computer programmers, create the rules. 
+
+The term machine learning model refers to the model artefact that is created by the training process. With this machine learning model it is now possible to create meaningful output based on new input. At least when the trained model is functioning as intended. In the figure below another view of the essence of the working of machine learning.
 
 .. image:: /images/essence-of-ml.png   
    :alt: Machine learning working
@@ -103,7 +111,7 @@ A model of data (plain numbers) can be used for any number of things. E.g.:
 Statistics is not machine learning
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Statistics is not machine learning. So let repeat this one more time:Statistics is not machine learning. But the truth is that statistics and machine learning are intertwined and can not be seen separated. So for a good understanding and basic knowledge of ML basic statistics knowledge is important.
+Statistics is not machine learning. So let repeat this one more time:Statistics is not machine learning. But the truth is that statistics and machine learning are intertwined and can not be seen separated. So for a good understanding and basic knowledge of machine learning, basic statistics knowledge is important.
 
 The question ‘What’s the difference between Machine Learning and Statistics?’ is a questions that occurs often and leads to heavy discussion among scientist. To get it straight: A very clear separation between machine learning and statistics is hard to make. Machine Learning is however more a hybrid field than statistics. Some answers on this question are:
 
@@ -140,10 +148,11 @@ Overview machine learning methods
 
 Whenever you are confronted with machine learning it is good to known that different methods, and thus approaches, exist. 
 
-At the highest level, machine learning can be categorized into two main types:
+At the highest level, machine learning can be categorized into the following core types:
 
-* Supervised learning and
+* Supervised learning. 
 * Unsupervised learning.
+* Reinforcement Learning.
 
 
 .. image:: /images/ml-methods.png
@@ -155,9 +164,12 @@ At the highest level, machine learning can be categorized into two main types:
 Supervised Learning
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
-Supervised Learning: Most practical solutions use supervised learning. Supervised learning encompasses approaches to satisfy the need to classify things into categories , known as classification. It also includes approaches to address the need to provide variable real-value solutions such as weight or height   known as regression.
+Supervised learning addresses the task of predicting targets given input data. 
+
+Most practical business machine learning solutions use supervised learning. Supervised learning encompasses approaches to satisfy the need to classify things into categories , known as classification. It also includes approaches to address the need to provide variable real-value solutions such as weight or height   known as regression.
 
 With supervised learning the learning algorithm is given labelled data and the desired output. For example, pictures of cats labelled “cat” help the algorithm to identify the rules to classify pictures of cats.
+
 
 Unsupervised Learning
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -199,10 +211,6 @@ RL methods are employed to address the following typical problems:
 * the Control Problem. 
 
 
-Supervised learning
-^^^^^^^^^^^^^^^^^^^^^^
-
-Supervised learning addresses the task of predicting targets given input data. 
 
 Deep learning (DL)
 ^^^^^^^^^^^^^^^^^^^
@@ -246,7 +254,7 @@ With AutoML the challenge is to turn this into:
 Other common terms used in the ML world
 -----------------------------------------
 
-Within the world of ML you read and hear about concepts and terms as networks, deep learning, reinforcement learning and more. Many of these terms are derived from years of scientific progress and discussions. 
+Within the world of machine learning you read and hear about concepts and terms as networks, deep learning, reinforcement learning and more. Many of these terms are derived from years of scientific progress and discussions. 
 
 Data science
 ^^^^^^^^^^^^^^^^
@@ -276,7 +284,7 @@ The ‘thinking’ or processing that a brain carries out is the result of these
 
 NN are can be regarded as statistical models directly inspired by, and partially modelled on biological neural networks. They are capable of modelling and processing non-linear relationships between inputs and outputs in parallel. The related algorithms are part of the broader field of machine learning, and can be used in many applications.
  
-Features (also called attributes): Properties of an data object to train a ML system. Think of features as number of colours in your street,the number of leafs on a tree, or the size of a garden. A smart selection of features is crucial to train a ml system. 
+Features (also called attributes): Properties of an data object to train a machine learning system. Think of features as number of colours in your street,the number of leafs on a tree, or the size of a garden. A smart selection of features is crucial to train a machine learning system. 
 
 
 Vision
@@ -302,15 +310,25 @@ Language
 
 Understanding each other is hard. But this is typical a field where machine learning applications, mainly NLP driven have made great progress using (new)machine learning techniques and technologies.
 
-A definition of language as used within the ML field:
+A definition of language as used within the machine learning field:
 
 * The ability of computers to comprehend the meaning of the words, taking into account the many nuances and complexities of language (such as slang and idiomatic expressions).
 
 Knowledge
 ^^^^^^^^^^^^^
 
-Defining knowledge is hard, but crucial for many machine learning applications. An attempt to define knowledge in the context of ML:
+Defining knowledge is hard, but crucial for many machine learning applications. An attempt to define knowledge in the context of machine learning:
 
 Knowledge:
 
 * The ability of a computer to reason by understanding the relationship between people, things, places, events and context.
+
+Overfitting
+^^^^^^^^^^^^^^
+
+Overfitting means the model fits the parameters too closely with regard to the particular observations in the training dataset, but does not generalize well to new data. Most of the time the model is too complex for the given training data.
+
+Program synthesis
+^^^^^^^^^^^^^^^^^^^
+
+Program synthesis can automatically produce software code. Its applications range from web automation, hardware security, operating system extensions, programming for non-programmers, authoring of SQL queries, configuration management, automatic code translation, and superoptimization. 
