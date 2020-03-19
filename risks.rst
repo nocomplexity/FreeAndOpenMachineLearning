@@ -22,7 +22,7 @@ Machine learning software differs from traditional software because:
 
 What makes security and safety more than normal aspects for machine learning driven applications is that by design neural networks are not designed to to make the inner workings easy to understand for humans and quality and risk managers.
 
-Without a solid background in mathematics and software engineering evaluating the correct working of most machine learning application is impossible for security researchers safety auditors. 
+Without a solid background in mathematics and software engineering evaluating the correct working of most machine learning application is impossible for security researchers and safety auditors. 
 
 However more and more people dependent on the correct outcome of decisions made by machine learning software. So we should ask some critical questions:
 

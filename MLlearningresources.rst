@@ -3,11 +3,11 @@ ML Learning resources
 
 Learning machine learning does not have to be very expensive or time consuming. Great learning material for machine learning is licensed under a Creative Commons license. For starters but also people who are already more familiar with the key concepts.
 
-This section presents an opinionated list of great machine learning learning resources. A lot of garbage is produced on the internet and even paid courses are often not that good. But most material released under a open license is of excellent quality. This list consist of very readable references and some great hands-on courses.
+This section presents an opinionated list of great machine learning learning resources. A lot of garbage is produced on the internet and even paid courses are often not that good. But most material released under an open license is of excellent quality. This list consist of very readable references and some great hands-on courses.
 
-Only resources that are real open, so resources published using a Creative Commons license (cc-by mostly) or other types of real open licensed material are included.  
+Only resources that are real open, so resources published using a Creative Commons license (cc-by mostly) or other types of real open licensed material is included.  
 
-Most learning resource include hands-on tutorials. So be ready to use a notebook, but most tutorials offer notebooks ready to use directly. 
+Most learning resources include hands-on tutorials. So be ready to use a notebook, but most tutorials offer notebooks ready to use directly. 
 
 
 - A Course in Machine Learning, http://ciml.info/ 
@@ -18,7 +18,7 @@ Most learning resource include hands-on tutorials. So be ready to use a notebook
 
 |
 
-- Building Safe A.I., A Tutorial for Encrypted Deep Learnig, https://iamtrask.github.io/2017/03/17/safe-ai/ 
+- Building Safe A.I., A Tutorial for Encrypted Deep Learning, https://iamtrask.github.io/2017/03/17/safe-ai/ 
 
 |
 

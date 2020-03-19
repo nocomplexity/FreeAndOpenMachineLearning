@@ -4,7 +4,7 @@ Natural Language Processing
 Introduction
 -------------
 
-A real tangible and still the most applied use case for machine learning is natural language processing (NLP). Many businesses use cases for machine learning are based information. This can be input or processed information. In fact most business use cases that can benefit of machine learning have nothing to do with images or video. Most business do have information of customers in digital form available and want to use this data to develop more value added services for their customers. 
+A real tangible and still the most applied use case for machine learning is natural language processing (NLP). Many businesses use cases for machine learning are based on information. This can be input or processed information. In fact most business use cases that can benefit of machine learning have nothing to do with images or video. Most business do have information of customers in digital form available and want to use this data to develop more value added services for their customers. 
 
 Everything that has to do with text processing and involves machine learning can be categorized as Natural Language Processing (NLP).
 
@@ -21,7 +21,7 @@ NLP is experiencing rapid growth as its theories and methods are deployed in a v
 
 More and more NLP techniques are used products that have serious impact on our daily lives. A misinterpreted pronounced word like ‘stop’ can have several meanings when used within an autonomous driving car. Maybe you just meant to warn your children instead of stopping the vehicle on a dangerous intersection. 
 
-Creating good NLP based application using machine learning is hard. A simple test that gives an indication of the quality is to use a the sentence “Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo”. This sentence is correct. But many NLP algorithms and applications cannot handle this very well. Similar sentences exist in other languages. We humans are by nature good with complicated linguistic constructs, but many NLP algorithms still fail with this simple example. Some background information on this sentence can be found on Wikipedia (https://en.wikipedia.org/wiki/Buffalo_buffalo_Buffalo_buffalo_buffalo_buffalo_Buffalo_buffalo )
+Creating good NLP based applications using machine learning is hard. A simple test that gives an indication of the quality is to use a the sentence “Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo”. This sentence is correct. But many NLP algorithms and applications cannot handle this very well. Similar sentences exist in other languages. We humans are by nature good with complicated linguistic constructs, but many NLP algorithms still fail with this simple example. Some background information on this sentence can be found on Wikipedia (https://en.wikipedia.org/wiki/Buffalo_buffalo_Buffalo_buffalo_buffalo_buffalo_Buffalo_buffalo )
 
 
 
@@ -32,7 +32,7 @@ NLP is able to do all kinds of basic text functions. A short overview:
 
 * Text Classification (e.g. document categorization).
 * Finding words with the same meaning for search.
-* Understanding how much time does it take to read a text.
+* Understanding how much time it take to read a text.
 * Understanding how difficult it is to read is a text.
 * Identifying the language of a text.
 * Generating a summary of a text.
@@ -58,7 +58,7 @@ To create NLP enabled applications you need to set up a 'pipeline' for the vario
    :align: center 
 
 
-In the figure below a typical NLP architecture for providing input on common user questions. A lot of  Bot systems (Build–operate–transfer) or FAQ answering systems are created with no machine learning algorithms at all. Often simple key word extraction is done and a simple match in a database is performed. More state-of-the-art NLP systems make intensive use of machine learning algorithms. The general rule is: If a application should be user friendly and value added than learning algorithms are needed, since it is no longer possible to program output based on given input.
+In the figure below a typical NLP architecture for providing input on common user questions. A lot of  Bot systems (Build–operate–transfer) or FAQ answering systems are created with no machine learning algorithms at all. Often simple keyword extraction is done and a simple match in a database is performed. More state-of-the-art NLP systems make intensive use of machine learning algorithms. The general rule is: If a application should be user friendly and value added than learning algorithms are needed, since it is no longer possible to program output based on given input.
 
 
 .. image:: /images/nlp-architecture.png   

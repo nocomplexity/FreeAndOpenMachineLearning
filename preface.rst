@@ -22,7 +22,7 @@ Machine learning is and should not be the exclusive domain of commercial compani
 
 Nowadays knowledge is more and more openly shared, thanks to open access, open publication licenses and open source software. So everyone can and should benefit from the possibilities that open machine learning frameworks and tools provide. 
 
-To create this publication a lot of papers, books and reports on machine learning have been examined. And doing some ‘hands-on’ to experiences and feel the power of machine learning algorithms turned out to be crucial for understanding and creating this publication as well. This publication is focussed on making a the complex machine learning technology simple to use. 
+To create this publication a lot of papers, books and reports on machine learning are examined. And doing some ‘hands-on’ to experiences and feel the power of machine learning algorithms turned out to be crucial for understanding and creating this publication as well. This publication is focussed on making a the complex machine learning technology simple to use. 
 
 In my journey on learning how to apply machine learning for real business use cases many books turned out to be either too theoretical, or too much focused on programming machine learning algorithms. As an IT architect I missed the overall machine learning architecture picture from a typical IT architecture point of view. So business, information, application, infrastructure, security and privacy perspective. This publication fills up that gap. 
 

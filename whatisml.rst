@@ -5,9 +5,9 @@ To understand the basic principles of machine learning you do not need to have a
 
 This section outlines common used terms that are used within the machine learning field. If you are short on time and want to know what the machine learning buzz is all about: This is the section you should read! 
 
-Before introducing terms and definitions: Be aware that no unified de-facto definition of machine learning exist. So be aware that when people are writing and talking about ‘machine learning’ they can be talking about totally different things and subjects. The machine learning (ML) label is often misused and intertwined with artificial intelligence (AI). 
+Before introducing terms and definitions: Be aware that no unified de-facto definition of machine learning exists. So be aware that when people are writing and talking about ‘machine learning’ they can be talking about totally different things and subjects. The machine learning (ML) label is often misused and intertwined with artificial intelligence (AI). 
 
-Investments in machine learning by large commercial companies are still growing. But a lot of documentation that is freely available on machine learning, especially some documents created by commercial vendors, is sometimes biased. In the reference section of this book you find a collection of open access resources to do a more in depth study on various machine learning subjects. Be aware that also open access publications are not free from commercial interest. So also open access publications on machine learning are not always objective and free from bias. 
+Investments in machine learning by large commercial companies are still growing. But a lot of documentation that is freely available on machine learning, especially some documents created by commercial vendors, are sometimes biased. In the reference section of this book you find a collection of open access resources to do a more in depth study on various machine learning subjects. Be aware that also open access publications are not free from commercial interest. So also open access publications on machine learning are not always objective and free from bias. 
 
 .. tip::
 
@@ -19,9 +19,9 @@ This section outlines essential concepts surrounding machine learning more in de
 ML, AI and NLP: What is what
 -----------------------------
 
-Machine Learning (ML) and Artificial Intelligence (AI) are terms that are crucial to known when creating machine learning driven solutions. But also the term NLP (Natural language processing) is a term that is crucial for understanding current machine learning application that are created for speech or text. E.g. for bots with which you can converse instead of humans. 
+Machine Learning (ML) and Artificial Intelligence (AI) are terms that are crucial to know when creating machine learning driven solutions. But also the term NLP (Natural language processing) is a term that is crucial for understanding current machine learning application that are created for speech or text. E.g. for bots with which you can converse instead of humans. 
 
-So lets start with a high level separation of common used terms and their meaning:
+So let's start with a high level separation of common used terms and their meaning:
 
 - AI (Artificial intelligence) is concerned with solving tasks that are easy for humans but hard for computers. 
 
@@ -34,7 +34,7 @@ So lets start with a high level separation of common used terms and their meanin
    :alt: ML,AI and NLP
    :align: center 
 
-A clear distinguishing between AI and ML is hard to make. Discussions on making a clear distinguishing are often a waste of time and are heavily biased. For this publication we use the term machine learning (ML), since machine learning can be brought down to tangible hard mathematical algebra, software implementations and tangible applications. Philosophical discussions on questions ‘what is intelligence?’ are mostly related to AI discussions. 
+A clear distinction between AI and ML is hard to make. Discussions on making a clear distinguishing are often a waste of time and are heavily biased. For this publication we use the term machine learning (ML), since machine learning can be brought down to tangible hard mathematical algebra, software implementations and tangible applications. Philosophical discussions on questions ‘what is intelligence?’ are mostly related to AI discussions. 
 
 At its core, machine learning is simply a way of achieving AI. Machine learning can be seen as currently the only viable approach to building AI systems that can operate in complicated real-world environments. 
 
@@ -50,7 +50,7 @@ A few other definitions of artificial intelligence:
 
 There are a lot of ways to simulate human intelligence, and some methods are more intelligent than others. AI raises questions on the philosophical spectrum, like ‘What is intelligence?’, ‘How do we measure intelligence?’ AI also gives a lot of fuel for ethical discussions like:
 
-- Should AI driven machine be a legal entity?
+- Should AI driven machine learning be a legal entity?
 
 - How do we prevent AI machines to kill human life, since AI machines will be ‘smarter’ than human intelligence ever will be.
 
@@ -63,7 +63,7 @@ Machine Learning is the most used current application of AI based around the ide
 The paradigm shift: Creating smart software
 ---------------------------------------------
 
-To really understand machine learning a new view on how software can be created and works is needed. Most of our current computer programs are coded by using requirements, logic and design principles for creating good software. E.g. When you add an item to your shopping cart, you trigger an application component to store an entry in a shopping cart database table. So humans create an algorithm to solve a problem. Algorithms are a sequence of computer instructions used to solve a problem. 
+To really understand machine learning a new view on how software can be created and how it works is needed. Most of our current computer programs are coded by using requirements, logic and design principles for creating good software. E.g. When you add an item to your shopping cart, you trigger an application component to store an entry in a shopping cart database table. So humans create an algorithm to solve a problem. Algorithms are a sequence of computer instructions used to solve a problem. 
 
 Many real world problems aren't easy to solve. A good solution requires knowledge of the context and a lot of domain knowledge built from experience. The domain knowledge needed is often difficult to identify exactly.
 
@@ -93,7 +93,7 @@ The term machine learning model refers to the model artefact that is created by 
 What is a machine learning model
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-A machine learning model consist of numbers. Most of the time a very large amount of numbers. 
+A machine learning model consists of numbers. Most of the time a very large amount of numbers. 
 With the danger of getting into math: A machine learning model is a collection of numbers that are presented in a large multi dimensional matrix.
 
 A model in the machine learning world is not different than any other mathematical model that presents some knowledge or (trained)information. It is just a large amount of numbers. So you need the algorithm to use it. 
@@ -104,7 +104,7 @@ A model of data (plain numbers) can be used for any number of things. E.g.:
 
 - To classify data. Say you’ve trained a classifier that classifies whether a photo contains a cat or not. That classifier concisely summarizes your data as “cat photo” or “non-cat photo.”
 
-- A efficient way to represent data for some other task. For example, you might generate paraphrases of a documents and model this as vector data. You can then use this model to classify the unique author of the text. So if you present a new document to this model using a simple machine learning algorithms the model gives you a number that indicates if this new document is from the same author or not. 
+- An efficient way to represent data for some other task. For example, you might generate paraphrases of a documents and model this as vector data. You can then use this model to classify the unique author of the text. So if you present a new document to this model using a simple machine learning algorithms the model gives you a number that indicates if this new document is from the same author or not. 
 
 
 
@@ -113,7 +113,7 @@ Statistics is not machine learning
 
 Statistics is not machine learning. So let repeat this one more time:Statistics is not machine learning. But the truth is that statistics and machine learning are intertwined and can not be seen separated. So for a good understanding and basic knowledge of machine learning, basic statistics knowledge is important.
 
-The question ‘What’s the difference between Machine Learning and Statistics?’ is a questions that occurs often and leads to heavy discussion among scientist. To get it straight: A very clear separation between machine learning and statistics is hard to make. Machine Learning is however more a hybrid field than statistics. Some answers on this question are:
+The question ‘What’s the difference between Machine Learning and Statistics?’ is a questions that occurs often and leads to heavy discussion among scientists. To get it straight: A very clear separation between machine learning and statistics is hard to make. Machine Learning is however more a hybrid field than statistics. Some answers on this question are:
 
 - Machine learning is essentially a form of applied statistics.
 
@@ -215,7 +215,7 @@ RL methods are employed to address the following typical problems:
 Deep learning (DL)
 ^^^^^^^^^^^^^^^^^^^
 
-Deep Learning(DL) is an approach to machine learning which drives the current hype wave of self riding cars and more. 
+Deep Learning(DL) is an approach to machine learning which drives the current hype wave of self driving cars and more. 
 
 Deep Learning (DL) is a type of machine learning that enables computer systems to improve with experience and data. Deep learning is a subfield of machine learning. 
 
@@ -289,7 +289,7 @@ Features (also called attributes): Properties of an data object to train a machi
 
 Vision
 ^^^^^^^^^^^
-A lot of machine learning application work on vision. But vision for computers is different than vision for humans. Humans can not see without thinking. And when we see something our mind is concepts playing with us.
+A lot of machine learning applications work on vision. But vision for computers is different from vision for humans. Humans can not see without thinking. And when we see something our mind is concepts playing with us.
 
 Vision for computers can be defined as:
 

@@ -16,7 +16,7 @@ The following activities will reduce safety risks and increase reliability of ma
 
 * Systematic evaluation: So evaluate the data and models used to train and operate machine learning based products and services.
 
-* Create a processes for solid documenting and auditing operations. 
+* Create processes for solid documenting and auditing operations. 
 
 * Involve domain experts. Involvement of domain experts in the design process and operation of machine learning systems. Also involve real people in advance who are in the end targeted by outcomes of ml systems especially when decisions about people are made using machine learning applications. 
 

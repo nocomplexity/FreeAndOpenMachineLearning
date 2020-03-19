@@ -13,7 +13,7 @@ NLP enabled application make a good fit for businesses where analysing or proces
 
 * Survey analytics: If you are analysing large amounts of surveys you can use old-skool reporting and statistical techniques. But a NLP based analyse makes it possible to faster and easier find patterns, categories and anomalies that are hard to find manual in survey responses with more than 20.000 responses. 
 
-* Spam filters: Emails that contain text and words such as “free”, “promotion”, “buy now” , 'coin' , 'offer' , etc, have a high chance of being spam. With the use of NLP technology creating self learning spam filters is possible. Sometimes too good.
+* Spam filters: Emails that contain text and words such as “free”, “promotion”, “buy now” , 'coin' , 'offer' , etc, have a high chance of being spam. With the use of NLP technology you can create self learning spam filters. Sometimes too good.
 
 * Autocomplete: With an autocomplete function it is possible to predicts what the next characters or words will be that you will enter. This makes the use of text based UI simpler. 
 

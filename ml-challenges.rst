@@ -40,19 +40,20 @@ Testing should be done on:
 - Software QA aspects. In fact all ISO QA factors should be evaluated. 
 - Security, Privacy and safety aspects.
 
-Overview ISO Qualitiy Standard(25010)
+Overview ISO Quality Standard(25010)
 
 .. image:: /images/iso-25010.png  
    :alt: Typical NLP Architecture 
    :align: center 
 
-The material of ISO is not open. But since quality matters and ISO 25010 is used heavily for managing quality aspects within business IT systems you should keep these factors in mind when developing test to minimize business risks.
+The ISO documents are not open. But since quality matters and ISO 25010 is used heavily for managing quality aspects within business IT systems you should keep these factors in mind when developing test to minimize business risks.
 
 Data testing for ML pipelines is different and can be complex. Data preparation and testing for machine learning  is not comparable with data testing for traditional IT projects. This is because it requires a statistical test performed on the data set. If input data changes this can have a significant effect on the outcome. 
 Good statistical practice is an essential component of good scientific practice but also for real world ML applications. Especially when safety aspects play a role. Also mind that ML can be in essence is still seen as applied statistics. Validation of outcomes using statistical methods is proven science. 
 
 
-Good statistical practice is an essential component of good scientific practice but also for real world ML applications. Especially when safety aspects play a role. Also mind that ML can be in essence is still seen as applied statistics. Validation of outcomes using statistical methods is proven science. 
+Good statistical practice is an essential component of good scientific practice but also for real world ML applications. Especially when safety aspects play a role. Also mind that ML can be in essence is still seen as applied statistics. 
+
 In statistical hypothesis testing, the p-value or probability value is the probability of obtaining test results at least as extreme as the results actually observed during the test.
 The p-value was never intended to be a substitute for scientific reasoning. Well-reasoned statistical arguments contain much more than the value of a single number and whether that number exceeds an arbitrary threshold. So for evaluating machine learning results the principles of American Statistical Association (ASA) can be useful. These principles are:
 
@@ -124,17 +125,17 @@ Machine learning models degrade in accuracy in production. This since the new in
 
 Machine learning models are not a typical category of software. In fact a machine learning model should not be regarded as software at all. This means that maintenance should be organized and handled in a different way. There is never a final version of a machine learning model. So when using machine learning you need engineers that continuously updated and improved the model. 
 
-So setting up end user feedback, accuracy measurements, monitoring data trends are important factors for organizations when using machine learning. But the traditional IT maintenance task as monitoring servers, network and infrastructure, security threats and application health are also still needed.
+So setting up end user feedback, accuracy measurements, monitoring data trends are important factors for organizations when using machine learning. But the traditional IT maintenance task as monitoring servers, network and infrastructure, security threats and application health is  also still needed.
 
 Maturity of ML technology
 --------------------------
 
-Machine Learning is moving from the realm of universities and hard core data science into a technology that can be integrated for mainstream application for every business. However machine learning technology is not yet idiot proof. Many algorithms are not used for real world applications on large scale. Also many machine learning building blocks are still in heavy development. Of course in near future machine learning applications will never be idiot proof, since this is the nature of current machine learning technologies. But acceptable margins for normal errors and disasters are not yet solid predictable at the start of a project. 
+Machine Learning is moving from the realm of universities and hard core data science into a technology that can be integrated for mainstream application for every business. However machine learning technology is not yet idiot proof. Many algorithms are not used for real world applications on a large scale. Also many machine learning building blocks are still in heavy development. Of course in near future machine learning applications will never be idiot proof, since this is the nature of current machine learning technologies. But acceptable margins for normal errors and disasters are not yet solid predictable at the start of a project. 
 
 
 But thanks to the development of many quality OSS machine learning building blocks and platforms doing a Proof of Concept becomes within reach for every business. 
 
-FOSS Machine learning still needs a lot of boring work that is invisible but crucial for overal quality. The boring work is avoided at most universities and most companies choice the easy path towards commercial offerings. But for high value FOSS machine learning applications everyone who shares the principles for FOSS ML can and should contribute to the foundation work needed for machine learning.
+FOSS Machine learning still needs a lot of boring work that is invisible but crucial for overall quality. The boring work is avoided at most universities and most companies choice the easy path towards commercial offerings. But for high value FOSS machine learning applications everyone who shares the principles for FOSS ML can and should contribute to the foundation work needed for machine learning.
 
 .. image:: /images/business-quadrants.png 
    :alt: Types of work for Machine Learning 
@@ -147,7 +148,7 @@ Data and bias
 
 Machine learning is only as good as the data used for training. So too often machine learning applications are biased based. This is is a consequence of the used input.
 
-In general almost all development time is spend on data related tasks. E.g. prepare data to be used as training data and manual classification.
+In general almost all development time is spent on data related tasks. E.g. prepare data to be used as training data and manual classification.
 
 Data is selecting is expensive and complex since often privacy aspects are involved.
 
@@ -175,7 +176,7 @@ Machine learning can be easily susceptible to attacks and notoriously difficult 
 
 * Infer Genetic Disease From Your Face - DeepGestalt can accurately identify some rare genetic disorders using a photograph of a patient's face. This could lead to payers and employers potentially analyzing facial images and discriminating against individuals who have pre-existing conditions or developing medical complications. [Nature Paper]
 
-* Racist Chat Bots - Microsoft chatbot called Tay spent a day learning from Twitter and began spouting antisemitic messages.
+* Racist Chat Bots - Microsoft chatbot called Tay spent a day learning from Twitter and began spouting anti semitic messages.
 
 * Social Media Propaganda - The Military is studying and using data-driven social media propaganda to manipulate news feeds in order to change the perceptions of military actions. 
 
@@ -189,7 +190,7 @@ Data quality and problems to get your data quality right before starting should 
 Quality of Machine Learning frameworks
 ----------------------------------------
 
-Only a few people understand the complex mathematical algorithms behind machine learning. History learns that implementing an algorithms into software correctly has proven to be very complex and difficult. When you use FOSS machine learning software you have one large advantage over commercial 'black-box' software: You can inspect the software of ask some agency to provide a quality audit. 
+Only a few people understand the complex mathematical algorithms behind machine learning. History learns that implementing an algorithms into software correctly has proven to be very complex and difficult. When you use FOSS machine learning software you have one large advantage over commercial 'black-box' software: You can inspect the software or ask an IT consultancy company to provide a quality audit. 
 
 The recent years there is a continuous growth of open machine learning tools and frameworks.Determining which toolkits are good enough for your business case is not trivial. 
 

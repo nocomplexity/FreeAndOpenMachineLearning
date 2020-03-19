@@ -15,14 +15,14 @@ Security aspects for machine learning accounts for the application where machine
 
 * System attacks special for machine learning systems. Machine learning offers new opportunities to break existing traditional software systems.
 
-* Machine learning usage threats. The outcome of many machine learning systems is far from correct. If you base decisions or trust on machine learning application you can make serious mistakes. This accounts e.g. for self driving vehicles, health care systems and surveillance systems. Machine learning systems are known for producing racially biased results often caused by using biased data sets. Think about problematic forms of "profiling" based on surveillance cameras with face detection. 
+* Machine learning usage threats. The outcome of many machine learning systems is far from correct. If you base decisions or trust on machine learning applications you can make serious mistakes. This accounts e.g. for self driving vehicles, health care systems and surveillance systems. Machine learning systems are known for producing racially biased results often caused by using biased data sets. Think about problematic forms of "profiling" based on surveillance cameras with face detection. 
 
 * Machine learning hosting and infrastructure security aspects. This category is not special for machine learning but is relevant for all IT systems. Protecting 'normal' software solutions was already a known challenge. But inspecting and protecting machine learning systems require besides already deep knowledge of cyber security also knowledge of nature of machine learning systems. And remember: Machine learning systems are not traditional software systems. A machine learning systems is a complete other paradigm that requires new knowledge of building a thread model to take measurements to reduce security risks. When manipulated training data is used when training your machine learning model it make results horrible and can be dangerous.
 
 So key threads for machine learning system can be seen as:
 
 - Attacks which compromise confidentiality
-- Attacks which which compromise integrity by manipulation of input.
+- Attacks which compromise integrity by manipulation of input.
 - 'Traditional' attacks that have impact on availability.
 
 Attack vectors for machine learning systems can be categorized in:
@@ -49,7 +49,7 @@ Top Machine Learning Security Risks
 
 * Adversarial attacks: The basic idea is to fool a machine learning system by providing malicious input that cause the system to make a false prediction or categorization. 
 
-* Data poisoning: Machine learning system learn directly from data. Intentionally manipulated data can compromise the machine learning application. If you want to make yourself e.g. invisible for face recognition you can create or buy special clothes. 
+* Data poisoning: Machine learning systems learn directly from data. Intentionally manipulated data can compromise the machine learning application. If you want to make yourself e.g. invisible for face recognition you can create or buy special clothes. 
 
 * Data confidentiality: An unique challenge in machine learning is protecting confidential data. 
 
@@ -63,7 +63,7 @@ Top Machine Learning Security Risks
 Some examples of machine learning exploits:
 
 * Google's Cloud Computing service can be tricked into seeing things that are not there. In one test it perceived a rifle as a helicopter. 
-* Fake videos made with help from machine learning software are spreading online, and the law can’t do much about it. E.g. videos with speeches given by political leaders created by machine learning software are created and spread online. E.g. a video where some president declares a war to another country is of course very dangerous. Even more dangerous is the fact that the fake machine learning created videos are very hard to diagnose as machine learning creations. This since besides machine learning a lot of common Hollywood special effects are also used to make it hard to distinguish real videos from fake video’s. Creating online fake porn video sites were you can use a photo of a celebrity or someone you really do not like is nowadays only just three mouse clicks away. And the reality is that you can do very little against these kinds of damaging threads. Even from a legal point of view.
+* Fake videos made with help from machine learning software are spreading online, and the law can’t do much about it. E.g. videos with speeches given by political leaders created by machine learning software are created and spread online. E.g. a video where some president declares a war to another country is of course very dangerous. Even more dangerous is the fact that the fake machine learning created videos are very hard to diagnose as machine learning creations. This since besides machine learning a lot of common Hollywood special effects are also used to make it hard to distinguish real videos from fake video’s. Creating online fake porn video sites were you can use a photo of a celebrity or someone you do not like, is nowadays only just three mouse clicks away. And the reality is that you can do very little against these kinds of damaging threads. Even from a legal point of view.
 
 Users and especially developers of machine learning applications must be more paranoid from a security point of view. But unfortunately security cost a lot of effort and money and a lot of special expertise is needed to minimize the risks.
 
