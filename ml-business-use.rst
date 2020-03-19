@@ -33,19 +33,19 @@ Machine learning is an appropriate tool to use for problems whose only commonali
 
 - Clustering challenges. E.g., group all cat pictures by ones that are most similar. 
 
-- Reinforcement learning challenges. E.g., learn to predict how people behave when they book a holiday with large discount. Are you willing to buy something you do not need without discount?
+- Reinforcement learning challenges. E.g., learn to predict how people behave when they book a holiday with a large discount. Are you willing to buy something you do not need without discount?
 
 A good question to ask is: Can this problem be solved by looking at statistical outcomes? If the answer is yes, use traditional statistical software and avoid machine learning directly. Avoid complexity at all cost before trying to find if using machine learning is a viable option.
 
-In general: All areas where there is a lot of data *and* too much data for manual inspection are a candidate for applying machine learning.
+In general: All areas where there is a lot of data *and* too much data for manual inspection are candidates for applying machine learning.
 
-So summarized for most business problems using machine learning should be avoided. Like blockchain or other industry IT buzzwords: Avoid the trap of using a solution and finding a problem to use it on! A particularly bad use case for machine learning is when the problem can be described using clear and precise mathematical equations. Only when a problem can not be described using clear and existing mathematical equations and an outcome can be predicted using large numbers of input data, than the use of machine learning should be considered.
+So summarized for most business problems using machine learning should be avoided. Like blockchain or other industry IT buzzwords: Avoid the trap of using a solution and finding a problem to use it on! A particularly bad use case for machine learning is when the problem can be described using clear and precise mathematical equations. Only when a problem can not be described using clear and existing mathematical equations and an outcome can be predicted using large numbers of input data, then the use of machine learning should be considered.
 
 When you want to apply machine learning for your business use cases you need to develop a solid architecture before starting. A standard solution for your business use case does not exist. Your company and your context is unique. So for real and significant business advantage you should also develop your own machine learning enabled application or ML powered information system. Machine learning is just a component in the complete system architecture needed. But a good and simple overall architecture when applying machine learning is needed. Especially since all developed solutions deployed in production need maintenance. In the section 'ML Reference Architecture' a view of the complete system architecture is given.
 
 The usage of a Cloud (SaaS or ML-SaaS) machine learning solution will not always give you the competitive advantage you are searching for. This because standard solutions only work on standard use cases. Most use cases are unique.  So if your business is special, your data is unique and your use case is unique than your own developed machine learning driven application should give you a head start and competitive advantage. In the section ‘ Machine learning reference architecture’  an in depth outline is given on the various system building blocks that are needed for applying machine learning in a successful way. Make use of the machine learning reference architecture outlined in this publication to create your own ML enabled solution faster.
 
-In order to solve business problems using machine learning technology  you need to have an organisation structure that powers innovation and experimenting. Experimenting with machine learning should be simple and can be done in a short time. But this requires a business culture with an innovation approach where learning and playing with new technology is possible without without predefined rules.
+In order to solve business problems using machine learning technology  you need to have an organisation structure that powers innovation and experimenting. Experimenting with machine learning should be simple and can be done in a short time. But this requires a business culture with an innovation approach where learning and playing with new technology is possible without predefined rules.
 
 
 Common business use cases
@@ -60,7 +60,7 @@ Machine learning is more and more used for automatic diagnostics. This can be da
 
 Predictive tasks for healthcare is maybe the way to keep people healthier and lower healthcare cost. The transformation from making people better towards preventing people getting sick is long and hard, since this means a real shift for the healthcare industry.
 
-But given a large set of training data of de-identified medical records it is already possible to predict interesting aspects of the future for a patient that is not in training set.
+But given a large set of training data of de-identified medical records it is already possible to predict interesting aspects of the future for a patient that is not in the training set.
 
 Machine learning applications for healthcare are also to create better medicines by making use of all the data already available.
 
@@ -72,7 +72,7 @@ Machine learning is already used for automatic real-time message translation. E.
 Since language translation needs context and lots of data, typically these use cases are often NLP driven.
 Language translation as speech recognition is a typical NLP application. Natural language processing (NLP) is area of machine learning that operates on (human)text and speech. See the section on NLP in this book for more use cases and insight in the specific NLP technologies.
 
-Other areas for language translation are speech recognition. Some great real time machine learning driven application already exist.   
+Other areas for language translation are speech recognition. Some great real time machine learning driven application already exists.   
 
 When building speech recognition machine learning applications you discover that data needed for speech recognition is not quite open. To create voice systems you need an extremely large amount of voice data. Most of the data used by large companies isn’t available to the majority of people. E.g. Amazon , Microsoft and Google offer great APIs but you interact with a black-box model. Also speech recognition needs openness and freedom.  Mozilla launched Common Voice project in 2017. A project to make voice recognition data and APIs open and accessible to everyone. Contributing to this great project is simple: Go to https://voice.mozilla.org/ and speak some sentences and validate some. All you need is a browser and a few minutes to contribute so everyone can make use of this technology in the future. 
 
@@ -82,7 +82,7 @@ Chat bots
 
 Currently all major tech companies like Amazon(Alexis), Google, Apple (Siri) have built a smart chatbot for the consumer market. Creating a chatbot (e.g. IRQ bot) was not new and difficult, however building a real ‘intelligent’ chat bot that has learning capabilities is another challenge. 
  
-Machine learning powered chatbots with real human like voices help computers communicate with humans. But algorithms still have a hard time trying to figure out what you are saying, because context and tone of voice are hard to get right. Even for us humans, communication with other humans is most of the time hard. So building a smart chatbot that understands basic emotions in your voice is difficult. Machine learning isn’t advanced enough yet to carry on a dialogue without help, so a lot of the current chat bot software needs to be hand-coded. 
+Machine learning powered chatbots with real human like voices help computers communicate with humans. But algorithms still have a hard time trying to figure out what you are saying, because context and tone of voice is hard to get right. Even for us humans, communication with other humans is most of the time hard. So building a smart chatbot that understands basic emotions in your voice is difficult. Machine learning isn’t advanced enough yet to carry on a dialogue without help, so a lot of the current chatbot software needs to be hand-coded. 
 
 
 
@@ -130,7 +130,7 @@ Financial services
 Marketing
 ^^^^^^^^^^^
 
-* Marketing and acquisition: By analysing mass amounts of data you can better target your existing and potential users for your service. Machine learning makes a large difference here, as proven by Google and Facebook (both ad-service companies in essence). Analysing works using machine learning works well for consumer markets where user data and user behaviour data is widespread and for sale. And since tracking users on the internet is the number one dataleak almost all data is available somewhere. Also business to business marketing is perfect to automate using machine learning. This because also here the only input needed is often data.
+* Marketing and acquisition: By analysing mass amounts of data you can better target your existing and potential users for your service. Machine learning makes a large difference here, as proven by Google and Facebook (both ad-service companies in essence). Analysing works using machine learning works well for consumer markets where user data and user behaviour data is widespread and for sale. And since tracking users on the internet is the number one data leak almost all data is available somewhere. Also business to business marketing is perfect to automate using machine learning. This is because also here the only input needed is often data.
 
 Of course if you do care about privacy and embrace the values of Free and Open machine learning the marketing use cases for machine learning are almost impossible to create due to privacy issues involved.
 
@@ -139,7 +139,7 @@ HR services
 
 * HR management and HR services: Finding the right new employing, talent management, performance management all tangible HR work is powered by ML software more and more. Even the scary face and voice recognition tools are used to check if your new employee matches your ideal profile. Until HR is fully automated ML powered software helps HR professionals to improve decision-making and create more efficient ways to interact with employees.
 
-When using machine learning for HR services be aware of bias issues in using datasets. Bias when hire new personal is for humans already difficult to handle. But you do not want a machine learning application that only selects people based on old paradigms in society.
+When using machine learning for HR services be aware of bias issues in using datasets. Bias when hire new personnel is for humans already difficult to handle. But you do not want a machine learning application that only selects people based on old paradigms in society.
 
 Predicting services
 ^^^^^^^^^^^^^^^^^^^^
@@ -154,7 +154,7 @@ In recent years some real progress for using machine learning for creating softw
 
 * Software code improvement: Manual programming is hard and error prone. By training machine learning on a large code base to learn the model what ‘bugs’ are, it is possible to use machine learning to prevent programming bugs in new developed software code. In this way code can not be committed since the automated checks provided spotted an error. Detecting a bug before software is tested and deployed is far cheaper than correcting errors in code when a program is already released. A game development company  has used this application of machine learning for real with success already. (reference http://www.wired.co.uk/article/ubisoft-commit-assist-ai )
 
-* Creating new software programs: Based on a problem it is proven by different companies that software can be generated in stead of manual crafted (programmed). Feeding a algorithm massive inputs of examples programs it is possible to generate a new program based for your specific problem. Of course this application of machine learning is still in early phase. It is also questionable if this application of machine learning makes real sense since the new paradigm of machine learning is no longer program a solution but create a program outcome based on input data.
+* Creating new software programs: Based on a problem it is proven by different companies that software can be generated instead of manual crafted (programmed). Feeding a algorithm massive inputs of examples programs it is possible to generate a new program based for your specific problem. Of course this application of machine learning is still in its early phase. It is also questionable if this application of machine learning makes real sense since the new paradigm of machine learning is no longer program a solution but create a program outcome based on input data.
 
 
 Security
@@ -210,7 +210,7 @@ Common business challenges when applying machine learning in business products o
 
 - Dealing with terrible math and statistics foundations. Of course most software building blocks keep this away from you, but you must make choices that require some more in depth knowledge of the foundations behind the chosen algorithms used. 
 
-- Have access skilled IT engineers. Not only machine learning engineers are needed, but also good engineers that are skilled in setting up IT environments. This accounts for cloud and also for on premise environments. Choices that are possible for machine learning cloud environments are often not trivial, unless you have an unlimited credit card. 
+- Have access to skilled IT engineers. Not only machine learning engineers are needed, but also good engineers that are skilled in setting up IT environments. This accounts for cloud and also for on premise environments. Choices that are possible for machine learning cloud environments are often not trivial, unless you have an unlimited credit card. 
 
 The number one challenge is: How to integrate machine learning into your current business operations and products in order to really benefit from this technology?
 
@@ -218,7 +218,7 @@ Normal IT projects have a bad reputation. Projects are often delayed and do not 
 
 Integration of machine learning software pipelines, especially when it also involves digital integration between companies and systems of different companies is known to be hard, complex and make you poor if handled wrong. If you have a bad track record when it comes to executing traditional IT projects, machine learning projects have the same challenges with a couple of new real high risks elements.
 
-Machine is not a logical and intuitive way to solve problems. For many engineers and software programmers solving problems using a machine learning approach is against the learned and trained intuition. So training and building an intuition for what tool should be leveraged to solve a problem is needed for engineers involved. At a minimum engineers involved should be aware of available machine learning algorithms and machine learning building blocks (SBBs) and the trade-offs and constraints of each one. This publication contains an overview of the typical algorithms and an overview of diverse machine learning  FOSS building blocks available. This increases the insights and improves the awareness of available options. 
+Machine learning is not a logical and intuitive way to solve problems. For many engineers and software programmers solving problems using a machine learning approach is against the learned and trained intuition. So training and building an intuition for what tool should be leveraged to solve a problem is needed for engineers involved. At a minimum engineers involved should be aware of available machine learning algorithms and machine learning building blocks (SBBs) and the trade-offs and constraints of each one. This publication contains an overview of the typical algorithms and an overview of diverse machine learning  FOSS building blocks available. This increases the insights and improves the awareness of available options. 
 
 
 Machine learning needs trial and error before it works well. But debugging a machine learning application is a real complex challenge. An endless number of factors must be taken into account. Not only technical but even more from a business perspective. When are risks in outcomes acceptable? You need insights in the context where the results are used in order to evaluate if machine learning results are usable enough. When you want to improve the output you can face problems e.g. the following problems:
@@ -233,7 +233,7 @@ Machine learning needs trial and error before it works well. But debugging a mac
 
 - With machine learning finding bugs and working on optimizations is almost ‘exponentially’  harder due to the complex nature of the various aspects involved. So to figure out what is wrong when things don’t work as expected can take far more time than available.
 
-- Are the risks for business use acceptable? For live saving systems your should make other choices than for a marketing system. 
+- Are the risks for business use acceptable? For live saving systems you should make other choices than for a marketing system. 
 
 
 Business capabilities 
@@ -252,7 +252,7 @@ The following capabilities are often needed to successfully apply machine learni
 
 - Managers, architects, developers and engineers with an open mindset. So open for learning and experimenting.
 
-- Descent knowledge of key quality aspects involved. E.g. privacy, safety and security. A must take these privacy, safety and security serious from the start. Do it by design. It can initially take some extra time. But once key safeguards are in place experimenting with data and machine learning outcomes is possible with lower risks. So make sure you involve some privacy and security experts from the start.
+- Descent knowledge of key quality aspects involved. E.g. privacy, safety and security. A must take these privacy, safety and security serious from the start. Do it by design. It can initially take some extra time. But once key safeguards are in place experimenting with data and machine learning outcomes are possible with lower risks. So make sure you involve some privacy and security experts from the start.
 
 - Solid business innovation strategy, innovation management system (process and people) available. 
 
@@ -272,7 +272,7 @@ A growing number of experts believe that a third revolution occurs during the 21
 
 When machine learning develops and the border with artificial intelligence will be approached many more philosophical and ethical discussions will take place. One of the core question is: What is human intelligence? But the more important question is: Who is responsible for mistakes? The self learning algorithm? To put it in the context of machine learning: What is the real value of human intelligence when machine learning algorithms can take over many common mental tasks and control tasks of humans? Who is responsible for accidents with autonomous vehicles?
 
-Many experts believe that there is a significant chance we develop machines more intelligent than ourselves within a few decades. This could lead to large, rapid improvements in human welfare, or mass unemployment and poverty on large scale. History learns that there are good reasons to think that this could lead to disastrous outcomes for our current societies.  If machine learning research advances without enough research work going on security, safety on privacy, catastrophic accidents are likely to occur. Or if we look back at history: Incidents will occur since regulations are always developed afterwards with new technology.
+Many experts believe that there is a significant chance we develop machines more intelligent than ourselves within a few decades. This could lead to large, rapid improvements in human welfare, or mass unemployment and poverty on a large scale. History learns that there are good reasons to think that this could lead to disastrous outcomes for our current societies.  If machine learning research advances without enough research work going on security, safety on privacy, catastrophic accidents are likely to occur. Or if we look back at history: Incidents will occur since regulations are always developed afterwards with new technology.
 
 With FOSS machine learning capabilities you should be able to take some control over the rapid pace machine learning driven software is hitting our lives. So instead of trying to stop developments and use, it is better to steer developments into a positive, safe, human centric direction. So apply machine learning using a decent machine learning architecture were also some critical ethical business questions are addressed. 
 
@@ -290,7 +290,7 @@ The framework of ethical requirements is part of the (draft)'Ethics Guidelines f
 
 Some basic common ethical questions for every machine learning architecture are:
 
-* Bias in data sets. How do you weight this? Are you fully aware of the impact?
+* Bias in data sets. How do you weigh this? Are you fully aware of the impact?
 * Impact on your company.
 * Impact on your employees.
 * Impact on your customers (short and long term).
@@ -302,10 +302,10 @@ Some basic common ethical questions for every machine learning architecture are:
 * How transparent are you towards stakeholders regarding various direct and indirect risks factors involved when applying machine learning applications?
 * Who is responsible and liable when risks in your machine learning application do occur?
 
-A lot of ethical questions come back to crucial privacy and other risks questions like safety and security. We live in a digital world were our digital traces are everywhere. Most of the time we are fully unaware. In most western countries mass digital surveillance cameras generates great data to be used for machine learning algorithms. This can be noble by detecting diseases based on cameras, but all nasty use cases thinkable are of course also under development. Continuous track and trace of civilians including face recognition is not that uncommon any more! 
+A lot of ethical questions come back to crucial privacy and other risks questions like safety and security. We live in a digital world where our digital traces are everywhere. Most of the time we are fully unaware. In most western countries mass digital surveillance cameras generates great data to be used for machine learning algorithms. This can be noble by detecting diseases based on cameras, but all nasty use cases thinkable are of course also under development. Continuous track and trace of civilians including face recognition is not that uncommon any more! 
 
 The question regarding who is accountable for negative effects when you use machine learning technology is simple to answer. You are! 
-Accountability is about holding individuals and organisations responsible for how any ML enabled application is being used. But this is not trivial: The outcome of a machine learning application system is the product of the software itself, or any single decision-maker. This is because the success or failure of a ML enabled system may be the product of one or several components. In most cases, a system failure is the result of multiple factors, and responsibility is not easily apportioned. 
+Accountability is about holding individuals and organisations responsible for how any machine learning enabled application is used. But this is not trivial: The outcome of a machine learning application system is the product of the software itself, or any single decision-maker. This is because the success or failure of a ML enabled system may be the product of one or several components. In most cases, a system failure is the result of multiple factors, and responsibility is not easily apportioned. 
 So: If you do not understand the technology, the impact for your business and on society you should not use it. 
 
 

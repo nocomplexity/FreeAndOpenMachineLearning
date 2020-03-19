@@ -4,7 +4,7 @@ Security,Privacy and Safety
 Introduction
 -------------
 
-This section outlines security, privacy and safety concerns that matter when applying machine learning for real business use.
+This section outlines security, privacy and safety concerns that keep you awake when applying machine learning for real business use.
 
 The complexity of ML technologies has fuelled fears that machine learning applications  causes harm in unforeseen circumstances, or that they are manipulated to act in harmful ways. Think of a self driving car with its own ethics or algorithms that make prediction based on your personal data that really scare you. E.g. Predicting what diseases hit you based on data from your grocery store. 
 

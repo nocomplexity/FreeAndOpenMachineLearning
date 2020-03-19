@@ -2,7 +2,7 @@ ML implementation challenges
 ==============================
 
 Machine learning is a technology that currently comes with some special challenges.
-This section outlines the most important challenges you hit when you have decided to use machine learning for real.
+This section outlines the most important challenges you hit when you start using machine learning for real.
 
 .. image:: /images/ml-challenges.png
    :alt: ML Implementation challenges

@@ -3,7 +3,7 @@
 Help
 ======
 
-This publication on FOSS machine learning is created to be shared as much as possible. This to make sure machine learning remains a full open technology that can be used by everyone. And remember FOSS machine learning is all about Freedom. So commercial development of Free and Open Machine Learning technology  is very important for sustainable development of a healthy FOSS machine learning eco-system. And of course FOSS machine learning means using open principles. 
+This publication on FOSS machine learning is created to be shared as much as possible. This to make sure machine learning remains a full open technology that can be used by everyone. And remember FOSS machine learning is all about Freedom. So commercial development of Free and Open Machine Learning technology  is very important for sustainable development of a healthy FOSS machine learning ecosystem. And of course FOSS machine learning means using open principles. 
 
 You can contribute to FOSS machine learning in a simple way. This publication is created to be shared as much as possible. So please: 
 
@@ -11,7 +11,7 @@ You can contribute to FOSS machine learning in a simple way. This publication is
 
    **Share this report!**
 
-This publication is created as a starting and living document to support FOSS machine learning. So this publication is likely to be incomplete or outdated if not maintained. I will update it frequently but also need your help. So I encourage all information professionals to help to improve this Free and Open Machine Guide. 
+This publication is created as a starting and living document to support FOSS machine learning. So this publication is likely to be incomplete or outdated if not maintained. I will update it frequently but I also need your help. So I encourage all information professionals to help to improve this Free and Open Machine Guide. 
 
 FOSS machine learning is crucial for open innovation the coming years. Using and applying Machine learning technology should be in reach for all companies worldwide with no strings attached.
 

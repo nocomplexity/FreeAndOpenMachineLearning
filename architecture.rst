@@ -56,7 +56,7 @@ In its core a machine learning process exist of a number of typical steps. These
    :alt: Machine Learning Process
    :align: center 
 
-You need to improve your machine learning model after a first test. Improving can be done using more training data or by making model adjustments. 
+You need to improve your machine learning model after the first test. Improving can be done using more training data or by making model adjustments. 
 
 
 Architecture Building Blocks for ML
@@ -112,12 +112,12 @@ Conceptual overview of machine learning reference architecture
 Since this simplified machine learning reference architecture is far from complete it is recommended to consider e.g. the following questions when you start creating your solution architecture where machine learning is part of:
 
 * Do you just want to experiment and play with some machine learning models? 
-* Do you want to try different machine learning frameworks and libraries in to discover what works best for your use case? Machine learning systems never work directly. You need to iterate, rework and start all over again. Its innovation!
+* Do you want to try different machine learning frameworks and libraries to discover what works best for your use case? Machine learning systems never work directly. You need to iterate, rework and start all over again. Its innovation!
 * Is performance crucial for your application? 
 * Are human lives direct or indirect dependent of your machine learning system?
 
 
-In the following sections a more in depth description of the various machine learning architecture building blocks is given. 
+In the following sections more in depth description of the various machine learning architecture building blocks are given. 
 
 
 Business Processes
@@ -155,7 +155,7 @@ Partners
 
 Since your business is properly not Amazon, Microsoft or Google you need partners. Partners should work with you together to solve your business problems. If you select partners pure doing a functional aspect, like hosting, data cleaning ,programming or support and maintenance you miss the needed commitment and trust. Choosing the right partners for your machine learning project is even harder than for ordinary IT projects, due to the high knowledge factor involved. Some rule of thumbs when selecting partners:
 Big partners are not always better. With SMB partners who are committed to solve your business challenge with you governance structures are often easier and more flexible.
-Be aware for vendor lock-ins. Make sure you can change from partners whenever you want. So avoid vendor specific and black-box approaches for machine learning projects. Machine learning is based on learning, and learning requires openness.
+Be aware of vendor lock-ins. Make sure you can change from partners whenever you want. So avoid vendor specific and black-box approaches for machine learning projects. Machine learning is based on learning, and learning requires openness.
 
 Trust and commitment are important factors when selecting partners. Commitment is needed since machine learning projects are in essence innovation projects that need a correct mindset.
 Use the input of your created solution architecture to determine what kind of partners are needed when. E.g. when your project is finished you need stability and continuity in partnerships more than when you are in an innovative phase.
@@ -164,7 +164,7 @@ Use the input of your created solution architecture to determine what kind of pa
 Risk management
 ^^^^^^^^^^^^^^^^^^
 
-Running machine learning projects involves risk. Within your architecture it is crucial to address business and projects risks early. Especially when security, privacy and safety aspects are involved mature risks management is recommended. To make sure your machine learning project is not dead at launch, risk management requires a flexible and create approach for machine learning projects. Of course when your project is more mature openness and management on all risks involved is crucial. To avoid disaster machine learning projects it is recommended to create your:
+Running machine learning projects involves risk. Within your architecture it is crucial to address business and projects risks early. Especially when security, privacy and safety aspects are involved mature risks management is recommended. To make sure your machine learning project is not dead at launch, risk management requires a flexible and creative approach for machine learning projects. Of course when your project is more mature openness and management on all risks involved are crucial. To avoid disaster machine learning projects it is recommended to create your:
 
 * solution architecture using:
 * Safety by design principles.
@@ -208,13 +208,13 @@ Some factors that must be considered when choosing a machine learning framework 
 * Performance. If performance really matters a lot for your application (training or production) doing some benchmark testing and analysis is always recommended.
 * Features. Besides the learning methods that are supported what other features are included? Often more features, or support for more learning methods is not better. Sometimes simple is enough since you don't change your machine learning method and model continuously.
 * Flexibility. How easy is it to switch to another machine learning framework, learning method or API?
-* Transparency. Machine learning development is a very difficult tasks that involves a lot of knowledge of engineers and programmers. Not many companies have the capabilities to create a machine learning framework. But in case you use a machine learning framework: How do you known the quality? Is it transparent how it works, who has created it, how it is maintained and what your business dependencies are! 
+* Transparency. Machine learning development is a very difficult tasks that involve a lot of knowledge of engineers and programmers. Not many companies have the capabilities to create a machine learning framework. But in case you use a machine learning framework: How do you know the quality? Is it transparent how it works, who has created it, how it is maintained and what your business dependencies are! 
 * License. Of course we do not consider propriety machine learning frameworks. But do keep in mind that the license for a machine learning framework matters. And make sure that no hooks or dual-licensing tricks are played with what you think is an open machine learning Framework. 
 * Speeding up time consuming and recurrent development tasks. 
 
 Debugging a machine learning application is no fun and very difficult. Most of the time you spend time with model changes and retraining. But knowing why your model is not working as well as expected is a crucial task that should be supported by your machine learning framework.
 
-There are too many open source machine learning frameworks available which enable you to create machine learning applications. Almost all major OSS frameworks offer engineers the option to build, implement and maintain machine learning systems. But real comparison is a very complex task. And the only way to do some comparison is when machine learning frameworks are open source. And since security, safety and privacy should matter for every use case there is no viable alternative than using an mature OSS machine learning framework.
+There are too many open source machine learning frameworks available which enables you to create machine learning applications. Almost all major OSS frameworks offer engineers the option to build, implement and maintain machine learning systems. But real comparison is a very complex task. And the only way to do some comparison is when machine learning frameworks are open source. And since security, safety and privacy should matter for every use case there is no viable alternative than using a mature OSS machine learning framework.
 
 Programming Tools
 ^^^^^^^^^^^^^^^^^^^
@@ -256,7 +256,7 @@ For machine learning you need ‘big data’. Big data is any kind of data sourc
 * Refers to technologies and initiatives that involve data that is too diverse, fast-changing or massive for conventional technologies, skills and infra- structure to address efficiently.
 
 
-Every Machine Learning problem starts with data. For any project most of the time large quantities of training data are required. Big data incorporates all kind of data, e.g. structured, unstructured, metadata and semi-structured data from email, social media, text streams, images, and machine sensors (IoT devices).
+Every Machine Learning problem starts with data. For any project most of the time large quantities of training data are required. Big data incorporates all kinds of data, e.g. structured, unstructured, metadata and semi-structured data from email, social media, text streams, images, and machine sensors (IoT devices).
 
 Machine learning requires the right set of data that can be applied to a learning process. An organization does not have to have big data in order to use machine learning techniques; however, big data can help improve the accuracy of machine learning models. With big data, it is now possible to virtualize data so it can be stored in the most efficient and cost-effective manner whether on- premises or in the cloud.
 
@@ -292,13 +292,13 @@ Data science is a social process. Data is generated by people within a social co
 Data Tools
 ^^^^^^^^^^^^^
 
-Without data machine learning stops. For machine learning you deal with large complex data sets (maybe even big data) and the only way to make machine learning applicable is data cleaning and preparation. So  you need good tools to handle data.
+Without data machine learning stops. For machine learning you deal with large complex data sets (maybe even big data) and the only way to making machine learning applicable is data cleaning and preparation. So  you need good tools to handle data.
 
 The number of tools you need depends of the quality of your data sets, your experience, development environment and other choice you must make in your solution architecture. But a view use cases where good solid data tools certainly help are:
 
 * Data visualization and viewer tools; Good data exploration tools give visual information about the data sets without a lot of custom programming.
 * Data filtering, data transformation and data labelling;
-* Data anonymiser tools;
+* Data anonymizer tools;
 * Data encryption / decryption tools
 * Data search tools (analytics tools)
 
@@ -322,7 +322,7 @@ It is a must to make a clear distinguishing in:
 
 Depending on your application it is e.g. possible that you need a very large and costly hosting infrastructure for development, but you can do deployment of your trained machine learning model on e.g. a Raspberry PI or Arduino board.
 
-Standard hosting capabilities for machine learning are not very different as for ‘normal’ IT services. Expect scalability and flexibility capabilities requires solid choices from the start. The machine learning hosting infrastructure exist e.g. out of:
+Standard hosting capabilities for machine learning are not very different as for ‘normal’ IT services. Expect scalability and flexibility capabilities require solid choices from the start. The machine learning hosting infrastructure exist e.g. out of:
 
 - Physical housing and power supply.
 - Operating system (including backup services).
@@ -345,14 +345,14 @@ For experimenting with machine learning there is not always a direct need for us
 
 When you want to use machine learning you need a solid machine learning infrastructure. Hosting Infrastructure done well requires a lot of effort and is very complex. E.g. providing security and operating systems updates without impacting business applications is a proven minefield. 
 
-For specific use cases you can not use a commodity hosting infrastructure of a random cloud provider. First step should be to develop your own machine learning solution architecture. Based on this architecture you can check what capabilities are needed and what the best way is for starting. 
+For specific use cases you can not use a commodity hosting infrastructure of a random cloud provider. First step should be to develop your own machine learning solution architecture. Based on this architecture you can check what capabilities are needed and what the best way is to start. 
 
 The constant factor for machine learning is just as with other IT systems: **Change**. 
 A machine learning hosting infrastructure should be stable. Also a machine learning hosting infrastructure should be designed as simple as possible. This since the following characteristics apply:
 
 - A Machine learning hosting environment must be secured since determining the quality of the outcome is already challenging enough.
 
-- Machine learning infrastructure hosting that works for your use cases now is no guarantee for the future. Your use case evolves in future and hosting infrastructure evolves also. At minimum security patches are needed. But a complete hosting infrastructure is not replaced or drastically changed on a frequent basis. The core remains for a long period.
+- Machine learning infrastructure hosting that works now for your use cases is no guarantee for the future. Your use case evolves in future and hosting infrastructure evolves also. At minimum security patches are needed. But a complete hosting infrastructure is not replaced or drastically changed on a frequent basis. The core remains for a long period.
 
 - Incorporating new technology and too frequent changes within your hosting infrastructure can introduce security vulnerabilities and unpredictable outcomes. 
 
@@ -363,7 +363,7 @@ A machine learning hosting infrastructure should be stable. Also a machine learn
 - Separation of concerns is just as for any IT architecture a good practice. 
 
 
-So to minimize the risks make sure you a good view on all your risks. Your solution architecture should give you this overview, including a view of all objects and components that will be changed (or updated) sooner or later. Hosting a machine learning application is partly comparable with hosting large distributed systems. And history learns that this can still be a problem field if not managed well. So make sure what dependencies you accept regarding hosting choices and what dependencies you want to avoid.
+So to minimize the risks make sure you have a good view on all your risks. Your solution architecture should give you this overview, including a view of all objects and components that will be changed (or updated) sooner or later. Hosting a machine learning application is partly comparable with hosting large distributed systems. And history learns that this can still be a problem field if not managed well. So make sure what dependencies you accept regarding hosting choices and what dependencies you want to avoid.
 
 
 
@@ -398,7 +398,7 @@ CUDA (Compute Unified Device Architecture) is a parallel computing platform and 
 An alternative for CUDA is OpenCL.  OpenCL (Open Computing Language) is a framework for writing programs that execute across heterogeneous platforms. OpenCL (https://opencv.org/opencl/ ) has a growing support in terms of hardware and also ML frameworks that are optimized for this standard.
 
 
-You might have read and hear about TPUs. A tensor processing unit (TPU) is an AI accelerator application-specific integrated circuit (ASIC). First developed by Google specifically for neural network machine learning. But currently more companies are developing TPUs to support machine learning applications.
+You might have read and heard about TPUs. A tensor processing unit (TPU) is an AI accelerator application-specific integrated circuit (ASIC). First developed by Google specifically for neural network machine learning. But currently more companies are developing TPUs to support machine learning applications.
 
 Within your solution architecture you should be clear on the compute requirements needed. Some questions to be answered are:
 
@@ -416,9 +416,9 @@ Storage
 Machine learning needs a lot of data. At least when you are training your own model.
 E.g. medical, scientific or geological data, as well as imaging data sets frequently combine petabyte scale storage volumes.
 
-Storing data on commercial cloud storage becomes expensive. If not for storage than the network cost involved when data must be connected to different application blocks is high. 
+Storing data on commercial cloud storage becomes expensive. If not for storage than the network cost involved when data must be connected to different application blocks are high. 
 
-If you are using very large data sets you will dive into the world of NoSQL storage and clusters solutions. E.g. Hadoop is an open source software platform managed by the Apache Software Foundation that has proven to be very helpful in storing and managing vast amounts of data cheaply and efficiently. 
+If you are using very large data sets you will dive into the world of NoSQL storage and cluster solutions. E.g. Hadoop is an open source software platform managed by the Apache Software Foundation that has proven to be very helpful in storing and managing vast amounts of data cheaply and efficiently. 
 
 The bad news is that the number of open (FOSS) options that are really good for unstructured (NoSQL) storage is limited. 
 

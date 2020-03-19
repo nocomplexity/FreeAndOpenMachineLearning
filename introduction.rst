@@ -1,7 +1,7 @@
 Introduction
 =============
 
-Machine learning (ML) is a rapidly advancing technology, made possible by the Internet, that  may soon have significant impacts on our everyday lives. With the use of Machine learning you can solve challenging problems that impact everyone around the world. Machine Learning (ML) and Artificial Intelligence (AI) are rapidly emerging technologies that have the potential to change our world with speed that humankind has never experienced before.
+Machine learning (ML) is a rapidly advancing technology, made possible by the Internet, that  already has significant impacts on our everyday lives. With the use of Machine learning you can solve challenging problems that impact everyone around the world. Machine Learning (ML) and Artificial Intelligence (AI) are rapidly emerging technologies that have the potential to change our world with speed that humankind has never experienced before.
 
 Machine Learning and Artificial Intelligence are not the same, although the current technologies developed for ML do help research and developments on AI. ML can be characterized with a stricter definition from an engineering perspective. Trying to define AI raises more philosophical discussions on what intelligence is. This publication is focused on Free and Open machine learning. But beware that the terms machine learning and artificial intelligence are intertwined and many so called AI applications are in fact driven by machine learning technology.
 
@@ -26,16 +26,16 @@ What is covered in this book?
 
 Nowadays many people are talking about the transformative power of machine learning and how it will revolutionize the economy, but what does that mean for your business and how do you start? How to get solid independent advice to learn and how to apply machine learning? Can you improve or disrupt your business using FOSS machine learning tools that are widely available? This book gives you an introduction to get started with applying FOSS machine learning. 
 
-Machine learning concepts are mostly taught by academics and for academics. That’s why most learning material is dry and maths heavy. The theory behind machine learning is great, but requires also a very deep understanding within statistics and math. There is a large gap between theory and practice. Practice counts, because in a practical business context you want to determine if you can solve your problems with machine learning tools. Or at minimum do a short and cost efficient run to determine if a project has potential and more investments makes sense.
+Machine learning concepts are mostly taught by academics and for academics. That’s why most learning material is dry and maths heavy. The theory behind machine learning is great, but requires also a very deep understanding within statistics and math. There is a large gap between theory and practice. Practice counts, because in a practical business context you want to determine if you can solve your problems with machine learning tools. Or at minimum do a short and cost efficient run to determine if a project has potential and more investments make sense.
 
-To apply machine learning in real business use cases other skills besides some feeling for statistics and math are required. You need e.g. be able to have some knowledge about all typical IT things that are still needed before you can make use of the new paradigm that machine learning brings.
+To apply machine learning in real business use cases other skills besides some feelings for statistics and math are required. You need e.g. be able to have some knowledge about all typical IT things that are still needed before you can make use of the new paradigm that machine learning brings.
 
 This publication is created for applying free and open machine learning in practice for real world use cases. This is where the rubber meets the road. So the core focus is on the 'How' questions. So key concepts are outlined and a conceptual and logical reference for free and open machine learning architecture is given. This to empower you to make use of FOSS machine learning technology in a simple and efficient way. 
 
 
 The field of machine learning is making rapid progress. Do you know what kind of applications for direct business use are already possible today? Are you aware of the currently low entry barriers that exist, to take direct advantage of machine learning? Is your knowledge of free and open source solutions available in the machine learning eco system up to date? How do you classify safety, security and privacy risk when using machine learning? These and other relevant questions for using machine learning in a business context are the foundation of this book. 
 
-Within the FOSS machine learning domain new toolsets, applications and companies are being created on a daily basis. So it is difficult to get a hold on what ML applications are viable, and which are a hype, fads or simple a hoax. Especially when the terms ML and AI are intertwined. This publication guides you through tangible working open source machine learning software. 
+Within the FOSS machine learning domain new toolsets, applications and companies are being created on a daily basis. So it is difficult to get a hold on what ML applications are viable, and which are a hype, fads or simply a hoax. Especially when the terms ML and AI are intertwined. This publication guides you through tangible working open source machine learning software. 
 
 The mentioned FOSS machine learning software building blocks in this publication are used at large. For real business use cases, and maybe with large similarities for your use case. And because a lot of ML software and tools needed is open (FOSS) software, solutions and tools available can be studied and improved.
 
@@ -62,7 +62,7 @@ So this publication is concentrated on machine learning aspects where software, 
 Who should read this book?
 ---------------------------
 
-This book is created for everyone who wants to learn and get started with machine learning without being already forced into a specific solution. Creating mMachine learning applications is possible with the use of FOSS building blocks only and on premise. So you do not need to use directly expensive Cloud infrastructure or commercial software packages. So if you like IT architecture, simple concepts and want to be empowered to play with machine learning and create your own solution, than this publication if for you.
+This book is created for everyone who wants to learn and get started with machine learning without being already forced into a specific solution. Creating mMachine learning applications is possible with the use of FOSS building blocks only and on premise. So you do not need to use directly expensive Cloud infrastructure or commercial software packages. So if you like IT architecture, simple concepts and want to be empowered to play with machine learning and create your own solution, then this publication is for you.
 
 This book is primary written with software developers, system administrators, security architects, privacy controllers, IT managers, directors, business owners, system engineers, quality managers, IT architects and other curious people interested in open technologies in mind. 
 
@@ -71,9 +71,9 @@ This book crucial outlines machine learning concepts, but will not go into mathe
 Why another book on Machine Learning?
 ---------------------------------------
 
-There are many books, courses and tutorials that learn you what machine learning is. However most of these books and courses are focused on hands on learning and require you to program. Also many books are focused on explaining concepts without a clear focus on how tools can be used on real business use cases. Also a publication that is truly open and is focused on the broad landscape that is needed for Free and Open Machine learning was simple not available. 
+There are many books, courses and tutorials that learn you what machine learning is. However most of these books and courses are focused on hands-on learning and requires you to program. Also many books are focused on explaining concepts without a clear focus on how tools can be used on real business use cases. Also a publication that is truly open and is focused on the broad landscape that is needed for Free and Open Machine learning was simply not available. 
 
-Despite the enormous buzz and attention for machine learning it is proven to be hard to apply machine learning for real profitable use cases. Applying machine learning starts with understanding the core concepts, business architecture needed, constrains and insights in the technology components that are present. Also some notion of the typical pitfalls and challenges for applying machine learning for business use is needed. 
+Despite the enormous buzz and attention for machine learning it is proven to be hard to apply machine learning for real profitable use cases. Applying machine learning starts with understanding the core concepts, business architecture needs, constraints and insights in the technology components that are present. Also some notion of the typical pitfalls and challenges for applying machine learning for business use is needed. 
 
 
 Is Machine Learning complex?
@@ -85,7 +85,7 @@ By using an open approach (tools, methods, datasets) for machine learning a lot 
 
 There have been tremendous advances made in making machine learning more accessible over the past few years. This publication outlines some great OSS applications ready to be used, even if you really hate difficult mathematical formulas. Multiple developments are in progress that now really make it possible to drop your data and let a complex machine learning algorithm do the hard work. 
 
-But don’t be fooled. Even solving only 'some type of problems' using machine learning tools remains a relatively ‘hard’ problem.  So only equipped with the right knowledge, tools and resources it is possible to get great results. Solving soft business problems with machine learning requires far more than a good computer scientist alone. Using machine learning for soft problems requires a variety of disciples and a lot of creativity, experimentation and tenacity. 
+But don’t be fooled. Even solving only 'some type of problems' using machine learning tools is a relatively ‘hard’ problem.  So only equipped with the right knowledge, tools and resources it is possible to get great results. Solving soft business problems with machine learning requires far more than a good computer scientist alone. Using machine learning for soft problems requires a variety of disciples and a lot of creativity, experimentation and tenacity. 
 
 Organization of this book
 ------------------------------
@@ -104,7 +104,7 @@ The topics explored in this publication include:
 
 * Natural language processing (NLP). Hard to solve speech and text processing problems are now far more easily solved using machine learning algorithms. This section outlines still on of the most used applications for machine learning: NLP.
 
-* Machine learning implementation challenges: Knowing what machine learning can do and how it works is no grantee that creating an machine learning application succeeds. The failure rate of normal IT projects is already very high for decades. Machine learning projects are complex and risky. This sections gives guidance on avoiding pitfalls when applying machine learning for real business use.
+* Machine learning implementation challenges: Knowing what machine learning can do and how it works is no guarantee  that creating an machine learning application succeeds. The failure rate of normal IT projects are already very high for decades. Machine learning projects are complex and risky. This sections gives guidance on avoiding pitfalls when applying machine learning for real business use.
 
 * FOSS System Building Blocks for machine learning. This publication presents an opinionated list of FOSS software building blocks that can be used when creating machine learning applications. Starting with FOSS machine learning building blocks means you start with no strings attached. Switching to cloud hosting solutions later is always possible, but machine learning needs experimentation and playing. With open data and open tools.
 
@@ -115,7 +115,7 @@ The topics explored in this publication include:
 Errata, updates and support
 ------------------------------
 
-We made serious efforts to create a first readable version of this book. However if you notice typos, spelling and grammar errors please notify us so we can improve this publication.  You can create a pull request on github or simply send a email to us. 
+We made serious efforts to create a first readable version of this book. However if you notice typos, spelling and grammar errors please notify us so we can improve this publication.  You can create a pull request on github or simply send an email to us. 
 
 Since the world of machine learning is rapidly evolving this book be continuously updated. That’s why there is an open on-line version of this book available that always incorporates the latest updates.
 
