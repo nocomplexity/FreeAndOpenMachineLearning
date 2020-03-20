@@ -22,7 +22,7 @@ Most learning resources include hands-on tutorials. So be ready to use a noteboo
 
 |
 
-- Collection of Interactive Machine Learning Examples, http://tools.google.com/seedbank/  
+- Collection of Interactive Machine Learning Examples, https://aihub.cloud.google.com/s?category=notebook   
 
 |
 
@@ -52,7 +52,8 @@ Most learning resources include hands-on tutorials. So be ready to use a noteboo
 
 |
 
-Machines that Learn in the Wild - Machine learning capabilities, limitations and implications, https://www.nesta.org.uk/sites/default/files/machines_that_learn_in_the_wild.pdf  
+Machines that Learn in the Wild - Machine learning capabilities, limitations and implications, https://media.nesta.org.uk/documents/machines_that_learn_in_the_wild.pdf
+
 
 |
 

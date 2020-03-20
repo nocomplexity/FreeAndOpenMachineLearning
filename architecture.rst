@@ -19,7 +19,6 @@ You should also be aware of the important difference between:
 * Solution building blocks
 
 .. image:: /images/abb-sbb.png
-   :width: 600px
    :alt: ML Architecture Building Blocks vs SBBs
    :align: center 
 
@@ -52,7 +51,6 @@ In its core a machine learning process exist of a number of typical steps. These
 
 
 .. image:: /images/ml-process.png
-   :width: 600px
    :alt: Machine Learning Process
    :align: center 
 
@@ -69,7 +67,6 @@ Every architecture should be based on a strategy. For a machine learning system 
 The way to develop a machine learning architecture is outlined in the figure below.
 
 .. image:: /images/solutionsteps-overview.png
-   :width: 600px
    :alt: Machine Learning Architecture Process
    :align: center 
 
@@ -103,7 +100,6 @@ The machine learning reference model represents architecture building blocks tha
 
 
 .. image:: /images/ml-reference-architecture.png
-   :width: 600px
    :alt: Machine Learning Architecture Building Blocks
    :align: center 
 

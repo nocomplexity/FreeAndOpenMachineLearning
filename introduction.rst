@@ -52,8 +52,7 @@ This publication aims to cover the high level machine learning concepts and give
 
 So this publication is concentrated on machine learning aspects where software, business and technology touch each other.
 
-.. image:: /images/domains.png
-   :width: 400px
+.. image:: /images/domains.png   
    :alt: Domains touching
    :align: center 
 

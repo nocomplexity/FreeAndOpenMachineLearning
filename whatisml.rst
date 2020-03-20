@@ -30,7 +30,6 @@ So let's start with a high level separation of common used terms and their meani
 - NLP (Natural language processing) is the part of machine learning that has to do with language (usually written). NLP concepts are outlined more in depth in another chapter of this book.
 
 .. image:: /images/ml-ai-nlp.png
-   :width: 600px
    :alt: ML,AI and NLP
    :align: center 
 
@@ -156,7 +155,6 @@ At the highest level, machine learning can be categorized into the following cor
 
 
 .. image:: /images/ml-methods.png
-   :width: 600px
    :alt: ML methods
    :align: center 
 
@@ -166,7 +164,7 @@ Supervised Learning
 
 Supervised learning addresses the task of predicting targets given input data. 
 
-Most practical business machine learning solutions use supervised learning. Supervised learning encompasses approaches to satisfy the need to classify things into categories , known as classification. It also includes approaches to address the need to provide variable real-value solutions such as weight or height   known as regression.
+Most practical business machine learning solutions use supervised learning. Supervised learning encompasses approaches to satisfy the need to classify things into categories, known as classification. It also includes approaches to address the need to provide variable real-value solutions such as weight or height known as regression.
 
 With supervised learning the learning algorithm is given labelled data and the desired output. For example, pictures of cats labelled “cat” help the algorithm to identify the rules to classify pictures of cats.
 
@@ -228,7 +226,6 @@ The figure below positions Deep Learning(DL) in the spectrum of AI and ML.
 
 
 .. image:: /images/deeplearning.png
-   :width: 600px
    :alt: Deep Learning
    :align: center 
 

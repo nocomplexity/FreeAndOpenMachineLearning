@@ -45,9 +45,8 @@ This publication is created to give you a head start with using Free and Open ma
 
 .. warning::
 
-   This document is in beta-stage!!
+   This document is a living document! 
    Collaboration is fun, so :ref:`Help Us <Help>` by contributing !
-   There are some chapters currently written and editing work (typos,spelling) is yet to be done!
    Some more background information of the project can be found in `the readme on github.com <https://github.com/nocomplexity/FreeAndOpenMachineLearning>`_.
    And do not forget to join the `ROI movement! <https://www.bm-support.org/projects/>`_
 
@@ -58,7 +57,7 @@ Table of Contents
 ==================
 
 .. toctree::
-   :maxdepth: 4   
+   :maxdepth: 4     
    :caption: Core Concepts
 
    preface
