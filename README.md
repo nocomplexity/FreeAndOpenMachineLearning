@@ -10,49 +10,22 @@ This project is an open research project. It is open for all to join.
 
 Since this project is a decentralized open learning project, to drive innovation, it is supported by BM-Support Foundation (https://www.bm-support.org/ ) If you are an open company, consider to join this Foundation! https://www.bm-support.org/open-company-principles/ 
 
-This project is in alpha stage. However already planned spin-offs from this project are:
-* Creating one or more open publications (cc-by-sa). Yes, lessons learned should be published or shared.
-* Workshop and Tutorials
-* Creating and developing a must known list of FOSS Machine Learning Frameworks and Tools available.
-
-## Goals of the project
-
-One of the goals of the project is to develop and harvest ml-knowledge that is not (easily) available elsewhere or not available under an open license.
-
-## The Free and Open Machine Learning Book
-
-We are in the process of writing a book on Machine Learning that motivates people to learn machine learning concepts and how machine learning applied in a simple way. This book is not intended to cover all advanced (mathematical) machine learning techniques or explaining ml specific software platforms. There are already some books doing this. Instead, we aim to provide the necessary knowledge that is required to start applying machine learning with success in large or small enterprises. 
+This project is alive & kicking:
+* Thanks to input of many freedom fighters a first version of the FOSS Machine Learning guide is created. This publication does not explain and dive into the statistics and deep mathematical algorithms behind machine learning. On purpose. The first publication covers machine learning concepts and gives you solid information to get started to work with free and open machine learning for your business use case.
 
 
-## Research questions
+# Goal of the project
 
-The main research questions for this project are:
-* What problems can be more easily solved using machine learning applications?
-* What are the main security,privacy and safety concerns when machine learning is applied and used more widely? 
-* What MUST we do and create to make machine learning inclusive? So free as in freedom for all humans on earth to use(openness), experiment without large investments or unwanted strings attached.
-
-In order to be able to answer this questions an architecture framework is developed, where answers on the following questions are harvested:
-* How can security, privacy and safety risks be captured and mitigated transparently and as early as possible.
-* Why is Free and Open Machine learning important?
-* What business use cases are suited for applying machine learning?
-* What are the main solution building blocks that make an vendor-neutral machine learning reference architecture?
-* What capabilities are required to use and develop machine learning applications?
-* What are good, quality and open resources for learning machine learning?
-* What are the main building blocks of a open machine learning reference architecture?
-* How to develop a solution architecture for machine learning applications?
-* What are the main OSS machine learning frameworks and applications?
-* How can machine learning be applied more easily for simple use cases?
-* What risks(security, privacy and safety) and ethical considerations are important when using or creating machine learning applications?
-* How can you create sense making ML models without a bunch of expensive GPUs? So how to we go to real and open tinyML machine learning?
-* What should we do in order to make sure that developments in ML are positive for all humans (work, economic, safety, privacy)?
-* The development of advanced machine learning applications might destabilise global order and can lead to a concentration of power by a small group of powerful companies. What must we do in order to establish that everyone can benefit from new applications possible using advanced machine learning algoritmes and open datasets?
+**Advocate and promote FOSS machine learning.**
 
 
+# Contributing and HELPING
 
+This publication on FOSS machine learning is created to be shared as much as possible. So please share! This to make sure machine learning remains a full open technology that can be used by everyone. 
 
+Helping is simple: Just create an issue, pull request or simple send me an email with your valuable input.
 
-
-# Contributing
+But you can also support the project by [buying a hard copy](https://www.amazon.de/Free-Machine-Learning-Maikel-Mardjan/dp/B0863S9LQ5/ref=sr_1_4?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Free+and+open+machine+learning&qid=1585228714&s=books-intl-de&sr=1-4) of the FOSS Machine Learning Guide. 
 
 If you like your name stated here: This publication is open source. Issues and pull requests are welcome.
 
@@ -68,3 +41,25 @@ The following people have contributed to this project:
 
 When you submit text to which you hold the copyright, you agree to license it under:
 * Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).
+
+
+# Topics covered the Free and Open Machine Learning (version 1.0)
+
+* Why Free and Open Machine Learning. 
+
+* What is Machine Learning. 
+
+* Machine Learning for business problems. 
+
+* Machine learning Reference architecture.
+
+* Security, Privacy and Safety. The things you do not see are often the most important aspects. 
+
+* Natural language processing (NLP). 
+
+* Machine learning implementation challenges. 
+
+* FOSS System Building Blocks for machine learning.
+
+* OPEN Learning Resources. 
+

@@ -61,7 +61,7 @@ So this publication is concentrated on machine learning aspects where software, 
 Who should read this book?
 ---------------------------
 
-This book is created for everyone who wants to learn and get started with machine learning without being already forced into a specific solution. Creating mMachine learning applications is possible with the use of FOSS building blocks only and on premise. So you do not need to use directly expensive Cloud infrastructure or commercial software packages. So if you like IT architecture, simple concepts and want to be empowered to play with machine learning and create your own solution, then this publication is for you.
+This book is created for everyone who wants to learn and get started with machine learning without being already forced into a specific solution. Creating Machine learning applications is possible with the use of FOSS building blocks only and on premise. So you do not need to use directly expensive Cloud infrastructure or commercial software packages. So if you like IT architecture, simple concepts and want to be empowered to play with machine learning and create your own solution, then this publication is for you.
 
 This book is primary written with software developers, system administrators, security architects, privacy controllers, IT managers, directors, business owners, system engineers, quality managers, IT architects and other curious people interested in open technologies in mind. 
 

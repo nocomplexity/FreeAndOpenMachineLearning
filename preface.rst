@@ -28,7 +28,7 @@ In my journey on learning how to apply machine learning for real business use ca
 
 Applying machine learning should be easy and simple. When barriers for using machine learning technology are lowered many more great applications can be developed for the benefit for everyone. This publication simplifies the use of the complex field of machine learning frameworks, software and applications for real business use cases. Creating meaningful machine learning applications in a already complex context is another discipline than creating and understanding the complex machine learning algorithms behind the machine learning frameworks. So this publication is for everyone who is short on time but is dedicated to make use of machine learning capabilities.
 
-This publication is not an end, but is constructed as an continuous effort to provide usable open and non commercial information for applying machine learning technology. You can join this project too. See the HELP section in this publication.
+This publication is not an end, but is constructed as a continuous effort to provide usable open and non commercial information for applying machine learning technology. You can join this project too. See the HELP section in this publication.
 
 This publication was only possible with the help of you! If you have a suggestion or correction, please send an email to info [at] bm-support [dot] org. I add you to the contributor list, unless you ask to be omitted. 
 
