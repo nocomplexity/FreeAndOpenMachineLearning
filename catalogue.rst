@@ -76,7 +76,7 @@ NLP Frameworks
 
 Natural language processing (NLP) is a field located at the intersection of data science and machine learning (ML). It is focussed on teaching machines how to understand human languages and extract meaning from text. Using good open FOSS NLP software saves you time and has major benefits above using closed solutions. 
 
-NLP tools make is simple to handle NLP-related tasks such as document classification, topic modeling, part-of-speech (POS) tagging, word vectors, and sentiment analysis.
+NLP tools make it simple to handle NLP-related tasks such as document classification, topic modeling, part-of-speech (POS) tagging, word vectors, and sentiment analysis.
 
 
 .. include:: nlp-frameworks.rst
