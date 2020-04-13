@@ -286,7 +286,7 @@ Features (also called attributes): Properties of an data object to train a machi
 
 Vision
 ^^^^^^^^^^^
-A lot of machine learning applications work on vision. But vision for computers is different from vision for humans. Humans can not see without thinking. And when we see something our mind is concepts playing with us.
+A lot of machine learning applications work on vision. But vision for computers is different from vision for humans. Humans can not see without thinking. And when we see something our mind is continuously playing with us.
 
 Vision for computers can be defined as:
 
