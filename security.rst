@@ -42,7 +42,7 @@ Attack vectors for machine learning systems can be categorized in:
 * Environmental attacks (so the IT system used for hosting the machine learning algorithms and data)
 
 
-Taxonomy and terminology of machine learning is not yet fully standardized. The US NIST publication 8269 (The National Institute of Standards and Technology) a taxonomy and terminology of Adversarial Machine Learning is proposed. Adversarial Machine Learning (AML)introduces additional security challenges in training and testing (inference) phases of system operations. AML is concerned with the design of ML algorithms that can resist security challenges, the study of the capabilities of attackers, and the understanding of attack consequences. 
+Taxonomy and terminology of machine learning is not yet fully standardized. The US NIST publication 8269 (The National Institute of Standards and Technology) a taxonomy and terminology of Adversarial Machine Learning is proposed. See https://csrc.nist.gov/publications/detail/nistir/8269/draft. Adversarial Machine Learning (AML)introduces additional security challenges in training and testing (inference) phases of system operations. AML is concerned with the design of ML algorithms that can resist security challenges, the study of the capabilities of attackers, and the understanding of attack consequences. 
 
 Top Machine Learning Security Risks
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

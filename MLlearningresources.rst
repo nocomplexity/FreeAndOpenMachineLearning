@@ -34,6 +34,9 @@ Most learning resources include hands-on tutorials. So be ready to use a noteboo
 
 |
 
+- Explainable Deep Learning: A Field Guide for the Uninitiated. Great learning guide for new and starting researchers in the Deep neural network (DNN) field. https://arxiv.org/pdf/2004.14545.pdf 
+
+|
 
 - Foundations of Machine Learning, Understand the Concepts, Techniques and Mathematical Frameworks Used by Experts in Machine Learning, https://bloomberg.github.io/foml/#home 
 
