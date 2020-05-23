@@ -55,7 +55,7 @@ Most learning resources include hands-on tutorials. So be ready to use a noteboo
 
 |
 
-Machines that Learn in the Wild - Machine learning capabilities, limitations and implications, https://media.nesta.org.uk/documents/machines_that_learn_in_the_wild.pdf
+- Machines that Learn in the Wild - Machine learning capabilities, limitations and implications, https://media.nesta.org.uk/documents/machines_that_learn_in_the_wild.pdf
 
 
 |
@@ -64,7 +64,9 @@ Machines that Learn in the Wild - Machine learning capabilities, limitations and
 
 |
 
+- Mathematics for Machine Learning, Garrett Thomas. Introductory class in machine learning from UC Berkeley(course CS 189/289A). See https://gwthomas.github.io/docs/math4ml.pdf 
 
+|
 
 - Practical Deep Learning for Coders v3, https://course.fast.ai/index.html
 
