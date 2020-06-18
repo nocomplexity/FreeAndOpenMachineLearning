@@ -1,3 +1,28 @@
+Acme
+----
+
+Acme is a library of reinforcement learning (RL) agents and agent
+building blocks. Acme strives to expose simple, efficient, and readable
+agents, that serve both as reference implementations of popular
+algorithms and as strong baselines, while still providing enough
+flexibility to do novel research. The design of Acme also attempts to
+provide multiple points of entry to the RL problem at differing levels
+of complexity.
+
+Overall Acme strives to expose simple, efficient, and readable agent
+baselines while still providing enough flexibility to create novel
+implementations.
+
+| 
+
+=================== ================================
+**SBB License**     Apache License 2.0
+**Core Technology** Python
+**Project URL**     https://github.com/deepmind/acme
+**Source Location** https://github.com/deepmind/acme
+**Tag(s)**          ML Framework
+=================== ================================
+
 AdaNet
 ------
 
@@ -433,13 +458,12 @@ Detectron2
 Detectron is Facebook AI Research’s software system that implements
 state-of-the-art object detection algorithms, including `Mask
 R-CNN <https://arxiv.org/abs/1703.06870>`__. Detectron2 is a ground-up
-rewrite of Detectron that started with
-`maskrcnn-benchmark <https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2Ffacebookresearch%2Fmaskrcnn-benchmark&h=AT319oEA09Ii1ImdzCG3ab0uX1B-ZQt1zK0xx8FCoUxqKgsnpO6TK9lH5zQN4pB2RZ1oU14K4rFCQXZywkDlWVC4XOMey364uCudl3aMAi7rjLHeteB0t5gqnVBhtgHeEKy1Nh36LvfZXw>`__.
-The platform is now implemented in `PyTorch <https://pytorch.org/>`__.
-With a new, more modular design. Detectron2 is flexible and extensible,
-and able to provide fast training on single or multiple GPU servers.
-Detectron2 includes high-quality implementations of state-of-the-art
-object detection algorithms,
+rewrite of Detectron that started with maskrcnn-benchmark. The platform
+is now implemented in `PyTorch <https://pytorch.org/>`__. With a new,
+more modular design. Detectron2 is flexible and extensible, and able to
+provide fast training on single or multiple GPU servers. Detectron2
+includes high-quality implementations of state-of-the-art object
+detection algorithms,
 
 New in Detctron 2:
 
@@ -580,6 +604,46 @@ applications, or it can be used to train a powerful end model.
 **Source Location** https://github.com/HazyResearch/flyingsquid
 **Tag(s)**          ML Framework, Python
 =================== ============================================
+
+Karate Club
+-----------
+
+Karate Club is an unsupervised machine learning extension library for
+`NetworkX <https://networkx.github.io/>`__.
+
+*Karate Club* consists of state-of-the-art methods to do unsupervised
+learning on graph structured data. To put it simply it is a Swiss Army
+knife for small-scale graph mining research. First, it provides network
+embedding techniques at the node and graph level. Second, it includes a
+variety of overlapping and non-overlapping community detection methods.
+Implemented methods cover a wide range of network science (NetSci,
+Complenet), data mining (`ICDM <http://icdm2019.bigke.org/>`__,
+`CIKM <http://www.cikm2019.net/>`__,
+`KDD <https://www.kdd.org/kdd2020/>`__), artificial intelligence
+(`AAAI <http://www.aaai.org/Conferences/conferences.php>`__,
+`IJCAI <https://www.ijcai.org/>`__) and machine learning
+(`NeurIPS <https://nips.cc/>`__, `ICML <https://icml.cc/>`__,
+`ICLR <https://iclr.cc/>`__) conferences, workshops, and pieces from
+prominent journals.
+
+The documentation can be found at:
+https://karateclub.readthedocs.io/en/latest/
+
+The Karate ClubAPI draws heavily from the ideas of scikit-learn and
+theoutput generated is suitable as input for scikit-learn’s
+machinelearning procedures.
+
+The paper can be found at: https://arxiv.org/pdf/2003.04819.pdf
+
+| 
+
+=================== =================================================
+**SBB License**     GNU General Public License (GPL) 3.0
+**Core Technology** Python
+**Project URL**     https://karateclub.readthedocs.io/en/latest/
+**Source Location** https://github.com/benedekrozemberczki/karatecluB
+**Tag(s)**          ML Framework
+=================== =================================================
 
 Keras
 -----
@@ -983,6 +1047,45 @@ resources for your team or organization.
 **Source Location** https://github.com/polyaxon/polyaxon
 **Tag(s)**          ML, ML Framework
 =================== ====================================
+
+PyCaret
+-------
+
+PyCaret is an open source ``low-code`` machine learning library in
+Python that aims to reduce the hypothesis to insights cycle time in a ML
+experiment. It enables data scientists to perform end-to-end experiments
+quickly and efficiently. In comparison with the other open source
+machine learning libraries, PyCaret is an alternate low-code library
+that can be used to perform complex machine learning tasks with only few
+lines of code. PyCaret is essentially a Python wrapper around several
+machine learning libraries and frameworks such as ``scikit-learn``,
+``XGBoost``, ``Microsoft LightGBM``, ``spaCy`` and many more.
+
+The design and simplicity of PyCaret is inspired by the emerging role of
+``citizen data scientists``, a term first used by Gartner. Citizen Data
+Scientists are ``power users`` who can perform both simple and
+moderately sophisticated analytical tasks that would previously have
+required more expertise. Seasoned data scientists are often difficult to
+find and expensive to hire but citizen data scientists can be an
+effective way to mitigate this gap and address data related challenges
+in business setting.
+
+PyCaret claims to be ``imple``, ``easy to use`` and
+``deployment ready``. All the steps performed in a ML experiment can be
+reproduced using a pipeline that is automatically developed and
+orchestrated in PyCaret as you progress through the experiment. A
+``pipeline`` can be saved in a binary file format that is transferable
+across environments.
+
+| 
+
+=================== ==================================
+**SBB License**     MIT License
+**Core Technology** Python
+**Project URL**     https://www.pycaret.org
+**Source Location** https://github.com/pycaret/pycaret
+**Tag(s)**          ML Framework
+=================== ==================================
 
 Pylearn2
 --------
