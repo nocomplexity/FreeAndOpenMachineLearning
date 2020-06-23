@@ -3,7 +3,7 @@ Preface
 
 We humans are since the beginning of the development of modern computers obsessed with creating computers that have super powers. Even before the birth of computers, research has been done on artificial intelligence (AI). The question what artificial intelligence really is, is hard and fuel for philosophical discussions. 
 
-Nowadays we see more and more products created that claim to have super powers that come close to AI. A look under the surface shows however that the real progress on AI is made by a tangible technique, called machine learning. So our the focus in this publication is on machine learning. And not on philosophical views on what will be in future possible when machine learning evolves towards AI. 
+Nowadays we see more and more products created that claim to have super powers that come close to AI. A look under the surface shows however that the real progress on AI is made by a tangible technique, called machine learning. So our the focus in this publication is on machine learning. And not on philosophical views on what will be possible in the future when machine learning evolves towards AI. 
 
 Machine learning today is capable of solving challenging problems that impact everyone around the world. Problems that were impossible to solve in the past. Or problems that where too expensive or too complex to solve using traditional computer technologies. Nowadays solving a certain type of complex problems is possible using new machine learning technology. 
 
