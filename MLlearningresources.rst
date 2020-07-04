@@ -92,6 +92,10 @@ Most learning resources include hands-on tutorials. So be ready to use a noteboo
 
 |
 
+- Seeing Theory, A visual introduction to probability and statistics. Interactive learning book that visualizes the fundamental statistical concepts, https://seeing-theory.brown.edu/ 
+
+|
+
 - Spinning Up in Deep RL, become a skilled practitioner in deep reinforcement learning, https://spinningup.openai.com/en/latest/index.html
 
 |
@@ -99,4 +103,7 @@ Most learning resources include hands-on tutorials. So be ready to use a noteboo
 - The Elements of AI, learn the basics of AI,  https://www.elementsofai.com/ 
 
 |
+
+- TensorFlow, Keras and deep learning, without a PhD, https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0 
+
 |
