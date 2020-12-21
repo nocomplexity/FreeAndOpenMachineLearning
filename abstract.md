@@ -9,7 +9,7 @@ machine learning for real practical business use cases. Machine learning
 is a fascinating technology. Free and Open machine learning should be
 the norm for business innovation. So simple to use for complex problems.
 Freedom to control machine learning technology is not self-evident. Free
-and Open Machine Learning puts you in full control.
+and Open Machine Learning gives you full control.
 
 This publication empowers everyone to make a head start using the
 powerful machine learning technology in a Free, Open and Simple way.
@@ -29,15 +29,15 @@ are impossible to solve by using traditional software technologies. This
 great machine learning technology should available for everyone. This
 means that everyone should be able to learn, play and create great
 applications using machine learning technology. But also reuse existing
-machine learning solutions, inspect solutions and improve solutions of
+machine learning solutions, inspect these solutions and improve solutions of
 others. Without borders or strings attached.
 
-The key focus of this publication in on Free and Open Machine Learning
+The key focus of this publication is on Free and Open Machine Learning
 technologies. This to remove barriers for learning, playing, using and
 reusing machine learning technologies for real practical use cases for
 everyone.
 
-Of course you can use or switch to cloud company solutions to deploy
+Of course you can use or switch to commercial cloud solutions to deploy
 your machine learning driven application in production. But besides
 vendor lock-in, crucial aspects like safety, privacy and security for
 machine learning applications are only possible when using fully
@@ -48,13 +48,13 @@ This document describes an open machine learning architecture. Including
 key aspects that are involved for real business use. This means e.g.
 that we focus on FOSS machine learning software and open datasets.
 
-Since the majority of humans are not a graduated mathematician, we skip
+Since the majority of humans are not graduated mathematicians, we skip
 deep mathematical background concepts of machine learning algorithms in
 this publication. Good books with lots of mathematical background
 information on how machine learning works are available for more than 70
 years. There are plenty excellent free and open publications available
 if you want to learn everything about the inner working of the
-mathematical algorithms that power the current exciting machine learning
+mathematical algorithms that power the current new machine learning
 applications. In the learning resources section in this publication you
 can find a list of good references. All references in this publication
 are publications available under a creative commons license (cc-by).
@@ -64,7 +64,7 @@ learning can be used for real business use cases. This is done by
 describing:
 
 -   Key machine learning concepts. The focus is on concepts that are
-    needed in order to use solid FOSS machine learning frameworks and
+    needed in order to use FOSS machine learning frameworks and
     datasets when creating a machine learning powered application.
 -   An open reference architecture for creating and maintaining a
     machine learning solution architecture and IT landscape.
@@ -85,7 +85,7 @@ machine learning technology for real business use cases. No programming
 knowledge is needed to enjoy and learn machine learning.
 
 This publication is created to give you a head start with using Free and
-Open machine learning technology to solve your business problems.
+Open machine learning technology to solve business problems.
 Without any strings attached, so the focus is on Free and Open
 transparent machine learning technologies and solutions only!
 

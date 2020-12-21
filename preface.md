@@ -1,5 +1,4 @@
-Preface
-=======
+# Preface
 
 We humans are since the beginning of the development of modern computers
 obsessed with creating computers that have super powers. Even before the
@@ -24,7 +23,7 @@ technology.
 Very complex problems and meaningful problems are currently solved using
 applications based on machine learning algorithms. Many firms involved
 are willing to tell and show you how easy it is! But you must be aware:
-machine learning is a buzzword in the industry! So the machine learning
+machine learning is a buzzword in the industry. The machine learning
 field is full of companies that use fads, all kind of vendor lock-in
 options and marketing buzz to take your money without delivering long
 running solutions. That is why this publication advocates for Free and
@@ -40,11 +39,9 @@ Everything described in this publication is with no strings attached. So
 the focus is on openness for machine learning tools, algorithms and
 knowledge. The core focus is outlining core concepts of machine learning
 and showing an open machine learning architecture that make machine
-learning possible for real business use cases. So this publication is
-also focused on outlining open source machine learning solutions (FOSS)
-that make it possible to start your machine learning journey.
+learning possible for real business use cases. So this publication outlines open source machine learning solutions (FOSS) that make it possible to start your machine learning journey.
 
-This publication is to enable business IT consultants, IT architects,
+This publication enables business IT consultants, IT architects,
 and software developers to get a practical grounding in open machine
 learning and its business applications. So no programming exercises and
 no complex mathematical formulas in this publication. Showing
@@ -59,9 +56,7 @@ learning technology is possible without coding. This publication
 empowers you to start transforming your organization into an innovative
 and open company for the future using new open machine learning
 technologies. If your company is committed to openness and you endorse
-key open principles to create value, you are an open company. See
-<https://www.bm-support.org/open-company-principles/> for showing your
-commitment to openness.
+key open principles to create value, you are an open company. See [ROI](https://www.bm-support.org/open-company-principles/) for showing your commitment to openness.
 
 Machine learning is and should not be the exclusive domain of commercial
 companies, data scientists, mathematics, computer scientists or hackers.
@@ -76,14 +71,14 @@ can and should benefit from the possibilities that open machine learning
 frameworks and tools provide.
 
 To create this publication a lot of papers, books and reports on machine
-learning are examined. And doing some 'hands-on' to experiences and feel
+learning have been examined. And doing some 'hands-on' to experiences and feel
 the power of machine learning algorithms turned out to be crucial for
 understanding and creating this publication as well. This publication is
 focussed on making a the complex machine learning technology simple to
 use.
 
 In my journey on learning how to apply machine learning for real
-business use cases many books turned out to be either too theoretical,
+business use cases, many books turned out to be either too theoretical,
 or too much focused on programming machine learning algorithms. As an IT
 architect I missed the overall machine learning architecture picture
 from a typical IT architecture point of view. So business, information,
