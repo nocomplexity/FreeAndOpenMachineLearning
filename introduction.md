@@ -43,7 +43,7 @@ current potential is and what still remains wishful thinking for the
 future. We like transparency, so we focus solely on free and open
 machine learning technologies.
 
-![Hope and Hype](/images/hope-and-hype.png){.align-center}
+![Hope and Hype](/images/hope-and-hype.png)
 
 Innovation needs openness. This is also valid for machine
 learning technologies. Without real openness new developments and
@@ -145,7 +145,7 @@ machine learning for your business use case.
 So this publication is concentrated on machine learning aspects where
 software, business and technology touch each other.
 
-![Domains touching](/images/domains.png){.align-center}
+![Domains touching](/images/domains.png)
 
 (\* When we write Open Source Software or OSS in this report we
 explicitly mean FOSS as defined by the Free Software Foundation -
@@ -301,12 +301,9 @@ Since the world of machine learning is rapidly evolving this book will be
 continuously updated. That's why there is an open on-line version of
 this book available that always incorporates the latest updates.
 
-::: {.note}
-::: {.admonition-title}
-Note
-:::
-
+```{tip}
 If like to contribute to promote the Free and Open Machine Learning
 principles and to make this book better: Please **CONTRIBUTE!** See the HELP
 section.
-:::
+```
+

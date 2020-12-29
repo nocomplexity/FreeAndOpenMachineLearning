@@ -5,7 +5,7 @@ Machine learning is a technology that currently comes with some special
 challenges. This section outlines the most important challenges you hit
 when you start using machine learning for real.
 
-![ML Implementation challenges](/images/ml-challenges.png){.align-center}
+![ML Implementation challenges](/images/ml-challenges.png)
 
 Performance
 -----------
@@ -72,7 +72,7 @@ Testing should be done on:
 
 Overview ISO Quality Standard(25010)
 
-![Typical NLP Architecture](/images/iso-25010.png){.align-center}
+![Typical NLP Architecture](/images/iso-25010.png)
 
 The ISO documents are not open. But since quality matters and ISO 25010
 is used heavily for managing quality aspects within business IT systems
@@ -254,7 +254,7 @@ offerings. But for high value FOSS machine learning applications
 everyone who shares the principles for FOSS ML can and should contribute
 to the foundation work needed for machine learning.
 
-![Types of work for Machine Learning](/images/business-quadrants.png){.align-center}
+![Types of work for Machine Learning](/images/business-quadrants.png)
 
 Data and bias
 -------------

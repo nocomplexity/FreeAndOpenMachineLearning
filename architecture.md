@@ -48,7 +48,7 @@ You should also be aware of the important difference between:
 -   Architecture building Blocks and
 -   Solution building blocks
 
-![ML Architecture Building Blocks vs SBBs](/images/abb-sbb.png){.align-center}
+![ML Architecture Building Blocks vs SBBs](/images/abb-sbb.png)
 
 This reference architecture for machine learning describes architecture
 building blocks. So you could use this reference architecture and ask
@@ -99,7 +99,7 @@ steps. These steps are:
     you need is to search for more training data within this iterative
     loop.
 
-![Machine Learning Process](/images/ml-process.png){.align-center}
+![Machine Learning Process](/images/ml-process.png)
 
 You need to improve your machine learning model after the first test.
 Improving can be done using more training data or by making model
@@ -126,7 +126,7 @@ and requirements are needed.
 The way to develop a machine learning architecture is outlined in the
 figure below.
 
-![Machine Learning Architecture Process](/images/solutionsteps-overview.png){.align-center}
+![Machine Learning Architecture Process](/images/solutionsteps-overview.png)
 
 In essence developing an architecture for machine learning is equal as
 for every other system. But some aspects require special attention.
@@ -262,7 +262,7 @@ overview of aspects regarding machine learning. Using this model gives
 you a head start when developing your specific machine learning
 solution.
 
-![Machine Learning Architecture Building Blocks](/images/ml-reference-architecture.png){.align-center}
+![Machine Learning Architecture Building Blocks](/images/ml-reference-architecture.png)
 
 Conceptual overview of machine learning reference architecture
 

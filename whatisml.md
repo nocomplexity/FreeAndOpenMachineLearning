@@ -29,14 +29,10 @@ publications are not free from commercial interest. So also open access
 publications on machine learning are not always objective and free from
 bias.
 
-::: {.tip}
-::: {.admonition-title}
-Tip
-:::
-
+```{attention}
 Be aware of facts and fads when reading machine learning papers and
 books. Always be critical.
-:::
+```
 
 This section outlines essential concepts surrounding machine learning
 more in depth.
@@ -64,7 +60,7 @@ their meaning:
     that has to do with language (usually written). NLP concepts are
     outlined more in depth in another chapter of this book.
 
-![ML,AI and NLP](/images/ml-ai-nlp.png){.align-center}
+![ML,AI and NLP](/images/ml-ai-nlp.png)
 
 A clear distinction between AI and ML is hard to make. Discussions on
 making a clear distinguishing are often a waste of time and are heavily
@@ -140,7 +136,7 @@ learning 'program' will get it wrong sometimes.** Large amounts of input
 data increases the quality of the generated prediction model. In the old
 traditional paradigm called 'the program'.
 
-![ML vs traditional programming](/images/whatisml.png){.align-center}
+![ML vs traditional programming](/images/whatisml.png)
 
 Difference between general programming and (supervised) machine
 learning.
@@ -160,7 +156,7 @@ now possible to create meaningful output based on new input. At least
 when the trained model is functioning as intended. In the figure below
 another view of the essence of the working of machine learning.
 
-![Machine learning working](/images/essence-of-ml.png){.align-center}
+![Machine learning working](/images/essence-of-ml.png)
 
 ### What is a machine learning model
 
@@ -270,7 +266,7 @@ following core types:
 -   Unsupervised learning.
 -   Reinforcement Learning.
 
-![ML methods](/images/ml-methods.png){.align-center}
+![ML methods](/images/ml-methods.png)
 
 ### Supervised Learning
 
@@ -370,7 +366,7 @@ as deep neural networks.
 The figure below positions Deep Learning(DL) in the spectrum of AI and
 ML.
 
-![Deep Learning](/images/deeplearning.png){.align-center}
+![Deep Learning](/images/deeplearning.png)
 
 ### AutoML
 

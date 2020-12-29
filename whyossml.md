@@ -49,7 +49,7 @@ aspects are needed for real Free and Open Machine Learning:
 
 These aspects are the core pillars of Free and Open Machine Learning.
 
-![Pillars of FOSS Machine Learning](/images/foss-ml.png){.align-center}
+![Pillars of FOSS Machine Learning](/images/foss-ml.png)
 
 Open Source (FOSS)
 ------------------
@@ -159,7 +159,7 @@ black box solution often increases business risks and mitigation of
 risks is harder. E.g. security and privacy risk mitigation is hard with
 blackbox solutions.
 
-![Popularity of Machine Learning](/images/popularity-of-ml.png){.align-center}
+![Popularity of Machine Learning](/images/popularity-of-ml.png)
 
 All IT companies advertise with machine learning powered software
 products nowadays. This also means that existing software that has been
@@ -354,7 +354,7 @@ Open architectures should be concentrated around the following pillars:
     can and may implement, use and improve. Unfortunate not all open
     standards are really open and usable.
 
-![Open Architecture](/images/open-architecture.png){.align-center}
+![Open Architecture](/images/open-architecture.png)
 
 Green ML
 --------

@@ -3,7 +3,9 @@
                 
 # Free and Open Machine Learning
 
-Great that you are interested in this open collaboration project.
+Great that you are interested in this open collaboration project!
+
+The latest online version can be found here: https://nocomplexity.com/documents/fossml/
 
 This project is all about collaborative learning on applying FOSS Machine Learning.
 This project is an open research project. It is open for all to join.

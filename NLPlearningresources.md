@@ -10,15 +10,22 @@ Of course also only resources that are open, so only resources published
 using a Creative Commons license (cc-by mostly) or other real open
 licenses are included. So all references are open access resources.
 
--   Natural Language Processing with Python, <http://www.nltk.org/book/>
+-  Natural Language Processing with Python, <http://www.nltk.org/book/>   
 
-| 
 
--   Advanced NLP with spaCY, <https://course.spacy.io/>
 
-| 
+-  Advanced NLP with spaCY, <https://course.spacy.io/>    
 
--   NLP concepts with spaCy (notebook)
-    <https://gist.github.com/nocomplexity/b7c4c0aa5a0b53f4f5ff1c4784084be6>
 
-| 
+
+
+-  NLP concepts with spaCy (notebook), <https://gist.github.com/nocomplexity/b7c4c0aa5a0b53f4f5ff1c4784084be6>   
+
+
+
+
+
+
+
+
+ 

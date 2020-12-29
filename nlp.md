@@ -16,7 +16,7 @@ customers.
 Everything that has to do with text processing and involves machine
 learning can be categorized as Natural Language Processing (NLP).
 
-![What is NLP](/images/what-is-nlp.png){.align-center}
+![What is NLP](/images/what-is-nlp.png)
 
 NLP is concerned with programming computers to process natural language.
 NLP is at the intersection of computer science, machine learning and
@@ -96,7 +96,7 @@ the various software building blocks. For each step in a NLP development
 pipeline another FOSS building block can be needed. The figure below
 shows a typical NLP pipeline.
 
-![Typical NLP Architecture](/images/nlp-pipeline.png){.align-center}
+![Typical NLP Architecture](/images/nlp-pipeline.png)
 
 In the figure below a typical NLP architecture for providing input on
 common user questions. A lot of Bot systems (Build--operate--transfer)
@@ -108,7 +108,7 @@ application should be user friendly and value added than learning
 algorithms are needed, since it is no longer possible to program output
 based on given input.
 
-![Typical NLP Architecture](/images/nlp-architecture.png){.align-center}
+![Typical NLP Architecture](/images/nlp-architecture.png)
 
 NLP Business challenges
 -----------------------

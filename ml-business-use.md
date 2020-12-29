@@ -362,14 +362,10 @@ information on this SBB.) The technique used is based on Generative
 Adversarial Network (GAN) for face anonymization. It\'s far from
 perfect, but usable for most low quality images.
 
-::: {.warning}
-::: {.admonition-title}
-Warning
-:::
-
-Besides protecting privacy machine learning is still too often a privacy
+```{warning}
+Warning:Besides protecting privacy machine learning is still too often a privacy
 nightmare.
-:::
+```
 
 ### Risk and compliance
 
@@ -604,7 +600,7 @@ requirements below. All requirements are of equal importance, support
 each other, and should be implemented and evaluated throughout the
 system's lifecycle.
 
-![ML Ethics requirements](/images/ml-ethical-requirements.png){.align-center}
+![ML Ethics requirements](/images/ml-ethical-requirements.png)
 
 The framework of ethical requirements is part of the (draft)\'Ethics
 Guidelines for Trustworthy Artificial Intelligence (AI)\' from the

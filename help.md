@@ -12,13 +12,9 @@ FOSS machine learning means using open principles.
 You can contribute to FOSS machine learning in a simple way. This
 publication is created to be shared as much as possible. So please:
 
-::: {.tip}
-::: {.admonition-title}
-Tip
-:::
-
-**Share this report!**
-:::
+```{tip}
+Tip **Share this report!**
+```
 
 This publication is created as a starting and living document to support
 FOSS machine learning. So this publication is likely to be incomplete or
@@ -52,13 +48,9 @@ the practical use of FOSS machine learning in practice. So if you:
 -   Discuss the content so it gets better. We do discussion on-line and
     off-line (meetups).
 
-::: {.tip}
-::: {.admonition-title}
-Tip
-:::
-
+```{tip}
 Feel free to contact me or create a pull request on github.
-:::
+```
 
 Contributors
 ------------
