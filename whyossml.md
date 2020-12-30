@@ -1,5 +1,5 @@
-Why Free and Open Machine Learning
-==================================
+# Why Free and Open Machine Learning
+
 
 Free and Open machine learning is comparable with open source software
 (FOSS - Free and Open Source Software). But openness for machine
@@ -51,8 +51,8 @@ These aspects are the core pillars of Free and Open Machine Learning.
 
 ![Pillars of FOSS Machine Learning](/images/foss-ml.png)
 
-Open Source (FOSS)
-------------------
+## Open Source (FOSS)
+
 
 Free and open-source software (FOSS) is software that can be classified
 as both free software and open-source software. FOSS is an inclusive
@@ -169,7 +169,7 @@ and data driven are used to sell you old solutions using this new trend.
 You can easily be fooled since massive marketing efforts (time, money,
 material) are invested to sell old buggy solutions as new innovative
 machine learning powered solutions. In reality black box solutions from
-small or large vendors that seems good to be true for your use case, are
+small or large vendors that seems too good to be true for your use case, are
 almost always based on fads. This is why you should be very suspicious
 when using cloud based machine offerings that offers you instant new
 business and customers. Make sure to do a fast and cheap hands on
@@ -188,8 +188,8 @@ you can ask every IT company or consultant with the right skills to
 audit the application. Because in the end: When security, safety or
 privacy of your customers is at risk, you are accountable.
 
-Open data
----------
+## Open data
+
 
 Free and Open machine learning does not only need FOSS software, but
 also open data sets. Data is one of the most important aspects for
@@ -263,8 +263,8 @@ principles are:
 -   Be transparent.
 -   Respect data privacy regulations and laws (e.g. EU GDPR)
 
-Open Science and open algorithms
---------------------------------
+## Open Science and open algorithms
+
 
 Machine learning is a challenging science. Many researchers on
 universities worldwide are working to develop new knowledge for solving
@@ -287,20 +287,20 @@ all available knowledge at an earlier stage in the research process.
 Developing machine learning knowledge using open science means that
 publications, data, results, and software is accessible without borders
 for everyone to learn and build upon. Key pillars of open science
-important for open machine learning are:
+important that are for open machine learning are:
 
--   Open Data:
--   Open source software
--   Open access
+*   Open Data
+*   Open source software
+*   Open access
 
-This so everyone can validate claims, inspect algorithms used and can
-created and read machine learning experiments done without large upfront
+Everyone should be able to validate claims, inspect algorithms used and can
+created and read machine learning experiments. All without large upfront
 costs. Transparency is needed for trust. This also accounts for machine
 learning applications, algorithms and frameworks used.
 
 For real open machine learning applications providing real transparency
 in terms of explaining how results are created is a complex problem.
-This is a direct result of how some type of machine learning algorithms
+This is a direct result of how some types of machine learning algorithms
 work. The current generation of machine learning systems offer
 tremendous benefits, but their effectiveness is limited by the machine's
 inability to explain its decisions and actions to users. The so called
@@ -311,8 +311,8 @@ Only when the basic principles for open science are followed, trust in
 machine learning algorithms and software frameworks is possible.
 
 The key of machine learning is smart algorithms. Algorithms that operate
-as "black boxes" should never be trusted. Fighting against e.g. your
-government is very difficult is no insight in the used algorithms. Open
+as "black boxes" should never be trusted. Fighting against your
+government is very difficult if you have no insight in the used algorithms. Open
 algorithms developed in an open scientific environment are key for
 trust.
 
@@ -320,12 +320,10 @@ FOSS machine learning with the use of open algorithms is needed to
 prevent a "black box society". That is a society" in which key moments
 of our lives are mediated by unknown, unseen, and arbitrary algorithms.
 Open algorithms and algorithmic accountability is a way to stop this
-pattern. An open algorithm makes it possible for anyone to analyse.
-There is a freely available description and a FOSS reference
-implementation.
+pattern. An open algorithm makes it possible for anyone to analyse. 
 
-Open architectures
-------------------
+## Open architectures
+
 
 Architecture is a minefield. Architecture is not by definition high
 level and sometimes relevant details are of the utmost importance. It is
@@ -342,29 +340,29 @@ solutions by working using an agile method should reinforces each other.
 
 Open architectures should be concentrated around the following pillars:
 
--   Solutions should be created using FOSS system building blocks.
--   The created architecture blueprint is available for everyone. so use
+*   Solutions should be created using FOSS system building blocks.
+*   The created architecture blueprint is available for everyone. so use
     a friendly (creative commons) license.
--   The architecture is developed from an open process in which everyone
+*   The architecture is developed in an open process in which everyone
     participates to improve the architecture. E.g. also customers,
     business stakeholders other stakeholders that will be impacted by
     the architecture design in future. Borders that hinder participation
     should be removed.
--   The architecture is based around good usable standards that anyone
+*   The architecture is based around good usable standards that anyone
     can and may implement, use and improve. Unfortunate not all open
     standards are really open and usable.
 
 ![Open Architecture](/images/open-architecture.png)
 
-Green ML
---------
+
+## Green ML
 
 Applying new technology brings new responsibilities. Computations power
 needed for deep learning research have been doubling every few months.
 Machine learning computations can have a very large carbon footprint.
 This is a results of the way most algorithms are designed.
 
-Most machine learning algorithms give only good results when large
+Almost all machine learning algorithms give only good results when large
 amounts of data are used and an enormous number of calculations are
 performed. Computers do use a lot of energy when calculations at large
 are performed.
@@ -375,7 +373,7 @@ computations can make it difficult for academics, students, and
 researchers, in particular those from emerging economies, to engage in
 deep learning research.
 
-Green machine learning means is machine learning optimized to minimize
+Green machine learning means machine learning that is optimized to minimize
 resource utilization and environmental impact. This can be done by data
 center resource optimization, balancing training data requirements
 versus accuracy, choosing less resource intensive models or in some
@@ -387,7 +385,7 @@ can bring should not harm the environment of all living cells that have
 no direct relationship with your machine learning application.
 
 The Freedom to use the powerful machine learning technology should not
-limit the freedom to live in good health of others. So green ML is a
+limit the freedom to live in good health for others. So green ML is a
 difficult but important aspects for machine learning developments. So
 chose algorithms that perform well without weeks of calculation on
 datasets. Or make sure expensive and time consuming calculations can be
