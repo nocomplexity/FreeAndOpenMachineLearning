@@ -1,5 +1,5 @@
-What is machine learning
-========================
+# What is machine learning
+
 
 To understand the basic principles of machine learning you do not need
 to have a PhD in computer science or have done a complex mathematical or
@@ -21,9 +21,8 @@ intelligence (AI).
 
 Investments in machine learning by large commercial companies are still
 growing. But a lot of documentation that is freely available on machine
-learning, especially some documents created by commercial vendors, are
-sometimes biased. In the reference section of this book you find a
-collection of open access resources to do a more in depth study on
+learning, especially some documents created by commercial vendors, is biased. In the reference section of this book you find a
+collection of open access resources for a more in depth study on
 various machine learning subjects. Be aware that also open access
 publications are not free from commercial interest. So also open access
 publications on machine learning are not always objective and free from
@@ -37,26 +36,25 @@ books. Always be critical.
 This section outlines essential concepts surrounding machine learning
 more in depth.
 
-ML, AI and NLP: What is what
-----------------------------
+## ML, AI and NLP: What is what
 
 Machine Learning (ML) and Artificial Intelligence (AI) are terms that
 are crucial to know when creating machine learning driven solutions. But
 also the term NLP (Natural language processing) is a term that is
 crucial for understanding current machine learning application that are
-created for speech or text. E.g. for bots with which you can converse
+created for speech or text. E.g. for bots which you can converse with
 instead of humans.
 
 So let\'s start with a high level separation of common used terms and
 their meaning:
 
--   AI (Artificial intelligence) is concerned with solving tasks that
+*   AI (Artificial intelligence) is concerned with solving tasks that
     are easy for humans but hard for computers.
--   ML (Machine learning) is the science of getting computers to act
+*   ML (Machine learning) is the science of getting computers to act
     without being explicitly programmed. Machine learning (ML) is
-    basically a learning through doing. Often machine learning is
+    basically learning through doing. Often machine learning is
     regarded as a subset of AI.
--   NLP (Natural language processing) is the part of machine learning
+*   NLP (Natural language processing) is the part of machine learning
     that has to do with language (usually written). NLP concepts are
     outlined more in depth in another chapter of this book.
 
@@ -100,8 +98,8 @@ Machine Learning is the most used current application of AI based around
 the idea that we should really just be able to give machines access to
 data and let them learn for themselves.
 
-The paradigm shift: Creating smart software
--------------------------------------------
+## The paradigm shift: Creating smart software
+
 
 To really understand machine learning a new view on how software can be
 created and how it works is needed. Most of our current computer
@@ -118,14 +116,14 @@ experience. The domain knowledge needed is often difficult to identify
 exactly.
 
 Determining the exact context of a car in traffic and in order to make a
-decision within milliseconds to go left or right is very hard
+decision within milliseconds to go left or right is a very hard
 programming challenge. It takes you decades and you will never do it
 right. This is why a paradigm shift in creating software for the next
 phase of automation is needed.
 
 Programming computers the traditional way made it possible to put a man
 on the moon. To break new barriers in automation in our daily lives and
-science requires new ways of thinking about creating intelligent
+science, requires new ways of thinking about creating intelligent
 software. Machine learning is a new way to 'program' computers. When a
 programming challenge is too large to solve with traditional programming
 methods (requirements collection, decision rules collection, etc) a
@@ -236,7 +234,7 @@ learning is often only useful if enough data is available. And if the
 data has been prepared correctly. So despite the promises of machine
 learning, when you want to apply machine learning you always have a data
 challenge. Getting good and large amounts of data that is usable for
-input of a machine learning algorithm is often not a simple problem to
+input of a machine learning algorithm is not a simple problem to
 solve. Not only getting enough quality data, but also managing (storing,
 processing etc) the retrieved data is hard. Most of the time the storage
 and performance aspect are the easiest problems to solve regarding data.
@@ -253,8 +251,8 @@ For machine learning, four things are needed:
 Machine learning algorithms discover patterns in data, and construct
 mathematical models using these discoveries.
 
-Overview machine learning methods
----------------------------------
+## Overview machine learning methods
+
 
 Whenever you are confronted with machine learning it is good to known
 that different methods, and thus approaches, exist.
@@ -388,13 +386,13 @@ With AutoML the challenge is to turn this into:
 
 > Solution = data + 100X computation
 
-Other common terms used in the ML world
----------------------------------------
+## Other common terms used in the ML world
+
 
 Within the world of machine learning you read and hear about concepts
 and terms as networks, deep learning, reinforcement learning and more.
 Many of these terms are derived from years of scientific progress and
-discussions.
+discussions. This sections explains some common ML terms.
 
 ### Data science
 
@@ -419,10 +417,8 @@ A Generative model can be defined as:
 
 Neural networks (NNs) can be defined as:
 
--   The algorithms in machine learning are implemented by using the
-    structure of neural networks. These neural networks model the data
-    using artificial neurons. Neural networks thus mimic the functioning
-    of the brain.
+-   An ANN is based on a collection of connected units or nodes called artificial neurons, which loosely model the neurons in a biological brain. Each connection, like the synapses in a biological brain, can transmit a signal to other neurons. An artificial neuron that receives a signal then processes it and can signal neurons connected to it. The "signal" at a connection is a real number, and the output of each neuron is computed by some non-linear function of the sum of its inputs. The connections are called edges. Neurons and edges typically have a weight that adjusts as learning proceeds. The weight increases or decreases the strength of the signal at a connection. Neurons may have a threshold such that a signal is sent only if the aggregate signal crosses that threshold. Typically, neurons are aggregated into layers. Different layers may perform different transformations on their inputs. Signals travel from the first layer (the input layer), to the last layer (the output layer), possibly after traversing the layers multiple times.
+(source [Wikipedia](https://en.wikipedia.org/wiki/Artificial_neural_network))
 
 The 'thinking' or processing that a brain carries out is the result of
 these neural networks in action. A brain\'s neural networks continuously
