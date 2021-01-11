@@ -1,5 +1,5 @@
-Machine Learning for Business Problems
-======================================
+# Machine Learning for Business Problems
+
 
 Reading and talking about futuristic potential options for machine
 learning is nice and should be done. But applying machine learning today
@@ -16,8 +16,8 @@ learning in a business with success. This section gives you some more in
 depth input on organisational factors that should be taken into account
 when applying machine learning for real business use.
 
-When to use machine learning?
------------------------------
+## When to use machine learning?
+
 
 Before starting and applying machine learning for solving business
 problems you must be aware that machine learning is not a tool for every
@@ -32,7 +32,7 @@ But the temptation to use machine learning to solve complex problems is
 too promising to ignore. So you should try it. Preferably by using a
 fast innovation project with minimal cost and no strings attached. If
 only try it to see if is has real some real opportunities for your use
-case. But be aware from the start that machine learning doesn't give
+case. But be aware that machine learning doesn't give
 perfect answers or a perfect solution. Risk will always exist,so you
 should get a feeling on the likelihood of a risk occurring.
 
@@ -120,8 +120,8 @@ can be done in a short time. But this requires a business culture with
 an innovation approach where learning and playing with new technology is
 possible without predefined rules.
 
-Common business use cases
--------------------------
+## Common business use cases
+
 
 ### Healthcare
 
@@ -172,7 +172,7 @@ create voice systems you need an extremely large amount of voice data.
 Most of the data used by large companies isn't available to the majority
 of people. E.g. Amazon , Microsoft and Google offer great APIs but you
 interact with a black-box model. Also speech recognition needs openness
-and freedom. Mozilla launched Common Voice project in 2017. A project to
+and freedom. Mozilla launched the Common Voice project in 2017. A project to
 make voice recognition data and APIs open and accessible to everyone.
 Contributing to this great project is simple: Go to
 <https://voice.mozilla.org/> and speak some sentences and validate some.
@@ -198,12 +198,11 @@ of the current chatbot software needs to be hand-coded.
 
 ### eCommerce Recommendation systems
 
-A well known application for machine learning for eCommerce systems is a
+A well known application of machine learning for eCommerce systems is a
 machine learning enabled recommendation system system. Whether you buy a
 book, trip, music or visit a movie: On all major online ecommerce sites
 you get a recommendation for a product that seems to fit your interest
-perfectly. Of course the purpose is to drive up the sale, but these
-algorithms used are good examples of still evolving machine learning
+perfectly. Of course the purpose is to drive up the sale, but the algorithms used are good examples of still evolving machine learning
 algorithms for recommendation systems.
 
 Examples of these systems are:
@@ -306,7 +305,7 @@ that only selects people based on old paradigms in society.
 
 ### Software
 
-A holy grail for software developers is of course creating a machine
+A holy grail for software developers is of course creating machine
 learning algorithms that creates software for use cases that require
 expensive and complex human programming work.
 
@@ -346,7 +345,7 @@ creating software is made. Use cases seen are e.g.:
 -   Fraud detection. Fraud detection is possible using enormous data and
     searching for strange patterns.
 
-Besides fraud detection machine learning can also applied for IT
+Besides fraud detection machine learning can also be applied for IT
 security detections since intrusion detection systems and virus scanners
 are more and more shipped with self learning algorithms. Also Complex
 financial fraud schemes can be easily detected using predictive machine
@@ -379,8 +378,8 @@ nightmare.
     (robots). More and more machine learning software is developed to
     make transport safer for us humans.
 
-Business Examples
------------------
+## Business Examples
+
 
 Applications for real business use of machine learning to solve real
 tangible problems are growing at a rapid pace. To outline some use cases
@@ -412,8 +411,8 @@ companies that really make use of new ML solutions possible.
     patient's heart that are of acceptable diagnostic quality. Approved
     for use by the U.S. Food and Drug Administration (FDA).
 
-Business Challenges
--------------------
+## Business Challenges
+
 
 Applying machine learning for real business use cases is complex and
 difficult.
@@ -445,7 +444,7 @@ current business operations and products in order to really benefit from
 this technology?
 
 Normal IT projects have a bad reputation. Projects are often delayed and
-do not deliver what was needed. Machine learning are still not
+do not deliver what was needed. Machine learning projects are not
 different. In fact machine learning projects are still complex and risky
 IT projects. So an agile approach is recommended to reduce risks.
 
@@ -471,8 +470,8 @@ improves the awareness of available options.
 Machine learning needs trial and error before it works well. But
 debugging a machine learning application is a real complex challenge. An
 endless number of factors must be taken into account. Not only technical
-but even more from a business perspective. When are risks in outcomes
-acceptable? You need insights in the context where the results are used
+but even more from a business perspective. What risks in outcomes
+are acceptable? You need insights in the context where the results are used
 in order to evaluate if machine learning results are usable enough. When
 you want to improve the output you can face problems e.g. the following
 problems:
@@ -488,12 +487,11 @@ problems:
 -   Are the risks for business use acceptable? For live saving systems
     you should make other choices than for a marketing system.
 
-Business capabilities
----------------------
+## Business capabilities
+
 
 To take advantage of machine learning your organisation needs to have or
-develop the needed capabilities. Before starting a proof of concept or
-project with machine learning you need to dive into the subject and
+develop the needed capabilities. Before starting a proof of concept with machine learning you need to dive into the subject and
 options. *Warning*: Don't fall for a vendor hype. So beware of demo\'s
 and courses of vendors who sell you perfect SaaS ML solutions. If a
 promise for new business innovation based on a new machine learning
@@ -516,8 +514,7 @@ machine learning for your business use case:
 -   Managers, architects, developers and engineers with an open mindset.
     So open for learning and experimenting.
 -   Descent knowledge of key quality aspects involved. E.g. privacy,
-    safety and security. A must take these privacy, safety and security
-    serious from the start. Do it by design. It can initially take some
+    safety and security. You must take privacy, safety and security requirements serious from the start. Do it by design. It can initially take some
     extra time. But once key safeguards are in place experimenting with
     data and machine learning outcomes are possible with lower risks. So
     make sure you involve some privacy and security experts from the
@@ -528,8 +525,8 @@ machine learning for your business use case:
 If your goal is to use machine learning to reduce cost by automating
 human workflows make sure everyone shares this goal upfront.
 
-Business ethics
----------------
+## Business ethics
+
 
 When machine learning algorithms make decisions that affect human lives,
 what standards of transparency, openness and accountability should apply
@@ -540,8 +537,7 @@ There are always good and bad uses for any technology. This accounts
 also for machine learning technology. Working with machine learning can,
 will and must raise severe ethical questions. Machine learning can be
 used in many bad ways. Saying that you 'Don\'t be evil' , like the
-mission statement of Google
-(<https://en.wikipedia.org/wiki/Don%27t_be_evil>) was for decades, does
+[mission statement of Google](<https://en.wikipedia.org/wiki/Don%27t_be_evil>) was for decades, does
 not save you. Any business that uses machine learning should develop a
 process in order to handle ethical issues before they arrive. And
 ethical questions will arise.
@@ -570,15 +566,15 @@ could lead to large, rapid improvements in human welfare, or mass
 unemployment and poverty on a large scale. History learns that there are
 good reasons to think that this could lead to disastrous outcomes for
 our current societies. If machine learning research advances without
-enough research work going on security, safety on privacy, catastrophic
+enough research work for security, safety and privacy, catastrophic
 accidents are likely to occur. Or if we look back at history: Incidents
-will occur since regulations are always developed afterwards with new
+will occur since regulations are always developed afterwards with any new
 technology.
 
 With FOSS machine learning capabilities you should be able to take some
 control over the rapid pace machine learning driven software is hitting
-our lives. So instead of trying to stop developments and use, it is
-better to steer developments into a positive, safe, human centric
+our lives. So instead of trying to stop developments it is
+more productive to steer developments into a positive, safe, human centric
 direction. So apply machine learning using a decent machine learning
 architecture were also some critical ethical business questions are
 addressed.
@@ -586,16 +582,13 @@ addressed.
 Advances within machine learning could lead to extremely positive
 developments, presenting solutions to now-intractable global problems.
 But applying machine learning without good architectures where ethical
-questions are also addressed, using machine learning at large can pose
-severe risks. Humanity's superior intelligence is the sole reason that
-we are the dominant species on our planet. If technology with advanced
+questions are addressed, can pose severe risks. Humanity's superior intelligence is the sole reason that we are the dominant species on our planet. If technology with advanced
 machine learning algorithms surpass humans in intelligence, then just as
 the fate of gorillas currently depends on the actions of humans, the
 fate of humanity may come to depend more on the actions of machines than
 our own.
 
-To address ethical questions for your machine learning solution
-architecture you can use the high level framework with ethical
+To address ethical questions for your machine learning solution you can use the high level framework with ethical
 requirements below. All requirements are of equal importance, support
 each other, and should be implemented and evaluated throughout the
 system's lifecycle.
@@ -620,7 +613,7 @@ architecture are:
 -   Impact on available jobs and future man force needed.
 -   Who is responsible and who is liable when the application developed
     using machine learning goes seriously wrong?
--   Do you and your customers find it acceptable all kinds of data are
+-   Do you and your customers find it acceptable if all kinds of data sources are
     combined to make more profit?
 -   How transparent should you inform your customers on how privacy
     aspects are taken into account when using the machine learning
@@ -635,7 +628,7 @@ architecture are:
 A lot of ethical questions come back to crucial privacy and other risks
 questions like safety and security. We live in a digital world where our
 digital traces are everywhere. Most of the time we are fully unaware. In
-most western countries mass digital surveillance cameras generates great
+most western countries mass digital surveillance cameras generate great
 data to be used for machine learning algorithms. This can be noble by
 detecting diseases based on cameras, but all nasty use cases thinkable
 are of course also under development. Continuous track and trace of
@@ -653,7 +646,7 @@ system failure is the result of multiple factors, and responsibility is
 not easily apportioned. So: If you do not understand the technology, the
 impact for your business and on society you should not use it.
 
-Regulations for applying machine learning are not yet developed.
+Legal regulations for applying machine learning are not yet developed.
 Although some serious thinking is already be done in the field
 regarding:
 
@@ -665,7 +658,7 @@ approach when it comes to ethical issues regarding algorithmic systems
 (machine learning). History learns that risks based approaches that
 depend on human discipline, especially in areas where safety issues are
 clear, are fuel for disasters waiting to happen. It makes more sense to
-adopt an approach that bans the human factor and risks can be calculated
+adopt an approach that bans the human factor so risks can be calculated
 using long proven scientific statistical methods.
 
 Government rules and laws are formed during the transition the coming
