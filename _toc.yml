@@ -1,0 +1,39 @@
+- file: abstract
+
+- part: Core Concepts
+  chapters:
+  - file: preface
+  - file: introduction
+  - file: whyossml
+  - file: whatisml
+  - file: ml-business-use
+  - file: architecture
+  - file: risks   
+  - file: nlp
+  - file: ml-challenges 
+
+- part: FOSS ML Software
+  chapters:
+  - file: catalogue
+    sections:
+      - file: mlframeworks
+      - file: mlcomputervision
+      - file: mltools
+      - file: mlhosting
+      - file: nlpframeworks
+
+- part: Open References
+  chapters:
+  - file: MLlearningresources
+  - file: NLPlearningresources
+
+- part: About
+  chapters:
+  - file: help
+  - file: about
+  - file: license
+  - url: https://www.amazon.com/Free-Machine-Learning-Maikel-Mardjan/dp/B0863S9LQ5/ref=sr_1_2?qid=1585488090&refinements=p_27%3AMaikel+Mardjan&s=books&sr=1-2&text=Maikel+Mardjan
+    title: 'Support this project:Buy a hardcopy version!'
+
+
+
