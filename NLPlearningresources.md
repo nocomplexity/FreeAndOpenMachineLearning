@@ -12,20 +12,13 @@ licenses are included. So all references are open access resources.
 
 -  Natural Language Processing with Python, <http://www.nltk.org/book/>   
 
-
++++
 
 -  Advanced NLP with spaCY, <https://course.spacy.io/>    
 
 
-
++++
 
 -  NLP concepts with spaCy (notebook), <https://gist.github.com/nocomplexity/b7c4c0aa5a0b53f4f5ff1c4784084be6>   
 
-
-
-
-
-
-
-
- 
++++ 
