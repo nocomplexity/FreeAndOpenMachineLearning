@@ -23,6 +23,10 @@ notebook, but most tutorials offer notebooks ready to use directly.
 
 +++
 
+- Adversarial Robustness - Theory and Practice.This tutorial seeks to provide a broad, hands-on introduction to this topic of adversarial robustness in deep learning. The goal is combine both a mathematical presentation and illustrative code examples that highlight some of the key methods and challenges in this setting. With this goal in mind, the tutorial is provided as a static web site, but all the sections are also downloadable as Jupyter Notebooks. Check the course [Adversarial Robustness - Theory and Practice](https://adversarial-ml-tutorial.org/)
+
++++
+
 -   AutoML: Methods, Systems, Challenges,
     <https://www.ml4aad.org/wp-content/uploads/2019/05/AutoML_Book.pdf>
 

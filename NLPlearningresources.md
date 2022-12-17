@@ -19,6 +19,10 @@ licenses are included. So all references are open access resources.
 
 +++
 
--  NLP concepts with spaCy (notebook), <https://gist.github.com/nocomplexity/b7c4c0aa5a0b53f4f5ff1c4784084be6>   
+-  NLP concepts with spaCy [notebook](https://gist.github.com/nocomplexity/b7c4c0aa5a0b53f4f5ff1c4784084be6)
 
 +++ 
+
+- Natural Language Processing Demystified, A free, comprehensive video course to turn you into an NLP expert. No registration required. So watch this great [NLP Learning guide](https://www.nlpdemystified.org/).
++++ 
+
