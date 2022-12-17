@@ -41,7 +41,7 @@ html:
   use_issues_button         : true  # Whether to add an "open an issue" button
   extra_navbar              : '<a href="https://bm-support.org/">ROI Now!</a>'  # Will be displayed underneath the left navbar.
   
-  extra_footer              : '<p><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a> © Copyright 2018-2021, BM-Support.org - Maikel Mardjan. This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>'
+  extra_footer              : '<p><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a> © Copyright 2018-2023, BM-Support.org - Maikel Mardjan. This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>'
 
   google_analytics_id       : ""  # A GA id that can be used to track book views.
   home_page_in_navbar       : true  # Whether to include your home page in the left Navigation Bar
