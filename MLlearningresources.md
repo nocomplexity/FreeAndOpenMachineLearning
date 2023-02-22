@@ -102,6 +102,10 @@ notebook, but most tutorials offer notebooks ready to use directly.
     in machine learning from UC Berkeley(course CS 189/289A). See
     <https://gwthomas.github.io/docs/math4ml.pdf>
 
++++
+
+- MIT FUTURE OF AI:Self-Supervised Learning and Foundation Models. Great free video course of this lecture. With the discussions on 2022 GPT hype included. Check the course: [https://www.futureofai.mit.edu/](https://www.futureofai.mit.edu/)
+
  
 +++
 
