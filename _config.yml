@@ -76,5 +76,13 @@ sphinx:
   local_extensions          :   # A list of local extensions to load by sphinx specified by "name: path" items
   config:
     html_show_copyright: false
-    
-  
+    html_theme_options:
+      repository_url: "https://github.com/nocomplexity/FreeAndOpenMachineLearning"
+      repository_branch: "master" 
+      use_repository_button: True
+      use_edit_page_button: True
+      use_issues_button: True         
+      logo:
+           text: "<b>Free and Open Machine Learning</b>"
+      extra_footer: '<p><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a> <i>(c)Copyright 2018-2023, BM-Support.org - Maikel Mardjan. This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</i></a>.</p>'
+      

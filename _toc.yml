@@ -21,6 +21,9 @@ parts:
     - file: mltools
     - file: mlhosting
     - file: nlpframeworks
+- caption: Courses
+  chapters:
+  - file: mlcourses
 - caption: Open References
   chapters:
   - file: MLlearningresources
