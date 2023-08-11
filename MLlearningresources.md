@@ -19,59 +19,10 @@ licensed material is included.
 Most learning resources include hands-on tutorials. So be ready to use a
 notebook, but most tutorials offer notebooks ready to use directly.
 
--   A Course in Machine Learning, <http://ciml.info/>
 
 +++
 
-- Adversarial Robustness - Theory and Practice.This tutorial seeks to provide a broad, hands-on introduction to this topic of adversarial robustness in deep learning. The goal is combine both a mathematical presentation and illustrative code examples that highlight some of the key methods and challenges in this setting. With this goal in mind, the tutorial is provided as a static web site, but all the sections are also downloadable as Jupyter Notebooks. Check the course [Adversarial Robustness - Theory and Practice](https://adversarial-ml-tutorial.org/)
 
-+++
-
--   AutoML: Methods, Systems, Challenges,
-    <https://www.ml4aad.org/wp-content/uploads/2019/05/AutoML_Book.pdf>
-
- +++
-
--   Building Safe A.I., A Tutorial for Encrypted Deep Learning,
-    <https://iamtrask.github.io/2017/03/17/safe-ai/>
-
- +++
-
--   Collection of Interactive Machine Learning Examples,
-    <https://aihub.cloud.google.com/s?category=notebook>
-
- +++
-
--   Cryptography and Machine Learning, Mixing both for
-    privacy-preserving machine learning, <https://mortendahl.github.io/>
-
- +++
-
--   Dive into Deep Learning, An interactive deep learning book with
-    code, math, and discussions, <https://d2l.ai/>
-
- +++
-
--   Explainable Deep Learning: A Field Guide for the Uninitiated. Great
-    learning guide for new and starting researchers in the Deep neural
-    network (DNN) field. <https://arxiv.org/pdf/2004.14545.pdf>
-
-+++
-- Fairness and machine learning, Limitations and Opportunities by Solon Barocas, Moritz Hardt, Arvind Narayanan, https://fairmlbook.org/index.html
-
- +++
-
--   Foundations of Machine Learning, Understand the Concepts, Techniques
-    and Mathematical Frameworks Used by Experts in Machine Learning,
-    <https://bloomberg.github.io/foml/#home>
-
- +++
-
--   Interpretable Machine Learning, A Guide for Making Black Box Models
-    Explainable,Christoph Molnar,
-    <https://christophm.github.io/interpretable-ml-book/>
-
- +++
 
 -   Machine Learning Crash Course with TensorFlow APIs,
     <https://developers.google.com/machine-learning/crash-course/> This
