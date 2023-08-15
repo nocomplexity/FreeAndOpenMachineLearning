@@ -24,10 +24,7 @@ parts:
 - caption: Courses
   chapters:
   - file: mlcourses
-  - file: ml-pdfbooks
-- caption: Open References
-  chapters:
-  - file: MLlearningresources
+  - file: ml-books  
   - file: NLPlearningresources
 - caption: About
   chapters:

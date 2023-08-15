@@ -1,10 +1,22 @@
 # ML courses
 
+
+Learning machine learning does not have to be very expensive or time consuming. Great learning material for machine learning is licensed under a Creative Commons license. For starters but also people who are already more familiar with the key concepts.
+
+This section presents an opinionated list of great machine learning learning resources. A lot of garbage is produced on the internet and even paid courses are often not that good. 
+
+This list consist of very readable references and some great hands-on courses. Only resources that are real open, so resources published using a Creative Commons license (cc-by mostly) or other types of real open licensed material is included.
+
+Most learning resources include hands-on tutorials. So be ready to learn how to use a [notebook](https://nocomplexity.com/documents/jupyterlab/intro.html), but most tutorials offer notebooks ready to use.
+
+
 Everyone in the world should have access to high-quality machine learning resources. This to empower Free and Open Machine Learning. 
 
 This list of [open](http://opendefinition.org/od/2.1/en/) (Creative Commons licensed ) machine learning training resources contains resources for starters who never want to do ‘hands-on’. Openness for knowledge sharing means no user registration to read or play with the material is required.
 
-Never stop learning.
+```{tip}  **Never stop learning!**
+```
+
 
 
 
@@ -186,6 +198,79 @@ Understand the Concepts, Techniques and Mathematical Frameworks Used by Experts 
 +++
 [Read this course book »](https://bloomberg.github.io/foml/#home)
 :::
+
+
+
+:::{grid-item-card}
+:link: https://inria.github.io/scikit-learn-mooc/index.html
+{octicon}`book;1em;caption-text` **scikit-learn course**
+^^^
+```{image} https://inria.github.io/scikit-learn-mooc/figures/mooc_computer.jpg
+:height: 100px
+```
+The goal of this course is to teach machine learning with scikit-learn to beginners, even without a strong technical background. 
++++
+[Check this course »](https://inria.github.io/scikit-learn-mooc/toc.html)
+:::
+
+
+
+:::{grid-item-card}
+:link: https://developers.google.com/machine-learning/crash-course/
+{octicon}`book;1em;caption-text` **Machine Learning Crash Course with TensorFlow APIs**
+^^^
+```{image} https://developers.google.com/static/machine-learning/crash-course/images/landing-icon-sliders.svg
+:height: 100px
+```
+Google crash-course (cc-by). A great course published by Google\'s. It is advertised as a \'A
+    self-study guide for aspiring machine learning practitioners\'
++++
+[Check this course »](https://developers.google.com/machine-learning/crash-course/)
+:::
+
+
+
+:::{grid-item-card}
+:link: https://spinningup.openai.com/en/latest/index.html
+{octicon}`book;1em;caption-text` **Spinning Up in Deep RL**
+^^^
+```{image} https://spinningup.openai.com/en/latest/_images/spinning-up-in-rl.png
+:height: 100px
+```
+Spinning Up in Deep RL, become a skilled practitioner in deep reinforcement learning.
+An educational resource produced by OpenAI, the company behind ChatGPT.
+
++++
+[Check this course »](https://spinningup.openai.com/en/latest/index.html)
+:::
+
+
+:::{grid-item-card}
+:link: https://www.elementsofai.com/
+{octicon}`book;1em;caption-text` **The Elements of AI, learn the basics of AI**
+^^^
+```{image} https://elementsofai.s3.amazonaws.com/course1-banner.svg?mtime=20190301234130&focal=none
+:height: 100px
+```
+Our goal is to demystify AI. The Elements of AI is a series of free online courses created by MinnaLearn and the University of Helsinki. 
++++
+[Check this course »](https://www.elementsofai.com/)
+:::
+
+
+
+:::{grid-item-card}
+:link: https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0
+{octicon}`book;1em;caption-text` **TensorFlow, Keras and deep learning, without a PhD**
+^^^
+```{image} https://codelabs.developers.google.com/static/codelabs/cloud-tensorflow-mnist/img/74f6fbd758bf19e6_856.png
+:height: 100px
+```
+Great hands-on course from google. Learn how to build and train a neural network that recognises handwritten digits. Along the way, as you enhance your neural network to achieve 99% accuracy, you will also discover the tools of the trade that deep learning professionals use to train their models efficiently.
++++
+[Check this course »](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0)
+:::
+
 
 
 ::::
