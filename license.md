@@ -1,7 +1,7 @@
 License
 =======
 
-Copyright (c) 2018-2021 BM-Support.org and Maikel Mardjan.
+Copyright (c) 2018-2023 BM-Support.org and Maikel Mardjan.
 
 This work is licensed under a Creative Commons Attribution-ShareAlike
 4.0 International License. Third-party product names may be the

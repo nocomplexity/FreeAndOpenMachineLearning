@@ -31,6 +31,22 @@ In interactive online course, you'll learn how to use spaCy to using both rule-b
 
 
 :::{grid-item-card} 
+:link: https://lena-voita.github.io/nlp_course.html#main_page_content
+{octicon}`book;1em;caption-text` **NLP Course | For You**
+^^^
+```{image} https://lena-voita.github.io/resources/lectures/ico/course_logo.png
+:height: 100px
+```
+Great NLP course with notebooks. Main purpose is to help you enter your own very personal adventure. It's well-known that you will learn something easier if you are not just given the answer right away, but if you think about it first.
+
+
++++
+[Check this online Guide »](https://lena-voita.github.io/nlp_course.html#whats_inside)
+:::
+
+
+
+:::{grid-item-card} 
 :link: https://guides.library.upenn.edu/penntdm/home
 {octicon}`book;1em;caption-text` **Text Analysis**
 ^^^
