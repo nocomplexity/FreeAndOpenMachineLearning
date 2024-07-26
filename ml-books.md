@@ -73,6 +73,7 @@ Examples and tutorials for this book are placed [github](https://github.com/mml-
 ```
 
 
+
 ```{admonition}  Scikit-learn Guides
 :class: tip, dropdown
 
@@ -89,6 +90,19 @@ The best Scikit-learn Guides around.
 Great visuals that help learning and understanding the key ML concepts!
 
 [Interactive learning book that visualizes the fundamental statistical concepts](https://seeing-theory.brown.edu/)
+
+```
+
+
+```{admonition}   Applied Machine Learning for Tabular Data.
+:class: tip, dropdown
+
+A practical guide to developing quality predictive models from tabular data. 
+
+[Applied Machine Learning for Tabular Data](https://aml4td.org/)
+
+
+[sources on Github](https://github.com/aml4td/website/)
 
 ```
 
