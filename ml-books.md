@@ -44,7 +44,7 @@ Check the [guides](https://developers.google.com/machine-learning/guides/).
 
 Google Machine Learning Education
 
-Learn to build ML products with Google's Machine Learning Courses.
+Learn to build ML products with Google's Machine Learning Courses
 
 [The foundational courses](https://developers.google.com/machine-learning) cover machine learning fundamentals and core concepts.
 ```
@@ -94,7 +94,7 @@ Great visuals that help learning and understanding the key ML concepts!
 ```
 
 
-```{admonition}   Applied Machine Learning for Tabular Data.
+```{admonition}   Applied Machine Learning for Tabular Data
 :class: tip, dropdown
 
 A practical guide to developing quality predictive models from tabular data. 

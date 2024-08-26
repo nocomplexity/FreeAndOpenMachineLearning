@@ -26,6 +26,7 @@ parts:
   - file: mlcourses
   - file: ml-books  
   - file: NLPlearningresources
+  - file: LLMLearning
 - caption: About
   chapters:
   - file: help
