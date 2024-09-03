@@ -109,7 +109,6 @@ Item | Value
 ----- | -----
 **SBB License** | GNU General Public License (GPL) 3.0
 **Core Technology** | Javascript, Python
-**Project URL** | [http://fabrik.cloudcv.org/](http://fabrik.cloudcv.org/)
 **Source Location** | [https://github.com/Cloud-CV/Fabrik](https://github.com/Cloud-CV/Fabrik)
 *Tag(s)* |Data Visualization, ML, ML Tool
 
@@ -262,7 +261,7 @@ Item | Value
 ----- | -----
 **SBB License** | Apache License 2.0
 **Core Technology** | Python
-**Project URL** | [https://uber.github.io/ludwig/](https://uber.github.io/ludwig/)
+**Project URL** | https://ludwig.ai/latest/
 **Source Location** | [https://github.com/uber/ludwig](https://github.com/uber/ludwig)
 *Tag(s)* |ML, ML Tool
 
@@ -510,20 +509,6 @@ Item | Value
 **Core Technology** | Python
 **Project URL** | [https://github.com/slundberg/shap](https://github.com/slundberg/shap)
 **Source Location** | [https://github.com/slundberg/shap](https://github.com/slundberg/shap)
-*Tag(s)* |ML, ML Tool
-
-
-## Skater
-<p>Skater is a python package for model agnostic interpretation of predictive models. With Skater, you can unpack the internal mechanics of arbitrary models; as long as you can obtain inputs, and use a function to obtain outputs, you can use Skater to learn about the models internal decision policies.</p>
-<p>The project was started as a research idea to find ways to enable better interpretability(preferably human interpretability) to predictive &#8220;black boxes&#8221; both for researchers and practioners.</p>
-<p>Documentation at:<a href="https://datascienceinc.github.io/Skater/overview.html" target="_blank" rel="noopener noreferrer"> https://datascienceinc.github.io/Skater/overview.html</a></p>
-
-Item | Value 
------ | -----
-**SBB License** | MIT License
-**Core Technology** | Python
-**Project URL** | [https://www.datascience.com/resources/tools/skater](https://www.datascience.com/resources/tools/skater)
-**Source Location** | [https://github.com/datascienceinc/Skater](https://github.com/datascienceinc/Skater)
 *Tag(s)* |ML, ML Tool
 
 

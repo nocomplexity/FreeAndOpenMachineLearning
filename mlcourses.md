@@ -147,17 +147,15 @@ Introduction to machine learning concepts, such as model training, model testing
 :::{grid-item-card}
 {octicon}`book;1em;caption-text` **DEEP LEARNING(with PyTorch)**
 ^^^
-```{image} https://atcold.github.io/pytorch-Deep-Learning/images/week11/11-3/figure1.png
+```{image} https://atcold.github.io/NYU-DLSP20/images/week05/05-3/Illustration_1D_Conv.png
 :height: 100px
 ```
 Supervised and unsupervised deep learning, embedding methods, metric learning, convolutional and recurrent nets, with applications to computer vision, natural language understanding, and speech recognition.
 
 *Course from NYU CENTER FOR DATA SCIENCE, advanced course*
 
-[Repository (with notebooks)](https://github.com/Atcold/pytorch-Deep-Learning)
-
 +++
-[Check this course »](https://atcold.github.io/pytorch-Deep-Learning/)
+[Repository (with notebooks)](https://github.com/Atcold/pytorch-Deep-Learning)
 :::
 
 :::{grid-item-card}

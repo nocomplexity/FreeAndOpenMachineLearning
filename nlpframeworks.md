@@ -1,24 +1,5 @@
 # NLP Frameworks
 
-## AllenNLP
-<p><span class="col-11 text-gray-dark mr-2">An open-source NLP research library, built on PyTorch. AllenNLP is a NLP research library, built on PyTorch, for developing state-of-the-art deep learning models on a wide variety of linguistic tasks. AllenNLP makes it easy to design and evaluate new deep learning models for nearly any NLP problem, along with the infrastructure to easily run them in the cloud or on your laptop.<br />
-</span></p>
-<p>AllenNLP was designed with the following principles:</p>
-<ul>
-<li><em>Hyper-modular and lightweight.</em> Use the parts which you like seamlessly with PyTorch.</li>
-<li><em>Extensively tested and easy to extend.</em> Test coverage is above 90% and the example models provide a template for contributions.</li>
-<li><em>Take padding and masking seriously</em>, making it easy to implement correct models without the pain.</li>
-<li><em>Experiment friendly.</em> Run reproducible experiments from a json specification with comprehensive logging.</li>
-</ul>
-
-Item | Value 
------ | -----
-**SBB License** | Apache License 2.0
-**Core Technology** | Python
-**Project URL** | [http://allennlp.org/](http://allennlp.org/)
-**Source Location** | [https://github.com/allenai/allennlp](https://github.com/allenai/allennlp)
-*Tag(s)* |ML, NLP, Python
-
 
 ## Apache OpenNLP
 <p>The Apache OpenNLP library is a machine learning based toolkit for the processing of natural language text.</p>
@@ -211,23 +192,6 @@ Item | Value
 *Tag(s)* |NLP, Python, Research
 
 
-## Klassify
-
-<p>Redis based text classification service with real-time web interface.</p>
-
-
-
-<p>What is Text Classification: Text classification, document classification or document categorization is a problem in library science, information science and computer science. The task is to assign a document to one or more classes or categories.</p>
-
-Item | Value 
------ | -----
-**SBB License** | MIT License
-**Core Technology** | Python
-**Project URL** | [https://github.com/fatiherikli/klassify](https://github.com/fatiherikli/klassify)
-**Source Location** | [https://github.com/fatiherikli/klassify](https://github.com/fatiherikli/klassify)
-*Tag(s)* |ML, NLP, Text classification
-
-
 ## Neuralcoref
 <p>State-of-the-art coreference resolution based on neural nets and spaCy.</p>
 <p>NeuralCoref is a pipeline extension for spaCy 2.0 that annotates and resolves coreference clusters using a neural network. NeuralCoref is production-ready, integrated in spaCy&#8217;s NLP pipeline and easily extensible to new training datasets.</p>
@@ -310,7 +274,7 @@ Item | Value
 ----- | -----
 **SBB License** | BSD License 2.0 (3-clause, New or Revised) License
 **Core Technology** | Python
-**Project URL** | [https://www.clips.uantwerpen.be/pages/pattern](https://www.clips.uantwerpen.be/pages/pattern)
+**Project URL** | https://github.com/clips/pattern/wiki
 **Source Location** | [https://github.com/clips/pattern](https://github.com/clips/pattern)
 *Tag(s)* |ML, NLP, Web scraping
 
@@ -335,7 +299,6 @@ Item | Value
 ----- | -----
 **SBB License** | MIT License
 **Core Technology** | .NET
-**Project URL** | [https://rant-lang.org/](https://rant-lang.org/)
 **Source Location** | [https://github.com/rant-lang/rant](https://github.com/rant-lang/rant)
 *Tag(s)* |.NET, ML, NLP, text generation
 

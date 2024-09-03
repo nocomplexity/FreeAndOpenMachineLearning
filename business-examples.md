@@ -24,7 +24,7 @@ companies that really make use of new ML solutions possible.
     (RL) in card games is possible.
 -   AI Driven Logos. An AI solution which selects the best possible
     logos for your brand based on a large number of designs it has seen
-    over time. Check <https://www.designwithai.com/>
+    over time. 
 -   Cardiac Ultrasound Software. The software, called Caption Guidance,
     is an accessory to compatible diagnostic ultrasound systems and uses
     artificial intelligence to help the user capture images of a

@@ -79,8 +79,6 @@ Examples and tutorials for this book are placed [github](https://github.com/mml-
 
 The best Scikit-learn Guides around. 
 * [Scikit-learn User Guide](https://scikit-learn.org/stable/user_guide.html)
-* [scikit-learn Tutorials](https://scikit-learn.org/stable/tutorial/index.html)
-
 ```
 
 

@@ -151,8 +151,7 @@ systems for hackers.
 Gluon is the high-level interface for MXNet. It is more intuitive and
 easier to use than the lower level interface. Gluon supports dynamic
 (define-by-run) graphs with JIT-compilation to achieve both flexibility
-and efficiency. The perfect starters documentation with a great crash
-course on deep learning can be found here:<http://gluon.mxnet.io/>
+and efficiency. 
 
 Part of the project is also the the Gluon API specification (see
 <https://github.com/gluon-api/gluon-api>)
@@ -278,7 +277,7 @@ Hadoop clusters.
     [Keras](https://faroit.github.io/keras-docs/1.2.2/) models into
     Spark programs using BigDL.
 -   **Extremely high performance.** To achieve high performance, BigDL
-    uses [Intel MKL](https://software.intel.com/en-us/intel-mkl) and
+    uses Intel MKL and
     multi-threaded programming in each Spark task. Consequently, it is
     orders of magnitude faster than out-of-box open source
     [Caffe](http://caffe.berkeleyvision.org/), [Torch](http://torch.ch/)
@@ -336,70 +335,6 @@ of Theano. Currently it supports and provides:
 
 | 
 
-ConvNetJS
-=========
-
-ConvNetJS is a Javascript library for training Deep Learning models
-(Neural Networks) entirely in your browser. Open a tab and you're
-training. No software requirements, no compilers, no installations, no
-GPUs, no sweat.
-
-ConvNetJS is a Javascript implementation of Neural networks, together
-with nice browser-based demos. It currently supports:
-
--   Common **Neural Network modules** (fully connected layers,
-    non-linearities)
--   Classification (SVM/Softmax) and Regression (L2) **cost functions**
--   Ability to specify and train **Convolutional Networks** that process
-    images
--   An experimental **Reinforcement Learning** module, based on Deep Q
-    Learning
-
-For much more information, see the main page at
-[convnetjs.com](http://convnetjs.com)
-
-Note: Not actively maintained, but still useful to prevent reinventing
-the wheel.
-
- 
-
-  -------------------- ------------------------------------------------------
-  **SBB License**      MIT License
-
-  **Core Technology**  Javascript
-
-  **Project URL**      <https://cs.stanford.edu/people/karpathy/convnetjs/>
-
-  **Source Location**  <https://github.com/karpathy/convnetjs>
-
-  **Tag(s)**           Javascript, ML
-  -------------------- ------------------------------------------------------
-
-| 
-
-Cookiecutter Data Science
-=========================
-
-A logical, reasonably standardized, but flexible project structure for
-doing and sharing data science work.
-
- 
-
-  ----------------------------------- -------------------------------------
-  **SBB License**                     MIT License
-
-  **Core Technology**                 Python
-
-  **Project URL**                     <https://drivendata.github.io/cook>
-                                      iecutter-data-science/
-
-  **Source Location**                 <https://github.com/drivendata/coo>
-                                      kiecutter-data-science
-
-  **Tag(s)**                          Data tool, ML
-  ----------------------------------- -------------------------------------
-
-| 
 
 Data Science Version Control (DVC)
 ==================================
@@ -1732,45 +1667,7 @@ Note: PyTorch is still in an early-release beta phase (status January
   --------------------- --------------------------------------
 
 | 
-
-Rant
-====
-
-Rant is an all-purpose procedural text engine that is most simply
-described as the opposite of Regex. It has been refined to include a
-dizzying array of features for handling everything from the most basic
-of string generation tasks to advanced dialogue generation, code
-templating, automatic formatting, and more.
-
-The goal of the project is to enable developers of all kinds to automate
-repetitive writing tasks with a high degree of creative freedom.
-
-Features:
-
--   Recursive, weighted branching with several selection modes
--   Queryable dictionaries
--   Automatic capitalization, rhyming, English indefinite articles, and
-    multi-lingual number verbalization
--   Print to multiple separate outputs
--   Probability modifiers for pattern elements
--   Loops, conditional statements, and subroutines
--   Fully-functional object model
--   Import/Export resources easily with the .rantpkg format
--   Compatible with Unity 2017
-
-  --------------------- -------------------------------------
-  **SBB License**       MIT License
-
-  **Core Technology**   .NET
-
-  **Project URL**       <https://berkin.me/rant/>
-
-  **Source Location**   <https://github.com/TheBerkin/rant>
-
-  **Tag(s)**            .NET, ML, NLP, text generation
-  --------------------- -------------------------------------
-
-| 
+ 
 
 RAPIDS
 ======
@@ -1813,19 +1710,14 @@ already a good start, with good documentation
 Ray is backed by scientific researchers and published papers.
 
 Ray comes with libraries that accelerate deep learning and reinforcement
-learning development:
-
--   [Ray Tune](http://ray.readthedocs.io/en/latest/tune.html):
-    Hyperparameter Optimization Framework
--   [Ray RLlib](http://ray.readthedocs.io/en/latest/rllib.html): A
-    Scalable Reinforcement Learning Library
+learning development.
 
   --------------------- --------------------------------------
   **SBB License**       Apache License 2.0
 
   **Core Technology**   Python
 
-  **Project URL**       <https://ray-project.github.io/>
+  **Project URL**       <https://www.ray.io/>
 
   **Source Location**   <https://github.com/ray-project/ray>
 
@@ -1858,57 +1750,6 @@ Simple and efficient tools for data mining and data analysis
 
 | 
 
-Skater
-======
-
-Skater is a python package for model agnostic interpretation of
-predictive models. With Skater, you can unpack the internal mechanics of
-arbitrary models; as long as you can obtain inputs, and use a function
-to obtain outputs, you can use Skater to learn about the models internal
-decision policies.
-
-The project was started as a research idea to find ways to enable better
-interpretability(preferably human interpretability) to predictive "black
-boxes" both for researchers and practioners.
-
-Documentation at:<https://datascienceinc.github.io/Skater/overview.html>
-
-  -------------------- ------------------------------------------------------
-  **SBB License**      MIT License
-
-  **Core Technology**  Python
-
-  **Project URL**      <https://www.datascience.com/resources/tools/skater>
-
-  **Source Location**  <https://github.com/datascienceinc/Skater>
-
-  **Tag(s)**           ML
-  -------------------- ------------------------------------------------------
-
-| 
-
-Snorkel
-=======
-
-Snorkel is a system for rapidly **creating, modeling, and managing
-training data**, currently focused on accelerating the development of
-*structured or "dark" data extraction applications* for domains in which
-large labeled training sets are not available or easy to obtain.
-
-  --------------------- -------------------------------------------
-  **SBB License**       Apache License 2.0
-
-  **Core Technology**   Python
-
-  **Project URL**       <https://hazyresearch.github.io/snorkel/>
-
-  **Source Location**   <https://github.com/HazyResearch/snorkel>
-
-  **Tag(s)**            ML
-  --------------------- -------------------------------------------
-
-| 
-
 Tensorflow
 ==========
 
@@ -1930,13 +1771,12 @@ research, but the system is general enough to be applicable in a wide
 variety of other domains as well.
 
 TensorFlow comes with a tool called
-[TensorBoard](https://www.tensorflow.org/versions/r0.11/how_tos/graph_viz/index.html)
-which you can use to get some insight into what is happening.
+TensorBoard which you can use to get some insight into what is happening.
 TensorBoard is a suite of web applications for inspecting and
 understanding your TensorFlow runs and graphs.
 
 There is also a version of TensorFlow that runs in a browser. This is
-TensorFlow.js (<https://js.tensorflow.org/> ). TensorFlow.js is a WebGL
+TensorFlow.js (https://www.tensorflow.org/js/). TensorFlow.js is a WebGL
 accelerated, browser based JavaScript library for training and deploying
 ML models.
 
@@ -2014,9 +1854,7 @@ always) the health of your ML stack.
   --------------------- ------------------------------------
   **SBB License**       MIT License
 
-  **Core Technology**   Python
-
-  **Project URL**       <http://www.deeplearning.net/>
+  **Core Technology**   Python  
 
   **Source Location**   <https://github.com/Theano/Theano>
 
@@ -2132,39 +1970,7 @@ parameter distribution, model structure and image visualization.
   --------------------- --------------------------------------------
 
 | 
-
-What-If Tool
-============
-
-The [What-If Tool](https://pair-code.github.io/what-if-tool) (WIT)
-provides an easy-to-use interface for expanding understanding of a
-black-box ML model. With the plugin, you can perform inference on a
-large set of examples and immediately visualize the results in a variety
-of ways. Additionally, examples can be edited manually or
-programatically and re-run through the model in order to see the results
-of the changes. It contains tooling for investigating model performance
-and fairness over subsets of a dataset.
-
-The purpose of the tool is that give people a simple, intuitive, and
-powerful way to play with a trained ML model on a set of data through a
-visual interface with absolutely no code required.
-
-  ----------------------------------- -------------------------------------
-  **SBB License**                     Apache License 2.0
-
-  **Core Technology**                 Python
-
-  **Project URL**                     <https://pair-code.github.io/what->
-                                      if-tool/
-
-  **Source Location**                 <https://github.com/tensorflow/ten>
-                                      sorboard/tree/master/tensorboard/
-                                      plugins/interactive\_inference
-
-  **Tag(s)**                          ML
-  ----------------------------------- -------------------------------------
-
-| 
+ 
 
 XAI
 ===

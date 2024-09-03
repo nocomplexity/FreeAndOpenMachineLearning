@@ -825,23 +825,6 @@ Item | Value
 *Tag(s)* |ML Framework
 
 
-## Pylearn2
-
-<p>Pylearn2 is a library designed to make machine learning research easy.</p>
-
-
-
-<p>This project does not have any current developer</p>
-
-Item | Value 
------ | -----
-**SBB License** | BSD License 2.0 (3-clause, New or Revised) License
-**Core Technology** | Python
-**Project URL** | [http://deeplearning.net/software/pylearn2/](http://deeplearning.net/software/pylearn2/)
-**Source Location** | [https://github.com/lisa-lab/pylearn2](https://github.com/lisa-lab/pylearn2)
-*Tag(s)* |ML, ML Framework
-
-
 ## Pyro
 
 <p><span class="col-11 text-gray-dark mr-2">Deep universal probabilistic programming with Python and PyTorch. Pyro is in an alpha release. It is developed and used by <a rel="nofollow" href="http://uber.ai">Uber AI Labs</a>.</span></p>
@@ -1101,7 +1084,6 @@ Item | Value
 ----- | -----
 **SBB License** | MIT License
 **Core Technology** | Python
-**Project URL** | [http://www.deeplearning.net/](http://www.deeplearning.net/)
 **Source Location** | [https://github.com/Theano/Theano](https://github.com/Theano/Theano)
 *Tag(s)* |ML, ML Framework, Python
 

@@ -174,8 +174,8 @@ of people. E.g. Amazon , Microsoft and Google offer great APIs but you
 interact with a black-box model. Also speech recognition needs openness
 and freedom. Mozilla launched the Common Voice project in 2017. A project to
 make voice recognition data and APIs open and accessible to everyone.
-Contributing to this great project is simple: Go to
-<https://voice.mozilla.org/> and speak some sentences and validate some.
+Contributing to this great project is simple: Go to https://commonvoice.mozilla.org/en
+and speak some sentences and validate some.
 All you need is a browser and a few minutes to contribute so everyone
 can make use of this technology in the future.
 
@@ -598,8 +598,7 @@ system's lifecycle.
 The framework of ethical requirements is part of the (draft)\'Ethics
 Guidelines for Trustworthy Artificial Intelligence (AI)\' from the
 Expert Group on Artificial Intelligence (AI HLEG)of the European
-Commission
-(<https://ec.europa.eu/futurium/en/ai-alliance-consultation>).
+Commission.
 
 Some basic common ethical questions for every machine learning
 architecture are:

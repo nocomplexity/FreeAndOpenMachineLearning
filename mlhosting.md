@@ -1,25 +1,5 @@
 # ML Hosting Solutions
 
-## Acumos AI
-
-<p>Acumos AI is a platform and open source framework that makes it easy to build, share, and deploy AI apps. Acumos standardizes the infrastructure stack and components required to run an out-of-the-box general AI environment.</p>
-
-
-
-<p>Acumos is a platform which enhances the development, training and deployment of AI models. Its purpose is to scale up the introduction of AI-based software across a wide range of industrial and commercial problems in order to reach a critical mass of applications. In this way, Acumos will drive toward a data-centric process for producing software based upon machine learning as the central paradigm. The platform seeks to empower data scientists to publish more adaptive AI models and shield them from the task of custom development of fully integrated solutions. Ideally, software developers will use Acumos to change the process of software development from a code-writing and editing exercise into a classroom-like code training process in which models will be trained and graded on their ability to successfully analyze datasets that they are fed. Then, the best model can be selected for the job and integrated into a complete application.</p>
-
-
-
-<p>Acumos is part of&#160;the LF Deep Learning Foundation, an umbrella organization within The Linux Foundation that supports and sustains open source innovation in artificial intelligence, machine learning, and deep learning while striving to make these critical new technologies available to developers and data scientists everywhere.</p>
-
-Item | Value 
------ | -----
-**SBB License** | Apache License 2.0
-**Core Technology** | Java
-**Project URL** | [https://www.acumos.org/](https://www.acumos.org/)
-**Source Location** | [https://gerrit.acumos.org/r/#/admin/projects/](https://gerrit.acumos.org/r/#/admin/projects/)
-*Tag(s)* |ML, ML Hosting
-
 
 ## BentoML
 
