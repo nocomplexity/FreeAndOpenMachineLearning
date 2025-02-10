@@ -7,7 +7,7 @@
 # Book settings
 title                       : Free and Open Machine Learning # The title of the book. Will be placed in the left navbar.
 author                      : '<a href="https://nocomplexity.com/">Maikel Mardjan (nocomplexity.com)</a>' # The author of the book
-copyright                   : '2018-2024- Maikel Mardjan -Business Management Support Foundation (bm-support.org'  # Copyright year to be placed in the footer
+copyright                   : '2018-2025- Maikel Mardjan -Business Management Support Foundation (bm-support.org'  # Copyright year to be placed in the footer
 logo                        : "images/nocxbanner.png"  # A path to the book logo
 # Patterns to skip when building the book. Can be glob-style (e.g. "*skip.ipynb")
 exclude_patterns            : [_build, Thumbs.db, .DS_Store, "**.ipynb_checkpoints","*.rst","conf.py"]
@@ -41,9 +41,9 @@ html:
   use_issues_button         : true  # Whether to add an "open an issue" button
   extra_navbar              : '<a href="https://bm-support.org/">ROI Now!</a>'  # Will be displayed underneath the left navbar.
   
-  extra_footer              : '<p><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a> © Copyright 2018-2024, BM-Support.org - Maikel Mardjan. This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>'
+  extra_footer              : '<p><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a> © Copyright 2018-2025, BM-Support.org - Maikel Mardjan. This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>'
 
-  google_analytics_id       : ""  # A GA id that can be used to track book views.
+  #google_analytics_id       : ""  # A GA id that can be used to track book views.
   home_page_in_navbar       : true  # Whether to include your home page in the left Navigation Bar
   baseurl                   : "https://nocomplexity.com/documents/fossml/"  # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
   comments:
@@ -84,13 +84,13 @@ sphinx:
       use_issues_button: True         
       logo:
            text: "<b>Free and Open Machine Learning</b>"
-      extra_footer: '<p><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a> <i>(c)Copyright 2018-2024, BM-Support.org - Maikel Mardjan. This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</i></a>.</p>'
+      extra_footer: '<p><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a> <i>(c)Copyright 2018-2025, BM-Support.org - Maikel Mardjan. This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</i></a>.</p>'
     epub_basename: 'Free and Open Machine Learing'
     epub_use_index: true
     epub_description: 'Free and Open Machine Learing'
     epub_author: 'Maikel Mardjan'
     epub_publisher: 'BM-Support.org'
-    epub_copyright: '© Copyright 2024, BM-Support.org. This work is licensed under a Creative Commons Attribution-ShareAlike 4.0'
+    epub_copyright: '© Copyright 2018-2025, BM-Support.org. This work is licensed under a Creative Commons Attribution-ShareAlike 4.0'
     epub_tocdup: true
     epub_use_index: true
     epub_tocscope: includehidden

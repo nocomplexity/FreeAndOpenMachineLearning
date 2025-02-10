@@ -14,13 +14,16 @@ and Open Machine Learning gives you full control.
 This publication empowers everyone to make a head start using the
 powerful machine learning technology in a Free, Open and Simple way.
 
-```{note}
-This is a living document. A stable version of this publication (version
-1.0) is available as hard copy. You can order it at Amazon, click
-[here](https://www.amazon.com/Free-Machine-Learning-Maikel-Mardjan/dp/B0863S9LQ5/ref=sr_1_2?qid=1585488090&refinements=p_27%3AMaikel+Mardjan&s=books&sr=1-2&text=Maikel+Mardjan)
-to order. So **support** this project and buy a hard copy!
-```
 
+:::{attention} 
+This is a living document. An older stable version of this publication (version
+2020) is available as hard copy. You can still order it at Amazon, click
+[here](https://www.amazon.com/Free-Machine-Learning-Maikel-Mardjan/dp/B0863S9LQ5/ref=sr_1_2?qid=1585488090&refinements=p_27%3AMaikel+Mardjan&s=books&sr=1-2&text=Maikel+Mardjan)
+to order. 
+
+But since the world of Machine Learning is heavily changed since 2020, I *advice* to read and use the online version of this PlayBook. 
+When I have time, a new hard copy of this PlayBook will be made available.
+:::
 
 Machine learning is an exciting and powerful technology. The continuous
 use and growth of machine learning technology opens new opportunities.

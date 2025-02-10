@@ -361,10 +361,7 @@ human-level performance. Most deep learning methods use neural network
 architectures, which is why deep learning models are often referred to
 as deep neural networks.
 
-The figure below positions Deep Learning(DL) in the spectrum of AI and
-ML.
 
-![Deep Learning](/images/deeplearning.png)
 
 ### AutoML
 
@@ -385,6 +382,40 @@ So with the current machine learning we have:
 With AutoML the challenge is to turn this into:
 
 > Solution = data + 100X computation
+
+## Simple ML/AI Topology
+
+The ML/AI is flooded with terms and hypes. Using a simple conceptual model that makes sense helps.
+
+![ML-AI-Topology](/images/ml-ai-topology.png)
+
+### Artificial General Intelligence (AGI)
+Artificial General Intelligence (AGI) is a hypothetical type of AI that possesses human-level intelligence.
+An AGI could perform any intellectual task that a human being can, including learning, reasoning, problem-solving, and understanding language.
+AGI is still largely theoretical, and there's debate about when or even if it ever will be achieved.
+
+### Artificial Intelligence
+Artificial intelligence (AI) is a broad field of computer science that aims to create machines capable of performing tasks that typically require human intelligence. This includes things like learning, problem-solving, decision-making, and understanding language.
+The only tangible and possible way for AI applications is driven by ML (Machine Learning). I prefer to use the term ML instead of AI to avoid discussions on what 'intelligence' is. 
+
+### Machine Learning
+
+Machine learning (ML) is a subset of AI that focuses on enabling machines to learn from data without being explicitly programmed.
+Instead of relying on hard-coded rules, so called traditional software programs, ML algorithms identify patterns in data and use those patterns to make predictions or decisions. 
+
+### Deep Learning (DL)
+
+Deep learning is a specialized area within machine learning that utilizes artificial neural networks with multiple layers to analyze data and extract meaningful insights.
+
+### Generative AI (GenAI) 
+
+Generative AI (GenAI) is a type of artificial intelligence that focuses on creating new content, rather than just analyzing or acting on existing data. 
+
+### Large Language Models (LLMs)
+
+LLMs are a type of generative AI. LLMs are models that are trained on massive amounts of language data from various sources. Often various ML techniques are used for creating LLMs models. E.g. many NLP techniques are used to create LLM models for speech or text.
+
+LLMs are based on a theoretical concept called transformer model. This transformer model can encode and decode data so that the LLM can analyze and understand text by paying attention to how words and phrases relate to each other in a sequence. 
 
 ## Other common terms used in the ML world
 
