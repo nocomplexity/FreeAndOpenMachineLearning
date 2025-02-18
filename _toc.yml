@@ -15,9 +15,20 @@ parts:
   - file: ml-challenges
 - caption: FOSS ML Software
   chapters:
+  - file: generatedfiles/overview
+    sections:
+    - file: generatedfiles/mlresearchframeworks
+    - file: generatedfiles/aiagentframeworks
+    - file: generatedfiles/mlsecurityscanner
+    - file: generatedfiles/llmui
+    - file: generatedfiles/nlp
+    - file: generatedfiles/mltools
+    - file: generatedfiles/mlframeworks
+    - file: generatedfiles/llms
+  
   - file: catalogue
     sections:
-    - file: mlframeworks
+#    - file: mlframeworks  -> Not needed anymore -new way for SBB overviews - and up-to-date
     - file: mlcomputervision
     - file: mltools
     - file: mlhosting
