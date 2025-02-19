@@ -9,9 +9,9 @@
 :::{grid-item-card}
 :link: gptme
 :link-type: doc
-{octicon}`telescope;1em;caption-text` **gptme**        
+{octicon}`cross-reference;1em;caption-text` **gptme**        
 ^^^
-Use and reuse gptme solutions
+Use and reuse the gptme solution
 +++
 [More »](gptme)
 :::
@@ -19,9 +19,9 @@ Use and reuse gptme solutions
 :::{grid-item-card}
 :link: openhands
 :link-type: doc
-{octicon}`light-bulb;1em;caption-text` **OpenHands**        
+{octicon}`telescope;1em;caption-text` **OpenHands**        
 ^^^
-Use and reuse OpenHands solutions
+Use and reuse the OpenHands solution
 +++
 [More »](openhands)
 :::

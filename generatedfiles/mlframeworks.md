@@ -9,9 +9,9 @@
 :::{grid-item-card}
 :link: dspy
 :link-type: doc
-{octicon}`briefcase;1em;caption-text` **DSPy**        
+{octicon}`tag;1em;caption-text` **DSPy**        
 ^^^
-Use and reuse DSPy solutions
+Use and reuse the DSPy solution
 +++
 [More »](dspy)
 :::
@@ -19,9 +19,9 @@ Use and reuse DSPy solutions
 :::{grid-item-card}
 :link: autogluon
 :link-type: doc
-{octicon}`megaphone;1em;caption-text` **AutoGluon**        
+{octicon}`briefcase;1em;caption-text` **AutoGluon**        
 ^^^
-Use and reuse AutoGluon solutions
+Use and reuse the AutoGluon solution
 +++
 [More »](autogluon)
 :::
@@ -29,9 +29,9 @@ Use and reuse AutoGluon solutions
 :::{grid-item-card}
 :link: pytorch
 :link-type: doc
-{octicon}`thumbsup;1em;caption-text` **PyTorch**        
+{octicon}`hubot;1em;caption-text` **PyTorch**        
 ^^^
-Use and reuse PyTorch solutions
+Use and reuse the PyTorch solution
 +++
 [More »](pytorch)
 :::
@@ -41,7 +41,7 @@ Use and reuse PyTorch solutions
 :link-type: doc
 {octicon}`megaphone;1em;caption-text` **Flower**        
 ^^^
-Use and reuse Flower solutions
+Use and reuse the Flower solution
 +++
 [More »](flower)
 :::
@@ -49,9 +49,9 @@ Use and reuse Flower solutions
 :::{grid-item-card}
 :link: optuna
 :link-type: doc
-{octicon}`eye;1em;caption-text` **Optuna**        
+{octicon}`smiley;1em;caption-text` **Optuna**        
 ^^^
-Use and reuse Optuna solutions
+Use and reuse the Optuna solution
 +++
 [More »](optuna)
 :::
@@ -59,9 +59,9 @@ Use and reuse Optuna solutions
 :::{grid-item-card}
 :link: acme
 :link-type: doc
-{octicon}`smiley;1em;caption-text` **Acme**        
+{octicon}`telescope;1em;caption-text` **Acme**        
 ^^^
-Use and reuse Acme solutions
+Use and reuse the Acme solution
 +++
 [More »](acme)
 :::
@@ -71,7 +71,7 @@ Use and reuse Acme solutions
 :link-type: doc
 {octicon}`eye;1em;caption-text` **Deeplearning4J**        
 ^^^
-Use and reuse Deeplearning4J solutions
+Use and reuse the Deeplearning4J solution
 +++
 [More »](deeplearning4j)
 :::
@@ -79,9 +79,9 @@ Use and reuse Deeplearning4J solutions
 :::{grid-item-card}
 :link: keras
 :link-type: doc
-{octicon}`stack;1em;caption-text` **Keras**        
+{octicon}`tools;1em;caption-text` **Keras**        
 ^^^
-Use and reuse Keras solutions
+Use and reuse the Keras solution
 +++
 [More »](keras)
 :::
@@ -89,9 +89,9 @@ Use and reuse Keras solutions
 :::{grid-item-card}
 :link: tensorflow
 :link-type: doc
-{octicon}`thumbsup;1em;caption-text` **TensorFlow**        
+{octicon}`note;1em;caption-text` **TensorFlow**        
 ^^^
-Use and reuse TensorFlow solutions
+Use and reuse the TensorFlow solution
 +++
 [More »](tensorflow)
 :::
@@ -99,9 +99,9 @@ Use and reuse TensorFlow solutions
 :::{grid-item-card}
 :link: scikit-learn
 :link-type: doc
-{octicon}`tools;1em;caption-text` **Scikit-learn**        
+{octicon}`check-circle;1em;caption-text` **Scikit-learn**        
 ^^^
-Use and reuse Scikit-learn solutions
+Use and reuse the Scikit-learn solution
 +++
 [More »](scikit-learn)
 :::
@@ -109,9 +109,9 @@ Use and reuse Scikit-learn solutions
 :::{grid-item-card}
 :link: apachesinga
 :link-type: doc
-{octicon}`megaphone;1em;caption-text` **Apache SINGA**        
+{octicon}`pencil;1em;caption-text` **Apache SINGA**        
 ^^^
-Use and reuse Apache SINGA solutions
+Use and reuse the Apache SINGA solution
 +++
 [More »](apachesinga)
 :::
@@ -119,9 +119,9 @@ Use and reuse Apache SINGA solutions
 :::{grid-item-card}
 :link: thinc
 :link-type: doc
-{octicon}`zap;1em;caption-text` **Thinc**        
+{octicon}`smiley;1em;caption-text` **Thinc**        
 ^^^
-Use and reuse Thinc solutions
+Use and reuse the Thinc solution
 +++
 [More »](thinc)
 :::

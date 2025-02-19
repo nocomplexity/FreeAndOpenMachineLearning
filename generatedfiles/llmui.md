@@ -9,9 +9,9 @@
 :::{grid-item-card}
 :link: openwebui
 :link-type: doc
-{octicon}`briefcase;1em;caption-text` **Open WebUI**        
+{octicon}`tools;1em;caption-text` **Open WebUI**        
 ^^^
-Use and reuse Open WebUI solutions
+Use and reuse the Open WebUI solution
 +++
 [More »](openwebui)
 :::

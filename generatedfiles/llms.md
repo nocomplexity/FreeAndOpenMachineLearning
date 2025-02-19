@@ -11,7 +11,7 @@
 :link-type: doc
 {octicon}`project;1em;caption-text` **Ollama**        
 ^^^
-Use and reuse Ollama solutions
+Use and reuse the Ollama solution
 +++
 [More »](ollama)
 :::

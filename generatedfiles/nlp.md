@@ -9,9 +9,9 @@
 :::{grid-item-card}
 :link: textblob
 :link-type: doc
-{octicon}`report;1em;caption-text` **TextBlob**        
+{octicon}`note;1em;caption-text` **TextBlob**        
 ^^^
-Use and reuse TextBlob solutions
+Use and reuse the TextBlob solution
 +++
 [More »](textblob)
 :::
@@ -19,9 +19,9 @@ Use and reuse TextBlob solutions
 :::{grid-item-card}
 :link: nltk
 :link-type: doc
-{octicon}`verified;1em;caption-text` **NLTK**        
+{octicon}`zap;1em;caption-text` **NLTK**        
 ^^^
-Use and reuse NLTK solutions
+Use and reuse the NLTK solution
 +++
 [More »](nltk)
 :::
@@ -29,9 +29,9 @@ Use and reuse NLTK solutions
 :::{grid-item-card}
 :link: wordllama
 :link-type: doc
-{octicon}`report;1em;caption-text` **WordLlama**        
+{octicon}`briefcase;1em;caption-text` **WordLlama**        
 ^^^
-Use and reuse WordLlama solutions
+Use and reuse the WordLlama solution
 +++
 [More »](wordllama)
 :::

@@ -9,9 +9,9 @@
 :::{grid-item-card}
 :link: treescope
 :link-type: doc
-{octicon}`cross-reference;1em;caption-text` **Treescope**        
+{octicon}`zap;1em;caption-text` **Treescope**        
 ^^^
-Use and reuse Treescope solutions
+Use and reuse the Treescope solution
 +++
 [More »](treescope)
 :::
@@ -19,9 +19,9 @@ Use and reuse Treescope solutions
 :::{grid-item-card}
 :link: polyaxon
 :link-type: doc
-{octicon}`check-circle;1em;caption-text` **Polyaxon**        
+{octicon}`package;1em;caption-text` **Polyaxon**        
 ^^^
-Use and reuse Polyaxon solutions
+Use and reuse the Polyaxon solution
 +++
 [More »](polyaxon)
 :::
@@ -29,9 +29,9 @@ Use and reuse Polyaxon solutions
 :::{grid-item-card}
 :link: pycaret
 :link-type: doc
-{octicon}`telescope;1em;caption-text` **PyCaret**        
+{octicon}`checklist;1em;caption-text` **PyCaret**        
 ^^^
-Use and reuse PyCaret solutions
+Use and reuse the PyCaret solution
 +++
 [More »](pycaret)
 :::

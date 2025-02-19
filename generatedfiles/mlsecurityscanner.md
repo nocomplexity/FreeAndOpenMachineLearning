@@ -9,9 +9,9 @@
 :::{grid-item-card}
 :link: garak
 :link-type: doc
-{octicon}`briefcase;1em;caption-text` **garak**        
+{octicon}`tag;1em;caption-text` **garak**        
 ^^^
-Use and reuse garak solutions
+Use and reuse the garak solution
 +++
 [More »](garak)
 :::
