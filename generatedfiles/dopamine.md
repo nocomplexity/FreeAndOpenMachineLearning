@@ -18,8 +18,8 @@ Home page for this solution: https://github.com/google/dopamine
 | License | Apache License 2.0 |
 | Programming Language | Jupyter Notebook |
 | Created | 2018-07-26 |
-| Last update | 2025-02-17 |
-| Github Stars | 10644 |
+| Last update | 2025-03-28 |
+| Github Stars | 10686 |
 | Project Home Page | https://github.com/google/dopamine |
 | Code Repository | https://github.com/google/dopamine |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/google/dopamine) |

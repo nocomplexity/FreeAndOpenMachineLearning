@@ -18,8 +18,8 @@ Home page for this solution: https://www.nltk.org/
 | License | Apache License 2.0 |
 | Programming Language | Python |
 | Created | 2009-09-07 |
-| Last update | 2025-02-18 |
-| Github Stars | 13861 |
+| Last update | 2025-03-27 |
+| Github Stars | 13941 |
 | Project Home Page | https://www.nltk.org |
 | Code Repository | https://github.com/nltk/nltk |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/nltk/nltk) |

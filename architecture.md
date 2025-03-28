@@ -1,5 +1,5 @@
-ML Reference Architecture
-=========================
+# ML Reference Architecture
+
 
 When you are going to apply machine learning for your business for real
 you should develop a solid architecture. A good architecture covers all
@@ -67,8 +67,8 @@ good knowledge of machine learning principles and technology also a
 strong and deep knowledge of business and IT architecture and design
 aspects.
 
-The machine learning process
-----------------------------
+## The machine learning process
+
 
 Setting up an architecture for machine learning systems and applications
 requires a good insight in the various processes that play a crucial
@@ -105,8 +105,8 @@ You need to improve your machine learning model after the first test.
 Improving can be done using more training data or by making model
 adjustments.
 
-Architecture Building Blocks for ML
------------------------------------
+## Architecture Building Blocks for ML
+
 
 This reference architecture for machine learning gives guidance for
 developing solution architectures where machine learning systems play a
@@ -185,14 +185,14 @@ developing. Creating principles also makes is easier for third parties
 to inspect designs and solutions and perform risks analysis on the
 design process and the product developed.
 
-#### Example Business principles for Machine Learning applications
+### Example Business principles for Machine Learning applications
 
 In this section some general principles for machine learning
 applications. For your specific machine learning application use the
 principles that apply and make them SMART. So include implications and
 consequences per principle.
 
-#### Collaborate
+### Collaborate
 
 Statement: Collaborate Rationale: Successful creation of ML applications
 require the collaboration of people with different expertises. You need
@@ -200,7 +200,7 @@ e.g. business experts, infrastructure engineers, data engineers and
 innovation experts. Implications: Organisational and culture must allow
 open collaboration.
 
-#### Unfair bias
+### Unfair bias
 
 Statement: Avoid creating or reinforcing unfair bias Rationale: Machine
 learning algorithms and datasets can reflect, reinforce, or reduce
@@ -211,14 +211,14 @@ gender, nationality, income, sexual orientation, ability, and political
 or religious belief. Implications: Be transparent about your data and
 training datasets. Make models reproducible and auditable.
 
-#### Built and test for safety
+### Built and test for safety
 
 Statement: Built and test for safety. Rationale: Use safety and security
 practices to avoid unintended results that create risks of harm. Design
 your machine learning driven systems to be appropriately cautious
 Implications: Perform risk assessments and safety tests.
 
-#### Privacy by design
+### Privacy by design
 
 Statement: Incorporate privacy by design principles. Rationale: Privacy
 by principles is more than being compliant with legal constraints as
@@ -243,8 +243,8 @@ the aspects:
 -   Maintenance (e.g. logging, version control, deployment, scheduling)
 -   Scalability, flexibility and performance
 
-ML Reference Architecture
--------------------------
+## ML Reference Architecture
+
 
 A full stack approach is needed to apply machine learning. A full stack
 approach means that in order to apply machine learning successfully you
@@ -264,7 +264,7 @@ solution.
 
 ![Machine Learning Architecture Building Blocks](/images/ml-reference-architecture.png)
 
-Conceptual overview of machine learning reference architecture
+Conceptual overview of machine learning reference architecture.
 
 Since this simplified machine learning reference architecture is far
 from complete it is recommended to consider e.g. the following questions

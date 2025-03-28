@@ -9,7 +9,7 @@
 :::{grid-item-card}
 :link: garak
 :link-type: doc
-{octicon}`tag;1em;caption-text` **garak**        
+{octicon}`checklist;1em;caption-text` **garak**        
 ^^^
 Use and reuse the garak solution
 +++

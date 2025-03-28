@@ -7,19 +7,9 @@
 :gutter: 3 
 
 :::{grid-item-card}
-:link: textblob
-:link-type: doc
-{octicon}`note;1em;caption-text` **TextBlob**        
-^^^
-Use and reuse the TextBlob solution
-+++
-[More »](textblob)
-:::
-
-:::{grid-item-card}
 :link: nltk
 :link-type: doc
-{octicon}`zap;1em;caption-text` **NLTK**        
+{octicon}`stack;1em;caption-text` **NLTK**        
 ^^^
 Use and reuse the NLTK solution
 +++
@@ -27,9 +17,19 @@ Use and reuse the NLTK solution
 :::
 
 :::{grid-item-card}
+:link: textblob
+:link-type: doc
+{octicon}`check-circle;1em;caption-text` **TextBlob**        
+^^^
+Use and reuse the TextBlob solution
++++
+[More »](textblob)
+:::
+
+:::{grid-item-card}
 :link: wordllama
 :link-type: doc
-{octicon}`briefcase;1em;caption-text` **WordLlama**        
+{octicon}`verified;1em;caption-text` **WordLlama**        
 ^^^
 Use and reuse the WordLlama solution
 +++

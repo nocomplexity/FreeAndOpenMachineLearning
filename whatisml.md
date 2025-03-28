@@ -36,7 +36,7 @@ books. Always be critical.
 This section outlines essential concepts surrounding machine learning
 more in depth.
 
-## ML, AI and NLP: What is what
+## ML, AI, LLM and NLP: What is what?
 
 Machine Learning (ML) and Artificial Intelligence (AI) are terms that
 are crucial to know when creating machine learning driven solutions. But
@@ -57,6 +57,8 @@ their meaning:
 *   NLP (Natural language processing) is the part of machine learning
     that has to do with language (usually written). NLP concepts are
     outlined more in depth in another chapter of this book.
+* LLMs (Large Language Models) are a fundamental approach for achieving cognitive intelligence in the field of natural language processing (NLP). LLMs have revolutionized natural language processing by achieving state-of-the-art performance across various tasks. LLMs are language models with many parameters, and are trained with self-supervised learning on giant data sets (text, video, speech and more) . The largest and most capable LLMs are generative pretrained transformers (GPTs). 
+
 
 ![ML,AI and NLP](/images/ml-ai-nlp.png)
 
@@ -382,6 +384,18 @@ So with the current machine learning we have:
 With AutoML the challenge is to turn this into:
 
 > Solution = data + 100X computation
+
+### Transformers
+
+The Transformer is a new deep learning model introduced in 2017. Transformers are primarily used in the field of natural language processing (NLP).
+
+Since their introduction, Transformers have become the model of choice for tackling many problems in NLP, replacing older recurrent neural network models such as the long short-term memory (LSTM). Since the Transformer model facilitates more parallelization during training, it has enabled training on larger datasets than was possible before it was introduced. This has led to the development of pretrained systems such as BERT (Bidirectional Encoder Representations from Transformers) and GPT (Generative Pre-trained Transformer), which have been trained with huge general language datasets, and can be fine-tuned to specific language tasks. Transformers are key in understanding LLMs.
+
+:::{tip}
+A nice introduction on how transformers work is available in [Transformers from Scratch](https://e2eml.school/transformers.html)
+*note: This explanation is in depth, so with mathematical formulas.*
+:::
+
 
 ## Simple ML/AI Topology
 

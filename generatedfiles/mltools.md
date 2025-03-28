@@ -7,19 +7,9 @@
 :gutter: 3 
 
 :::{grid-item-card}
-:link: treescope
-:link-type: doc
-{octicon}`zap;1em;caption-text` **Treescope**        
-^^^
-Use and reuse the Treescope solution
-+++
-[More »](treescope)
-:::
-
-:::{grid-item-card}
 :link: polyaxon
 :link-type: doc
-{octicon}`package;1em;caption-text` **Polyaxon**        
+{octicon}`zap;1em;caption-text` **Polyaxon**        
 ^^^
 Use and reuse the Polyaxon solution
 +++
@@ -29,11 +19,21 @@ Use and reuse the Polyaxon solution
 :::{grid-item-card}
 :link: pycaret
 :link-type: doc
-{octicon}`checklist;1em;caption-text` **PyCaret**        
+{octicon}`thumbsup;1em;caption-text` **PyCaret**        
 ^^^
 Use and reuse the PyCaret solution
 +++
 [More »](pycaret)
+:::
+
+:::{grid-item-card}
+:link: treescope
+:link-type: doc
+{octicon}`smiley;1em;caption-text` **Treescope**        
+^^^
+Use and reuse the Treescope solution
++++
+[More »](treescope)
 :::
 
 ::::

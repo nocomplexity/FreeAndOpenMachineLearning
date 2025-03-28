@@ -9,7 +9,7 @@
 :::{grid-item-card}
 :link: aiagentframeworks
 :link-type: doc
-{octicon}`light-bulb;1em;caption-text` **AI Agent Frameworks**        
+{octicon}`thumbsup;1em;caption-text` **AI Agent Frameworks**        
 ^^^
 Discover great FOSS AI Agent Frameworks solutions
 +++
@@ -17,19 +17,49 @@ Discover great FOSS AI Agent Frameworks solutions
 :::
 
 :::{grid-item-card}
-:link: nlp
+:link: llmui
 :link-type: doc
-{octicon}`note;1em;caption-text` **NLP**        
+{octicon}`stack;1em;caption-text` **LLM UI**        
 ^^^
-Discover great FOSS NLP solutions
+Discover great FOSS LLM UI solutions
 +++
-[More »](nlp)
+[More »](llmui)
+:::
+
+:::{grid-item-card}
+:link: llms
+:link-type: doc
+{octicon}`project;1em;caption-text` **LLMs**        
+^^^
+Discover great FOSS LLMs solutions
++++
+[More »](llms)
+:::
+
+:::{grid-item-card}
+:link: mlframeworks
+:link-type: doc
+{octicon}`tools;1em;caption-text` **ML Frameworks**        
+^^^
+Discover great FOSS ML Frameworks solutions
++++
+[More »](mlframeworks)
+:::
+
+:::{grid-item-card}
+:link: mlresearchframeworks
+:link-type: doc
+{octicon}`telescope;1em;caption-text` **ML Research Frameworks**        
+^^^
+Discover great FOSS ML Research Frameworks solutions
++++
+[More »](mlresearchframeworks)
 :::
 
 :::{grid-item-card}
 :link: mlsecurityscanner
 :link-type: doc
-{octicon}`briefcase;1em;caption-text` **ML Security Scanner**        
+{octicon}`tools;1em;caption-text` **ML Security Scanner**        
 ^^^
 Discover great FOSS ML Security Scanner solutions
 +++
@@ -39,7 +69,7 @@ Discover great FOSS ML Security Scanner solutions
 :::{grid-item-card}
 :link: mltools
 :link-type: doc
-{octicon}`check-circle;1em;caption-text` **ML Tools**        
+{octicon}`thumbsup;1em;caption-text` **ML Tools**        
 ^^^
 Discover great FOSS ML Tools solutions
 +++
@@ -47,43 +77,13 @@ Discover great FOSS ML Tools solutions
 :::
 
 :::{grid-item-card}
-:link: mlframeworks
+:link: nlp
 :link-type: doc
-{octicon}`check-circle;1em;caption-text` **ML Frameworks**        
+{octicon}`briefcase;1em;caption-text` **NLP**        
 ^^^
-Discover great FOSS ML Frameworks solutions
+Discover great FOSS NLP solutions
 +++
-[More »](mlframeworks)
-:::
-
-:::{grid-item-card}
-:link: llms
-:link-type: doc
-{octicon}`tools;1em;caption-text` **LLMs**        
-^^^
-Discover great FOSS LLMs solutions
-+++
-[More »](llms)
-:::
-
-:::{grid-item-card}
-:link: llmui
-:link-type: doc
-{octicon}`check-circle;1em;caption-text` **LLM UI**        
-^^^
-Discover great FOSS LLM UI solutions
-+++
-[More »](llmui)
-:::
-
-:::{grid-item-card}
-:link: mlresearchframeworks
-:link-type: doc
-{octicon}`note;1em;caption-text` **ML Research Frameworks**        
-^^^
-Discover great FOSS ML Research Frameworks solutions
-+++
-[More »](mlresearchframeworks)
+[More »](nlp)
 :::
 
 ::::

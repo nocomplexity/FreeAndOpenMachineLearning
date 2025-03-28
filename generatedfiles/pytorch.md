@@ -9,7 +9,8 @@ PyTorch is a Python-first machine learning framework that is utilized heavily to
 
 Home page for this solution: https://pytorch.org/ 
 
-A detailed overview is not available for this solution. Check out this solution yourself via:
+A detailed overview is not available for this solution. Check out this solution yourself.
+
 Code repository: https://github.com/pytorch
 
 

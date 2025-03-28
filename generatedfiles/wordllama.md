@@ -18,8 +18,8 @@ Home page for this solution: https://github.com/dleemiller/WordLlama
 | License | MIT License |
 | Programming Language | Python |
 | Created | 2024-06-12 |
-| Last update | 2025-02-14 |
-| Github Stars | 1422 |
+| Last update | 2025-03-27 |
+| Github Stars | 1431 |
 | Project Home Page | None |
 | Code Repository | https://github.com/dleemiller/WordLlama |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/dleemiller/WordLlama) |

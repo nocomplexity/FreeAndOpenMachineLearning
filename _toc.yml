@@ -1,30 +1,39 @@
 format: jb-book
 root: abstract
 parts:
+
 - caption: Core Concepts
   chapters:
   - file: preface
   - file: introduction
   - file: whyossml
+    sections:
+    - file: ethicalai
+
   - file: whatisml
   - file: openmldefinition  
   - file: ml-business-use
+    sections:
+    - file: businessofai
   - file: architecture
   - file: risks
+    sections:
+    - file: LLMrisks
   - file: nlp
   - file: ml-challenges
+
 - caption: FOSS ML Software
   chapters:
   - file: generatedfiles/overview
     sections:
-    - file: generatedfiles/mlresearchframeworks
     - file: generatedfiles/aiagentframeworks
-    - file: generatedfiles/mlsecurityscanner
     - file: generatedfiles/llmui
-    - file: generatedfiles/nlp
-    - file: generatedfiles/mltools
-    - file: generatedfiles/mlframeworks
     - file: generatedfiles/llms
+    - file: generatedfiles/mlframeworks
+    - file: generatedfiles/mlresearchframeworks
+    - file: generatedfiles/mlsecurityscanner
+    - file: generatedfiles/mltools
+    - file: generatedfiles/nlp
   
   - file: catalogue
     sections:
@@ -46,3 +55,4 @@ parts:
   - file: license
   - url: https://www.amazon.com/Free-Machine-Learning-Maikel-Mardjan/dp/B0863S9LQ5/ref=sr_1_2?qid=1585488090&refinements=p_27%3AMaikel+Mardjan&s=books&sr=1-2&text=Maikel+Mardjan
     title: Support this project:Buy a hardcopy version!
+  - file: sponsors

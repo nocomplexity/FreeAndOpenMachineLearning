@@ -14,12 +14,12 @@ Home page for this solution: https://ollama.com/
 | Key | Value |
 | --- | --- |
 | Name | ollama |
-| Description | Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models. |
+| Description | Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models. |
 | License | MIT License |
 | Programming Language | Go |
 | Created | 2023-06-26 |
-| Last update | 2025-02-18 |
-| Github Stars | 127230 |
+| Last update | 2025-03-28 |
+| Github Stars | 135148 |
 | Project Home Page | https://ollama.com |
 | Code Repository | https://github.com/ollama/ollama |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/ollama/ollama) |

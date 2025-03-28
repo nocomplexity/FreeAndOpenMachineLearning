@@ -18,8 +18,8 @@ Home page for this solution: https://vowpalwabbit.org/
 | License | Other |
 | Programming Language | C++ |
 | Created | 2009-07-31 |
-| Last update | 2025-02-17 |
-| Github Stars | 8523 |
+| Last update | 2025-03-28 |
+| Github Stars | 8542 |
 | Project Home Page | https://vowpalwabbit.org |
 | Code Repository | https://github.com/VowpalWabbit/vowpal_wabbit |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/VowpalWabbit/vowpal_wabbit) |

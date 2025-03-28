@@ -9,7 +9,8 @@ TensorFlow is an end-to-end open source platform for machine learning. It has a 
 
 Home page for this solution: https://www.tensorflow.org/ 
 
-A detailed overview is not available for this solution. Check out this solution yourself via:
+A detailed overview is not available for this solution. Check out this solution yourself.
+
 Code repository: https://github.com/tensorflow
 
 

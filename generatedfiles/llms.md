@@ -9,7 +9,7 @@
 :::{grid-item-card}
 :link: ollama
 :link-type: doc
-{octicon}`project;1em;caption-text` **Ollama**        
+{octicon}`telescope;1em;caption-text` **Ollama**        
 ^^^
 Use and reuse the Ollama solution
 +++

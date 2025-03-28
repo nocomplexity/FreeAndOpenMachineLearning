@@ -18,8 +18,8 @@ Home page for this solution: https://singa.apache.org/
 | License | Apache License 2.0 |
 | Programming Language | C++ |
 | Created | 2015-04-02 |
-| Last update | 2025-02-17 |
-| Github Stars | 3370 |
+| Last update | 2025-03-26 |
+| Github Stars | 3404 |
 | Project Home Page |  |
 | Code Repository | https://github.com/apache/singa |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/apache/singa) |

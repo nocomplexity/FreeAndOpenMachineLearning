@@ -29,12 +29,10 @@ But you can also support the project by [buying a hard copy](https://www.amazon.
 
 If you like your name stated here: This publication is open source. Issues and pull requests are welcome.
 
-All contributors will be added to this list. 
+All contributors will be mentioned in the publication! 
 
 *So get involved in the discussions and make IT better!*
 
-The following people have contributed to this project:
- [name] [OPTIONAL email] [Optional Organization name ]
 
 
 # Licensing
@@ -43,7 +41,7 @@ When you submit text to which you hold the copyright, you agree to license it un
 * Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).
 
 
-# Topics covered the Free and Open Machine Learning (version 1.0)
+# Topics covered the Free and Open Machine Learning
 
 * Why Free and Open Machine Learning. 
 

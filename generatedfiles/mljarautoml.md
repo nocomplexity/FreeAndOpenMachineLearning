@@ -18,8 +18,8 @@ Home page for this solution: https://supervised.mljar.com/
 | License | MIT License |
 | Programming Language | Python |
 | Created | 2018-11-05 |
-| Last update | 2025-02-14 |
-| Github Stars | 3113 |
+| Last update | 2025-03-26 |
+| Github Stars | 3130 |
 | Project Home Page | https://mljar.com |
 | Code Repository | https://github.com/mljar/mljar-supervised |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/mljar/mljar-supervised) |

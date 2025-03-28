@@ -1,4 +1,4 @@
-# Machine Learning for Business Problems
+# AI for Business Problems
 
 
 Reading and talking about futuristic potential options for machine
@@ -320,9 +320,9 @@ creating software is made. Use cases seen are e.g.:
     spotted an error. Detecting a bug before software is tested and
     deployed is far cheaper than correcting errors in code when a
     program is already released. A game development company has used
-    this application of machine learning for real with success already.
-    (reference <http://www.wired.co.uk/article/ubisoft-commit-assist-ai>
-    )
+    this application of machine learning for real with success already
+    [reference](http://www.wired.co.uk/article/ubisoft-commit-assist-ai).
+    
 -   Creating new software programs: Based on a problem it is proven by
     different companies that software can be generated instead of manual
     crafted (programmed). Feeding a algorithm massive inputs of examples
@@ -332,6 +332,12 @@ creating software is made. Use cases seen are e.g.:
     application of machine learning makes real sense since the new
     paradigm of machine learning is no longer program a solution but
     create a program outcome based on input data.
+
+LLMs are primary used for all kinds of programming tasks. Including creating programs from scratch. 
+
+:::{note}
+Maintaining large code bases with the use of LLMs is currently still problematic. Key problem is that most errors in systems are no programming errors, but changing specifications or the absence of good requirements.
+:::
 
 ### Security
 
@@ -350,6 +356,14 @@ security detections since intrusion detection systems and virus scanners
 are more and more shipped with self learning algorithms. Also Complex
 financial fraud schemes can be easily detected using predictive machine
 learning models.
+
+### Summarization  
+
+Summarization is one of the top immediate practical applications of LLMs. 
+
+One of the biggest challenges with summarization, however, is factuality: does the summary reflect accurately what the original document said? There are other characteristics, such as fluency and relevance that are also important, but LLMs are actually pretty good at both of those. Factuality (or its evil twin: hallucination) on the other hand is a known issue with LLMs. And it’s no use being fluent if you’re wrong. 
+
+
 
 ### Privacy
 

@@ -18,8 +18,8 @@ Home page for this solution: https://docs.fast.ai/
 | License | Apache License 2.0 |
 | Programming Language | Jupyter Notebook |
 | Created | 2017-09-09 |
-| Last update | 2025-02-18 |
-| Github Stars | 26640 |
+| Last update | 2025-03-28 |
+| Github Stars | 26803 |
 | Project Home Page | http://docs.fast.ai |
 | Code Repository | https://github.com/fastai/fastai |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/fastai/fastai) |

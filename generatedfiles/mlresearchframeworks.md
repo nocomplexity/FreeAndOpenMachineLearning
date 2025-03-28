@@ -9,7 +9,7 @@
 :::{grid-item-card}
 :link: detectron2
 :link-type: doc
-{octicon}`eye;1em;caption-text` **Detectron2**        
+{octicon}`light-bulb;1em;caption-text` **Detectron2**        
 ^^^
 Use and reuse the Detectron2 solution
 +++
@@ -19,7 +19,7 @@ Use and reuse the Detectron2 solution
 :::{grid-item-card}
 :link: dopamine
 :link-type: doc
-{octicon}`thumbsup;1em;caption-text` **Dopamine**        
+{octicon}`eye;1em;caption-text` **Dopamine**        
 ^^^
 Use and reuse the Dopamine solution
 +++
@@ -27,29 +27,9 @@ Use and reuse the Dopamine solution
 :::
 
 :::{grid-item-card}
-:link: fastai
-:link-type: doc
-{octicon}`zap;1em;caption-text` **fastai**        
-^^^
-Use and reuse the fastai solution
-+++
-[More »](fastai)
-:::
-
-:::{grid-item-card}
-:link: featuretools
-:link-type: doc
-{octicon}`tag;1em;caption-text` **featuretools**        
-^^^
-Use and reuse the featuretools solution
-+++
-[More »](featuretools)
-:::
-
-:::{grid-item-card}
 :link: karateclub
 :link-type: doc
-{octicon}`megaphone;1em;caption-text` **Karate Club**        
+{octicon}`bookmark;1em;caption-text` **Karate Club**        
 ^^^
 Use and reuse the Karate Club solution
 +++
@@ -59,7 +39,7 @@ Use and reuse the Karate Club solution
 :::{grid-item-card}
 :link: mljarautoml
 :link-type: doc
-{octicon}`verified;1em;caption-text` **MLJAR AutoML**        
+{octicon}`report;1em;caption-text` **MLJAR AutoML**        
 ^^^
 Use and reuse the MLJAR AutoML solution
 +++
@@ -67,19 +47,9 @@ Use and reuse the MLJAR AutoML solution
 :::
 
 :::{grid-item-card}
-:link: pyro
-:link-type: doc
-{octicon}`briefcase;1em;caption-text` **Pyro**        
-^^^
-Use and reuse the Pyro solution
-+++
-[More »](pyro)
-:::
-
-:::{grid-item-card}
 :link: mmf
 :link-type: doc
-{octicon}`telescope;1em;caption-text` **MMF**        
+{octicon}`file;1em;caption-text` **MMF**        
 ^^^
 Use and reuse the MMF solution
 +++
@@ -87,13 +57,43 @@ Use and reuse the MMF solution
 :::
 
 :::{grid-item-card}
+:link: pyro
+:link-type: doc
+{octicon}`check-circle;1em;caption-text` **Pyro**        
+^^^
+Use and reuse the Pyro solution
++++
+[More »](pyro)
+:::
+
+:::{grid-item-card}
 :link: vowpalwabbit
 :link-type: doc
-{octicon}`hubot;1em;caption-text` **Vowpal Wabbit**        
+{octicon}`book;1em;caption-text` **Vowpal Wabbit**        
 ^^^
 Use and reuse the Vowpal Wabbit solution
 +++
 [More »](vowpalwabbit)
+:::
+
+:::{grid-item-card}
+:link: fastai
+:link-type: doc
+{octicon}`note;1em;caption-text` **fastai**        
+^^^
+Use and reuse the fastai solution
++++
+[More »](fastai)
+:::
+
+:::{grid-item-card}
+:link: featuretools
+:link-type: doc
+{octicon}`tools;1em;caption-text` **featuretools**        
+^^^
+Use and reuse the featuretools solution
++++
+[More »](featuretools)
 :::
 
 ::::

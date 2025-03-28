@@ -18,8 +18,8 @@ Home page for this solution: https://thinc.ai/
 | License | MIT License |
 | Programming Language | Python |
 | Created | 2014-10-16 |
-| Last update | 2025-02-18 |
-| Github Stars | 2828 |
+| Last update | 2025-03-27 |
+| Github Stars | 2839 |
 | Project Home Page | https://thinc.ai |
 | Code Repository | https://github.com/explosion/thinc |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/explosion/thinc) |

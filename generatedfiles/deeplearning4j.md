@@ -18,8 +18,8 @@ Home page for this solution: https://github.com/deeplearning4j
 | License | Apache License 2.0 |
 | Programming Language | Java |
 | Created | 2013-11-27 |
-| Last update | 2025-02-18 |
-| Github Stars | 13789 |
+| Last update | 2025-03-28 |
+| Github Stars | 13900 |
 | Project Home Page | http://deeplearning4j.konduit.ai |
 | Code Repository | https://github.com/deeplearning4j/deeplearning4j |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/deeplearning4j/deeplearning4j) |

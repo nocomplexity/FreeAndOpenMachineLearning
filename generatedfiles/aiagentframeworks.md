@@ -7,23 +7,23 @@
 :gutter: 3 
 
 :::{grid-item-card}
-:link: gptme
-:link-type: doc
-{octicon}`cross-reference;1em;caption-text` **gptme**        
-^^^
-Use and reuse the gptme solution
-+++
-[More »](gptme)
-:::
-
-:::{grid-item-card}
 :link: openhands
 :link-type: doc
-{octicon}`telescope;1em;caption-text` **OpenHands**        
+{octicon}`cross-reference;1em;caption-text` **OpenHands**        
 ^^^
 Use and reuse the OpenHands solution
 +++
 [More »](openhands)
+:::
+
+:::{grid-item-card}
+:link: gptme
+:link-type: doc
+{octicon}`file;1em;caption-text` **gptme**        
+^^^
+Use and reuse the gptme solution
++++
+[More »](gptme)
 :::
 
 ::::
