@@ -87,7 +87,7 @@ Anything Changes Everything)
 ## Categories
 
 :::{note}
-Using categories makes searching simple. However there is and will never be an unified definition to manage all various Solution Building Blocks.
+Using categories makes searching simple. However there is and will never be an unified topology to categorise all various Solution Building Blocks.
 :::
 
 * ML Frameworks: Within this category you will find mainly solutions to build applications. It contains APIs and a lot of functionality so you can focus on solving your business problem that you want to solve with AI or an LLM model.
