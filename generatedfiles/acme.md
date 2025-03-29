@@ -18,8 +18,8 @@ Home page for this solution: https://github.com/google-deepmind/acme
 | License | Apache License 2.0 |
 | Programming Language | Python |
 | Created | 2020-05-01 |
-| Last update | 2025-03-26 |
-| Github Stars | 3622 |
+| Last update | 2025-03-29 |
+| Github Stars | 3623 |
 | Project Home Page |  |
 | Code Repository | https://github.com/google-deepmind/acme |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/google-deepmind/acme) |

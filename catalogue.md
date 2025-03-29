@@ -84,6 +84,12 @@ interpretable. Interpretable models are easier to debug. Complex model
 erode boundaries beware of the CACE principle (CACE principle: Changing
 Anything Changes Everything)
 
+## Categories
 
-```{tableofcontents}
-```
+:::{note}
+Using categories makes searching simple. However there is and will never be an unified definition to manage all various Solution Building Blocks.
+:::
+
+* ML Frameworks: Within this category you will find mainly solutions to build applications. It contains APIs and a lot of functionality so you can focus on solving your business problem that you want to solve with AI or an LLM model.
+
+* ML Tools: Mainly tools that are usable when working with various development tools, models or frameworks. Most ML Tools can be used within a Framework. 

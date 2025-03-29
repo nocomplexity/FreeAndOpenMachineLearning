@@ -24,30 +24,27 @@ parts:
 
 - caption: FOSS ML Software
   chapters:
-  - file: generatedfiles/overview
-    sections:
-    - file: generatedfiles/aiagentframeworks
-    - file: generatedfiles/llmui
-    - file: generatedfiles/llms
-    - file: generatedfiles/mlframeworks
-    - file: generatedfiles/mlresearchframeworks
-    - file: generatedfiles/mlsecurityscanner
-    - file: generatedfiles/mltools
-    - file: generatedfiles/nlp
-  
-  - file: catalogue
-    sections:
-#    - file: mlframeworks  -> Not needed anymore -new way for SBB overviews - and up-to-date
-    - file: mlcomputervision
-    - file: mltools
-    - file: mlhosting
-    - file: nlpframeworks
+    - file: catalogue
+    - file: generatedfiles/overview
+      sections:
+      - file: generatedfiles/aiagentframeworks
+      - file: generatedfiles/hosting
+      - file: generatedfiles/llm
+      - file: generatedfiles/llmui
+      - file: generatedfiles/mlframeworks
+      - file: generatedfiles/mlresearchframeworks
+      - file: generatedfiles/mlsecurityscanner
+      - file: generatedfiles/mltools
+      - file: generatedfiles/nlp
+      - file: generatedfiles/vision
+
 - caption: Courses
   chapters:
   - file: mlcourses
   - file: ml-books  
   - file: NLPlearningresources
   - file: LLMLearning
+
 - caption: About
   chapters:
   - file: help

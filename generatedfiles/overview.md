@@ -9,7 +9,7 @@
 :::{grid-item-card}
 :link: aiagentframeworks
 :link-type: doc
-{octicon}`thumbsup;1em;caption-text` **AI Agent Frameworks**        
+{octicon}`tools;1em;caption-text` **AI Agent Frameworks**        
 ^^^
 Discover great FOSS AI Agent Frameworks solutions
 +++
@@ -17,9 +17,29 @@ Discover great FOSS AI Agent Frameworks solutions
 :::
 
 :::{grid-item-card}
+:link: hosting
+:link-type: doc
+{octicon}`tag;1em;caption-text` **Hosting**        
+^^^
+Discover great FOSS Hosting solutions
++++
+[More »](hosting)
+:::
+
+:::{grid-item-card}
+:link: llm
+:link-type: doc
+{octicon}`tools;1em;caption-text` **LLM**        
+^^^
+Discover great FOSS LLM solutions
++++
+[More »](llm)
+:::
+
+:::{grid-item-card}
 :link: llmui
 :link-type: doc
-{octicon}`stack;1em;caption-text` **LLM UI**        
+{octicon}`tag;1em;caption-text` **LLM UI**        
 ^^^
 Discover great FOSS LLM UI solutions
 +++
@@ -27,19 +47,9 @@ Discover great FOSS LLM UI solutions
 :::
 
 :::{grid-item-card}
-:link: llms
-:link-type: doc
-{octicon}`project;1em;caption-text` **LLMs**        
-^^^
-Discover great FOSS LLMs solutions
-+++
-[More »](llms)
-:::
-
-:::{grid-item-card}
 :link: mlframeworks
 :link-type: doc
-{octicon}`tools;1em;caption-text` **ML Frameworks**        
+{octicon}`check-circle;1em;caption-text` **ML Frameworks**        
 ^^^
 Discover great FOSS ML Frameworks solutions
 +++
@@ -49,7 +59,7 @@ Discover great FOSS ML Frameworks solutions
 :::{grid-item-card}
 :link: mlresearchframeworks
 :link-type: doc
-{octicon}`telescope;1em;caption-text` **ML Research Frameworks**        
+{octicon}`eye;1em;caption-text` **ML Research Frameworks**        
 ^^^
 Discover great FOSS ML Research Frameworks solutions
 +++
@@ -59,7 +69,7 @@ Discover great FOSS ML Research Frameworks solutions
 :::{grid-item-card}
 :link: mlsecurityscanner
 :link-type: doc
-{octicon}`tools;1em;caption-text` **ML Security Scanner**        
+{octicon}`tag;1em;caption-text` **ML Security Scanner**        
 ^^^
 Discover great FOSS ML Security Scanner solutions
 +++
@@ -69,7 +79,7 @@ Discover great FOSS ML Security Scanner solutions
 :::{grid-item-card}
 :link: mltools
 :link-type: doc
-{octicon}`thumbsup;1em;caption-text` **ML Tools**        
+{octicon}`note;1em;caption-text` **ML Tools**        
 ^^^
 Discover great FOSS ML Tools solutions
 +++
@@ -79,11 +89,21 @@ Discover great FOSS ML Tools solutions
 :::{grid-item-card}
 :link: nlp
 :link-type: doc
-{octicon}`briefcase;1em;caption-text` **NLP**        
+{octicon}`package;1em;caption-text` **NLP**        
 ^^^
 Discover great FOSS NLP solutions
 +++
 [More »](nlp)
+:::
+
+:::{grid-item-card}
+:link: vision
+:link-type: doc
+{octicon}`bookmark;1em;caption-text` **Vision**        
+^^^
+Discover great FOSS Vision solutions
++++
+[More »](vision)
 :::
 
 ::::

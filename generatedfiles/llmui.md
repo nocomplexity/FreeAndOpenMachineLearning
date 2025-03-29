@@ -9,7 +9,7 @@
 :::{grid-item-card}
 :link: openwebui
 :link-type: doc
-{octicon}`pencil;1em;caption-text` **Open WebUI**        
+{octicon}`package;1em;caption-text` **Open WebUI**        
 ^^^
 Use and reuse the Open WebUI solution
 +++

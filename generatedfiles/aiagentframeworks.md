@@ -9,7 +9,7 @@
 :::{grid-item-card}
 :link: openhands
 :link-type: doc
-{octicon}`cross-reference;1em;caption-text` **OpenHands**        
+{octicon}`tools;1em;caption-text` **OpenHands**        
 ^^^
 Use and reuse the OpenHands solution
 +++
@@ -19,7 +19,7 @@ Use and reuse the OpenHands solution
 :::{grid-item-card}
 :link: gptme
 :link-type: doc
-{octicon}`file;1em;caption-text` **gptme**        
+{octicon}`light-bulb;1em;caption-text` **gptme**        
 ^^^
 Use and reuse the gptme solution
 +++

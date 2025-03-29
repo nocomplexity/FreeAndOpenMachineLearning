@@ -18,8 +18,8 @@ Home page for this solution: https://ollama.com/
 | License | MIT License |
 | Programming Language | Go |
 | Created | 2023-06-26 |
-| Last update | 2025-03-28 |
-| Github Stars | 135148 |
+| Last update | 2025-03-29 |
+| Github Stars | 135250 |
 | Project Home Page | https://ollama.com |
 | Code Repository | https://github.com/ollama/ollama |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/ollama/ollama) |

@@ -9,7 +9,7 @@
 :::{grid-item-card}
 :link: detectron2
 :link-type: doc
-{octicon}`light-bulb;1em;caption-text` **Detectron2**        
+{octicon}`file;1em;caption-text` **Detectron2**        
 ^^^
 Use and reuse the Detectron2 solution
 +++
@@ -19,7 +19,7 @@ Use and reuse the Detectron2 solution
 :::{grid-item-card}
 :link: dopamine
 :link-type: doc
-{octicon}`eye;1em;caption-text` **Dopamine**        
+{octicon}`thumbsup;1em;caption-text` **Dopamine**        
 ^^^
 Use and reuse the Dopamine solution
 +++
@@ -29,7 +29,7 @@ Use and reuse the Dopamine solution
 :::{grid-item-card}
 :link: karateclub
 :link-type: doc
-{octicon}`bookmark;1em;caption-text` **Karate Club**        
+{octicon}`telescope;1em;caption-text` **Karate Club**        
 ^^^
 Use and reuse the Karate Club solution
 +++
@@ -39,7 +39,7 @@ Use and reuse the Karate Club solution
 :::{grid-item-card}
 :link: mljarautoml
 :link-type: doc
-{octicon}`report;1em;caption-text` **MLJAR AutoML**        
+{octicon}`smiley;1em;caption-text` **MLJAR AutoML**        
 ^^^
 Use and reuse the MLJAR AutoML solution
 +++
@@ -49,7 +49,7 @@ Use and reuse the MLJAR AutoML solution
 :::{grid-item-card}
 :link: mmf
 :link-type: doc
-{octicon}`file;1em;caption-text` **MMF**        
+{octicon}`heart;1em;caption-text` **MMF**        
 ^^^
 Use and reuse the MMF solution
 +++
@@ -59,7 +59,7 @@ Use and reuse the MMF solution
 :::{grid-item-card}
 :link: pyro
 :link-type: doc
-{octicon}`check-circle;1em;caption-text` **Pyro**        
+{octicon}`zap;1em;caption-text` **Pyro**        
 ^^^
 Use and reuse the Pyro solution
 +++
@@ -69,7 +69,7 @@ Use and reuse the Pyro solution
 :::{grid-item-card}
 :link: vowpalwabbit
 :link-type: doc
-{octicon}`book;1em;caption-text` **Vowpal Wabbit**        
+{octicon}`smiley;1em;caption-text` **Vowpal Wabbit**        
 ^^^
 Use and reuse the Vowpal Wabbit solution
 +++
@@ -79,7 +79,7 @@ Use and reuse the Vowpal Wabbit solution
 :::{grid-item-card}
 :link: fastai
 :link-type: doc
-{octicon}`note;1em;caption-text` **fastai**        
+{octicon}`bookmark;1em;caption-text` **fastai**        
 ^^^
 Use and reuse the fastai solution
 +++
@@ -89,7 +89,7 @@ Use and reuse the fastai solution
 :::{grid-item-card}
 :link: featuretools
 :link-type: doc
-{octicon}`tools;1em;caption-text` **featuretools**        
+{octicon}`light-bulb;1em;caption-text` **featuretools**        
 ^^^
 Use and reuse the featuretools solution
 +++
