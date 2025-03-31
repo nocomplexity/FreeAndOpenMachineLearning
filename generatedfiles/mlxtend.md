@@ -1,34 +1,34 @@
 
 % This file is GENERATED. Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
 
-# Flair
+# Mlxtend
 
 
-```{image} https://github.com/flairNLP/flair/raw/master/resources/docs/flair_logo_2020_FINAL_day_dpi72.png#gh-light-mode-only 
+```{image} https://github.com/rasbt/mlxtend/raw/master/docs/sources/img/logo.png 
 :width: 200px 
 :align: center 
 ```
 
 ## Description 
 
-A very simple framework for state-of-the-art Natural Language Processing (NLP)
+Mlxtend (machine learning extensions) is a Python library of useful tools for the day-to-day data science tasks.
 
-Home page for this solution: https://flairnlp.github.io/ 
+Home page for this solution: https://rasbt.github.io/mlxtend/ 
 
 ## Overview 
 
 | Key | Value |
 | --- | --- |
-| Name | flair |
-| Description | A very simple framework for state-of-the-art Natural Language Processing (NLP) |
+| Name | mlxtend |
+| Description | A library of extension and helper modules for Python's data analysis and machine learning libraries. |
 | License | Other |
 | Programming Language | Python |
-| Created | 2018-06-11 |
-| Last update | 2025-03-31 |
-| Github Stars | 14122 |
-| Project Home Page | https://flairnlp.github.io/flair/ |
-| Code Repository | https://github.com/flairNLP/flair |
-| OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/flairNLP/flair) |
+| Created | 2014-08-14 |
+| Last update | 2025-03-28 |
+| Github Stars | 4988 |
+| Project Home Page | https://rasbt.github.io/mlxtend/ |
+| Code Repository | https://github.com/rasbt/mlxtend |
+| OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/rasbt/mlxtend) |
 
 Note:
  - Created date is date that repro is created on Github.com. 

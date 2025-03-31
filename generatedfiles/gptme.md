@@ -18,8 +18,8 @@ Home page for this solution: https://gptme.org/
 | License | MIT License |
 | Programming Language | Python |
 | Created | 2023-03-24 |
-| Last update | 2025-03-29 |
-| Github Stars | 3685 |
+| Last update | 2025-03-31 |
+| Github Stars | 3689 |
 | Project Home Page | https://gptme.org/docs/ |
 | Code Repository | https://github.com/gptme/gptme |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/gptme/gptme) |

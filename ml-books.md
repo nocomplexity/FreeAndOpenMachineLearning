@@ -1,10 +1,17 @@
-# ML Books and Guides 
+# AI/ML Books and Guides 
 
 This section presents an opinionated list of great machine learning
 learning resources. Some in PDF, others online is an easy to read format in any browser.
 
 Of course all [open](http://opendefinition.org/od/2.1/en/).
 
+
+
+:::{admonition} Statistics - Crucial for better understanding AI/ML and LLMs!
+:class: tip, dropdown
+
+[Introduction to Modern Statistics](https://openintro-ims.netlify.app/) 
+:::
 
 ```{admonition} AutoML: Methods, Systems, Challenges.
 :class: tip, dropdown
@@ -14,13 +21,17 @@ Check this [Springer Book](https://www.ml4aad.org/wp-content/uploads/2019/05/Aut
 ```
 
 
-```{admonition} Explainable Deep Learning: A Field Guide for the Uninitiated.
+:::{admonition} Deep Learning 
 :class: tip, dropdown
-Great    learning guide for new and starting researchers in the Deep neural    network (DNN) field. 
 
-Check this [Guide at ArXiV](https://arxiv.org/pdf/2004.14545.pdf).
+* [Explainable Deep Learning: A Field Guide for the Uninitiated](https://arxiv.org/pdf/2004.14545.pdf).
 
-```
+* [The Little Book of Deep Learning](https://fleuret.org/public/lbdl.pdf)
+
+* [The Principles of Deep Learning Theory](https://arxiv.org/pdf/2106.10165)
+
+* [Applications of Deep Neural Networks with Keras](https://arxiv.org/pdf/2009.05673) - [with additional material and notebooks](https://github.com/jeffheaton/t81_558_deep_learning)
+:::
 
 
 
@@ -62,15 +73,17 @@ Check: [Machines that Learn in the Wild - Machine learning capabilities,    limi
 ```
 
 
-```{admonition}  Mathematics for Machine Learning
+:::{admonition}  Mathematics for Machine Learning
 :class: tip, dropdown
 
-A book on Mathematics for Machine Learning that motivates people to learn mathematical concepts.
+Books on Mathematics for Machine Learning that motivates people to learn mathematical concepts.
 
-[Mathematics for Machine Learning](https://mml-book.github.io/)
+* [Mathematics for Machine Learning](https://mml-book.github.io/)
 Examples and tutorials for this book are placed [github](https://github.com/mml-book/mml-book.github.io)
 
-```
+* [Mathematical Introduction to Deep Learning:Methods,Implementations,and Theory (2025)](https://arxiv.org/pdf/2310.20360)
+
+:::
 
 
 
@@ -104,3 +117,10 @@ A practical guide to developing quality predictive models from tabular data.
 
 ```
 
+
+:::{admonition} Machine Learning 
+:class: tip, dropdown
+
+* [Machine Learning Engineering Open Book](https://github.com/stas00/ml-engineering)
+
+:::

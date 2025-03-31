@@ -24,8 +24,8 @@ Home page for this solution: https://netron.app/
 | License | MIT License |
 | Programming Language | JavaScript |
 | Created | 2010-12-26 |
-| Last update | 2025-03-29 |
-| Github Stars | 29781 |
+| Last update | 2025-03-31 |
+| Github Stars | 29810 |
 | Project Home Page | https://netron.app |
 | Code Repository | https://github.com/lutzroeder/netron |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/lutzroeder/netron) |

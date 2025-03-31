@@ -39,6 +39,40 @@ Nice hands-on to learn the basic of LLMs. Implement a GPT from scratch in just 6
 [More »](https://jaykmody.com/blog/gpt-from-scratch/)
 :::
 
+:::{grid-item-card} 
+:link: https://thebullshitmachines.com/
+{octicon}`book;1em;caption-text` **MODERN-DAY ORACLES or BULLSHIT MACHINES?**
+^^^
+How to thrive in a ChatGPT world.
+Great online course on LLMs! 
+
++++
+[More »](https://thebullshitmachines.com/index.html)
+:::
+
+:::{grid-item-card} 
+:link: https://microsoft.github.io/generative-ai-for-beginners/#/
+{octicon}`book;1em;caption-text` **Generative AI for Beginners**
+^^^
+Learn the fundamentals of building Generative AI applications with our 21-lesson comprehensive course by Microsoft Cloud Advocates.
+:::
+
+:::{grid-item-card} 
+:link: https://www.tamingllms.com/markdown/toc.html#
+{octicon}`book;1em;caption-text` **Taming LLMs**
+^^^
+A practical guide to LLM pitfalls with open source software.
+
+An alternative title of this book could have been “Language Models Behaving Badly”.
+:::
+
+:::{grid-item-card} 
+:link: https://www.promptingguide.ai/
+{octicon}`book;1em;caption-text` **Prompt Engineering Guide**
+^^^
+Prompt engineering is a relatively new discipline for developing and optimizing prompts to efficiently use language models (LMs) for a wide variety of applications and research topics. Prompt engineering skills help to better understand the capabilities and limitations of large language models (LLMs).
+:::
+
 
 :::: 
 % End of Grid

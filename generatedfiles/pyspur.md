@@ -1,28 +1,34 @@
 
 % This file is GENERATED. Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
 
-# NLTK
+# PySpur
+
+
+```{image} https://github.com/PySpur-Dev/pyspur/raw/main/docs/images/hero.png 
+:width: 200px 
+:align: center 
+```
 
 ## Description 
 
-NLTK is a leading platform for building Python programs to work with human language data. Still heavily used library under maintenaince an with an active discussion forum.
+A visual playground for agentic workflows: Iterate over your agents 10x faster 
 
-Home page for this solution: https://www.nltk.org/ 
+Home page for this solution: https://www.pyspur.dev/ 
 
 ## Overview 
 
 | Key | Value |
 | --- | --- |
-| Name | nltk |
-| Description | NLTK Source |
+| Name | pyspur |
+| Description | A visual playground for agentic workflows: Iterate over your agents 10x faster |
 | License | Apache License 2.0 |
-| Programming Language | Python |
-| Created | 2009-09-07 |
+| Programming Language | TypeScript |
+| Created | 2024-09-23 |
 | Last update | 2025-03-31 |
-| Github Stars | 13951 |
-| Project Home Page | https://www.nltk.org |
-| Code Repository | https://github.com/nltk/nltk |
-| OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/nltk/nltk) |
+| Github Stars | 4147 |
+| Project Home Page | https://pyspur.dev |
+| Code Repository | https://github.com/PySpur-Dev/pyspur |
+| OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/PySpur-Dev/pyspur) |
 
 Note:
  - Created date is date that repro is created on Github.com. 

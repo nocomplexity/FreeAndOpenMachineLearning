@@ -18,8 +18,8 @@ Home page for this solution: https://github.com/ageitgey/face_recognition
 | License | MIT License |
 | Programming Language | Python |
 | Created | 2017-03-03 |
-| Last update | 2025-03-29 |
-| Github Stars | 54444 |
+| Last update | 2025-03-31 |
+| Github Stars | 54457 |
 | Project Home Page |  |
 | Code Repository | https://github.com/ageitgey/face_recognition |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/ageitgey/face_recognition) |

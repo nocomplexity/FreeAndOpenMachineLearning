@@ -18,8 +18,8 @@ Home page for this solution: https://github.com/ShiqiYu/libfacedetection
 | License | Other |
 | Programming Language | C++ |
 | Created | 2015-01-20 |
-| Last update | 2025-03-28 |
-| Github Stars | 12450 |
+| Last update | 2025-03-31 |
+| Github Stars | 12452 |
 | Project Home Page |  |
 | Code Repository | https://github.com/ShiqiYu/libfacedetection |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/ShiqiYu/libfacedetection) |

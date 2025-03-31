@@ -18,8 +18,8 @@ Home page for this solution: https://dvc.org/
 | License | Apache License 2.0 |
 | Programming Language | Python |
 | Created | 2017-03-04 |
-| Last update | 2025-03-29 |
-| Github Stars | 14322 |
+| Last update | 2025-03-30 |
+| Github Stars | 14324 |
 | Project Home Page | https://dvc.org |
 | Code Repository | https://github.com/iterative/dvc |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/iterative/dvc) |

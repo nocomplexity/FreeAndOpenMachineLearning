@@ -297,7 +297,7 @@ However if you notice typos, spelling and grammar errors please notify
 us so we can improve this publication. You can create a pull request on
 github or simply send an email to us.
 
-Since the world of machine learning is rapidly evolving this book will be
+Since the world of machine learning is rapidly evolving, this book will be
 continuously updated. That's why there is an open on-line version of
 this book available that always incorporates the latest updates.
 

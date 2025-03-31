@@ -24,8 +24,8 @@ Home page for this solution: https://www.makesense.ai/
 | License | GNU General Public License v3.0 |
 | Programming Language | TypeScript |
 | Created | 2019-06-14 |
-| Last update | 2025-03-27 |
-| Github Stars | 3299 |
+| Last update | 2025-03-31 |
+| Github Stars | 3304 |
 | Project Home Page |  |
 | Code Repository | https://github.com/SkalskiP/make-sense |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/SkalskiP/make-sense) |

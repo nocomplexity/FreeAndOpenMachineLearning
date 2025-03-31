@@ -24,8 +24,8 @@ Home page for this solution: https://orangedatamining.com/
 | License | Other |
 | Programming Language | Python |
 | Created | 2013-02-22 |
-| Last update | 2025-03-29 |
-| Github Stars | 5056 |
+| Last update | 2025-03-31 |
+| Github Stars | 5059 |
 | Project Home Page | https://orangedatamining.com |
 | Code Repository | https://github.com/biolab/orange3 |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/biolab/orange3) |

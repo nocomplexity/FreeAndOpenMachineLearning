@@ -24,8 +24,8 @@ Home page for this solution: https://mlflow.org/
 | License | Apache License 2.0 |
 | Programming Language | Python |
 | Created | 2018-06-05 |
-| Last update | 2025-03-29 |
-| Github Stars | 19958 |
+| Last update | 2025-03-31 |
+| Github Stars | 19976 |
 | Project Home Page | https://mlflow.org |
 | Code Repository | https://github.com/mlflow/mlflow |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/mlflow/mlflow) |

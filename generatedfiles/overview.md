@@ -9,7 +9,7 @@
 :::{grid-item-card}
 :link: aiagentframeworks
 :link-type: doc
-{octicon}`tools;1em;caption-text` **AI Agent Frameworks**        
+{octicon}`check-circle;1em;caption-text` **AI Agent Frameworks**        
 ^^^
 Discover great FOSS AI Agent Frameworks solutions
 +++
@@ -19,7 +19,7 @@ Discover great FOSS AI Agent Frameworks solutions
 :::{grid-item-card}
 :link: hosting
 :link-type: doc
-{octicon}`tag;1em;caption-text` **Hosting**        
+{octicon}`book;1em;caption-text` **Hosting**        
 ^^^
 Discover great FOSS Hosting solutions
 +++
@@ -29,7 +29,7 @@ Discover great FOSS Hosting solutions
 :::{grid-item-card}
 :link: llm
 :link-type: doc
-{octicon}`tools;1em;caption-text` **LLM**        
+{octicon}`checklist;1em;caption-text` **LLM**        
 ^^^
 Discover great FOSS LLM solutions
 +++
@@ -39,7 +39,7 @@ Discover great FOSS LLM solutions
 :::{grid-item-card}
 :link: llmui
 :link-type: doc
-{octicon}`tag;1em;caption-text` **LLM UI**        
+{octicon}`smiley;1em;caption-text` **LLM UI**        
 ^^^
 Discover great FOSS LLM UI solutions
 +++
@@ -49,7 +49,7 @@ Discover great FOSS LLM UI solutions
 :::{grid-item-card}
 :link: mlframeworks
 :link-type: doc
-{octicon}`check-circle;1em;caption-text` **ML Frameworks**        
+{octicon}`zap;1em;caption-text` **ML Frameworks**        
 ^^^
 Discover great FOSS ML Frameworks solutions
 +++
@@ -59,7 +59,7 @@ Discover great FOSS ML Frameworks solutions
 :::{grid-item-card}
 :link: mlresearchframeworks
 :link-type: doc
-{octicon}`eye;1em;caption-text` **ML Research Frameworks**        
+{octicon}`checklist;1em;caption-text` **ML Research Frameworks**        
 ^^^
 Discover great FOSS ML Research Frameworks solutions
 +++
@@ -69,7 +69,7 @@ Discover great FOSS ML Research Frameworks solutions
 :::{grid-item-card}
 :link: mlsecurityscanner
 :link-type: doc
-{octicon}`tag;1em;caption-text` **ML Security Scanner**        
+{octicon}`megaphone;1em;caption-text` **ML Security Scanner**        
 ^^^
 Discover great FOSS ML Security Scanner solutions
 +++
@@ -89,7 +89,7 @@ Discover great FOSS ML Tools solutions
 :::{grid-item-card}
 :link: nlp
 :link-type: doc
-{octicon}`package;1em;caption-text` **NLP**        
+{octicon}`bookmark;1em;caption-text` **NLP**        
 ^^^
 Discover great FOSS NLP solutions
 +++
@@ -99,7 +99,7 @@ Discover great FOSS NLP solutions
 :::{grid-item-card}
 :link: vision
 :link-type: doc
-{octicon}`bookmark;1em;caption-text` **Vision**        
+{octicon}`zap;1em;caption-text` **Vision**        
 ^^^
 Discover great FOSS Vision solutions
 +++

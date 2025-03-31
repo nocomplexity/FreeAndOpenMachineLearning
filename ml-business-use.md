@@ -63,6 +63,9 @@ commonality is that they involve statistical inference. This means that
 problems where machine learning makes real sense have e.g. the following
 characteristics:
 
+* You cannot code the rules: Many human tasks (such as recognizing whether an email is spam or not spam) cannot be adequately solved using a simple (deterministic), rule-based solution. A large number of factors could influence the answer. When rules depend on too many factors and many of these rules overlap or need to be tuned very finely, it soon becomes difficult for a human to accurately code the rules. You can use ML to effectively solve this problem.
+* You cannot scale: You might be able to manually recognize a few hundred emails and decide whether they are spam or not. However, this task becomes tedious for millions of emails. ML solutions are effective at handling large-scale problems.
+
 -   Classification challenges. E.g., is this a picture of a cat or a
     gorilla? Looks this human happy? Is this person writing emotional
     replies on twitter?
@@ -418,7 +421,7 @@ companies that really make use of new ML solutions possible.
     (RL) in card games is possible.
 -   AI Driven Logos. An AI solution which selects the best possible
     logos for your brand based on a large number of designs it has seen
-    over time. Check <https://www.designwithai.com/>
+    over time. 
 -   Cardiac Ultrasound Software. The software, called Caption Guidance,
     is an accessory to compatible diagnostic ultrasound systems and uses
     artificial intelligence to help the user capture images of a

@@ -45,7 +45,7 @@ Adopted at 400 universities from 60 countries
 :link: https://christophm.github.io/interpretable-ml-book/
 {octicon}`book;1em;caption-text` **Interpretable Machine Learning**
 ^^^
-```{image} https://christophm.github.io/interpretable-ml-book/images/cutout.png
+```{image} https://christophm.github.io/interpretable-ml-book/images/cover.jpg
 :height: 100px
 ```
 A Guide for Making Black Box Models Explainable

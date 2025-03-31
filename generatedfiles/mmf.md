@@ -18,8 +18,8 @@ Home page for this solution: https://mmf.sh/
 | License | Other |
 | Programming Language | Python |
 | Created | 2018-06-27 |
-| Last update | 2025-03-26 |
-| Github Stars | 5552 |
+| Last update | 2025-03-30 |
+| Github Stars | 5553 |
 | Project Home Page | https://mmf.sh/ |
 | Code Repository | https://github.com/facebookresearch/mmf |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/facebookresearch/mmf) |

@@ -7,9 +7,19 @@
 :gutter: 3 
 
 :::{grid-item-card}
+:link: langchain
+:link-type: doc
+{octicon}`check-circle;1em;caption-text` **LangChain**        
+^^^
+Use and reuse the LangChain solution
++++
+[More »](langchain)
+:::
+
+:::{grid-item-card}
 :link: ludwig
 :link-type: doc
-{octicon}`eye;1em;caption-text` **Ludwig**        
+{octicon}`heart;1em;caption-text` **Ludwig**        
 ^^^
 Use and reuse the Ludwig solution
 +++
@@ -19,7 +29,7 @@ Use and reuse the Ludwig solution
 :::{grid-item-card}
 :link: ollama
 :link-type: doc
-{octicon}`file;1em;caption-text` **Ollama**        
+{octicon}`thumbsup;1em;caption-text` **Ollama**        
 ^^^
 Use and reuse the Ollama solution
 +++

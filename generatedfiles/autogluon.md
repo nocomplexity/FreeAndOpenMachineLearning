@@ -18,8 +18,8 @@ Home page for this solution: https://auto.gluon.ai/
 | License | Apache License 2.0 |
 | Programming Language | Python |
 | Created | 2019-07-29 |
-| Last update | 2025-03-29 |
-| Github Stars | 8606 |
+| Last update | 2025-03-31 |
+| Github Stars | 8611 |
 | Project Home Page | https://auto.gluon.ai/ |
 | Code Repository | https://github.com/autogluon/autogluon |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/autogluon/autogluon) |

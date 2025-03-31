@@ -24,7 +24,7 @@ Home page for this solution: https://opennlp.apache.org/
 | License | Apache License 2.0 |
 | Programming Language | Java |
 | Created | 2011-11-09 |
-| Last update | 2025-03-25 |
+| Last update | 2025-03-31 |
 | Github Stars | 1497 |
 | Project Home Page | https://opennlp.apache.org/ |
 | Code Repository | https://github.com/apache/opennlp |

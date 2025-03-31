@@ -18,8 +18,8 @@ Home page for this solution: http://pyro.ai/
 | License | Apache License 2.0 |
 | Programming Language | Python |
 | Created | 2017-06-16 |
-| Last update | 2025-03-29 |
-| Github Stars | 8707 |
+| Last update | 2025-03-30 |
+| Github Stars | 8708 |
 | Project Home Page | http://pyro.ai |
 | Code Repository | https://github.com/pyro-ppl/pyro |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/pyro-ppl/pyro) |

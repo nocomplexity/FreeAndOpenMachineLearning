@@ -9,7 +9,7 @@
 :::{grid-item-card}
 :link: garak
 :link-type: doc
-{octicon}`hubot;1em;caption-text` **garak**        
+{octicon}`project;1em;caption-text` **garak**        
 ^^^
 Use and reuse the garak solution
 +++

@@ -24,8 +24,8 @@ Home page for this solution: https://rastervision.io/
 | License | Other |
 | Programming Language | Python |
 | Created | 2017-02-02 |
-| Last update | 2025-03-28 |
-| Github Stars | 2125 |
+| Last update | 2025-03-30 |
+| Github Stars | 2126 |
 | Project Home Page | https://docs.rastervision.io |
 | Code Repository | https://github.com/azavea/raster-vision |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/azavea/raster-vision) |

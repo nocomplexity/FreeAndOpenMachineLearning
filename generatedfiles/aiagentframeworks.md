@@ -7,9 +7,19 @@
 :gutter: 3 
 
 :::{grid-item-card}
+:link: aider
+:link-type: doc
+{octicon}`file;1em;caption-text` **Aider**        
+^^^
+Use and reuse the Aider solution
++++
+[More »](aider)
+:::
+
+:::{grid-item-card}
 :link: openhands
 :link-type: doc
-{octicon}`tools;1em;caption-text` **OpenHands**        
+{octicon}`cross-reference;1em;caption-text` **OpenHands**        
 ^^^
 Use and reuse the OpenHands solution
 +++
@@ -17,9 +27,19 @@ Use and reuse the OpenHands solution
 :::
 
 :::{grid-item-card}
+:link: pyspur
+:link-type: doc
+{octicon}`pencil;1em;caption-text` **PySpur**        
+^^^
+Use and reuse the PySpur solution
++++
+[More »](pyspur)
+:::
+
+:::{grid-item-card}
 :link: gptme
 :link-type: doc
-{octicon}`light-bulb;1em;caption-text` **gptme**        
+{octicon}`thumbsup;1em;caption-text` **gptme**        
 ^^^
 Use and reuse the gptme solution
 +++

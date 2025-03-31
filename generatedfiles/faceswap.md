@@ -24,8 +24,8 @@ Home page for this solution: https://faceswap.dev/
 | License | GNU General Public License v3.0 |
 | Programming Language | Python |
 | Created | 2017-12-19 |
-| Last update | 2025-03-29 |
-| Github Stars | 53574 |
+| Last update | 2025-03-31 |
+| Github Stars | 53581 |
 | Project Home Page | https://www.faceswap.dev |
 | Code Repository | https://github.com/deepfakes/faceswap |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/deepfakes/faceswap) |

@@ -24,8 +24,8 @@ Home page for this solution: https://www.snorkel.org/
 | License | Apache License 2.0 |
 | Programming Language | Python |
 | Created | 2016-02-26 |
-| Last update | 2025-03-23 |
-| Github Stars | 5842 |
+| Last update | 2025-03-31 |
+| Github Stars | 5843 |
 | Project Home Page | https://snorkel.org |
 | Code Repository | https://github.com/snorkel-team/snorkel |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/snorkel-team/snorkel) |

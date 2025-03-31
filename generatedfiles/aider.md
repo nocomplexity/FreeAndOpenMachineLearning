@@ -1,28 +1,34 @@
 
 % This file is GENERATED. Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
 
-# NLTK
+# Aider
+
+
+```{image} https://camo.githubusercontent.com/b11a60fa6c46f8f4bdf66702532909f8b47f18b7ce9932f2b2cb50f8627f44e1/68747470733a2f2f61696465722e636861742f6173736574732f6c6f676f2e737667 
+:width: 200px 
+:align: center 
+```
 
 ## Description 
 
-NLTK is a leading platform for building Python programs to work with human language data. Still heavily used library under maintenaince an with an active discussion forum.
+Aider lets you pair program with LLMs to start a new project or build on your existing codebase. 
 
-Home page for this solution: https://www.nltk.org/ 
+Home page for this solution: https://aider.chat/ 
 
 ## Overview 
 
 | Key | Value |
 | --- | --- |
-| Name | nltk |
-| Description | NLTK Source |
+| Name | aider |
+| Description | aider is AI pair programming in your terminal |
 | License | Apache License 2.0 |
 | Programming Language | Python |
-| Created | 2009-09-07 |
+| Created | 2023-05-09 |
 | Last update | 2025-03-31 |
-| Github Stars | 13951 |
-| Project Home Page | https://www.nltk.org |
-| Code Repository | https://github.com/nltk/nltk |
-| OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/nltk/nltk) |
+| Github Stars | 30317 |
+| Project Home Page | https://aider.chat/ |
+| Code Repository | https://github.com/Aider-AI/aider |
+| OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/Aider-AI/aider) |
 
 Note:
  - Created date is date that repro is created on Github.com. 

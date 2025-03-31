@@ -9,7 +9,7 @@
 :::{grid-item-card}
 :link: aiexplainability360
 :link-type: doc
-{octicon}`megaphone;1em;caption-text` **AI Explainability 360**        
+{octicon}`checklist;1em;caption-text` **AI Explainability 360**        
 ^^^
 Use and reuse the AI Explainability 360 solution
 +++
@@ -19,7 +19,7 @@ Use and reuse the AI Explainability 360 solution
 :::{grid-item-card}
 :link: acme
 :link-type: doc
-{octicon}`stack;1em;caption-text` **Acme**        
+{octicon}`pencil;1em;caption-text` **Acme**        
 ^^^
 Use and reuse the Acme solution
 +++
@@ -29,7 +29,7 @@ Use and reuse the Acme solution
 :::{grid-item-card}
 :link: apachesinga
 :link-type: doc
-{octicon}`file;1em;caption-text` **Apache SINGA**        
+{octicon}`heart;1em;caption-text` **Apache SINGA**        
 ^^^
 Use and reuse the Apache SINGA solution
 +++
@@ -39,7 +39,7 @@ Use and reuse the Apache SINGA solution
 :::{grid-item-card}
 :link: apollo
 :link-type: doc
-{octicon}`tag;1em;caption-text` **Apollo**        
+{octicon}`file;1em;caption-text` **Apollo**        
 ^^^
 Use and reuse the Apollo solution
 +++
@@ -49,7 +49,7 @@ Use and reuse the Apollo solution
 :::{grid-item-card}
 :link: autogluon
 :link-type: doc
-{octicon}`thumbsup;1em;caption-text` **AutoGluon**        
+{octicon}`heart;1em;caption-text` **AutoGluon**        
 ^^^
 Use and reuse the AutoGluon solution
 +++
@@ -59,7 +59,7 @@ Use and reuse the AutoGluon solution
 :::{grid-item-card}
 :link: dspy
 :link-type: doc
-{octicon}`checklist;1em;caption-text` **DSPy**        
+{octicon}`tag;1em;caption-text` **DSPy**        
 ^^^
 Use and reuse the DSPy solution
 +++
@@ -69,7 +69,7 @@ Use and reuse the DSPy solution
 :::{grid-item-card}
 :link: deeplearning4j
 :link-type: doc
-{octicon}`light-bulb;1em;caption-text` **Deeplearning4J**        
+{octicon}`thumbsup;1em;caption-text` **Deeplearning4J**        
 ^^^
 Use and reuse the Deeplearning4J solution
 +++
@@ -79,7 +79,7 @@ Use and reuse the Deeplearning4J solution
 :::{grid-item-card}
 :link: dlib
 :link-type: doc
-{octicon}`thumbsup;1em;caption-text` **Dlib**        
+{octicon}`bookmark;1em;caption-text` **Dlib**        
 ^^^
 Use and reuse the Dlib solution
 +++
@@ -89,7 +89,7 @@ Use and reuse the Dlib solution
 :::{grid-item-card}
 :link: flower
 :link-type: doc
-{octicon}`megaphone;1em;caption-text` **Flower**        
+{octicon}`eye;1em;caption-text` **Flower**        
 ^^^
 Use and reuse the Flower solution
 +++
@@ -99,7 +99,7 @@ Use and reuse the Flower solution
 :::{grid-item-card}
 :link: keras
 :link-type: doc
-{octicon}`telescope;1em;caption-text` **Keras**        
+{octicon}`cross-reference;1em;caption-text` **Keras**        
 ^^^
 Use and reuse the Keras solution
 +++
@@ -109,7 +109,7 @@ Use and reuse the Keras solution
 :::{grid-item-card}
 :link: optuna
 :link-type: doc
-{octicon}`stack;1em;caption-text` **Optuna**        
+{octicon}`note;1em;caption-text` **Optuna**        
 ^^^
 Use and reuse the Optuna solution
 +++
@@ -119,7 +119,7 @@ Use and reuse the Optuna solution
 :::{grid-item-card}
 :link: pytorch
 :link-type: doc
-{octicon}`package;1em;caption-text` **PyTorch**        
+{octicon}`zap;1em;caption-text` **PyTorch**        
 ^^^
 Use and reuse the PyTorch solution
 +++
@@ -129,7 +129,7 @@ Use and reuse the PyTorch solution
 :::{grid-item-card}
 :link: scikit-learn
 :link-type: doc
-{octicon}`book;1em;caption-text` **Scikit-learn**        
+{octicon}`check-circle;1em;caption-text` **Scikit-learn**        
 ^^^
 Use and reuse the Scikit-learn solution
 +++
@@ -149,7 +149,7 @@ Use and reuse the TensorFlow solution
 :::{grid-item-card}
 :link: thinc
 :link-type: doc
-{octicon}`pencil;1em;caption-text` **Thinc**        
+{octicon}`verified;1em;caption-text` **Thinc**        
 ^^^
 Use and reuse the Thinc solution
 +++
@@ -157,19 +157,19 @@ Use and reuse the Thinc solution
 :::
 
 :::{grid-item-card}
-:link: thinc
+:link: tinygrad
 :link-type: doc
-{octicon}`tools;1em;caption-text` **Thinc**        
+{octicon}`pencil;1em;caption-text` **Tinygrad**        
 ^^^
-Use and reuse the Thinc solution
+Use and reuse the Tinygrad solution
 +++
-[More »](thinc)
+[More »](tinygrad)
 :::
 
 :::{grid-item-card}
 :link: transformers
 :link-type: doc
-{octicon}`eye;1em;caption-text` **Transformers**        
+{octicon}`check-circle;1em;caption-text` **Transformers**        
 ^^^
 Use and reuse the Transformers solution
 +++

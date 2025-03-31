@@ -24,8 +24,8 @@ Home page for this solution: https://www.apollo.auto/apollo-self-driving
 | License | Apache License 2.0 |
 | Programming Language | C++ |
 | Created | 2017-07-04 |
-| Last update | 2025-03-29 |
-| Github Stars | 25628 |
+| Last update | 2025-03-31 |
+| Github Stars | 25627 |
 | Project Home Page |  |
 | Code Repository | https://github.com/ApolloAuto/apollo |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/ApolloAuto/apollo) |

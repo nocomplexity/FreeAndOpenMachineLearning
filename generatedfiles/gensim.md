@@ -24,8 +24,8 @@ Home page for this solution: https://radimrehurek.com/gensim/
 | License | GNU Lesser General Public License v2.1 |
 | Programming Language | Python |
 | Created | 2011-02-10 |
-| Last update | 2025-03-28 |
-| Github Stars | 15931 |
+| Last update | 2025-03-31 |
+| Github Stars | 15933 |
 | Project Home Page | https://radimrehurek.com/gensim |
 | Code Repository | https://github.com/piskvorky/gensim |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/piskvorky/gensim) |

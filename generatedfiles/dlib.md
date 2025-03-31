@@ -24,8 +24,8 @@ Home page for this solution: https://dlib.net/
 | License | Boost Software License 1.0 |
 | Programming Language | C++ |
 | Created | 2014-01-29 |
-| Last update | 2025-03-28 |
-| Github Stars | 13903 |
+| Last update | 2025-03-31 |
+| Github Stars | 13906 |
 | Project Home Page | http://dlib.net |
 | Code Repository | https://github.com/davisking/dlib |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/davisking/dlib) |

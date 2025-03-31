@@ -1,3 +1,11 @@
 .caption-text {
     color: #FF0000;    
 }
+
+
+
+@page {
+    size: 6in 9in;
+    margin: 2.2cm; 
+  } 
+  

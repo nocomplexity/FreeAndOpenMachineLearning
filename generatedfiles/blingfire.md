@@ -18,8 +18,8 @@ Home page for this solution: https://github.com/Microsoft/BlingFire
 | License | MIT License |
 | Programming Language | C++ |
 | Created | 2019-03-13 |
-| Last update | 2025-03-27 |
-| Github Stars | 1837 |
+| Last update | 2025-03-29 |
+| Github Stars | 1838 |
 | Project Home Page |  |
 | Code Repository | https://github.com/microsoft/BlingFire |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/microsoft/BlingFire) |
