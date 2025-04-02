@@ -16,13 +16,11 @@ powerful machine learning technology in a Free, Open and Simple way.
 
 
 :::{attention} 
-This is a living document. An older stable version of this publication (version
-2020) is available as hard copy. You can still order it at Amazon, click
-[here](https://www.amazon.com/Free-Machine-Learning-Maikel-Mardjan/dp/B0863S9LQ5/ref=sr_1_2?qid=1585488090&refinements=p_27%3AMaikel+Mardjan&s=books&sr=1-2&text=Maikel+Mardjan)
-to order. 
+This is a living document. 
 
-But since the world of Machine Learning is heavily changed since 2020, I *advice* to read and use the online version of this PlayBook. 
-When I have time, a new hard copy of this PlayBook will be made available.
+A stable version of this publication (version 2025) is available as hard copy. 
+You can order it at Amazon, click [here](https://a.co/d/akvKy6z) to order. 
+
 :::
 
 Machine learning is an exciting and powerful technology. The continuous
