@@ -18,8 +18,8 @@ Home page for this solution: https://karateclub.readthedocs.io/en/latest/
 | License | GNU General Public License v3.0 |
 | Programming Language | Python |
 | Created | 2019-12-05 |
-| Last update | 2025-03-30 |
-| Github Stars | 2214 |
+| Last update | 2024-07-17 |
+| Github Stars | 2213 |
 | Project Home Page | https://karateclub.readthedocs.io |
 | Code Repository | https://github.com/benedekrozemberczki/karateclub |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/benedekrozemberczki/karateclub) |
@@ -27,7 +27,7 @@ Home page for this solution: https://karateclub.readthedocs.io/en/latest/
 Note:
  - Created date is date that repro is created on Github.com. 
 
-- Last update is only the last date I run an automatic check. 
+- Last update: Last update of repository on Github found on {sub-ref}`today`. 
 
 - Do not attach a wrong value to github stars. Its a vanity metric! Stars count are misleading and 
 don't indicate if the SBB is high-quality or very popular.

@@ -18,8 +18,8 @@ Home page for this solution: https://vowpalwabbit.org/
 | License | Other |
 | Programming Language | C++ |
 | Created | 2009-07-31 |
-| Last update | 2025-03-28 |
-| Github Stars | 8542 |
+| Last update | 2024-10-17 |
+| Github Stars | 8546 |
 | Project Home Page | https://vowpalwabbit.org |
 | Code Repository | https://github.com/VowpalWabbit/vowpal_wabbit |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/VowpalWabbit/vowpal_wabbit) |
@@ -27,7 +27,7 @@ Home page for this solution: https://vowpalwabbit.org/
 Note:
  - Created date is date that repro is created on Github.com. 
 
-- Last update is only the last date I run an automatic check. 
+- Last update: Last update of repository on Github found on {sub-ref}`today`. 
 
 - Do not attach a wrong value to github stars. Its a vanity metric! Stars count are misleading and 
 don't indicate if the SBB is high-quality or very popular.

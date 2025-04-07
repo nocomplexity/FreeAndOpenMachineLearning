@@ -24,8 +24,8 @@ Home page for this solution: https://github.com/freewym/espresso
 | License | Other |
 | Programming Language | Python |
 | Created | 2018-12-02 |
-| Last update | 2024-12-23 |
-| Github Stars | 943 |
+| Last update | 2024-09-04 |
+| Github Stars | 942 |
 | Project Home Page |  |
 | Code Repository | https://github.com/freewym/espresso |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/freewym/espresso) |
@@ -33,7 +33,7 @@ Home page for this solution: https://github.com/freewym/espresso
 Note:
  - Created date is date that repro is created on Github.com. 
 
-- Last update is only the last date I run an automatic check. 
+- Last update: Last update of repository on Github found on {sub-ref}`today`. 
 
 - Do not attach a wrong value to github stars. Its a vanity metric! Stars count are misleading and 
 don't indicate if the SBB is high-quality or very popular.

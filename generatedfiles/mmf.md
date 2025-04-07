@@ -18,8 +18,8 @@ Home page for this solution: https://mmf.sh/
 | License | Other |
 | Programming Language | Python |
 | Created | 2018-06-27 |
-| Last update | 2025-03-30 |
-| Github Stars | 5553 |
+| Last update | 2025-03-31 |
+| Github Stars | 5554 |
 | Project Home Page | https://mmf.sh/ |
 | Code Repository | https://github.com/facebookresearch/mmf |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/facebookresearch/mmf) |
@@ -27,7 +27,7 @@ Home page for this solution: https://mmf.sh/
 Note:
  - Created date is date that repro is created on Github.com. 
 
-- Last update is only the last date I run an automatic check. 
+- Last update: Last update of repository on Github found on {sub-ref}`today`. 
 
 - Do not attach a wrong value to github stars. Its a vanity metric! Stars count are misleading and 
 don't indicate if the SBB is high-quality or very popular.

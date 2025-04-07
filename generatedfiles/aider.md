@@ -24,8 +24,8 @@ Home page for this solution: https://aider.chat/
 | License | Apache License 2.0 |
 | Programming Language | Python |
 | Created | 2023-05-09 |
-| Last update | 2025-03-31 |
-| Github Stars | 30317 |
+| Last update | 2025-04-06 |
+| Github Stars | 30718 |
 | Project Home Page | https://aider.chat/ |
 | Code Repository | https://github.com/Aider-AI/aider |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/Aider-AI/aider) |
@@ -33,7 +33,7 @@ Home page for this solution: https://aider.chat/
 Note:
  - Created date is date that repro is created on Github.com. 
 
-- Last update is only the last date I run an automatic check. 
+- Last update: Last update of repository on Github found on {sub-ref}`today`. 
 
 - Do not attach a wrong value to github stars. Its a vanity metric! Stars count are misleading and 
 don't indicate if the SBB is high-quality or very popular.

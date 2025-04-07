@@ -18,8 +18,8 @@ Home page for this solution: https://gptme.org/
 | License | MIT License |
 | Programming Language | Python |
 | Created | 2023-03-24 |
-| Last update | 2025-03-31 |
-| Github Stars | 3689 |
+| Last update | 2025-04-07 |
+| Github Stars | 3703 |
 | Project Home Page | https://gptme.org/docs/ |
 | Code Repository | https://github.com/gptme/gptme |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/gptme/gptme) |
@@ -27,7 +27,7 @@ Home page for this solution: https://gptme.org/
 Note:
  - Created date is date that repro is created on Github.com. 
 
-- Last update is only the last date I run an automatic check. 
+- Last update: Last update of repository on Github found on {sub-ref}`today`. 
 
 - Do not attach a wrong value to github stars. Its a vanity metric! Stars count are misleading and 
 don't indicate if the SBB is high-quality or very popular.

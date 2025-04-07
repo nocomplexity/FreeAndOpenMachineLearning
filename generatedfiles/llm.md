@@ -9,7 +9,7 @@
 :::{grid-item-card}
 :link: langchain
 :link-type: doc
-{octicon}`check-circle;1em;caption-text` **LangChain**        
+{octicon}`cross-reference;1em;caption-text` **LangChain**        
 ^^^
 Use and reuse the LangChain solution
 +++
@@ -19,7 +19,7 @@ Use and reuse the LangChain solution
 :::{grid-item-card}
 :link: ludwig
 :link-type: doc
-{octicon}`heart;1em;caption-text` **Ludwig**        
+{octicon}`bookmark;1em;caption-text` **Ludwig**        
 ^^^
 Use and reuse the Ludwig solution
 +++
@@ -29,7 +29,7 @@ Use and reuse the Ludwig solution
 :::{grid-item-card}
 :link: ollama
 :link-type: doc
-{octicon}`thumbsup;1em;caption-text` **Ollama**        
+{octicon}`checklist;1em;caption-text` **Ollama**        
 ^^^
 Use and reuse the Ollama solution
 +++

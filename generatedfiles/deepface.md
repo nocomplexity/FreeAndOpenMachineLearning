@@ -24,8 +24,8 @@ Home page for this solution: https://github.com/serengil/deepface
 | License | MIT License |
 | Programming Language | Python |
 | Created | 2020-02-08 |
-| Last update | 2025-03-31 |
-| Github Stars | 18438 |
+| Last update | 2025-04-01 |
+| Github Stars | 18532 |
 | Project Home Page | https://bit.ly/deepface-py |
 | Code Repository | https://github.com/serengil/deepface |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/serengil/deepface) |
@@ -33,7 +33,7 @@ Home page for this solution: https://github.com/serengil/deepface
 Note:
  - Created date is date that repro is created on Github.com. 
 
-- Last update is only the last date I run an automatic check. 
+- Last update: Last update of repository on Github found on {sub-ref}`today`. 
 
 - Do not attach a wrong value to github stars. Its a vanity metric! Stars count are misleading and 
 don't indicate if the SBB is high-quality or very popular.

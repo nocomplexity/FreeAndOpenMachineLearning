@@ -18,7 +18,7 @@ Home page for this solution: https://github.com/hukkelas/deep_privacy2
 | License | Apache License 2.0 |
 | Programming Language | Python |
 | Created | 2022-08-26 |
-| Last update | 2025-03-27 |
+| Last update | 2024-01-28 |
 | Github Stars | 332 |
 | Project Home Page |  |
 | Code Repository | https://github.com/hukkelas/deep_privacy2 |
@@ -27,7 +27,7 @@ Home page for this solution: https://github.com/hukkelas/deep_privacy2
 Note:
  - Created date is date that repro is created on Github.com. 
 
-- Last update is only the last date I run an automatic check. 
+- Last update: Last update of repository on Github found on {sub-ref}`today`. 
 
 - Do not attach a wrong value to github stars. Its a vanity metric! Stars count are misleading and 
 don't indicate if the SBB is high-quality or very popular.

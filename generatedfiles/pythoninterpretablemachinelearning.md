@@ -25,7 +25,7 @@ Home page for this solution: https://selfexplainml.github.io/PiML-Toolbox/_build
 | Programming Language | Jupyter Notebook |
 | Created | 2022-04-29 |
 | Last update | 2025-03-30 |
-| Github Stars | 1247 |
+| Github Stars | 1246 |
 | Project Home Page | https://selfexplainml.github.io/PiML-Toolbox |
 | Code Repository | https://github.com/SelfExplainML/PiML-Toolbox |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/SelfExplainML/PiML-Toolbox) |
@@ -33,7 +33,7 @@ Home page for this solution: https://selfexplainml.github.io/PiML-Toolbox/_build
 Note:
  - Created date is date that repro is created on Github.com. 
 
-- Last update is only the last date I run an automatic check. 
+- Last update: Last update of repository on Github found on {sub-ref}`today`. 
 
 - Do not attach a wrong value to github stars. Its a vanity metric! Stars count are misleading and 
 don't indicate if the SBB is high-quality or very popular.

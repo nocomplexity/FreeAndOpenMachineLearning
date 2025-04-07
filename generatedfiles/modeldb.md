@@ -18,8 +18,8 @@ Home page for this solution: https://github.com/VertaAI/modeldb
 | License | Apache License 2.0 |
 | Programming Language | Java |
 | Created | 2016-10-19 |
-| Last update | 2025-03-29 |
-| Github Stars | 1721 |
+| Last update | 2024-07-23 |
+| Github Stars | 1722 |
 | Project Home Page |  |
 | Code Repository | https://github.com/VertaAI/modeldb |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/VertaAI/modeldb) |
@@ -27,7 +27,7 @@ Home page for this solution: https://github.com/VertaAI/modeldb
 Note:
  - Created date is date that repro is created on Github.com. 
 
-- Last update is only the last date I run an automatic check. 
+- Last update: Last update of repository on Github found on {sub-ref}`today`. 
 
 - Do not attach a wrong value to github stars. Its a vanity metric! Stars count are misleading and 
 don't indicate if the SBB is high-quality or very popular.

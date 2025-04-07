@@ -24,8 +24,8 @@ Home page for this solution: https://rastervision.io/
 | License | Other |
 | Programming Language | Python |
 | Created | 2017-02-02 |
-| Last update | 2025-03-30 |
-| Github Stars | 2126 |
+| Last update | 2025-04-04 |
+| Github Stars | 2127 |
 | Project Home Page | https://docs.rastervision.io |
 | Code Repository | https://github.com/azavea/raster-vision |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/azavea/raster-vision) |
@@ -33,7 +33,7 @@ Home page for this solution: https://rastervision.io/
 Note:
  - Created date is date that repro is created on Github.com. 
 
-- Last update is only the last date I run an automatic check. 
+- Last update: Last update of repository on Github found on {sub-ref}`today`. 
 
 - Do not attach a wrong value to github stars. Its a vanity metric! Stars count are misleading and 
 don't indicate if the SBB is high-quality or very popular.

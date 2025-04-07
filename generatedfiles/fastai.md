@@ -18,8 +18,8 @@ Home page for this solution: https://docs.fast.ai/
 | License | Apache License 2.0 |
 | Programming Language | Jupyter Notebook |
 | Created | 2017-09-09 |
-| Last update | 2025-03-31 |
-| Github Stars | 26810 |
+| Last update | 2025-04-02 |
+| Github Stars | 26835 |
 | Project Home Page | http://docs.fast.ai |
 | Code Repository | https://github.com/fastai/fastai |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/fastai/fastai) |
@@ -27,7 +27,7 @@ Home page for this solution: https://docs.fast.ai/
 Note:
  - Created date is date that repro is created on Github.com. 
 
-- Last update is only the last date I run an automatic check. 
+- Last update: Last update of repository on Github found on {sub-ref}`today`. 
 
 - Do not attach a wrong value to github stars. Its a vanity metric! Stars count are misleading and 
 don't indicate if the SBB is high-quality or very popular.

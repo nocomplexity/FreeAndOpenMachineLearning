@@ -18,8 +18,8 @@ Home page for this solution: https://featuretools.alteryx.com/en/stable/
 | License | BSD 3-Clause "New" or "Revised" License |
 | Programming Language | Python |
 | Created | 2017-09-08 |
-| Last update | 2025-03-29 |
-| Github Stars | 7403 |
+| Last update | 2025-03-17 |
+| Github Stars | 7407 |
 | Project Home Page | https://www.featuretools.com |
 | Code Repository | https://github.com/alteryx/featuretools |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/alteryx/featuretools) |
@@ -27,7 +27,7 @@ Home page for this solution: https://featuretools.alteryx.com/en/stable/
 Note:
  - Created date is date that repro is created on Github.com. 
 
-- Last update is only the last date I run an automatic check. 
+- Last update: Last update of repository on Github found on {sub-ref}`today`. 
 
 - Do not attach a wrong value to github stars. Its a vanity metric! Stars count are misleading and 
 don't indicate if the SBB is high-quality or very popular.

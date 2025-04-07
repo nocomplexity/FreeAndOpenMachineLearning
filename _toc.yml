@@ -33,9 +33,9 @@ parts:
       - file: generatedfiles/llmui
       - file: generatedfiles/mlframeworks
       - file: generatedfiles/mlresearchframeworks
-      - file: generatedfiles/mlsecurityscanner
       - file: generatedfiles/mltools
       - file: generatedfiles/nlp
+      - file: generatedfiles/security
       - file: generatedfiles/vision
 
 - caption: Courses

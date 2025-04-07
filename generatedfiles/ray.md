@@ -24,8 +24,8 @@ Home page for this solution: https://www.ray.io/
 | License | Apache License 2.0 |
 | Programming Language | Python |
 | Created | 2016-10-25 |
-| Last update | 2025-03-31 |
-| Github Stars | 36301 |
+| Last update | 2025-04-07 |
+| Github Stars | 36419 |
 | Project Home Page | https://ray.io |
 | Code Repository | https://github.com/ray-project/ray |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/ray-project/ray) |
@@ -33,7 +33,7 @@ Home page for this solution: https://www.ray.io/
 Note:
  - Created date is date that repro is created on Github.com. 
 
-- Last update is only the last date I run an automatic check. 
+- Last update: Last update of repository on Github found on {sub-ref}`today`. 
 
 - Do not attach a wrong value to github stars. Its a vanity metric! Stars count are misleading and 
 don't indicate if the SBB is high-quality or very popular.

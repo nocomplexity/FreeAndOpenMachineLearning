@@ -18,8 +18,8 @@ Home page for this solution: https://github.com/dleemiller/WordLlama
 | License | MIT License |
 | Programming Language | Python |
 | Created | 2024-06-12 |
-| Last update | 2025-03-27 |
-| Github Stars | 1431 |
+| Last update | 2025-03-28 |
+| Github Stars | 1433 |
 | Project Home Page | None |
 | Code Repository | https://github.com/dleemiller/WordLlama |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/dleemiller/WordLlama) |
@@ -27,7 +27,7 @@ Home page for this solution: https://github.com/dleemiller/WordLlama
 Note:
  - Created date is date that repro is created on Github.com. 
 
-- Last update is only the last date I run an automatic check. 
+- Last update: Last update of repository on Github found on {sub-ref}`today`. 
 
 - Do not attach a wrong value to github stars. Its a vanity metric! Stars count are misleading and 
 don't indicate if the SBB is high-quality or very popular.

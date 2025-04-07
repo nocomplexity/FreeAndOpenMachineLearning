@@ -18,8 +18,8 @@ Home page for this solution: https://detectron2.readthedocs.io/en/latest/
 | License | Apache License 2.0 |
 | Programming Language | Python |
 | Created | 2019-09-05 |
-| Last update | 2025-03-31 |
-| Github Stars | 31619 |
+| Last update | 2025-01-14 |
+| Github Stars | 31671 |
 | Project Home Page | https://detectron2.readthedocs.io/en/latest/ |
 | Code Repository | https://github.com/facebookresearch/detectron2 |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/facebookresearch/detectron2) |
@@ -27,7 +27,7 @@ Home page for this solution: https://detectron2.readthedocs.io/en/latest/
 Note:
  - Created date is date that repro is created on Github.com. 
 
-- Last update is only the last date I run an automatic check. 
+- Last update: Last update of repository on Github found on {sub-ref}`today`. 
 
 - Do not attach a wrong value to github stars. Its a vanity metric! Stars count are misleading and 
 don't indicate if the SBB is high-quality or very popular.

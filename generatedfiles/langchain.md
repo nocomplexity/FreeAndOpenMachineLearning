@@ -24,8 +24,8 @@ Home page for this solution: https://python.langchain.com/docs/introduction/
 | License | MIT License |
 | Programming Language | Jupyter Notebook |
 | Created | 2022-10-17 |
-| Last update | 2025-03-31 |
-| Github Stars | 104675 |
+| Last update | 2025-04-07 |
+| Github Stars | 105117 |
 | Project Home Page | https://python.langchain.com |
 | Code Repository | https://github.com/langchain-ai/langchain |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/langchain-ai/langchain) |
@@ -33,7 +33,7 @@ Home page for this solution: https://python.langchain.com/docs/introduction/
 Note:
  - Created date is date that repro is created on Github.com. 
 
-- Last update is only the last date I run an automatic check. 
+- Last update: Last update of repository on Github found on {sub-ref}`today`. 
 
 - Do not attach a wrong value to github stars. Its a vanity metric! Stars count are misleading and 
 don't indicate if the SBB is high-quality or very popular.

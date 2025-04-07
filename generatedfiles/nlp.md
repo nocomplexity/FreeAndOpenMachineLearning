@@ -9,7 +9,7 @@
 :::{grid-item-card}
 :link: apacheopennlp
 :link-type: doc
-{octicon}`project;1em;caption-text` **Apache OpenNLP**        
+{octicon}`heart;1em;caption-text` **Apache OpenNLP**        
 ^^^
 Use and reuse the Apache OpenNLP solution
 +++
@@ -19,7 +19,7 @@ Use and reuse the Apache OpenNLP solution
 :::{grid-item-card}
 :link: apachetika
 :link-type: doc
-{octicon}`tag;1em;caption-text` **Apache Tika**        
+{octicon}`bookmark;1em;caption-text` **Apache Tika**        
 ^^^
 Use and reuse the Apache Tika solution
 +++
@@ -29,7 +29,7 @@ Use and reuse the Apache Tika solution
 :::{grid-item-card}
 :link: blingfire
 :link-type: doc
-{octicon}`telescope;1em;caption-text` **Bling Fire**        
+{octicon}`checklist;1em;caption-text` **Bling Fire**        
 ^^^
 Use and reuse the Bling Fire solution
 +++
@@ -39,7 +39,7 @@ Use and reuse the Bling Fire solution
 :::{grid-item-card}
 :link: flair
 :link-type: doc
-{octicon}`note;1em;caption-text` **Flair**        
+{octicon}`tools;1em;caption-text` **Flair**        
 ^^^
 Use and reuse the Flair solution
 +++
@@ -49,7 +49,7 @@ Use and reuse the Flair solution
 :::{grid-item-card}
 :link: gensim
 :link-type: doc
-{octicon}`bookmark;1em;caption-text` **Gensim**        
+{octicon}`note;1em;caption-text` **Gensim**        
 ^^^
 Use and reuse the Gensim solution
 +++
@@ -59,7 +59,7 @@ Use and reuse the Gensim solution
 :::{grid-item-card}
 :link: nltk
 :link-type: doc
-{octicon}`light-bulb;1em;caption-text` **NLTK**        
+{octicon}`hubot;1em;caption-text` **NLTK**        
 ^^^
 Use and reuse the NLTK solution
 +++
@@ -69,7 +69,7 @@ Use and reuse the NLTK solution
 :::{grid-item-card}
 :link: stanfordcorenlp
 :link-type: doc
-{octicon}`light-bulb;1em;caption-text` **Stanford CoreNLP**        
+{octicon}`tools;1em;caption-text` **Stanford CoreNLP**        
 ^^^
 Use and reuse the Stanford CoreNLP solution
 +++
@@ -79,7 +79,7 @@ Use and reuse the Stanford CoreNLP solution
 :::{grid-item-card}
 :link: textblob
 :link-type: doc
-{octicon}`thumbsup;1em;caption-text` **TextBlob**        
+{octicon}`check-circle;1em;caption-text` **TextBlob**        
 ^^^
 Use and reuse the TextBlob solution
 +++
@@ -89,7 +89,7 @@ Use and reuse the TextBlob solution
 :::{grid-item-card}
 :link: wordllama
 :link-type: doc
-{octicon}`verified;1em;caption-text` **WordLlama**        
+{octicon}`package;1em;caption-text` **WordLlama**        
 ^^^
 Use and reuse the WordLlama solution
 +++
@@ -99,7 +99,7 @@ Use and reuse the WordLlama solution
 :::{grid-item-card}
 :link: spacy
 :link-type: doc
-{octicon}`heart;1em;caption-text` **spaCy**        
+{octicon}`eye;1em;caption-text` **spaCy**        
 ^^^
 Use and reuse the spaCy solution
 +++

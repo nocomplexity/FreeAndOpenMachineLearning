@@ -1,19 +1,29 @@
 
 % This file is GENERATED. Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
 
-# LLM UI solutions 
+# Security solutions 
 ::::{grid} 3
 :class-container: text-center
 :gutter: 3 
 
 :::{grid-item-card}
-:link: openwebui
+:link: textattack
 :link-type: doc
-{octicon}`thumbsup;1em;caption-text` **Open WebUI**        
+{octicon}`project;1em;caption-text` **TextAttack**        
 ^^^
-Use and reuse the Open WebUI solution
+Use and reuse the TextAttack solution
 +++
-[More »](openwebui)
+[More »](textattack)
+:::
+
+:::{grid-item-card}
+:link: garak
+:link-type: doc
+{octicon}`note;1em;caption-text` **garak**        
+^^^
+Use and reuse the garak solution
++++
+[More »](garak)
 :::
 
 ::::

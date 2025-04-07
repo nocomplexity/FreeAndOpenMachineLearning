@@ -18,8 +18,8 @@ Home page for this solution: https://optuna.org/
 | License | MIT License |
 | Programming Language | Python |
 | Created | 2018-02-21 |
-| Last update | 2025-03-31 |
-| Github Stars | 11651 |
+| Last update | 2025-04-07 |
+| Github Stars | 11705 |
 | Project Home Page | https://optuna.org |
 | Code Repository | https://github.com/optuna/optuna |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/optuna/optuna) |
@@ -27,7 +27,7 @@ Home page for this solution: https://optuna.org/
 Note:
  - Created date is date that repro is created on Github.com. 
 
-- Last update is only the last date I run an automatic check. 
+- Last update: Last update of repository on Github found on {sub-ref}`today`. 
 
 - Do not attach a wrong value to github stars. Its a vanity metric! Stars count are misleading and 
 don't indicate if the SBB is high-quality or very popular.

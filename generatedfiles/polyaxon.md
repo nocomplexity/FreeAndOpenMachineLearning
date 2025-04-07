@@ -18,8 +18,8 @@ Home page for this solution: https://polyaxon.com/
 | License | Apache License 2.0 |
 | Programming Language | None |
 | Created | 2016-12-26 |
-| Last update | 2025-03-31 |
-| Github Stars | 3619 |
+| Last update | 2025-03-02 |
+| Github Stars | 3625 |
 | Project Home Page | https://polyaxon.com |
 | Code Repository | https://github.com/polyaxon/polyaxon |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/polyaxon/polyaxon) |
@@ -27,7 +27,7 @@ Home page for this solution: https://polyaxon.com/
 Note:
  - Created date is date that repro is created on Github.com. 
 
-- Last update is only the last date I run an automatic check. 
+- Last update: Last update of repository on Github found on {sub-ref}`today`. 
 
 - Do not attach a wrong value to github stars. Its a vanity metric! Stars count are misleading and 
 don't indicate if the SBB is high-quality or very popular.

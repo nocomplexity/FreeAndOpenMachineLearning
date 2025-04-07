@@ -18,7 +18,7 @@ Home page for this solution: https://openml.org/
 | License | BSD 3-Clause "New" or "Revised" License |
 | Programming Language | PHP |
 | Created | 2012-12-11 |
-| Last update | 2025-03-22 |
+| Last update | 2024-12-07 |
 | Github Stars | 683 |
 | Project Home Page | https://openml.org |
 | Code Repository | https://github.com/openml/OpenML |
@@ -27,7 +27,7 @@ Home page for this solution: https://openml.org/
 Note:
  - Created date is date that repro is created on Github.com. 
 
-- Last update is only the last date I run an automatic check. 
+- Last update: Last update of repository on Github found on {sub-ref}`today`. 
 
 - Do not attach a wrong value to github stars. Its a vanity metric! Stars count are misleading and 
 don't indicate if the SBB is high-quality or very popular.

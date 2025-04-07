@@ -24,8 +24,8 @@ Home page for this solution: https://radimrehurek.com/gensim/
 | License | GNU Lesser General Public License v2.1 |
 | Programming Language | Python |
 | Created | 2011-02-10 |
-| Last update | 2025-03-31 |
-| Github Stars | 15933 |
+| Last update | 2025-02-14 |
+| Github Stars | 15944 |
 | Project Home Page | https://radimrehurek.com/gensim |
 | Code Repository | https://github.com/piskvorky/gensim |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/piskvorky/gensim) |
@@ -33,7 +33,7 @@ Home page for this solution: https://radimrehurek.com/gensim/
 Note:
  - Created date is date that repro is created on Github.com. 
 
-- Last update is only the last date I run an automatic check. 
+- Last update: Last update of repository on Github found on {sub-ref}`today`. 
 
 - Do not attach a wrong value to github stars. Its a vanity metric! Stars count are misleading and 
 don't indicate if the SBB is high-quality or very popular.
