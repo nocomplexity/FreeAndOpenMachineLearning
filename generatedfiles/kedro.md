@@ -24,8 +24,8 @@ Home page for this solution: https://kedro.org/
 | License | Apache License 2.0 |
 | Programming Language | Python |
 | Created | 2019-04-18 |
-| Last update | 2025-04-07 |
-| Github Stars | 10251 |
+| Last update | 2025-05-02 |
+| Github Stars | 10303 |
 | Project Home Page | https://kedro.org |
 | Code Repository | https://github.com/kedro-org/kedro |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/kedro-org/kedro) |

@@ -24,8 +24,8 @@ Home page for this solution: https://huggingface.co/docs/transformers/index
 | License | Apache License 2.0 |
 | Programming Language | Python |
 | Created | 2018-10-29 |
-| Last update | 2025-04-07 |
-| Github Stars | 142546 |
+| Last update | 2025-05-02 |
+| Github Stars | 143760 |
 | Project Home Page | https://huggingface.co/transformers |
 | Code Repository | https://github.com/huggingface/transformers |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/huggingface/transformers) |

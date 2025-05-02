@@ -18,8 +18,8 @@ Home page for this solution: https://detectron2.readthedocs.io/en/latest/
 | License | Apache License 2.0 |
 | Programming Language | Python |
 | Created | 2019-09-05 |
-| Last update | 2025-01-14 |
-| Github Stars | 31671 |
+| Last update | 2025-04-24 |
+| Github Stars | 31872 |
 | Project Home Page | https://detectron2.readthedocs.io/en/latest/ |
 | Code Repository | https://github.com/facebookresearch/detectron2 |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/facebookresearch/detectron2) |

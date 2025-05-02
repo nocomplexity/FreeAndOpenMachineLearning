@@ -18,8 +18,8 @@ Home page for this solution: https://docs.garak.ai/garak
 | License | Apache License 2.0 |
 | Programming Language | Python |
 | Created | 2023-05-10 |
-| Last update | 2025-04-07 |
-| Github Stars | 4244 |
+| Last update | 2025-05-02 |
+| Github Stars | 4371 |
 | Project Home Page | https://discord.gg/uVch4puUCs |
 | Code Repository | https://github.com/NVIDIA/garak |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/NVIDIA/garak) |

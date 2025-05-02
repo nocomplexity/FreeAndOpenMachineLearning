@@ -24,8 +24,8 @@ Home page for this solution: https://docs.vllm.ai/en/latest/
 | License | Apache License 2.0 |
 | Programming Language | Python |
 | Created | 2023-02-09 |
-| Last update | 2025-04-07 |
-| Github Stars | 43717 |
+| Last update | 2025-05-02 |
+| Github Stars | 46415 |
 | Project Home Page | https://docs.vllm.ai |
 | Code Repository | https://github.com/vllm-project/vllm |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/vllm-project/vllm) |

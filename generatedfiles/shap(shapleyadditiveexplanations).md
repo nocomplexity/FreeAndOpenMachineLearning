@@ -24,8 +24,8 @@ Home page for this solution: https://shap.readthedocs.io/en/latest/
 | License | MIT License |
 | Programming Language | Jupyter Notebook |
 | Created | 2016-11-22 |
-| Last update | 2025-04-01 |
-| Github Stars | 23664 |
+| Last update | 2025-05-01 |
+| Github Stars | 23811 |
 | Project Home Page | https://shap.readthedocs.io |
 | Code Repository | https://github.com/shap/shap |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/shap/shap) |

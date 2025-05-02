@@ -18,8 +18,8 @@ Home page for this solution: https://polyaxon.com/
 | License | Apache License 2.0 |
 | Programming Language | None |
 | Created | 2016-12-26 |
-| Last update | 2025-03-02 |
-| Github Stars | 3625 |
+| Last update | 2025-04-22 |
+| Github Stars | 3632 |
 | Project Home Page | https://polyaxon.com |
 | Code Repository | https://github.com/polyaxon/polyaxon |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/polyaxon/polyaxon) |

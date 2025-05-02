@@ -19,7 +19,7 @@ Home page for this solution: https://singa.apache.org/
 | Programming Language | C++ |
 | Created | 2015-04-02 |
 | Last update | 2025-03-31 |
-| Github Stars | 3409 |
+| Github Stars | 3414 |
 | Project Home Page |  |
 | Code Repository | https://github.com/apache/singa |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/apache/singa) |

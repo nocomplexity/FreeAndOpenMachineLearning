@@ -19,7 +19,7 @@ Home page for this solution: https://vowpalwabbit.org/
 | Programming Language | C++ |
 | Created | 2009-07-31 |
 | Last update | 2024-10-17 |
-| Github Stars | 8546 |
+| Github Stars | 8558 |
 | Project Home Page | https://vowpalwabbit.org |
 | Code Repository | https://github.com/VowpalWabbit/vowpal_wabbit |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/VowpalWabbit/vowpal_wabbit) |

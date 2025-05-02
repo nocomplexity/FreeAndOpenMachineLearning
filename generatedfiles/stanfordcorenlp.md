@@ -24,8 +24,8 @@ Home page for this solution: https://stanfordnlp.github.io/CoreNLP/
 | License | GNU General Public License v3.0 |
 | Programming Language | Java |
 | Created | 2013-06-27 |
-| Last update | 2025-04-07 |
-| Github Stars | 9847 |
+| Last update | 2025-05-01 |
+| Github Stars | 9873 |
 | Project Home Page | http://stanfordnlp.github.io/CoreNLP/ |
 | Code Repository | https://github.com/stanfordnlp/CoreNLP |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/stanfordnlp/CoreNLP) |

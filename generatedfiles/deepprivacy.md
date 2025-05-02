@@ -19,7 +19,7 @@ Home page for this solution: https://github.com/hukkelas/deep_privacy2
 | Programming Language | Python |
 | Created | 2022-08-26 |
 | Last update | 2024-01-28 |
-| Github Stars | 332 |
+| Github Stars | 334 |
 | Project Home Page |  |
 | Code Repository | https://github.com/hukkelas/deep_privacy2 |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/hukkelas/deep_privacy2) |

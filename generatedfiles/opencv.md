@@ -24,8 +24,8 @@ Home page for this solution: https://opencv.org/
 | License | Apache License 2.0 |
 | Programming Language | C++ |
 | Created | 2012-07-19 |
-| Last update | 2025-04-07 |
-| Github Stars | 81552 |
+| Last update | 2025-04-28 |
+| Github Stars | 81970 |
 | Project Home Page | https://opencv.org |
 | Code Repository | https://github.com/opencv/opencv |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/opencv/opencv) |

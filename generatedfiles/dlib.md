@@ -25,7 +25,7 @@ Home page for this solution: https://dlib.net/
 | Programming Language | C++ |
 | Created | 2014-01-29 |
 | Last update | 2025-04-05 |
-| Github Stars | 13926 |
+| Github Stars | 13978 |
 | Project Home Page | http://dlib.net |
 | Code Repository | https://github.com/davisking/dlib |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/davisking/dlib) |

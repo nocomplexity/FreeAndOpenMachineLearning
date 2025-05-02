@@ -24,8 +24,8 @@ Home page for this solution: https://textblob.readthedocs.io/en/dev/
 | License | MIT License |
 | Programming Language | Python |
 | Created | 2013-06-30 |
-| Last update | 2025-03-31 |
-| Github Stars | 9309 |
+| Last update | 2025-04-28 |
+| Github Stars | 9332 |
 | Project Home Page | https://textblob.readthedocs.io/ |
 | Code Repository | https://github.com/sloria/TextBlob |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/sloria/TextBlob) |

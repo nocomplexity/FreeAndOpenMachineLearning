@@ -9,7 +9,7 @@
 :::{grid-item-card}
 :link: deepface
 :link-type: doc
-{octicon}`report;1em;caption-text` **DeepFace**        
+{octicon}`book;1em;caption-text` **DeepFace**        
 ^^^
 Use and reuse the DeepFace solution
 +++
@@ -19,7 +19,7 @@ Use and reuse the DeepFace solution
 :::{grid-item-card}
 :link: deepprivacy
 :link-type: doc
-{octicon}`thumbsup;1em;caption-text` **DeepPrivacy**        
+{octicon}`telescope;1em;caption-text` **DeepPrivacy**        
 ^^^
 Use and reuse the DeepPrivacy solution
 +++
@@ -29,7 +29,7 @@ Use and reuse the DeepPrivacy solution
 :::{grid-item-card}
 :link: facerecognition
 :link-type: doc
-{octicon}`tools;1em;caption-text` **Face Recognition**        
+{octicon}`check-circle;1em;caption-text` **Face Recognition**        
 ^^^
 Use and reuse the Face Recognition solution
 +++
@@ -39,7 +39,7 @@ Use and reuse the Face Recognition solution
 :::{grid-item-card}
 :link: faceswap
 :link-type: doc
-{octicon}`note;1em;caption-text` **FaceSwap**        
+{octicon}`light-bulb;1em;caption-text` **FaceSwap**        
 ^^^
 Use and reuse the FaceSwap solution
 +++
@@ -49,7 +49,7 @@ Use and reuse the FaceSwap solution
 :::{grid-item-card}
 :link: opencv
 :link-type: doc
-{octicon}`check-circle;1em;caption-text` **OpenCV**        
+{octicon}`project;1em;caption-text` **OpenCV**        
 ^^^
 Use and reuse the OpenCV solution
 +++
@@ -59,7 +59,7 @@ Use and reuse the OpenCV solution
 :::{grid-item-card}
 :link: rastervision
 :link-type: doc
-{octicon}`stack;1em;caption-text` **Raster Vision**        
+{octicon}`package;1em;caption-text` **Raster Vision**        
 ^^^
 Use and reuse the Raster Vision solution
 +++
@@ -79,7 +79,7 @@ Use and reuse the libfacedetection solution
 :::{grid-item-card}
 :link: makesenseai
 :link-type: doc
-{octicon}`bookmark;1em;caption-text` **makesense AI**        
+{octicon}`book;1em;caption-text` **makesense AI**        
 ^^^
 Use and reuse the makesense AI solution
 +++

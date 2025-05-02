@@ -24,8 +24,8 @@ Home page for this solution: https://flairnlp.github.io/
 | License | Other |
 | Programming Language | Python |
 | Created | 2018-06-11 |
-| Last update | 2025-04-01 |
-| Github Stars | 14129 |
+| Last update | 2025-04-27 |
+| Github Stars | 14155 |
 | Project Home Page | https://flairnlp.github.io/flair/ |
 | Code Repository | https://github.com/flairNLP/flair |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/flairNLP/flair) |

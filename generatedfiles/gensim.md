@@ -25,7 +25,7 @@ Home page for this solution: https://radimrehurek.com/gensim/
 | Programming Language | Python |
 | Created | 2011-02-10 |
 | Last update | 2025-02-14 |
-| Github Stars | 15944 |
+| Github Stars | 15994 |
 | Project Home Page | https://radimrehurek.com/gensim |
 | Code Repository | https://github.com/piskvorky/gensim |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/piskvorky/gensim) |

@@ -9,7 +9,7 @@
 :::{grid-item-card}
 :link: darts
 :link-type: doc
-{octicon}`bookmark;1em;caption-text` **Darts**        
+{octicon}`eye;1em;caption-text` **Darts**        
 ^^^
 Use and reuse the Darts solution
 +++
@@ -19,7 +19,7 @@ Use and reuse the Darts solution
 :::{grid-item-card}
 :link: datascienceversioncontrol(dvc)
 :link-type: doc
-{octicon}`report;1em;caption-text` **Data Science Version Control (DVC)**        
+{octicon}`heart;1em;caption-text` **Data Science Version Control (DVC)**        
 ^^^
 Use and reuse the Data Science Version Control (DVC) solution
 +++
@@ -29,7 +29,7 @@ Use and reuse the Data Science Version Control (DVC) solution
 :::{grid-item-card}
 :link: espresso
 :link-type: doc
-{octicon}`megaphone;1em;caption-text` **Espresso**        
+{octicon}`book;1em;caption-text` **Espresso**        
 ^^^
 Use and reuse the Espresso solution
 +++
@@ -39,7 +39,7 @@ Use and reuse the Espresso solution
 :::{grid-item-card}
 :link: gradio
 :link-type: doc
-{octicon}`note;1em;caption-text` **Gradio**        
+{octicon}`heart;1em;caption-text` **Gradio**        
 ^^^
 Use and reuse the Gradio solution
 +++
@@ -49,7 +49,7 @@ Use and reuse the Gradio solution
 :::{grid-item-card}
 :link: kats
 :link-type: doc
-{octicon}`project;1em;caption-text` **Kats**        
+{octicon}`note;1em;caption-text` **Kats**        
 ^^^
 Use and reuse the Kats solution
 +++
@@ -59,7 +59,7 @@ Use and reuse the Kats solution
 :::{grid-item-card}
 :link: kedro
 :link-type: doc
-{octicon}`book;1em;caption-text` **Kedro**        
+{octicon}`tools;1em;caption-text` **Kedro**        
 ^^^
 Use and reuse the Kedro solution
 +++
@@ -69,7 +69,7 @@ Use and reuse the Kedro solution
 :::{grid-item-card}
 :link: kedro
 :link-type: doc
-{octicon}`file;1em;caption-text` **Kedro**        
+{octicon}`check-circle;1em;caption-text` **Kedro**        
 ^^^
 Use and reuse the Kedro solution
 +++
@@ -79,7 +79,7 @@ Use and reuse the Kedro solution
 :::{grid-item-card}
 :link: mlperf(tm)
 :link-type: doc
-{octicon}`smiley;1em;caption-text` **MLPerf(tm)**        
+{octicon}`hubot;1em;caption-text` **MLPerf(tm)**        
 ^^^
 Use and reuse the MLPerf(tm) solution
 +++
@@ -89,7 +89,7 @@ Use and reuse the MLPerf(tm) solution
 :::{grid-item-card}
 :link: mlflow
 :link-type: doc
-{octicon}`smiley;1em;caption-text` **MLflow**        
+{octicon}`file;1em;caption-text` **MLflow**        
 ^^^
 Use and reuse the MLflow solution
 +++
@@ -99,7 +99,7 @@ Use and reuse the MLflow solution
 :::{grid-item-card}
 :link: mlxtend
 :link-type: doc
-{octicon}`checklist;1em;caption-text` **Mlxtend**        
+{octicon}`megaphone;1em;caption-text` **Mlxtend**        
 ^^^
 Use and reuse the Mlxtend solution
 +++
@@ -109,7 +109,7 @@ Use and reuse the Mlxtend solution
 :::{grid-item-card}
 :link: modeldb
 :link-type: doc
-{octicon}`heart;1em;caption-text` **ModelDB**        
+{octicon}`book;1em;caption-text` **ModelDB**        
 ^^^
 Use and reuse the ModelDB solution
 +++
@@ -119,7 +119,7 @@ Use and reuse the ModelDB solution
 :::{grid-item-card}
 :link: netron
 :link-type: doc
-{octicon}`file;1em;caption-text` **Netron**        
+{octicon}`tag;1em;caption-text` **Netron**        
 ^^^
 Use and reuse the Netron solution
 +++
@@ -129,7 +129,7 @@ Use and reuse the Netron solution
 :::{grid-item-card}
 :link: openneuralnetworkexchange(onnx)
 :link-type: doc
-{octicon}`project;1em;caption-text` **Open Neural Network Exchange (ONNX)**        
+{octicon}`thumbsup;1em;caption-text` **Open Neural Network Exchange (ONNX)**        
 ^^^
 Use and reuse the Open Neural Network Exchange (ONNX) solution
 +++
@@ -159,7 +159,7 @@ Use and reuse the Orange solution
 :::{grid-item-card}
 :link: polyaxon
 :link-type: doc
-{octicon}`note;1em;caption-text` **Polyaxon**        
+{octicon}`tools;1em;caption-text` **Polyaxon**        
 ^^^
 Use and reuse the Polyaxon solution
 +++
@@ -169,7 +169,7 @@ Use and reuse the Polyaxon solution
 :::{grid-item-card}
 :link: pycaret
 :link-type: doc
-{octicon}`light-bulb;1em;caption-text` **PyCaret**        
+{octicon}`report;1em;caption-text` **PyCaret**        
 ^^^
 Use and reuse the PyCaret solution
 +++
@@ -179,7 +179,7 @@ Use and reuse the PyCaret solution
 :::{grid-item-card}
 :link: pysyft
 :link-type: doc
-{octicon}`book;1em;caption-text` **PySyft**        
+{octicon}`pencil;1em;caption-text` **PySyft**        
 ^^^
 Use and reuse the PySyft solution
 +++
@@ -189,7 +189,7 @@ Use and reuse the PySyft solution
 :::{grid-item-card}
 :link: pythoninterpretablemachinelearning
 :link-type: doc
-{octicon}`pencil;1em;caption-text` **Python Interpretable Machine Learning**        
+{octicon}`verified;1em;caption-text` **Python Interpretable Machine Learning**        
 ^^^
 Use and reuse the Python Interpretable Machine Learning solution
 +++
@@ -199,7 +199,7 @@ Use and reuse the Python Interpretable Machine Learning solution
 :::{grid-item-card}
 :link: shap(shapleyadditiveexplanations)
 :link-type: doc
-{octicon}`telescope;1em;caption-text` **SHAP (SHapley Additive exPlanations)**        
+{octicon}`briefcase;1em;caption-text` **SHAP (SHapley Additive exPlanations)**        
 ^^^
 Use and reuse the SHAP (SHapley Additive exPlanations) solution
 +++
@@ -209,7 +209,7 @@ Use and reuse the SHAP (SHapley Additive exPlanations) solution
 :::{grid-item-card}
 :link: sematic
 :link-type: doc
-{octicon}`package;1em;caption-text` **Sematic**        
+{octicon}`file;1em;caption-text` **Sematic**        
 ^^^
 Use and reuse the Sematic solution
 +++
@@ -217,9 +217,19 @@ Use and reuse the Sematic solution
 :::
 
 :::{grid-item-card}
+:link: skrub
+:link-type: doc
+{octicon}`report;1em;caption-text` **Skrub**        
+^^^
+Use and reuse the Skrub solution
++++
+[More »](skrub)
+:::
+
+:::{grid-item-card}
 :link: snorkel
 :link-type: doc
-{octicon}`thumbsup;1em;caption-text` **Snorkel**        
+{octicon}`eye;1em;caption-text` **Snorkel**        
 ^^^
 Use and reuse the Snorkel solution
 +++
@@ -229,7 +239,7 @@ Use and reuse the Snorkel solution
 :::{grid-item-card}
 :link: treescope
 :link-type: doc
-{octicon}`smiley;1em;caption-text` **Treescope**        
+{octicon}`package;1em;caption-text` **Treescope**        
 ^^^
 Use and reuse the Treescope solution
 +++
@@ -239,7 +249,7 @@ Use and reuse the Treescope solution
 :::{grid-item-card}
 :link: what-iftool(wit)
 :link-type: doc
-{octicon}`cross-reference;1em;caption-text` **What-If Tool (WIT)**        
+{octicon}`zap;1em;caption-text` **What-If Tool (WIT)**        
 ^^^
 Use and reuse the What-If Tool (WIT) solution
 +++

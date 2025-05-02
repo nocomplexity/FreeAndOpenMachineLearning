@@ -24,8 +24,8 @@ Home page for this solution: https://openmined.org/
 | License | Apache License 2.0 |
 | Programming Language | Python |
 | Created | 2017-07-18 |
-| Last update | 2025-03-30 |
-| Github Stars | 9652 |
+| Last update | 2025-04-13 |
+| Github Stars | 9673 |
 | Project Home Page | https://www.openmined.org/ |
 | Code Repository | https://github.com/OpenMined/PySyft |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/OpenMined/PySyft) |

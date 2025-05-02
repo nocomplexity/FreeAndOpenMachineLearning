@@ -25,7 +25,7 @@ Home page for this solution: https://www.sematic.dev/
 | Programming Language | Python |
 | Created | 2022-04-19 |
 | Last update | 2025-01-09 |
-| Github Stars | 985 |
+| Github Stars | 990 |
 | Project Home Page |  |
 | Code Repository | https://github.com/sematic-ai/sematic |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/sematic-ai/sematic) |

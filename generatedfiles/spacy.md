@@ -24,8 +24,8 @@ Home page for this solution: https://spacy.io/
 | License | MIT License |
 | Programming Language | Python |
 | Created | 2014-07-03 |
-| Last update | 2025-04-05 |
-| Github Stars | 31329 |
+| Last update | 2025-04-11 |
+| Github Stars | 31498 |
 | Project Home Page | https://spacy.io |
 | Code Repository | https://github.com/explosion/spaCy |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/explosion/spaCy) |

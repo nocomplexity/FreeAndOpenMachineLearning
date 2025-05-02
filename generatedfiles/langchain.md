@@ -24,8 +24,8 @@ Home page for this solution: https://python.langchain.com/docs/introduction/
 | License | MIT License |
 | Programming Language | Jupyter Notebook |
 | Created | 2022-10-17 |
-| Last update | 2025-04-07 |
-| Github Stars | 105117 |
+| Last update | 2025-05-02 |
+| Github Stars | 106743 |
 | Project Home Page | https://python.langchain.com |
 | Code Repository | https://github.com/langchain-ai/langchain |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/langchain-ai/langchain) |

@@ -25,7 +25,7 @@ Home page for this solution: https://www.makesense.ai/
 | Programming Language | TypeScript |
 | Created | 2019-06-14 |
 | Last update | 2024-08-15 |
-| Github Stars | 3312 |
+| Github Stars | 3335 |
 | Project Home Page |  |
 | Code Repository | https://github.com/SkalskiP/make-sense |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/SkalskiP/make-sense) |

@@ -24,8 +24,8 @@ Home page for this solution: https://lightning.ai/pytorch-lightning
 | License | Apache License 2.0 |
 | Programming Language | Python |
 | Created | 2019-03-31 |
-| Last update | 2025-04-07 |
-| Github Stars | 29252 |
+| Last update | 2025-04-28 |
+| Github Stars | 29393 |
 | Project Home Page | https://lightning.ai/pytorch-lightning |
 | Code Repository | https://github.com/Lightning-AI/pytorch-lightning |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/Lightning-AI/pytorch-lightning) |

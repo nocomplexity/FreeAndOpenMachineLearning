@@ -18,8 +18,8 @@ Home page for this solution: https://scikit-learn.org/stable/
 | License | BSD 3-Clause "New" or "Revised" License |
 | Programming Language | Python |
 | Created | 2010-08-17 |
-| Last update | 2025-04-07 |
-| Github Stars | 61674 |
+| Last update | 2025-05-01 |
+| Github Stars | 61914 |
 | Project Home Page | https://scikit-learn.org |
 | Code Repository | https://github.com/scikit-learn/scikit-learn |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/scikit-learn/scikit-learn) |

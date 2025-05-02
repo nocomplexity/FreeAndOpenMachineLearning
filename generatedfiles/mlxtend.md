@@ -25,7 +25,7 @@ Home page for this solution: https://rasbt.github.io/mlxtend/
 | Programming Language | Python |
 | Created | 2014-08-14 |
 | Last update | 2025-01-26 |
-| Github Stars | 4990 |
+| Github Stars | 4996 |
 | Project Home Page | https://rasbt.github.io/mlxtend/ |
 | Code Repository | https://github.com/rasbt/mlxtend |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/rasbt/mlxtend) |

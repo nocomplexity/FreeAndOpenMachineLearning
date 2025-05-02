@@ -18,8 +18,8 @@ Home page for this solution: https://openwebui.com/
 | License | BSD 3-Clause "New" or "Revised" License |
 | Programming Language | JavaScript |
 | Created | 2023-10-06 |
-| Last update | 2025-04-07 |
-| Github Stars | 88090 |
+| Last update | 2025-05-02 |
+| Github Stars | 92722 |
 | Project Home Page | https://openwebui.com |
 | Code Repository | https://github.com/open-webui/open-webui |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/open-webui/open-webui) |

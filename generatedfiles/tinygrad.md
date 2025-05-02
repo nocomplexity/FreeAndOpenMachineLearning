@@ -24,8 +24,8 @@ Home page for this solution: https://docs.tinygrad.org/
 | License | MIT License |
 | Programming Language | Python |
 | Created | 2020-10-18 |
-| Last update | 2025-04-07 |
-| Github Stars | 28537 |
+| Last update | 2025-05-02 |
+| Github Stars | 28652 |
 | Project Home Page |  |
 | Code Repository | https://github.com/tinygrad/tinygrad |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/tinygrad/tinygrad) |

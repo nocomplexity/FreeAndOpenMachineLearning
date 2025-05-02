@@ -19,7 +19,7 @@ Home page for this solution: https://thinc.ai/
 | Programming Language | Python |
 | Created | 2014-10-16 |
 | Last update | 2025-04-04 |
-| Github Stars | 2840 |
+| Github Stars | 2846 |
 | Project Home Page | https://thinc.ai |
 | Code Repository | https://github.com/explosion/thinc |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/explosion/thinc) |

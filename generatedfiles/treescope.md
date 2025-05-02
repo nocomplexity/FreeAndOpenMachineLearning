@@ -18,8 +18,8 @@ Home page for this solution: https://treescope.readthedocs.io/en/stable/index.ht
 | License | Apache License 2.0 |
 | Programming Language | Python |
 | Created | 2024-07-24 |
-| Last update | 2025-03-15 |
-| Github Stars | 401 |
+| Last update | 2025-05-01 |
+| Github Stars | 412 |
 | Project Home Page | https://treescope.readthedocs.io/ |
 | Code Repository | https://github.com/google-deepmind/treescope |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/google-deepmind/treescope) |

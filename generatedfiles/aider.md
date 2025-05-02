@@ -24,8 +24,8 @@ Home page for this solution: https://aider.chat/
 | License | Apache License 2.0 |
 | Programming Language | Python |
 | Created | 2023-05-09 |
-| Last update | 2025-04-06 |
-| Github Stars | 30718 |
+| Last update | 2025-05-02 |
+| Github Stars | 32291 |
 | Project Home Page | https://aider.chat/ |
 | Code Repository | https://github.com/Aider-AI/aider |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/Aider-AI/aider) |

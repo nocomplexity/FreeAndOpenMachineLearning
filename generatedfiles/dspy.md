@@ -18,8 +18,8 @@ Home page for this solution: https://dspy.ai/
 | License | MIT License |
 | Programming Language | Python |
 | Created | 2023-01-09 |
-| Last update | 2025-04-07 |
-| Github Stars | 22902 |
+| Last update | 2025-05-02 |
+| Github Stars | 23967 |
 | Project Home Page | https://dspy.ai |
 | Code Repository | https://github.com/stanfordnlp/dspy |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/stanfordnlp/dspy) |

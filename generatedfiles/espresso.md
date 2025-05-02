@@ -25,7 +25,7 @@ Home page for this solution: https://github.com/freewym/espresso
 | Programming Language | Python |
 | Created | 2018-12-02 |
 | Last update | 2024-09-04 |
-| Github Stars | 942 |
+| Github Stars | 943 |
 | Project Home Page |  |
 | Code Repository | https://github.com/freewym/espresso |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/freewym/espresso) |

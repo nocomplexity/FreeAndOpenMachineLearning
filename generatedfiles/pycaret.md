@@ -18,8 +18,8 @@ Home page for this solution: https://www.pycaret.org/
 | License | MIT License |
 | Programming Language | Jupyter Notebook |
 | Created | 2019-11-23 |
-| Last update | 2025-03-20 |
-| Github Stars | 9260 |
+| Last update | 2025-04-21 |
+| Github Stars | 9303 |
 | Project Home Page | https://www.pycaret.org |
 | Code Repository | https://github.com/pycaret/pycaret |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/pycaret/pycaret) |

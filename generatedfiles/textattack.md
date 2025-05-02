@@ -19,7 +19,7 @@ Home page for this solution: https://textattack.readthedocs.io/en/master/
 | Programming Language | Python |
 | Created | 2019-10-15 |
 | Last update | 2024-07-25 |
-| Github Stars | 3133 |
+| Github Stars | 3157 |
 | Project Home Page | https://textattack.readthedocs.io/en/master/ |
 | Code Repository | https://github.com/QData/TextAttack |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/QData/TextAttack) |

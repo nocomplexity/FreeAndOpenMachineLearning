@@ -25,7 +25,7 @@ Home page for this solution: https://faceswap.dev/
 | Programming Language | Python |
 | Created | 2017-12-19 |
 | Last update | 2025-02-26 |
-| Github Stars | 53635 |
+| Github Stars | 53784 |
 | Project Home Page | https://www.faceswap.dev |
 | Code Repository | https://github.com/deepfakes/faceswap |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/deepfakes/faceswap) |

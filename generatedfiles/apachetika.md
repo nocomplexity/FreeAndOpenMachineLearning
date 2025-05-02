@@ -24,8 +24,8 @@ Home page for this solution: https://tika.apache.org/
 | License | Apache License 2.0 |
 | Programming Language | Java |
 | Created | 2009-05-21 |
-| Last update | 2025-04-07 |
-| Github Stars | 2896 |
+| Last update | 2025-05-01 |
+| Github Stars | 2948 |
 | Project Home Page | https://tika.apache.org/ |
 | Code Repository | https://github.com/apache/tika |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/apache/tika) |

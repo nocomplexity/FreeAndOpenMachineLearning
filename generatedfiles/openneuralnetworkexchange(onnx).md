@@ -24,8 +24,8 @@ Home page for this solution: https://onnx.ai/
 | License | Apache License 2.0 |
 | Programming Language | Python |
 | Created | 2017-09-07 |
-| Last update | 2025-04-07 |
-| Github Stars | 18762 |
+| Last update | 2025-05-02 |
+| Github Stars | 18880 |
 | Project Home Page | https://onnx.ai/ |
 | Code Repository | https://github.com/onnx/onnx |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/onnx/onnx) |

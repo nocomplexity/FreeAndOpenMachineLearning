@@ -25,7 +25,7 @@ Home page for this solution: https://www.apollo.auto/apollo-self-driving
 | Programming Language | C++ |
 | Created | 2017-07-04 |
 | Last update | 2024-12-31 |
-| Github Stars | 25634 |
+| Github Stars | 25682 |
 | Project Home Page |  |
 | Code Repository | https://github.com/ApolloAuto/apollo |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/ApolloAuto/apollo) |

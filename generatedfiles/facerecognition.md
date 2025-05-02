@@ -19,7 +19,7 @@ Home page for this solution: https://github.com/ageitgey/face_recognition
 | Programming Language | Python |
 | Created | 2017-03-03 |
 | Last update | 2024-08-21 |
-| Github Stars | 54511 |
+| Github Stars | 54679 |
 | Project Home Page |  |
 | Code Repository | https://github.com/ageitgey/face_recognition |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/ageitgey/face_recognition) |

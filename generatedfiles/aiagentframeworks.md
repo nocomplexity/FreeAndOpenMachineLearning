@@ -9,7 +9,7 @@
 :::{grid-item-card}
 :link: aider
 :link-type: doc
-{octicon}`tools;1em;caption-text` **Aider**        
+{octicon}`telescope;1em;caption-text` **Aider**        
 ^^^
 Use and reuse the Aider solution
 +++
@@ -19,7 +19,7 @@ Use and reuse the Aider solution
 :::{grid-item-card}
 :link: openhands
 :link-type: doc
-{octicon}`book;1em;caption-text` **OpenHands**        
+{octicon}`hubot;1em;caption-text` **OpenHands**        
 ^^^
 Use and reuse the OpenHands solution
 +++
@@ -29,7 +29,7 @@ Use and reuse the OpenHands solution
 :::{grid-item-card}
 :link: pyspur
 :link-type: doc
-{octicon}`cross-reference;1em;caption-text` **PySpur**        
+{octicon}`pencil;1em;caption-text` **PySpur**        
 ^^^
 Use and reuse the PySpur solution
 +++
@@ -39,7 +39,7 @@ Use and reuse the PySpur solution
 :::{grid-item-card}
 :link: gptme
 :link-type: doc
-{octicon}`package;1em;caption-text` **gptme**        
+{octicon}`megaphone;1em;caption-text` **gptme**        
 ^^^
 Use and reuse the gptme solution
 +++

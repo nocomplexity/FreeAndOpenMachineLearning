@@ -18,8 +18,8 @@ Home page for this solution: https://optuna.org/
 | License | MIT License |
 | Programming Language | Python |
 | Created | 2018-02-21 |
-| Last update | 2025-04-07 |
-| Github Stars | 11705 |
+| Last update | 2025-05-02 |
+| Github Stars | 11860 |
 | Project Home Page | https://optuna.org |
 | Code Repository | https://github.com/optuna/optuna |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/optuna/optuna) |

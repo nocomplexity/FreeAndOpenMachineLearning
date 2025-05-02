@@ -24,8 +24,8 @@ Home page for this solution: https://unit8co.github.io/darts/
 | License | Apache License 2.0 |
 | Programming Language | Python |
 | Created | 2018-09-13 |
-| Last update | 2025-04-06 |
-| Github Stars | 8479 |
+| Last update | 2025-05-02 |
+| Github Stars | 8560 |
 | Project Home Page | https://unit8co.github.io/darts/ |
 | Code Repository | https://github.com/unit8co/darts |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/unit8co/darts) |

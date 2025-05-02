@@ -19,7 +19,7 @@ Home page for this solution: https://aix360.res.ibm.com/
 | Programming Language | Python |
 | Created | 2019-07-11 |
 | Last update | 2025-02-26 |
-| Github Stars | 1677 |
+| Github Stars | 1683 |
 | Project Home Page | https://aix360.res.ibm.com/ |
 | Code Repository | https://github.com/Trusted-AI/AIX360 |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/Trusted-AI/AIX360) |

@@ -25,7 +25,7 @@ Home page for this solution: https://www.snorkel.org/
 | Programming Language | Python |
 | Created | 2016-02-26 |
 | Last update | 2024-05-02 |
-| Github Stars | 5844 |
+| Github Stars | 5854 |
 | Project Home Page | https://snorkel.org |
 | Code Repository | https://github.com/snorkel-team/snorkel |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/snorkel-team/snorkel) |

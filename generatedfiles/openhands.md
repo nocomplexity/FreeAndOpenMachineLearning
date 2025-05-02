@@ -18,8 +18,8 @@ Home page for this solution: https://www.all-hands.dev/
 | License | MIT License |
 | Programming Language | Python |
 | Created | 2024-03-13 |
-| Last update | 2025-04-07 |
-| Github Stars | 52517 |
+| Last update | 2025-05-02 |
+| Github Stars | 53717 |
 | Project Home Page | https://all-hands.dev |
 | Code Repository | https://github.com/All-Hands-AI/OpenHands |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/All-Hands-AI/OpenHands) |

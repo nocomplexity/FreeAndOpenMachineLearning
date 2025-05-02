@@ -24,8 +24,8 @@ Home page for this solution: https://ludwig.ai/latest/
 | License | Apache License 2.0 |
 | Programming Language | Python |
 | Created | 2018-12-27 |
-| Last update | 2025-03-31 |
-| Github Stars | 11410 |
+| Last update | 2025-04-28 |
+| Github Stars | 11433 |
 | Project Home Page | http://ludwig.ai |
 | Code Repository | https://github.com/ludwig-ai/ludwig |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/ludwig-ai/ludwig) |

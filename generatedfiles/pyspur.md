@@ -25,7 +25,7 @@ Home page for this solution: https://www.pyspur.dev/
 | Programming Language | TypeScript |
 | Created | 2024-09-23 |
 | Last update | 2025-04-07 |
-| Github Stars | 4256 |
+| Github Stars | 4712 |
 | Project Home Page | https://pyspur.dev |
 | Code Repository | https://github.com/PySpur-Dev/pyspur |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/PySpur-Dev/pyspur) |

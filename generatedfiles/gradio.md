@@ -24,8 +24,8 @@ Home page for this solution: https://www.gradio.app/
 | License | Apache License 2.0 |
 | Programming Language | Python |
 | Created | 2018-12-19 |
-| Last update | 2025-04-07 |
-| Github Stars | 37323 |
+| Last update | 2025-05-02 |
+| Github Stars | 37801 |
 | Project Home Page | http://www.gradio.app |
 | Code Repository | https://github.com/gradio-app/gradio |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/gradio-app/gradio) |

@@ -24,8 +24,8 @@ Home page for this solution: https://github.com/serengil/deepface
 | License | MIT License |
 | Programming Language | Python |
 | Created | 2020-02-08 |
-| Last update | 2025-04-01 |
-| Github Stars | 18532 |
+| Last update | 2025-05-02 |
+| Github Stars | 18874 |
 | Project Home Page | https://bit.ly/deepface-py |
 | Code Repository | https://github.com/serengil/deepface |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/serengil/deepface) |

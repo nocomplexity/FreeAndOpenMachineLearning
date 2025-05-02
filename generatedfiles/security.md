@@ -9,7 +9,7 @@
 :::{grid-item-card}
 :link: textattack
 :link-type: doc
-{octicon}`project;1em;caption-text` **TextAttack**        
+{octicon}`file;1em;caption-text` **TextAttack**        
 ^^^
 Use and reuse the TextAttack solution
 +++
@@ -19,7 +19,7 @@ Use and reuse the TextAttack solution
 :::{grid-item-card}
 :link: garak
 :link-type: doc
-{octicon}`note;1em;caption-text` **garak**        
+{octicon}`briefcase;1em;caption-text` **garak**        
 ^^^
 Use and reuse the garak solution
 +++

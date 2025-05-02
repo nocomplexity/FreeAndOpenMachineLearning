@@ -18,8 +18,8 @@ Home page for this solution: https://keras.io/
 | License | Apache License 2.0 |
 | Programming Language | Python |
 | Created | 2015-03-28 |
-| Last update | 2025-04-04 |
-| Github Stars | 62830 |
+| Last update | 2025-05-01 |
+| Github Stars | 62943 |
 | Project Home Page | http://keras.io/ |
 | Code Repository | https://github.com/keras-team/keras |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/keras-team/keras) |

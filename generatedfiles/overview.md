@@ -9,7 +9,7 @@
 :::{grid-item-card}
 :link: aiagentframeworks
 :link-type: doc
-{octicon}`briefcase;1em;caption-text` **AI Agent Frameworks**        
+{octicon}`check-circle;1em;caption-text` **AI Agent Frameworks**        
 ^^^
 Discover great FOSS AI Agent Frameworks solutions
 +++
@@ -19,7 +19,7 @@ Discover great FOSS AI Agent Frameworks solutions
 :::{grid-item-card}
 :link: hosting
 :link-type: doc
-{octicon}`package;1em;caption-text` **Hosting**        
+{octicon}`megaphone;1em;caption-text` **Hosting**        
 ^^^
 Discover great FOSS Hosting solutions
 +++
@@ -29,7 +29,7 @@ Discover great FOSS Hosting solutions
 :::{grid-item-card}
 :link: llm
 :link-type: doc
-{octicon}`check-circle;1em;caption-text` **LLM**        
+{octicon}`zap;1em;caption-text` **LLM**        
 ^^^
 Discover great FOSS LLM solutions
 +++
@@ -49,7 +49,7 @@ Discover great FOSS LLM UI solutions
 :::{grid-item-card}
 :link: mlframeworks
 :link-type: doc
-{octicon}`package;1em;caption-text` **ML Frameworks**        
+{octicon}`eye;1em;caption-text` **ML Frameworks**        
 ^^^
 Discover great FOSS ML Frameworks solutions
 +++
@@ -59,7 +59,7 @@ Discover great FOSS ML Frameworks solutions
 :::{grid-item-card}
 :link: mlresearchframeworks
 :link-type: doc
-{octicon}`telescope;1em;caption-text` **ML Research Frameworks**        
+{octicon}`tag;1em;caption-text` **ML Research Frameworks**        
 ^^^
 Discover great FOSS ML Research Frameworks solutions
 +++
@@ -69,7 +69,7 @@ Discover great FOSS ML Research Frameworks solutions
 :::{grid-item-card}
 :link: mltools
 :link-type: doc
-{octicon}`smiley;1em;caption-text` **ML Tools**        
+{octicon}`tools;1em;caption-text` **ML Tools**        
 ^^^
 Discover great FOSS ML Tools solutions
 +++
@@ -79,7 +79,7 @@ Discover great FOSS ML Tools solutions
 :::{grid-item-card}
 :link: nlp
 :link-type: doc
-{octicon}`pencil;1em;caption-text` **NLP**        
+{octicon}`package;1em;caption-text` **NLP**        
 ^^^
 Discover great FOSS NLP solutions
 +++
@@ -89,7 +89,7 @@ Discover great FOSS NLP solutions
 :::{grid-item-card}
 :link: security
 :link-type: doc
-{octicon}`check-circle;1em;caption-text` **Security**        
+{octicon}`megaphone;1em;caption-text` **Security**        
 ^^^
 Discover great FOSS Security solutions
 +++
@@ -99,7 +99,7 @@ Discover great FOSS Security solutions
 :::{grid-item-card}
 :link: vision
 :link-type: doc
-{octicon}`pencil;1em;caption-text` **Vision**        
+{octicon}`briefcase;1em;caption-text` **Vision**        
 ^^^
 Discover great FOSS Vision solutions
 +++

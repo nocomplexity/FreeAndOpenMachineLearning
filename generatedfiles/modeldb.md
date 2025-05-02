@@ -19,7 +19,7 @@ Home page for this solution: https://github.com/VertaAI/modeldb
 | Programming Language | Java |
 | Created | 2016-10-19 |
 | Last update | 2024-07-23 |
-| Github Stars | 1722 |
+| Github Stars | 1719 |
 | Project Home Page |  |
 | Code Repository | https://github.com/VertaAI/modeldb |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/VertaAI/modeldb) |

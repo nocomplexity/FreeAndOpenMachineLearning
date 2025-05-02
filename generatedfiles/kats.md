@@ -24,8 +24,8 @@ Home page for this solution: https://facebookresearch.github.io/Kats/
 | License | MIT License |
 | Programming Language | Python |
 | Created | 2021-02-25 |
-| Last update | 2025-03-27 |
-| Github Stars | 5911 |
+| Last update | 2025-05-01 |
+| Github Stars | 5964 |
 | Project Home Page |  |
 | Code Repository | https://github.com/facebookresearch/Kats |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/facebookresearch/Kats) |

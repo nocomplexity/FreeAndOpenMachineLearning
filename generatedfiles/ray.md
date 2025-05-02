@@ -24,8 +24,8 @@ Home page for this solution: https://www.ray.io/
 | License | Apache License 2.0 |
 | Programming Language | Python |
 | Created | 2016-10-25 |
-| Last update | 2025-04-07 |
-| Github Stars | 36419 |
+| Last update | 2025-05-02 |
+| Github Stars | 36846 |
 | Project Home Page | https://ray.io |
 | Code Repository | https://github.com/ray-project/ray |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/ray-project/ray) |

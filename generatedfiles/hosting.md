@@ -9,7 +9,7 @@
 :::{grid-item-card}
 :link: bentoml
 :link-type: doc
-{octicon}`stack;1em;caption-text` **BentoML**        
+{octicon}`pencil;1em;caption-text` **BentoML**        
 ^^^
 Use and reuse the BentoML solution
 +++
@@ -19,7 +19,7 @@ Use and reuse the BentoML solution
 :::{grid-item-card}
 :link: pytorchlightning
 :link-type: doc
-{octicon}`thumbsup;1em;caption-text` **PyTorch Lightning**        
+{octicon}`briefcase;1em;caption-text` **PyTorch Lightning**        
 ^^^
 Use and reuse the PyTorch Lightning solution
 +++
@@ -29,7 +29,7 @@ Use and reuse the PyTorch Lightning solution
 :::{grid-item-card}
 :link: ray
 :link-type: doc
-{octicon}`checklist;1em;caption-text` **Ray**        
+{octicon}`smiley;1em;caption-text` **Ray**        
 ^^^
 Use and reuse the Ray solution
 +++
@@ -39,7 +39,7 @@ Use and reuse the Ray solution
 :::{grid-item-card}
 :link: vllm
 :link-type: doc
-{octicon}`light-bulb;1em;caption-text` **vLLM**        
+{octicon}`check-circle;1em;caption-text` **vLLM**        
 ^^^
 Use and reuse the vLLM solution
 +++

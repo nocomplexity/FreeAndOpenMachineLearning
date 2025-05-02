@@ -18,8 +18,8 @@ Home page for this solution: https://mlcommons.org/benchmarks/training/
 | License | Apache License 2.0 |
 | Programming Language | Python |
 | Created | 2018-03-29 |
-| Last update | 2025-03-18 |
-| Github Stars | 1659 |
+| Last update | 2025-04-09 |
+| Github Stars | 1664 |
 | Project Home Page | https://mlcommons.org/en/groups/training |
 | Code Repository | https://github.com/mlcommons/training |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/mlcommons/training) |

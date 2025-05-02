@@ -19,7 +19,7 @@ Home page for this solution: https://pair-code.github.io/what-if-tool/
 | Programming Language | HTML |
 | Created | 2018-09-07 |
 | Last update | 2024-09-11 |
-| Github Stars | 945 |
+| Github Stars | 946 |
 | Project Home Page | https://pair-code.github.io/what-if-tool |
 | Code Repository | https://github.com/PAIR-code/what-if-tool |
 | OpenSSF Scorecard | [Report](https://securityscorecards.dev/viewer/?uri=github.com/PAIR-code/what-if-tool) |
