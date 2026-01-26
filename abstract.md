@@ -1,12 +1,12 @@
-# Free and Open Machine Learning
+# Free and Open AI/Machine Learning
 
 
 ## Abstract
 
 
 This publication is created to promote and advocate the use of FOSS
-machine learning for real practical business use cases. Machine learning
-is a fascinating technology. Free and Open machine learning should be
+AI/Machine Learning for real practical business use cases. Machine learning
+is a fascinating technology. Free and Open AI/ML should be
 the norm for business innovation. So simple to use for complex problems.
 Freedom to control machine learning technology is not self-evident. Free
 and Open Machine Learning gives you full control.

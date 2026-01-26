@@ -5,9 +5,9 @@
 
 #######################################################################################
 # Book settings
-title                       : Free and Open Machine Learning # The title of the book. Will be placed in the left navbar.
+title                       : Free and Open AI/Machine Learning # The title of the book. Will be placed in the left navbar.
 author                      : '<a href="https://nocomplexity.com/">Maikel Mardjan (nocomplexity.com)</a>' # The author of the book
-copyright                   : '2018-2025- Maikel Mardjan -Business Management Support Foundation (bm-support.org'  # Copyright year to be placed in the footer
+copyright                   : '2018-2026- Maikel Mardjan -Business Management Support Foundation (bm-support.org'  # Copyright year to be placed in the footer
 logo                        : "images/nocxbanner.png"  # A path to the book logo
 # Patterns to skip when building the book. Can be glob-style (e.g. "*skip.ipynb")
 exclude_patterns            : [_build, Thumbs.db, .DS_Store, "**.ipynb_checkpoints","*.rst","conf.py"]
@@ -83,18 +83,18 @@ sphinx:
       use_edit_page_button: True
       use_issues_button: True         
       logo:
-           text: "<b>Free and Open Machine Learning</b>"
-      extra_footer: '<p><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a> <i>(c)Copyright 2018-2025, BM-Support.org - Maikel Mardjan. This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</i></a>.</p>'
-    epub_basename: 'Free and Open Machine Learing'
+           text: "<b>Free and Open AI/ML</b>"
+      extra_footer: '<p><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a> <i>(c)Copyright 2018-2026, BM-Support.org - Maikel Mardjan. This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</i></a>.</p>'
+    epub_basename: 'Free and Open AI/Machine Learing'
     epub_use_index: true
-    epub_description: 'Free and Open Machine Learing'
+    epub_description: 'Free and Open AI/Machine Learing'
     epub_author: 'Maikel Mardjan'
     epub_publisher: 'BM-Support.org'
-    epub_copyright: '© Copyright 2018-2025, BM-Support.org. This work is licensed under a Creative Commons Attribution-ShareAlike 4.0'
+    epub_copyright: '© Copyright 2018-2026, BM-Support.org. This work is licensed under a Creative Commons Attribution-ShareAlike 4.0'
     epub_tocdup: true
     epub_use_index: true
     epub_tocscope: includehidden
-    epub_title: 'Free and Open Machine Learing'
+    epub_title: 'Free and Open AI/Machine Learing'
     epub_show_urls: no 
 
     
